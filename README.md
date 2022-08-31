@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2022-08-31 16:46:32 Asia/Shanghai
+ Automated deployment @ 2022-08-31 16:59:30 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,3 +42,43 @@
 |**2022-08-30**|**Comments on "Time-Varying Lyapunov Functions for Tracking Control of Mechanical Systems With and Without Frictions"**|Lekan Molu et.al.|[2208.13981v1](http://arxiv.org/abs/2208.13981v1)|null|
 |**2022-08-30**|**Hints of a universal width-energy relation for classified fast radio bursts**|Di Xiao et.al.|[2208.13972v1](http://arxiv.org/abs/2208.13972v1)|null|
 |**2022-08-30**|**Multi-task learning on nuclear masses and separation energies with the kernel ridge regression**|X. H. Wu et.al.|[2208.13966v1](http://arxiv.org/abs/2208.13966v1)|null|
+
+## LHCb
+
+### X(3872)
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+
+### b hadron
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-08-29**|**A probe study of the singly charm pentaquark production in b-factory**|Xiao-Hui Hu et.al.|[2208.13874v1](http://arxiv.org/abs/2208.13874v1)|null|
+|**2022-08-24**|**Multidifferential study of identified charged hadron distributions in $Z$-tagged jets in proton-proton collisions at $\sqrt{s}=$13 TeV**|LHCb Collaboration et.al.|[2208.11691v1](http://arxiv.org/abs/2208.11691v1)|null|
+|**2022-08-22**|**From the isovector molecular explanation of the newly $T_{c\bar{s}}^{a0(++)}(2900)$ to possible charmed-strange molecular pentaquarks**|Rui Chen et.al.|[2208.10196v1](http://arxiv.org/abs/2208.10196v1)|null|
+|**2022-08-21**|**Semileptonic $B$ decays with $B$ to ${\bf B\bar B'}$ transition**|Yu-Kuo Hsiao et.al.|[2208.09917v1](http://arxiv.org/abs/2208.09917v1)|null|
+|**2022-08-16**|**Insights into the nature of the $X(3872)$ through B meson decays**|Zhi-Qing Zhang et.al.|[2208.07990v1](http://arxiv.org/abs/2208.07990v1)|null|
+|**2022-08-12**|**Probing $R$-parity violation in $B$-meson decays to a baryon and a light neutralino**|Claudio O. Dib et.al.|[2208.06421v1](http://arxiv.org/abs/2208.06421v1)|null|
+|**2022-08-11**|**Recent advances in charm mixing and $CP$ violation at LHCb**|Tommaso Pajero et.al.|[2208.05769v1](http://arxiv.org/abs/2208.05769v1)|null|
+|**2022-08-11**|**Snowmass 2021/22 Letter of Interest: A Forward Calorimeter at the LHC**|I. G. Bearden et.al.|[2208.13541v1](http://arxiv.org/abs/2208.13541v1)|null|
+|**2022-08-10**|**Weak Decays of $b$ and $c$ Quarks**|Angelo Di Canto et.al.|[2208.05403v1](http://arxiv.org/abs/2208.05403v1)|null|
+|**2022-08-10**|**Hadronic molecules composed of a doubly charmed tetraquark state and a charmed meson**|Ya-Wen Pan et.al.|[2208.05385v1](http://arxiv.org/abs/2208.05385v1)|null|
+|**2022-08-08**|**Modeling Strangeness Enhancements to resolve the Muon Excess in Cosmic Ray Extensive Air Shower Data**|Julien Manshanden et.al.|[2208.04266v1](http://arxiv.org/abs/2208.04266v1)|null|
+|**2022-08-05**|**Amplitude analysis of the $Λ^+_c\to pK^-π^+$ decay and $Λ^+_c$ baryon polarization measurement in semileptonic beauty hadron decays**|LHCb collaboration et.al.|[2208.03262v1](http://arxiv.org/abs/2208.03262v1)|null|
+|**2022-08-05**|**$C\!P$ violation in $B$ mesons**|Daniele Manuzzi et.al.|[2208.03151v1](http://arxiv.org/abs/2208.03151v1)|null|
+|**2022-07-29**|**Summary of Topical Group on Hadron Spectroscopy (RF07) Rare Processes and Precision Frontier of Snowmass 2021**|R. F. Lebed et.al.|[2207.14594v2](http://arxiv.org/abs/2207.14594v2)|null|
+|**2022-07-27**|**Standard Model predictions for $B\to K\ell^+\ell^-$, $B\to K\ell_1^- \ell_2^+$ and $B\to Kν\barν$ using form factors from $N_f=2+1+1$ lattice QCD**|W. G. Parrott et.al.|[2207.13371v1](http://arxiv.org/abs/2207.13371v1)|null|
+|**2022-07-26**|**LHCb's Forward Tracking algorithm for the Run 3 CPU-based online track-reconstruction sequence**|Paul Andre Günther et.al.|[2207.12965v1](http://arxiv.org/abs/2207.12965v1)|null|
+|**2022-07-26**|**$X$ and $Z_{cs}$ in $B^+\to J/ψφK^+$ as $s$-wave threshold cusps and alternative spin-parity assignments to $X(4274)$ and $X(4500)$**|Xuan Luo et.al.|[2207.12875v1](http://arxiv.org/abs/2207.12875v1)|null|
+|**2022-07-25**|**Production rates of $D_{s}^{+}D_{s}^{-}$ and $D\bar{D}$ molecules in $B$ decays**|Jia-Ming Xie et.al.|[2207.12178v1](http://arxiv.org/abs/2207.12178v1)|null|
+|**2022-07-22**|**High precision in CKM unitarity tests in $b$ and $c$ decays**|Alexander Lenz et.al.|[2207.11055v1](http://arxiv.org/abs/2207.11055v1)|null|
+|**2022-07-21**|**Effective-theory description of heavy-flavored hadrons and their properties in a hot medium**|Glòria Montaña et.al.|[2207.10752v1](http://arxiv.org/abs/2207.10752v1)|null|
+|**2022-07-20**|**Possibility of $T_{c\bar{s}}(2900)$ as the resonance-like structure induced by threshold effects**|Ying-Hui Ge et.al.|[2207.09900v1](http://arxiv.org/abs/2207.09900v1)|null|
+|**2022-07-18**|**Establishing the heavy quark spin and light flavor molecular multiplets of the $X(3872)$, $Z_c(3900)$ and $X(3960)$**|Teng Ji et.al.|[2207.08563v1](http://arxiv.org/abs/2207.08563v1)|null|
+|**2022-07-15**|**New strange pentaquarks**|Marek Karliner et.al.|[2207.07581v1](http://arxiv.org/abs/2207.07581v1)|null|
+|**2022-07-15**|**Rare B decays and Lepton Flavour Non Universality tests at LHCb**|Silvia Ferreres-Solé et.al.|[2207.07471v1](http://arxiv.org/abs/2207.07471v1)|null|
+|**2022-07-08**|**Search by triplet: An efficient local track reconstruction algorithm for parallel architectures**|Daniel Hugo Cámpora Pérez et.al.|[2207.03936v2](http://arxiv.org/abs/2207.03936v2)|null|
+|**2022-07-06**|**Discovery of $T_{c\bar s 0}^a(2900)^{0,++}$ implies new charmed-strange pentaquark system**|Hong-Tao An et.al.|[2207.02813v2](http://arxiv.org/abs/2207.02813v2)|null|
+|**2022-06-30**|**Exotic hadron naming convention**|LHCb collaboration et.al.|[2206.15233v1](http://arxiv.org/abs/2206.15233v1)|null|
+|**2022-06-24**|**$Λ_b \to Λ_c$ Form Factors from QCD Light-Cone Sum Rules**|Yan Miao et.al.|[2206.12189v1](http://arxiv.org/abs/2206.12189v1)|null|
+|**2022-06-22**|**Rare decays of b and c hadrons**|Wolfgang Altmannshofer et.al.|[2206.11331v2](http://arxiv.org/abs/2206.11331v2)|null|
+|**2022-06-22**|**Implications for the $ΔA_{FB}$ anomaly in ${\bar B}^0\to D^{*+}\ell^- {\barν}$ using a new Monte Carlo Event Generator**|Bhubanjyoti Bhattacharya et.al.|[2206.11283v2](http://arxiv.org/abs/2206.11283v2)|[link](https://github.com/qdcampagna/BTODSTARLNUNP_EVTGEN_Model)|
