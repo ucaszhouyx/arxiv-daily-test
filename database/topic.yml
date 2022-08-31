@@ -2,7 +2,6 @@
 
 
 "LHCb":
-  "b hadron": '("LHCb")AND("b hadrons")'
   "X(3872)": '("LHCb")AND("3872")'
-  "rare decay": '("LHCb")AND("FCNC")'
+  "rare decay": '("LHCb")AND("rare decay")'
   
