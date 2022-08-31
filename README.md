@@ -1,9 +1,37 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2022-08-31 17:03:01 Asia/Shanghai
+ Automated deployment @ 2022-08-31 17:05:13 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
 ## LHCb
+
+### rare decay
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-06-03**|**Bottomed baryon decays with invisible Majorana fermions**|Geng Li et.al.|[2206.01575v1](http://arxiv.org/abs/2206.01575v1)|null|
+|**2022-05-27**|**Analysis of FCNC $Ξ_{QQ} \to Λ_Q l^+ l^-$ decay in light-cone sum rules**|T. M. Aliev et.al.|[2205.14012v3](http://arxiv.org/abs/2205.14012v3)|null|
+|**2022-03-14**|**A New Tool for Detecting BSM Physics in $B \to K^* \ell \ell$ Decays**|A. Sibidanov et.al.|[2203.06827v2](http://arxiv.org/abs/2203.06827v2)|null|
+|**2018-11-08**|**Recent developments on direct $CP$ violation in the kaon system and connection to $K \to πν\barν$ measurements**|Teppei Kitahara et.al.|[1811.03332v1](http://arxiv.org/abs/1811.03332v1)|null|
+|**2018-03-15**|**Predictions of Angular Observables for $\bar{B}_s\to K^{\ast}\ell\ell$ and $\bar{B}\to ρ\ell\ell$ in Standard Model**|Bharti Kindra et.al.|[1803.05876v3](http://arxiv.org/abs/1803.05876v3)|null|
+|**2017-07-03**|**Interpreting the $R_{K^{(*)}}$ Anomaly in the Colored Zee-Babu Model**|Shu-Yuan Guo et.al.|[1707.00522v4](http://arxiv.org/abs/1707.00522v4)|null|
+|**2017-03-28**|**LHCb anomaly in $\boldsymbol{B\to K^*μ^+ μ^-}$ optimised observables and potential of $\boldsymbol{Z^\prime}$ Model**|Ishtiaq Ahmed et.al.|[1703.09627v2](http://arxiv.org/abs/1703.09627v2)|null|
+|**2017-03-18**|**Constraints and Implications on Higgs FCNC Couplings from Precision Measurement of $B_s \to μ^+μ^-$ Decay**|Cheng-Wei Chiang et.al.|[1703.06289v3](http://arxiv.org/abs/1703.06289v3)|null|
+|**2016-08-25**|**Constraining Flavor Changing Interactions from LHC Run-2 Dilepton Bounds with Vector Mediators**|Farinaldo S. Queiroz et.al.|[1608.07295v2](http://arxiv.org/abs/1608.07295v2)|null|
+|**2016-01-27**|**A $Z^\prime$ Model for $b\to s \ell\bar \ell$ Flavour Anomalies**|Cheng-Wei Chiang et.al.|[1601.07328v2](http://arxiv.org/abs/1601.07328v2)|null|
+|**2015-12-30**|**Z'-induced FCNC decays of top, beauty and strange quarks**|Kaori Fuyuto et.al.|[1512.09026v2](http://arxiv.org/abs/1512.09026v2)|null|
+|**2015-12-07**|**Scalar doublet models confront $τ$ and $b$ anomalies**|James M. Cline et.al.|[1512.02210v3](http://arxiv.org/abs/1512.02210v3)|null|
+|**2015-06-12**|**Lepton polarization asymmetries for FCNC decays of the $Λ_b$ baryon**|L. Mott et.al.|[1506.04106v1](http://arxiv.org/abs/1506.04106v1)|null|
+|**2014-08-22**|**Rare FCNC top, beauty and charm decays**|Thomas Blake et.al.|[1408.5393v1](http://arxiv.org/abs/1408.5393v1)|null|
+|**2014-08-07**|**$R_K$ and future $b \to s \ell \ell$ BSM opportunities**|Gudrun Hiller et.al.|[1408.1627v1](http://arxiv.org/abs/1408.1627v1)|null|
+|**2013-09-10**|**Left-handed Z' and Z FCNC quark couplings facing new b -> s mu^+ mu^- data**|Andrzej J. Buras et.al.|[1309.2466v3](http://arxiv.org/abs/1309.2466v3)|null|
+|**2013-03-15**|**Probing New Physics with the B_s to μ+ μ- Time-Dependent Rate**|Andrzej J. Buras et.al.|[1303.3820v2](http://arxiv.org/abs/1303.3820v2)|null|
+|**2012-11-08**|**The Anatomy of Z' and Z with Flavour Changing Neutral Currents in the Flavour Precision Era**|Andrzej J. Buras et.al.|[1211.1896v3](http://arxiv.org/abs/1211.1896v3)|null|
+|**2011-12-12**|**Anomalous $tqZ$ coupling effects in rare B- and K-meson decays**|Xin-Qiang Li et.al.|[1112.2674v2](http://arxiv.org/abs/1112.2674v2)|null|
+|**2011-11-22**|**Can Up FCNC solve the $ΔA_{CP}$ puzzle?**|Kai Wang et.al.|[1111.5196v1](http://arxiv.org/abs/1111.5196v1)|null|
+|**2011-05-02**|**Anomalous $tqγ$ coupling effects in exclusive radiative B-meson decays**|Xin-Qiang Li et.al.|[1105.0364v2](http://arxiv.org/abs/1105.0364v2)|null|
+|**2011-01-31**|**On $D\to X_u l^+ l^-$ within the Standard Model and Frameworks like the Littlest Higgs Model with T Parity**|Ayan Paul et.al.|[1101.6053v3](http://arxiv.org/abs/1101.6053v3)|null|
+|**2008-04-08**|**Signature of new physics in B -> phi pi decay**|B. Mawlong et.al.|[0804.1231v3](http://arxiv.org/abs/0804.1231v3)|null|
+|**2007-09-18**|**FCNC $B_s$ and $Λ_b$ transitions: Standard Model versus a single Universal Extra Dimension scenario**|P. Colangelo et.al.|[0709.2817v2](http://arxiv.org/abs/0709.2817v2)|null|
 
 ### b hadron
 |Publish Date|Title|Authors|PDF|Code|
