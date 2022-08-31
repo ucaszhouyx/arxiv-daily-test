@@ -316,10 +316,10 @@ class _OverloadTasks:
                 f.write(i)
 
     def generate_markdown_template(self, content: str):
-        _project = f"# arxiv-daily\n"
+        _project = f"# arxiv-weekly for hep-ex \n"
         _pin = f" Automated deployment @ {self.update_time} Asia/Shanghai\n"
         _tos = (
-            "> Weekly update on the Hep-exp arxiv paper \n"
+            "> (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper \n"
         )
         _tos += (
             "> You can also view historical data through the "
