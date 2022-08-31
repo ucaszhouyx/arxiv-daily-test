@@ -1,9 +1,7 @@
-"hep-ex":
-  "b-hadrons": '"b hadrons"AND"lhcb"'
-  "X(3872)": '"3872"AND"lhcb"'
+
 
 
 "LHCb":
   "b hadron": '("LHCb")AND("b hadrons")'
-  "X(3872)": '"X3872"'
+  "X(3872)": '("LHCb")AND("3872")'
   
