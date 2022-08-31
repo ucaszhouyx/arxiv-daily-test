@@ -1,7 +1,7 @@
 # arxiv-daily
- Automated deployment @ 2022-08-31 13:06:55 Asia/Shanghai
-> Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
-> You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
+ Automated deployment @ 2022-08-31 13:21:21 Asia/Shanghai
+> Weekly update on the Hep-exp arxiv paper 
+> You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
 ## High Energy Physics
 
