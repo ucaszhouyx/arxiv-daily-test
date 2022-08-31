@@ -1,4 +1,4 @@
 "hep-ex":
   "b-hadrons": '"cat:Physics"AND"all:b-hadrons"'
-  "X(3872)": 'cat:Physics"AND"all:X3872"'
+  "X(3872)": 'au:del_maestro+AND+ti:checkerboard'
 
