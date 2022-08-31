@@ -1,11 +1,11 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2022-08-31 15:55:20 Asia/Shanghai
+ Automated deployment @ 2022-08-31 15:57:21 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
 ## hep-ex
 
-### b-hadrons hep-ex
+### b-hadrons
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-08-30**|**The massless three-loop Wilson coefficients for the deep-inelastic structure functions $F_2, F_L, xF_3$ and $g_1$**|J. Blümlein et.al.|[2208.14325v1](http://arxiv.org/abs/2208.14325v1)|null|
