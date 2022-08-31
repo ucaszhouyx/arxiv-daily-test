@@ -1,6 +1,6 @@
-# arxiv-daily
- Automated deployment @ 2022-08-31 13:25:28 Asia/Shanghai
-> Weekly update on the Hep-exp arxiv paper 
+# arxiv-weekly for hep-ex 
+ Automated deployment @ 2022-08-31 13:34:14 Asia/Shanghai
+> (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
 ## High Energy Physics
