@@ -1,4 +1,4 @@
 "hep-ex":
-  "b-hadrons": '"b-hadrons Physics"'
-  "X(3872)": '"X3872 Physics"'
+  "b-hadrons": '"cat:Physics"AND"b-hadrons"'
+  "X(3872)": 'cat:Physics"AND"x3872"'
 
