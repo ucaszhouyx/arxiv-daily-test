@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2022-09-01 09:14:29 Asia/Shanghai
+ Automated deployment @ 2022-09-02 09:20:53 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -8,6 +8,8 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-31**|**Molecular $Ω_{cc}$ , $Ω_{bb}$ and $Ω_{bc}$ states**|Wen-Fei Wang et.al.|[2208.14858v1](http://arxiv.org/abs/2208.14858v1)|null|
+|**2022-08-30**|**Study of the $b \to d \ell\ell$ transitions in the Standard Model and test of New Physics sensitivities**|Aritra Biswas et.al.|[2208.14463v1](http://arxiv.org/abs/2208.14463v1)|null|
 |**2022-08-23**|**Estimates for rare three-body decays of the Omega baryon using chiral symmetry and the $ΔI = 1/2$ rule**|Stefan Leupold et.al.|[2208.11078v1](http://arxiv.org/abs/2208.11078v1)|null|
 |**2022-08-21**|**Semileptonic $B$ decays with $B$ to ${\bf B\bar B'}$ transition**|Yu-Kuo Hsiao et.al.|[2208.09917v1](http://arxiv.org/abs/2208.09917v1)|null|
 |**2022-08-18**|**Study of $B_c^+$ meson decays to charmonia plus multihadron final states**|LHCb Collaboration et.al.|[2208.08660v1](http://arxiv.org/abs/2208.08660v1)|null|
@@ -36,8 +38,6 @@
 |**2022-07-21**|**Effective-theory description of heavy-flavored hadrons and their properties in a hot medium**|Glòria Montaña et.al.|[2207.10752v1](http://arxiv.org/abs/2207.10752v1)|null|
 |**2022-07-18**|**A $U$-Spin Anomaly in Charm CP Violation**|Stefan Schacht et.al.|[2207.08539v2](http://arxiv.org/abs/2207.08539v2)|null|
 |**2022-07-18**|**The $X(3960)$ seen in $D_{s}^{+} D_{s}^{-}$ as the $X(3930)$ state seen in $ D^{+} D^{-} $**|M. Bayar et.al.|[2207.08490v1](http://arxiv.org/abs/2207.08490v1)|null|
-|**2022-07-15**|**Rare B decays and Lepton Flavour Non Universality tests at LHCb**|Silvia Ferreres-Solé et.al.|[2207.07471v1](http://arxiv.org/abs/2207.07471v1)|null|
-|**2022-07-08**|**Search for the lepton-flavour violating decays $B^0 \to K^{*0} μ^\pm e^\mp$ and $B_s^0 \to φμ^\pm e^\mp$**|LHCb collaboration et.al.|[2207.04005v1](http://arxiv.org/abs/2207.04005v1)|null|
 
 ### X(3872)
 |Publish Date|Title|Authors|PDF|Code|
