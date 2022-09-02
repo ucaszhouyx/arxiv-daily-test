@@ -4,4 +4,4 @@
 "LHCb":
   "X(3872)": '("LHCb")AND("3872")'
   "rare decay": '("LHCb")AND("rare decay")'
-  
+  "b baryon": '("LHCb")AND("b baryon")'
