@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2022-09-15 09:28:01 Asia/Shanghai
+ Automated deployment @ 2022-09-15 12:00:13 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-13**|**Taming the long distance effects in the $D^{+}_{s}\rightarrow π^{+}\ell^{-}\ell^{+}$ decay**|Marxil Sánchez et.al.|[2209.06283v1](http://arxiv.org/abs/2209.06283v1)|null|
 |**2022-09-10**|**Vector singlet leptoquark model facing recent LHCb and BABAR measurements**|Cristian H. García-Duque et.al.|[2209.04753v1](http://arxiv.org/abs/2209.04753v1)|null|
 |**2022-09-09**|**Model-independent analysis of $b\to d$ processes**|Rigo Bause et.al.|[2209.04457v1](http://arxiv.org/abs/2209.04457v1)|null|
 |**2022-09-08**|**Measurement of the CKM angle $γ$ with $ B^\pm \to D[K^\mp π^\pm π^\pm π^\mp] h^\pm$ decays using a binned phase-space approach**|LHCb collaboration et.al.|[2209.03692v1](http://arxiv.org/abs/2209.03692v1)|null|
@@ -71,7 +72,6 @@
 |**2022-08-05**|**$C\!P$ violation in $B$ mesons**|Daniele Manuzzi et.al.|[2208.03151v1](http://arxiv.org/abs/2208.03151v1)|null|
 |**2022-08-03**|**A new method for the $q^2$ reconstruction in semileptonic decays at LHCb based on machine learning**|Panting Ge et.al.|[2208.02145v1](http://arxiv.org/abs/2208.02145v1)|null|
 |**2022-08-02**|**Probing hyperon CP violation from charmed baryon decays**|Jian-Peng Wang et.al.|[2208.01589v2](http://arxiv.org/abs/2208.01589v2)|null|
-|**2022-08-01**|**Rare radiative $Ξ^{-}_{b}\to Ξ^-γ$ decay in the relativistic quark model**|A. O. Davydov et.al.|[2208.00833v1](http://arxiv.org/abs/2208.00833v1)|null|
 
 ### X(3872)
 |Publish Date|Title|Authors|PDF|Code|
