@@ -1,43 +1,9 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2022-09-16 08:47:00 Asia/Shanghai
+ Automated deployment @ 2022-09-16 11:38:08 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
 ## LHCb
-
-### rare decay
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-09-13**|**Taming the long distance effects in the $D^{+}_{s}\rightarrow π^{+}\ell^{-}\ell^{+}$ decay**|Marxil Sánchez et.al.|[2209.06283v1](http://arxiv.org/abs/2209.06283v1)|null|
-|**2022-09-10**|**Vector singlet leptoquark model facing recent LHCb and BABAR measurements**|Cristian H. García-Duque et.al.|[2209.04753v1](http://arxiv.org/abs/2209.04753v1)|null|
-|**2022-09-09**|**Model-independent analysis of $b\to d$ processes**|Rigo Bause et.al.|[2209.04457v1](http://arxiv.org/abs/2209.04457v1)|null|
-|**2022-09-08**|**Measurement of the CKM angle $γ$ with $ B^\pm \to D[K^\mp π^\pm π^\pm π^\mp] h^\pm$ decays using a binned phase-space approach**|LHCb collaboration et.al.|[2209.03692v1](http://arxiv.org/abs/2209.03692v1)|null|
-|**2022-09-07**|**A new approach to semi-leptonic tags in $B$-meson semi-invisible decays**|Gaetano de Marino et.al.|[2209.03387v1](http://arxiv.org/abs/2209.03387v1)|null|
-|**2022-09-07**|**(In)Visible signatures of the minimal dark abelian gauge sector**|Ana Luisa Foguel et.al.|[2209.03383v1](http://arxiv.org/abs/2209.03383v1)|null|
-|**2022-09-07**|**Measurement of the time-integrated $C\!P$ asymmetry in $D^0\to K^- K^+$ decays**|LHCb collaboration et.al.|[2209.03179v1](http://arxiv.org/abs/2209.03179v1)|null|
-|**2022-09-06**|**Coupling Constant $g_{Λ_{b}B_{s}Λ}$ using the Baryonic $\bar{B}^{0}_{s}\rightarrow p\barΛ K^{-}$ Decay**|S. Rafibakhsh et.al.|[2209.02423v1](http://arxiv.org/abs/2209.02423v1)|null|
-|**2022-09-06**|**The Forward-Backward Asymmetry induced $CP$ Asymmetry of $B^{\pm}\rightarrow π^{\pm}π^{+}π^{-}$**|Ya-Rui Wei et.al.|[2209.02348v1](http://arxiv.org/abs/2209.02348v1)|null|
-|**2022-09-05**|**Enhanced $B_q \to \ell\ell^\prime$ and $B \to (K, π) \ell\ell^\prime$ in light of $(g-2)_μ$**|Wei-Shu Hou et.al.|[2209.02086v1](http://arxiv.org/abs/2209.02086v1)|null|
-|**2022-09-05**|**Searching for tetraquark through weak decays of b-baryons**|Fei Huang et.al.|[2209.01716v2](http://arxiv.org/abs/2209.01716v2)|null|
-|**2022-09-01**|**Heavy-Flavor-Conserving Hadronic Weak Decays of Charmed and Bottom Baryons: an Update**|Hai-Yang Cheng et.al.|[2209.00257v1](http://arxiv.org/abs/2209.00257v1)|null|
-|**2022-08-31**|**Molecular $Ω_{cc}$ , $Ω_{bb}$ and $Ω_{bc}$ states**|Wen-Fei Wang et.al.|[2208.14858v1](http://arxiv.org/abs/2208.14858v1)|null|
-|**2022-08-30**|**Study of the $b \to d \ell\ell$ transitions in the Standard Model and test of New Physics sensitivities**|Aritra Biswas et.al.|[2208.14463v1](http://arxiv.org/abs/2208.14463v1)|null|
-|**2022-08-23**|**Estimates for rare three-body decays of the Omega baryon using chiral symmetry and the $ΔI = 1/2$ rule**|Stefan Leupold et.al.|[2208.11078v1](http://arxiv.org/abs/2208.11078v1)|null|
-|**2022-08-21**|**Semileptonic $B$ decays with $B$ to ${\bf B\bar B'}$ transition**|Yu-Kuo Hsiao et.al.|[2208.09917v1](http://arxiv.org/abs/2208.09917v1)|null|
-|**2022-08-18**|**Study of $B_c^+$ meson decays to charmonia plus multihadron final states**|LHCb Collaboration et.al.|[2208.08660v1](http://arxiv.org/abs/2208.08660v1)|null|
-|**2022-08-16**|**Insights into the nature of the $X(3872)$ through B meson decays**|Zhi-Qing Zhang et.al.|[2208.07990v1](http://arxiv.org/abs/2208.07990v1)|null|
-|**2022-08-12**|**Model-independent measurement of charm mixing parameters in $\bar{B} \rightarrow D^0 ( \rightarrow K_S^0 π^+ π^-) μ^- \barν_μX$ decays**|LHCb Collaboration et.al.|[2208.06512v2](http://arxiv.org/abs/2208.06512v2)|null|
-|**2022-08-12**|**Probing $R$-parity violation in $B$-meson decays to a baryon and a light neutralino**|Claudio O. Dib et.al.|[2208.06421v1](http://arxiv.org/abs/2208.06421v1)|null|
-|**2022-08-11**|**Recent advances in charm mixing and $CP$ violation at LHCb**|Tommaso Pajero et.al.|[2208.05769v1](http://arxiv.org/abs/2208.05769v1)|null|
-|**2022-08-10**|**Weak Decays of $b$ and $c$ Quarks**|Angelo Di Canto et.al.|[2208.05403v1](http://arxiv.org/abs/2208.05403v1)|null|
-|**2022-08-10**|**The LHCb state $P_{ψs}^Λ(4338)$ as a triangle singularity**|T. J. Burns et.al.|[2208.05106v1](http://arxiv.org/abs/2208.05106v1)|null|
-|**2022-08-08**|**The double thresholds distort the lineshapes of the $P_{ψ s}^Λ(4338)^0$ resonance**|Lu Meng et.al.|[2208.03883v1](http://arxiv.org/abs/2208.03883v1)|null|
-|**2022-08-05**|**Amplitude analysis of the $D^+\toπ^- π^+π^+$ decay and measurement of the $π^-π^+$ S-wave amplitude**|LHCb Collaboration et.al.|[2208.03300v2](http://arxiv.org/abs/2208.03300v2)|null|
-|**2022-08-05**|**Amplitude analysis of the $Λ^+_c\to pK^-π^+$ decay and $Λ^+_c$ baryon polarization measurement in semileptonic beauty hadron decays**|LHCb collaboration et.al.|[2208.03262v1](http://arxiv.org/abs/2208.03262v1)|null|
-|**2022-08-05**|**Mixing and $CP$ violation in Charm deacys at LHCb**|Roberto Ribatti et.al.|[2208.03240v1](http://arxiv.org/abs/2208.03240v1)|null|
-|**2022-08-05**|**$C\!P$ violation in $B$ mesons**|Daniele Manuzzi et.al.|[2208.03151v1](http://arxiv.org/abs/2208.03151v1)|null|
-|**2022-08-03**|**A new method for the $q^2$ reconstruction in semileptonic decays at LHCb based on machine learning**|Panting Ge et.al.|[2208.02145v1](http://arxiv.org/abs/2208.02145v1)|null|
-|**2022-08-02**|**Probing hyperon CP violation from charmed baryon decays**|Jian-Peng Wang et.al.|[2208.01589v2](http://arxiv.org/abs/2208.01589v2)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
@@ -106,3 +72,37 @@
 |**2019-07-22**|**Determination of the absolute branching fractions of X(3872) decays**|Chunhua Li et.al.|[1907.09149v2](http://arxiv.org/abs/1907.09149v2)|null|
 |**2019-07-01**|**Observation of the $Λ_b^0\rightarrow χ_{c1}(3872)pK^-$ decay**|LHCb collaboration et.al.|[1907.00954v3](http://arxiv.org/abs/1907.00954v3)|null|
 |**2019-06-20**|**Deciphering the $X(3872)$ via its polarization in prompt production at the CERN LHC**|Mathias Butenschoen et.al.|[1906.08553v2](http://arxiv.org/abs/1906.08553v2)|null|
+
+### rare decay
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-09-13**|**Taming the long distance effects in the $D^{+}_{s}\rightarrow π^{+}\ell^{-}\ell^{+}$ decay**|Marxil Sánchez et.al.|[2209.06283v1](http://arxiv.org/abs/2209.06283v1)|null|
+|**2022-09-10**|**Vector singlet leptoquark model facing recent LHCb and BABAR measurements**|Cristian H. García-Duque et.al.|[2209.04753v1](http://arxiv.org/abs/2209.04753v1)|null|
+|**2022-09-09**|**Model-independent analysis of $b\to d$ processes**|Rigo Bause et.al.|[2209.04457v1](http://arxiv.org/abs/2209.04457v1)|null|
+|**2022-09-08**|**Measurement of the CKM angle $γ$ with $ B^\pm \to D[K^\mp π^\pm π^\pm π^\mp] h^\pm$ decays using a binned phase-space approach**|LHCb collaboration et.al.|[2209.03692v1](http://arxiv.org/abs/2209.03692v1)|null|
+|**2022-09-07**|**A new approach to semi-leptonic tags in $B$-meson semi-invisible decays**|Gaetano de Marino et.al.|[2209.03387v1](http://arxiv.org/abs/2209.03387v1)|null|
+|**2022-09-07**|**(In)Visible signatures of the minimal dark abelian gauge sector**|Ana Luisa Foguel et.al.|[2209.03383v1](http://arxiv.org/abs/2209.03383v1)|null|
+|**2022-09-07**|**Measurement of the time-integrated $C\!P$ asymmetry in $D^0\to K^- K^+$ decays**|LHCb collaboration et.al.|[2209.03179v1](http://arxiv.org/abs/2209.03179v1)|null|
+|**2022-09-06**|**Coupling Constant $g_{Λ_{b}B_{s}Λ}$ using the Baryonic $\bar{B}^{0}_{s}\rightarrow p\barΛ K^{-}$ Decay**|S. Rafibakhsh et.al.|[2209.02423v1](http://arxiv.org/abs/2209.02423v1)|null|
+|**2022-09-06**|**The Forward-Backward Asymmetry induced $CP$ Asymmetry of $B^{\pm}\rightarrow π^{\pm}π^{+}π^{-}$**|Ya-Rui Wei et.al.|[2209.02348v1](http://arxiv.org/abs/2209.02348v1)|null|
+|**2022-09-05**|**Enhanced $B_q \to \ell\ell^\prime$ and $B \to (K, π) \ell\ell^\prime$ in light of $(g-2)_μ$**|Wei-Shu Hou et.al.|[2209.02086v1](http://arxiv.org/abs/2209.02086v1)|null|
+|**2022-09-05**|**Searching for tetraquark through weak decays of b-baryons**|Fei Huang et.al.|[2209.01716v2](http://arxiv.org/abs/2209.01716v2)|null|
+|**2022-09-01**|**Heavy-Flavor-Conserving Hadronic Weak Decays of Charmed and Bottom Baryons: an Update**|Hai-Yang Cheng et.al.|[2209.00257v1](http://arxiv.org/abs/2209.00257v1)|null|
+|**2022-08-31**|**Molecular $Ω_{cc}$ , $Ω_{bb}$ and $Ω_{bc}$ states**|Wen-Fei Wang et.al.|[2208.14858v1](http://arxiv.org/abs/2208.14858v1)|null|
+|**2022-08-30**|**Study of the $b \to d \ell\ell$ transitions in the Standard Model and test of New Physics sensitivities**|Aritra Biswas et.al.|[2208.14463v1](http://arxiv.org/abs/2208.14463v1)|null|
+|**2022-08-23**|**Estimates for rare three-body decays of the Omega baryon using chiral symmetry and the $ΔI = 1/2$ rule**|Stefan Leupold et.al.|[2208.11078v1](http://arxiv.org/abs/2208.11078v1)|null|
+|**2022-08-21**|**Semileptonic $B$ decays with $B$ to ${\bf B\bar B'}$ transition**|Yu-Kuo Hsiao et.al.|[2208.09917v1](http://arxiv.org/abs/2208.09917v1)|null|
+|**2022-08-18**|**Study of $B_c^+$ meson decays to charmonia plus multihadron final states**|LHCb Collaboration et.al.|[2208.08660v1](http://arxiv.org/abs/2208.08660v1)|null|
+|**2022-08-16**|**Insights into the nature of the $X(3872)$ through B meson decays**|Zhi-Qing Zhang et.al.|[2208.07990v1](http://arxiv.org/abs/2208.07990v1)|null|
+|**2022-08-12**|**Model-independent measurement of charm mixing parameters in $\bar{B} \rightarrow D^0 ( \rightarrow K_S^0 π^+ π^-) μ^- \barν_μX$ decays**|LHCb Collaboration et.al.|[2208.06512v2](http://arxiv.org/abs/2208.06512v2)|null|
+|**2022-08-12**|**Probing $R$-parity violation in $B$-meson decays to a baryon and a light neutralino**|Claudio O. Dib et.al.|[2208.06421v1](http://arxiv.org/abs/2208.06421v1)|null|
+|**2022-08-11**|**Recent advances in charm mixing and $CP$ violation at LHCb**|Tommaso Pajero et.al.|[2208.05769v1](http://arxiv.org/abs/2208.05769v1)|null|
+|**2022-08-10**|**Weak Decays of $b$ and $c$ Quarks**|Angelo Di Canto et.al.|[2208.05403v1](http://arxiv.org/abs/2208.05403v1)|null|
+|**2022-08-10**|**The LHCb state $P_{ψs}^Λ(4338)$ as a triangle singularity**|T. J. Burns et.al.|[2208.05106v1](http://arxiv.org/abs/2208.05106v1)|null|
+|**2022-08-08**|**The double thresholds distort the lineshapes of the $P_{ψ s}^Λ(4338)^0$ resonance**|Lu Meng et.al.|[2208.03883v1](http://arxiv.org/abs/2208.03883v1)|null|
+|**2022-08-05**|**Amplitude analysis of the $D^+\toπ^- π^+π^+$ decay and measurement of the $π^-π^+$ S-wave amplitude**|LHCb Collaboration et.al.|[2208.03300v2](http://arxiv.org/abs/2208.03300v2)|null|
+|**2022-08-05**|**Amplitude analysis of the $Λ^+_c\to pK^-π^+$ decay and $Λ^+_c$ baryon polarization measurement in semileptonic beauty hadron decays**|LHCb collaboration et.al.|[2208.03262v1](http://arxiv.org/abs/2208.03262v1)|null|
+|**2022-08-05**|**Mixing and $CP$ violation in Charm deacys at LHCb**|Roberto Ribatti et.al.|[2208.03240v1](http://arxiv.org/abs/2208.03240v1)|null|
+|**2022-08-05**|**$C\!P$ violation in $B$ mesons**|Daniele Manuzzi et.al.|[2208.03151v1](http://arxiv.org/abs/2208.03151v1)|null|
+|**2022-08-03**|**A new method for the $q^2$ reconstruction in semileptonic decays at LHCb based on machine learning**|Panting Ge et.al.|[2208.02145v1](http://arxiv.org/abs/2208.02145v1)|null|
+|**2022-08-02**|**Probing hyperon CP violation from charmed baryon decays**|Jian-Peng Wang et.al.|[2208.01589v2](http://arxiv.org/abs/2208.01589v2)|null|
