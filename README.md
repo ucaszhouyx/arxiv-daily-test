@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2022-09-18 11:36:49 Asia/Shanghai
+ Automated deployment @ 2022-09-19 08:44:37 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -29,7 +29,7 @@
 |**2022-08-12**|**Model-independent measurement of charm mixing parameters in $\bar{B} \rightarrow D^0 ( \rightarrow K_S^0 π^+ π^-) μ^- \barν_μX$ decays**|LHCb Collaboration et.al.|[2208.06512v2](http://arxiv.org/abs/2208.06512v2)|null|
 |**2022-08-12**|**Probing $R$-parity violation in $B$-meson decays to a baryon and a light neutralino**|Claudio O. Dib et.al.|[2208.06421v1](http://arxiv.org/abs/2208.06421v1)|null|
 |**2022-08-11**|**Recent advances in charm mixing and $CP$ violation at LHCb**|Tommaso Pajero et.al.|[2208.05769v1](http://arxiv.org/abs/2208.05769v1)|null|
-|**2022-08-10**|**Weak Decays of $b$ and $c$ Quarks**|Angelo Di Canto et.al.|[2208.05403v1](http://arxiv.org/abs/2208.05403v1)|null|
+|**2022-08-10**|**Weak Decays of $b$ and $c$ Quarks**|Angelo Di Canto et.al.|[2208.05403v2](http://arxiv.org/abs/2208.05403v2)|null|
 |**2022-08-10**|**The LHCb state $P_{ψs}^Λ(4338)$ as a triangle singularity**|T. J. Burns et.al.|[2208.05106v1](http://arxiv.org/abs/2208.05106v1)|null|
 |**2022-08-08**|**The double thresholds distort the lineshapes of the $P_{ψ s}^Λ(4338)^0$ resonance**|Lu Meng et.al.|[2208.03883v1](http://arxiv.org/abs/2208.03883v1)|null|
 |**2022-08-05**|**Amplitude analysis of the $D^+\toπ^- π^+π^+$ decay and measurement of the $π^-π^+$ S-wave amplitude**|LHCb Collaboration et.al.|[2208.03300v2](http://arxiv.org/abs/2208.03300v2)|null|
@@ -58,7 +58,7 @@
 |**2022-08-12**|**Probing $R$-parity violation in $B$-meson decays to a baryon and a light neutralino**|Claudio O. Dib et.al.|[2208.06421v1](http://arxiv.org/abs/2208.06421v1)|null|
 |**2022-08-11**|**Recent advances in charm mixing and $CP$ violation at LHCb**|Tommaso Pajero et.al.|[2208.05769v1](http://arxiv.org/abs/2208.05769v1)|null|
 |**2022-08-11**|**Snowmass 2021/22 Letter of Interest: A Forward Calorimeter at the LHC**|I. G. Bearden et.al.|[2208.13541v1](http://arxiv.org/abs/2208.13541v1)|null|
-|**2022-08-10**|**Weak Decays of $b$ and $c$ Quarks**|Angelo Di Canto et.al.|[2208.05403v1](http://arxiv.org/abs/2208.05403v1)|null|
+|**2022-08-10**|**Weak Decays of $b$ and $c$ Quarks**|Angelo Di Canto et.al.|[2208.05403v2](http://arxiv.org/abs/2208.05403v2)|null|
 |**2022-08-10**|**Hadronic molecules composed of a doubly charmed tetraquark state and a charmed meson**|Ya-Wen Pan et.al.|[2208.05385v1](http://arxiv.org/abs/2208.05385v1)|null|
 |**2022-08-10**|**The LHCb state $P_{ψs}^Λ(4338)$ as a triangle singularity**|T. J. Burns et.al.|[2208.05106v1](http://arxiv.org/abs/2208.05106v1)|null|
 |**2022-08-05**|**Amplitude analysis of the $Λ^+_c\to pK^-π^+$ decay and $Λ^+_c$ baryon polarization measurement in semileptonic beauty hadron decays**|LHCb collaboration et.al.|[2208.03262v1](http://arxiv.org/abs/2208.03262v1)|null|
