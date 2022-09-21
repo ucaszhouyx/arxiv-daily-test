@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2022-09-21 08:48:21 Asia/Shanghai
+ Automated deployment @ 2022-09-21 11:39:05 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -8,6 +8,8 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-20**|**Search for the lepton-flavour violating decays $B^0 \to K^{*0} τ^\pm μ^\mp$**|LHCb collaboration et.al.|[2209.09846v1](http://arxiv.org/abs/2209.09846v1)|null|
+|**2022-09-20**|**Amplitude analysis of the $D_s^+ \to π^- π^+ π^+$ decay**|LHCb collaboration et.al.|[2209.09840v1](http://arxiv.org/abs/2209.09840v1)|null|
 |**2022-09-13**|**Taming the long distance effects in the $D^{+}_{s}\rightarrow π^{+}\ell^{-}\ell^{+}$ decay**|Marxil Sánchez et.al.|[2209.06283v1](http://arxiv.org/abs/2209.06283v1)|null|
 |**2022-09-10**|**Vector singlet leptoquark model facing recent LHCb and BABAR measurements**|Cristian H. García-Duque et.al.|[2209.04753v1](http://arxiv.org/abs/2209.04753v1)|null|
 |**2022-09-09**|**Model-independent analysis of $b\to d$ processes**|Rigo Bause et.al.|[2209.04457v1](http://arxiv.org/abs/2209.04457v1)|null|
@@ -36,8 +38,6 @@
 |**2022-08-05**|**Amplitude analysis of the $Λ^+_c\to pK^-π^+$ decay and $Λ^+_c$ baryon polarization measurement in semileptonic beauty hadron decays**|LHCb collaboration et.al.|[2208.03262v1](http://arxiv.org/abs/2208.03262v1)|null|
 |**2022-08-05**|**Mixing and $CP$ violation in Charm deacys at LHCb**|Roberto Ribatti et.al.|[2208.03240v1](http://arxiv.org/abs/2208.03240v1)|null|
 |**2022-08-05**|**$C\!P$ violation in $B$ mesons**|Daniele Manuzzi et.al.|[2208.03151v1](http://arxiv.org/abs/2208.03151v1)|null|
-|**2022-08-03**|**A new method for the $q^2$ reconstruction in semileptonic decays at LHCb based on machine learning**|Panting Ge et.al.|[2208.02145v1](http://arxiv.org/abs/2208.02145v1)|null|
-|**2022-08-02**|**Probing hyperon CP violation from charmed baryon decays**|Jian-Peng Wang et.al.|[2208.01589v2](http://arxiv.org/abs/2208.01589v2)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
