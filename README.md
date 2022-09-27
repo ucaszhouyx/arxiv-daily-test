@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2022-09-27 08:51:51 Asia/Shanghai
+ Automated deployment @ 2022-09-27 11:22:46 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-26**|**Kaon spectrum revisited**|U. Taboada-Nieto et.al.|[2209.12555v1](http://arxiv.org/abs/2209.12555v1)|null|
 |**2022-09-20**|**Quarkonia production in (ultra-)peripheral PbPb collisions at LHCb**|Xiaolin Wang et.al.|[2209.09990v1](http://arxiv.org/abs/2209.09990v1)|null|
 |**2022-09-20**|**Search for the lepton-flavour violating decays $B^0 \to K^{*0} τ^\pm μ^\mp$**|LHCb collaboration et.al.|[2209.09846v1](http://arxiv.org/abs/2209.09846v1)|null|
 |**2022-09-20**|**Amplitude analysis of the $D_s^+ \to π^- π^+ π^+$ decay**|LHCb collaboration et.al.|[2209.09840v1](http://arxiv.org/abs/2209.09840v1)|null|
@@ -71,7 +72,6 @@
 |**2022-08-08**|**The double thresholds distort the lineshapes of the $P_{ψ s}^Λ(4338)^0$ resonance**|Lu Meng et.al.|[2208.03883v1](http://arxiv.org/abs/2208.03883v1)|null|
 |**2022-08-05**|**Amplitude analysis of the $D^+\toπ^- π^+π^+$ decay and measurement of the $π^-π^+$ S-wave amplitude**|LHCb Collaboration et.al.|[2208.03300v2](http://arxiv.org/abs/2208.03300v2)|null|
 |**2022-08-05**|**Amplitude analysis of the $Λ^+_c\to pK^-π^+$ decay and $Λ^+_c$ baryon polarization measurement in semileptonic beauty hadron decays**|LHCb collaboration et.al.|[2208.03262v1](http://arxiv.org/abs/2208.03262v1)|null|
-|**2022-08-05**|**Mixing and $CP$ violation in Charm deacys at LHCb**|Roberto Ribatti et.al.|[2208.03240v1](http://arxiv.org/abs/2208.03240v1)|null|
 
 ### X(3872)
 |Publish Date|Title|Authors|PDF|Code|
