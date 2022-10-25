@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2022-10-25 08:58:08 Asia/Shanghai
+ Automated deployment @ 2022-10-25 11:44:54 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -8,6 +8,7 @@
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-23**|**Weak Decays of Antitriplet Charmed Baryons from the Perspective of Flavor Symmetry**|Huiling Zhong et.al.|[2210.12728v1](http://arxiv.org/abs/2210.12728v1)|null|
 |**2022-10-21**|**Charged Current Anomalies with Baryons**|Damir Becirevic et.al.|[2210.12071v1](http://arxiv.org/abs/2210.12071v1)|null|
 |**2022-10-19**|**Global fit to $b \to cτν$ anomalies 2022 mid-autumn**|Syuhei Iguro et.al.|[2210.10751v1](http://arxiv.org/abs/2210.10751v1)|null|
 |**2022-10-19**|**Light quark decays of doubly heavy baryons in light front approach**|Hang Liu et.al.|[2210.10529v2](http://arxiv.org/abs/2210.10529v2)|null|
@@ -37,11 +38,11 @@
 |**2022-08-11**|**Snowmass 2021/22 Letter of Interest: A Forward Calorimeter at the LHC**|I. G. Bearden et.al.|[2208.13541v1](http://arxiv.org/abs/2208.13541v1)|null|
 |**2022-08-10**|**Weak Decays of $b$ and $c$ Quarks**|Angelo Di Canto et.al.|[2208.05403v2](http://arxiv.org/abs/2208.05403v2)|null|
 |**2022-08-10**|**Hadronic molecules composed of a doubly charmed tetraquark state and a charmed meson**|Ya-Wen Pan et.al.|[2208.05385v2](http://arxiv.org/abs/2208.05385v2)|null|
-|**2022-08-10**|**The LHCb state $P_{ψs}^Λ(4338)$ as a triangle singularity**|T. J. Burns et.al.|[2208.05106v1](http://arxiv.org/abs/2208.05106v1)|null|
 
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-23**|**Weak Decays of Antitriplet Charmed Baryons from the Perspective of Flavor Symmetry**|Huiling Zhong et.al.|[2210.12728v1](http://arxiv.org/abs/2210.12728v1)|null|
 |**2022-10-21**|**Charged Current Anomalies with Baryons**|Damir Becirevic et.al.|[2210.12071v1](http://arxiv.org/abs/2210.12071v1)|null|
 |**2022-10-21**|**Measurement of the ratio of branching fractions $\mathcal{B}(B_c^+ \to B_s^0 π^+)/\mathcal{B}(B_c^+ \to J/ψπ^+)$**|LHCb collaboration et.al.|[2210.12000v1](http://arxiv.org/abs/2210.12000v1)|null|
 |**2022-10-19**|**Global fit to $b \to cτν$ anomalies 2022 mid-autumn**|Syuhei Iguro et.al.|[2210.10751v1](http://arxiv.org/abs/2210.10751v1)|null|
@@ -71,7 +72,6 @@
 |**2022-09-06**|**The Forward-Backward Asymmetry induced $CP$ Asymmetry of $B^{\pm}\rightarrow π^{\pm}π^{+}π^{-}$**|Ya-Rui Wei et.al.|[2209.02348v1](http://arxiv.org/abs/2209.02348v1)|null|
 |**2022-09-05**|**Enhanced $B_q \to \ell\ell^\prime$ and $B \to (K, π) \ell\ell^\prime$ in light of $(g-2)_μ$**|Wei-Shu Hou et.al.|[2209.02086v1](http://arxiv.org/abs/2209.02086v1)|null|
 |**2022-09-05**|**Searching for tetraquark through weak decays of b-baryons**|Fei Huang et.al.|[2209.01716v2](http://arxiv.org/abs/2209.01716v2)|null|
-|**2022-09-01**|**Heavy-Flavor-Conserving Hadronic Weak Decays of Charmed and Bottom Baryons: an Update**|Hai-Yang Cheng et.al.|[2209.00257v1](http://arxiv.org/abs/2209.00257v1)|null|
 
 ### X(3872)
 |Publish Date|Title|Authors|PDF|Code|
