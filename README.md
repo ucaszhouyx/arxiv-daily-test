@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2022-10-28 08:49:57 Asia/Shanghai
+ Automated deployment @ 2022-10-28 11:08:48 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -8,6 +8,9 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-27**|**Estimates of exchange topological contributions and $CP$-violating observables in $Λ_b\rightarrow Λφ$ decay**|Zhou Rui et.al.|[2210.15357v1](http://arxiv.org/abs/2210.15357v1)|null|
+|**2022-10-27**|**Observation of a resonant structure near the $D_s^+ D_s^-$ threshold in the $B^+\to D_s^+ D_s^- K^+$ decay**|LHCb collaboration et.al.|[2210.15153v1](http://arxiv.org/abs/2210.15153v1)|null|
+|**2022-10-26**|**Observation of the $B^0_s\!\to D^{*+}D^{*-}$ decay**|LHCb collaboration et.al.|[2210.14945v1](http://arxiv.org/abs/2210.14945v1)|null|
 |**2022-10-25**|**Rare decays at LHCb**|M. Santimaria et.al.|[2210.14004v1](http://arxiv.org/abs/2210.14004v1)|null|
 |**2022-10-23**|**Weak Decays of Antitriplet Charmed Baryons from the Perspective of Flavor Symmetry**|Huiling Zhong et.al.|[2210.12728v1](http://arxiv.org/abs/2210.12728v1)|null|
 |**2022-10-21**|**Charged Current Anomalies with Baryons**|Damir Becirevic et.al.|[2210.12071v1](http://arxiv.org/abs/2210.12071v1)|null|
@@ -35,13 +38,11 @@
 |**2022-09-07**|**A new approach to semi-leptonic tags in $B$-meson semi-invisible decays**|Gaetano de Marino et.al.|[2209.03387v1](http://arxiv.org/abs/2209.03387v1)|null|
 |**2022-09-07**|**(In)Visible signatures of the minimal dark abelian gauge sector**|Ana Luisa Foguel et.al.|[2209.03383v1](http://arxiv.org/abs/2209.03383v1)|null|
 |**2022-09-07**|**Measurement of the time-integrated $C\!P$ asymmetry in $D^0\to K^- K^+$ decays**|LHCb collaboration et.al.|[2209.03179v2](http://arxiv.org/abs/2209.03179v2)|null|
-|**2022-09-06**|**Coupling Constant $g_{Λ_{b}B_{s}Λ}$ using the Baryonic $\bar{B}^{0}_{s}\rightarrow p\barΛ K^{-}$ Decay**|S. Rafibakhsh et.al.|[2209.02423v1](http://arxiv.org/abs/2209.02423v1)|null|
-|**2022-09-06**|**The Forward-Backward Asymmetry induced $CP$ Asymmetry of $B^{\pm}\rightarrow π^{\pm}π^{+}π^{-}$**|Ya-Rui Wei et.al.|[2209.02348v1](http://arxiv.org/abs/2209.02348v1)|null|
-|**2022-09-05**|**Enhanced $B_q \to \ell\ell^\prime$ and $B \to (K, π) \ell\ell^\prime$ in light of $(g-2)_μ$**|Wei-Shu Hou et.al.|[2209.02086v1](http://arxiv.org/abs/2209.02086v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-26**|**Observation of the $B^0_s\!\to D^{*+}D^{*-}$ decay**|LHCb collaboration et.al.|[2210.14945v1](http://arxiv.org/abs/2210.14945v1)|null|
 |**2022-10-25**|**Rare decays at LHCb**|M. Santimaria et.al.|[2210.14004v1](http://arxiv.org/abs/2210.14004v1)|null|
 |**2022-10-23**|**Weak Decays of Antitriplet Charmed Baryons from the Perspective of Flavor Symmetry**|Huiling Zhong et.al.|[2210.12728v1](http://arxiv.org/abs/2210.12728v1)|null|
 |**2022-10-21**|**Charged Current Anomalies with Baryons**|Damir Becirevic et.al.|[2210.12071v1](http://arxiv.org/abs/2210.12071v1)|null|
@@ -71,7 +72,6 @@
 |**2022-08-12**|**Probing $R$-parity violation in $B$-meson decays to a baryon and a light neutralino**|Claudio O. Dib et.al.|[2208.06421v1](http://arxiv.org/abs/2208.06421v1)|null|
 |**2022-08-11**|**Recent advances in charm mixing and $CP$ violation at LHCb**|Tommaso Pajero et.al.|[2208.05769v2](http://arxiv.org/abs/2208.05769v2)|null|
 |**2022-08-11**|**Snowmass 2021/22 Letter of Interest: A Forward Calorimeter at the LHC**|I. G. Bearden et.al.|[2208.13541v1](http://arxiv.org/abs/2208.13541v1)|null|
-|**2022-08-10**|**Weak Decays of $b$ and $c$ Quarks**|Angelo Di Canto et.al.|[2208.05403v2](http://arxiv.org/abs/2208.05403v2)|null|
 
 ### X(3872)
 |Publish Date|Title|Authors|PDF|Code|
