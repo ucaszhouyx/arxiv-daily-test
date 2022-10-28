@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2022-10-27 10:58:18 Asia/Shanghai
+ Automated deployment @ 2022-10-28 08:49:57 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -16,7 +16,7 @@
 |**2022-10-19**|**Light quark decays of doubly heavy baryons in light front approach**|Hang Liu et.al.|[2210.10529v2](http://arxiv.org/abs/2210.10529v2)|null|
 |**2022-10-19**|**Search for the baryon- and lepton-number violating decays $B^0\to pμ^-$ and $B^0_s\to pμ^-$**|LHCb collaboration et.al.|[2210.10412v2](http://arxiv.org/abs/2210.10412v2)|null|
 |**2022-10-19**|**Observation of a $J/ψΛ$ resonance consistent with a strange pentaquark candidate in $B^-\to J/ψΛ\bar{p}$ decays**|LHCb collaboration et.al.|[2210.10346v1](http://arxiv.org/abs/2210.10346v1)|null|
-|**2022-10-17**|**Far-forward production of charm mesons and neutrinos at Forward Physics Facilities at the LHC and the intrinsic charm in the proton**|Rafal Maciula et.al.|[2210.08890v1](http://arxiv.org/abs/2210.08890v1)|null|
+|**2022-10-17**|**Far-forward production of charm mesons and neutrinos at Forward Physics Facilities at the LHC and the intrinsic charm in the proton**|Rafal Maciula et.al.|[2210.08890v2](http://arxiv.org/abs/2210.08890v2)|null|
 |**2022-10-16**|**Analysis of CKM-Favored Quasi-Two-Body $B \to D (R\to) K π$ Decays in PQCD Approach**|Zhi-Tian Zou et.al.|[2210.08522v1](http://arxiv.org/abs/2210.08522v1)|null|
 |**2022-10-15**|**Dispersive $ππ\rightarrow K\bar K$ amplitude and giant CP violation in B to three light-meson decays at LHCb**|R. Alvarez Garrote et.al.|[2210.08354v1](http://arxiv.org/abs/2210.08354v1)|null|
 |**2022-10-14**|**Calculation of branching fraction and $CP$ violation in $B^-\rightarrow D_s^-D^0$ decay**|Behnam Mohammadi et.al.|[2210.07676v1](http://arxiv.org/abs/2210.07676v1)|null|
@@ -69,7 +69,7 @@
 |**2022-08-21**|**Semileptonic $B$ decays with $B$ to ${\bf B\bar B'}$ transition**|Yu-Kuo Hsiao et.al.|[2208.09917v1](http://arxiv.org/abs/2208.09917v1)|null|
 |**2022-08-16**|**Insights into the nature of the $X(3872)$ through B meson decays**|Zhi-Qing Zhang et.al.|[2208.07990v1](http://arxiv.org/abs/2208.07990v1)|null|
 |**2022-08-12**|**Probing $R$-parity violation in $B$-meson decays to a baryon and a light neutralino**|Claudio O. Dib et.al.|[2208.06421v1](http://arxiv.org/abs/2208.06421v1)|null|
-|**2022-08-11**|**Recent advances in charm mixing and $CP$ violation at LHCb**|Tommaso Pajero et.al.|[2208.05769v1](http://arxiv.org/abs/2208.05769v1)|null|
+|**2022-08-11**|**Recent advances in charm mixing and $CP$ violation at LHCb**|Tommaso Pajero et.al.|[2208.05769v2](http://arxiv.org/abs/2208.05769v2)|null|
 |**2022-08-11**|**Snowmass 2021/22 Letter of Interest: A Forward Calorimeter at the LHC**|I. G. Bearden et.al.|[2208.13541v1](http://arxiv.org/abs/2208.13541v1)|null|
 |**2022-08-10**|**Weak Decays of $b$ and $c$ Quarks**|Angelo Di Canto et.al.|[2208.05403v2](http://arxiv.org/abs/2208.05403v2)|null|
 
