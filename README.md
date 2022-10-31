@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2022-10-31 08:51:19 Asia/Shanghai
+ Automated deployment @ 2022-10-31 11:08:56 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -8,6 +8,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-28**|**Fully-heavy tetraquark spectroscopy in the relativistic quark model**|R. N. Faustov et.al.|[2210.16015v1](http://arxiv.org/abs/2210.16015v1)|null|
 |**2022-10-27**|**Estimates of exchange topological contributions and $CP$-violating observables in $Λ_b\rightarrow Λφ$ decay**|Zhou Rui et.al.|[2210.15357v1](http://arxiv.org/abs/2210.15357v1)|null|
 |**2022-10-27**|**Observation of a resonant structure near the $D_s^+ D_s^-$ threshold in the $B^+\to D_s^+ D_s^- K^+$ decay**|LHCb collaboration et.al.|[2210.15153v1](http://arxiv.org/abs/2210.15153v1)|null|
 |**2022-10-26**|**Observation of the $B^0_s\!\to D^{*+}D^{*-}$ decay**|LHCb collaboration et.al.|[2210.14945v1](http://arxiv.org/abs/2210.14945v1)|null|
@@ -37,11 +38,11 @@
 |**2022-09-08**|**Measurement of the CKM angle $γ$ with $ B^\pm \to D[K^\mp π^\pm π^\pm π^\mp] h^\pm$ decays using a binned phase-space approach**|LHCb collaboration et.al.|[2209.03692v1](http://arxiv.org/abs/2209.03692v1)|null|
 |**2022-09-07**|**A new approach to semi-leptonic tags in $B$-meson semi-invisible decays**|Gaetano de Marino et.al.|[2209.03387v1](http://arxiv.org/abs/2209.03387v1)|null|
 |**2022-09-07**|**(In)Visible signatures of the minimal dark abelian gauge sector**|Ana Luisa Foguel et.al.|[2209.03383v1](http://arxiv.org/abs/2209.03383v1)|null|
-|**2022-09-07**|**Measurement of the time-integrated $C\!P$ asymmetry in $D^0\to K^- K^+$ decays**|LHCb collaboration et.al.|[2209.03179v2](http://arxiv.org/abs/2209.03179v2)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-28**|**Fully-heavy tetraquark spectroscopy in the relativistic quark model**|R. N. Faustov et.al.|[2210.16015v1](http://arxiv.org/abs/2210.16015v1)|null|
 |**2022-10-25**|**Rare decays at LHCb**|M. Santimaria et.al.|[2210.14004v1](http://arxiv.org/abs/2210.14004v1)|null|
 |**2022-10-23**|**Weak Decays of Antitriplet Charmed Baryons from the Perspective of Flavor Symmetry**|Huiling Zhong et.al.|[2210.12728v1](http://arxiv.org/abs/2210.12728v1)|null|
 |**2022-10-21**|**Charged Current Anomalies with Baryons**|Damir Becirevic et.al.|[2210.12071v1](http://arxiv.org/abs/2210.12071v1)|null|
@@ -71,7 +72,6 @@
 |**2022-08-12**|**Probing $R$-parity violation in $B$-meson decays to a baryon and a light neutralino**|Claudio O. Dib et.al.|[2208.06421v1](http://arxiv.org/abs/2208.06421v1)|null|
 |**2022-08-11**|**Recent advances in charm mixing and $CP$ violation at LHCb**|Tommaso Pajero et.al.|[2208.05769v2](http://arxiv.org/abs/2208.05769v2)|null|
 |**2022-08-11**|**Snowmass 2021/22 Letter of Interest: A Forward Calorimeter at the LHC**|I. G. Bearden et.al.|[2208.13541v1](http://arxiv.org/abs/2208.13541v1)|null|
-|**2022-08-10**|**Weak Decays of $b$ and $c$ Quarks**|Angelo Di Canto et.al.|[2208.05403v2](http://arxiv.org/abs/2208.05403v2)|null|
 
 ### X(3872)
 |Publish Date|Title|Authors|PDF|Code|
