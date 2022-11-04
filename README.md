@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2022-11-04 08:45:34 Asia/Shanghai
+ Automated deployment @ 2022-11-04 10:56:31 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -8,6 +8,8 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-03**|**Charmed-strange tetraquarks and their decays in the potential quark model**|Feng-Xiao Liu et.al.|[2211.01711v1](http://arxiv.org/abs/2211.01711v1)|null|
+|**2022-11-02**|**Invisible Charm Exotica**|Michał Praszałowicz et.al.|[2211.01470v1](http://arxiv.org/abs/2211.01470v1)|null|
 |**2022-11-02**|**Study of the $B^{-} \to Λ_{c}^{+} \barΛ_{c}^{-} K^{-}$ decay**|LHCb collaboration et.al.|[2211.00812v1](http://arxiv.org/abs/2211.00812v1)|null|
 |**2022-10-28**|**Two is better than one: The U-spin-CP anomaly in charm**|Rigo Bause et.al.|[2210.16330v1](http://arxiv.org/abs/2210.16330v1)|null|
 |**2022-10-28**|**Fully-heavy tetraquark spectroscopy in the relativistic quark model**|R. N. Faustov et.al.|[2210.16015v1](http://arxiv.org/abs/2210.16015v1)|null|
@@ -36,12 +38,11 @@
 |**2022-09-20**|**Amplitude analysis of the $D_s^+ \to π^- π^+ π^+$ decay**|LHCb collaboration et.al.|[2209.09840v2](http://arxiv.org/abs/2209.09840v2)|null|
 |**2022-09-13**|**Taming the long distance effects in the $D^{+}_{s}\rightarrow π^{+}\ell^{-}\ell^{+}$ decay**|Marxil Sánchez et.al.|[2209.06283v1](http://arxiv.org/abs/2209.06283v1)|null|
 |**2022-09-10**|**Singlet vector leptoquark model facing recent LHCb and BABAR measurements**|Cristian H. García-Duque et.al.|[2209.04753v2](http://arxiv.org/abs/2209.04753v2)|null|
-|**2022-09-09**|**Model-independent analysis of $b\to d$ processes**|Rigo Bause et.al.|[2209.04457v1](http://arxiv.org/abs/2209.04457v1)|null|
-|**2022-09-08**|**Measurement of the CKM angle $γ$ with $ B^\pm \to D[K^\mp π^\pm π^\pm π^\mp] h^\pm$ decays using a binned phase-space approach**|LHCb collaboration et.al.|[2209.03692v1](http://arxiv.org/abs/2209.03692v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-02**|**Invisible Charm Exotica**|Michał Praszałowicz et.al.|[2211.01470v1](http://arxiv.org/abs/2211.01470v1)|null|
 |**2022-10-28**|**Fully-heavy tetraquark spectroscopy in the relativistic quark model**|R. N. Faustov et.al.|[2210.16015v1](http://arxiv.org/abs/2210.16015v1)|null|
 |**2022-10-25**|**Rare decays at LHCb**|M. Santimaria et.al.|[2210.14004v1](http://arxiv.org/abs/2210.14004v1)|null|
 |**2022-10-23**|**Weak Decays of Antitriplet Charmed Baryons from the Perspective of Flavor Symmetry**|Huiling Zhong et.al.|[2210.12728v1](http://arxiv.org/abs/2210.12728v1)|null|
@@ -71,7 +72,6 @@
 |**2022-08-16**|**Insights into the nature of the $X(3872)$ through B meson decays**|Zhi-Qing Zhang et.al.|[2208.07990v1](http://arxiv.org/abs/2208.07990v1)|null|
 |**2022-08-12**|**Probing $R$-parity violation in $B$-meson decays to a baryon and a light neutralino**|Claudio O. Dib et.al.|[2208.06421v1](http://arxiv.org/abs/2208.06421v1)|null|
 |**2022-08-11**|**Recent advances in charm mixing and $CP$ violation at LHCb**|Tommaso Pajero et.al.|[2208.05769v2](http://arxiv.org/abs/2208.05769v2)|null|
-|**2022-08-11**|**Snowmass 2021/22 Letter of Interest: A Forward Calorimeter at the LHC**|I. G. Bearden et.al.|[2208.13541v1](http://arxiv.org/abs/2208.13541v1)|null|
 
 ### X(3872)
 |Publish Date|Title|Authors|PDF|Code|
