@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2022-11-11 10:49:28 Asia/Shanghai
+ Automated deployment @ 2022-11-12 08:43:43 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -8,6 +8,7 @@
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-10**|**A lesson from $R_{ττ}^{K^{(\ast)}}$ and $R_{νν}^{K^{(\ast)}}$ at Belle II**|Arturo de Giorgi et.al.|[2211.05595v1](http://arxiv.org/abs/2211.05595v1)|null|
 |**2022-11-02**|**Invisible Charm Exotica**|Michał Praszałowicz et.al.|[2211.01470v1](http://arxiv.org/abs/2211.01470v1)|null|
 |**2022-10-28**|**Fully-heavy tetraquark spectroscopy in the relativistic quark model**|R. N. Faustov et.al.|[2210.16015v1](http://arxiv.org/abs/2210.16015v1)|null|
 |**2022-10-25**|**Rare decays at LHCb**|M. Santimaria et.al.|[2210.14004v1](http://arxiv.org/abs/2210.14004v1)|null|
@@ -37,11 +38,12 @@
 |**2022-08-21**|**Semileptonic $B$ decays with $B$ to ${\bf B\bar B'}$ transition**|Yu-Kuo Hsiao et.al.|[2208.09917v1](http://arxiv.org/abs/2208.09917v1)|null|
 |**2022-08-16**|**Insights into the nature of the $X(3872)$ through B meson decays**|Zhi-Qing Zhang et.al.|[2208.07990v1](http://arxiv.org/abs/2208.07990v1)|null|
 |**2022-08-12**|**Probing $R$-parity violation in $B$-meson decays to a baryon and a light neutralino**|Claudio O. Dib et.al.|[2208.06421v1](http://arxiv.org/abs/2208.06421v1)|null|
-|**2022-08-11**|**Recent advances in charm mixing and $CP$ violation at LHCb**|Tommaso Pajero et.al.|[2208.05769v2](http://arxiv.org/abs/2208.05769v2)|null|
 
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-10**|**A lesson from $R_{ττ}^{K^{(\ast)}}$ and $R_{νν}^{K^{(\ast)}}$ at Belle II**|Arturo de Giorgi et.al.|[2211.05595v1](http://arxiv.org/abs/2211.05595v1)|null|
+|**2022-11-10**|**Phenomenological description of the $π^-π^+$ $S$-waves in $D^+\toπ^-π^+π^+$ and $D^+_s\toπ^-π^+π^+$ decays. The problem of phases**|N. N. Achasov et.al.|[2211.05526v1](http://arxiv.org/abs/2211.05526v1)|null|
 |**2022-11-09**|**First observation of the $B^+ \rightarrow D_s^+ D_s^- K^+$ decay**|LHCb collaboration et.al.|[2211.05034v1](http://arxiv.org/abs/2211.05034v1)|null|
 |**2022-11-08**|**CP violation in the interference between $ρ(770)^0$ and $S$-wave in $B^\pm\to π^+ π^-π^\pm$ decays and its implication for CP asymmetry in $B^\pm\to ρ^0π^\pm$**|Hai-Yang Cheng et.al.|[2211.03965v1](http://arxiv.org/abs/2211.03965v1)|null|
 |**2022-11-04**|**Decays of a $T_{cc}^+$ heavy-quark-spin molecular partner to $D^{\ast}Dπ$**|Zhao-Sai Jia et.al.|[2211.02479v1](http://arxiv.org/abs/2211.02479v1)|null|
@@ -70,8 +72,6 @@
 |**2022-10-10**|**The angular analysis of $Λ_b\toΛ(1520)(\to N\bar{K})\ell^+\ell^-$ decay**|Yu-Shuai Li et.al.|[2210.04640v2](http://arxiv.org/abs/2210.04640v2)|null|
 |**2022-10-10**|**Charmonium production in pp collisions at energies available at the CERN Large Hadron Collider**|Biswarup Paul et.al.|[2210.04518v1](http://arxiv.org/abs/2210.04518v1)|null|
 |**2022-09-26**|**Kaon spectrum revisited**|U. Taboada-Nieto et.al.|[2209.12555v1](http://arxiv.org/abs/2209.12555v1)|null|
-|**2022-09-20**|**Quarkonia production in (ultra-)peripheral PbPb collisions at LHCb**|Xiaolin Wang et.al.|[2209.09990v1](http://arxiv.org/abs/2209.09990v1)|null|
-|**2022-09-20**|**Search for the lepton-flavour violating decays $B^0 \to K^{*0} τ^\pm μ^\mp$**|LHCb collaboration et.al.|[2209.09846v1](http://arxiv.org/abs/2209.09846v1)|null|
 
 ### X(3872)
 |Publish Date|Title|Authors|PDF|Code|
