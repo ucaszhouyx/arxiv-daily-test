@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2022-11-16 10:33:59 Asia/Shanghai
+ Automated deployment @ 2022-11-17 08:38:56 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -8,6 +8,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-15**|**Zooming into CP violation in $B_{(s)}\to hh$ Decays**|Robert Fleischer et.al.|[2211.08346v1](http://arxiv.org/abs/2211.08346v1)|null|
 |**2022-11-11**|**$P^Λ_{ψs}(4459)$ and $P^Λ_{ψs}(4338)$ as molecular states in $ J/ψΛ$ invariant mass spectra**|Jun-Tao Zhu et.al.|[2211.06232v1](http://arxiv.org/abs/2211.06232v1)|null|
 |**2022-11-10**|**Precision tau physics: Challenge for Theory, on and off the lattice**|Amarjit Soni et.al.|[2211.05839v1](http://arxiv.org/abs/2211.05839v1)|null|
 |**2022-11-10**|**A lesson from $R_{ττ}^{K^{(\ast)}}$ and $R_{νν}^{K^{(\ast)}}$ at Belle II**|Arturo de Giorgi et.al.|[2211.05595v1](http://arxiv.org/abs/2211.05595v1)|null|
@@ -37,11 +38,11 @@
 |**2022-10-14**|**Calculation of branching fraction and $CP$ violation in $B^-\rightarrow D_s^-D^0$ decay**|Behnam Mohammadi et.al.|[2210.07676v1](http://arxiv.org/abs/2210.07676v1)|null|
 |**2022-10-13**|**Neutral current B-decay anomalies**|T. Hurth et.al.|[2210.07221v1](http://arxiv.org/abs/2210.07221v1)|null|
 |**2022-10-13**|**Measurement of the $Λ_c^+$ to $D^0$ production cross-section ratio in peripheral PbPb collisions**|LHCb collaboration et.al.|[2210.06939v5](http://arxiv.org/abs/2210.06939v5)|null|
-|**2022-10-10**|**The angular analysis of $Λ_b\toΛ(1520)(\to N\bar{K})\ell^+\ell^-$ decay**|Yu-Shuai Li et.al.|[2210.04640v2](http://arxiv.org/abs/2210.04640v2)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-15**|**Zooming into CP violation in $B_{(s)}\to hh$ Decays**|Robert Fleischer et.al.|[2211.08346v1](http://arxiv.org/abs/2211.08346v1)|null|
 |**2022-11-10**|**A lesson from $R_{ττ}^{K^{(\ast)}}$ and $R_{νν}^{K^{(\ast)}}$ at Belle II**|Arturo de Giorgi et.al.|[2211.05595v1](http://arxiv.org/abs/2211.05595v1)|null|
 |**2022-11-02**|**Invisible Charm Exotica**|Michał Praszałowicz et.al.|[2211.01470v1](http://arxiv.org/abs/2211.01470v1)|null|
 |**2022-10-28**|**Fully-heavy tetraquark spectroscopy in the relativistic quark model**|R. N. Faustov et.al.|[2210.16015v1](http://arxiv.org/abs/2210.16015v1)|null|
@@ -71,7 +72,6 @@
 |**2022-08-23**|**Estimates for rare three-body decays of the Omega baryon using chiral symmetry and the $ΔI = 1/2$ rule**|Stefan Leupold et.al.|[2208.11078v1](http://arxiv.org/abs/2208.11078v1)|null|
 |**2022-08-21**|**Semileptonic $B$ decays with $B$ to ${\bf B\bar B'}$ transition**|Yu-Kuo Hsiao et.al.|[2208.09917v1](http://arxiv.org/abs/2208.09917v1)|null|
 |**2022-08-16**|**Insights into the nature of the $X(3872)$ through B meson decays**|Zhi-Qing Zhang et.al.|[2208.07990v1](http://arxiv.org/abs/2208.07990v1)|null|
-|**2022-08-12**|**Probing $R$-parity violation in $B$-meson decays to a baryon and a light neutralino**|Claudio O. Dib et.al.|[2208.06421v1](http://arxiv.org/abs/2208.06421v1)|null|
 
 ### X(3872)
 |Publish Date|Title|Authors|PDF|Code|
