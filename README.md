@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2022-11-17 10:29:26 Asia/Shanghai
+ Automated deployment @ 2022-11-18 08:43:30 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,8 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-16**|**Searches for the rare hadronic decays $B^0 \rightarrow p\bar{p}p\bar{p}$ and $B^0_{s} \rightarrow p\bar{p}p\bar{p}$**|LHCb collaboration et.al.|[2211.08847v1](http://arxiv.org/abs/2211.08847v1)|null|
+|**2022-11-16**|**Scalar and tensor mesons in $d\bar d$, $s\bar s$ and $gg\to f_0, f_2$**|A. V. Sarantsev et.al.|[2211.08791v1](http://arxiv.org/abs/2211.08791v1)|null|
 |**2022-11-15**|**Zooming into CP violation in $B_{(s)}\to hh$ Decays**|Robert Fleischer et.al.|[2211.08346v1](http://arxiv.org/abs/2211.08346v1)|null|
 |**2022-11-11**|**$P^Λ_{ψs}(4459)$ and $P^Λ_{ψs}(4338)$ as molecular states in $ J/ψΛ$ invariant mass spectra**|Jun-Tao Zhu et.al.|[2211.06232v1](http://arxiv.org/abs/2211.06232v1)|null|
 |**2022-11-10**|**Precision tau physics: Challenge for Theory, on and off the lattice**|Amarjit Soni et.al.|[2211.05839v1](http://arxiv.org/abs/2211.05839v1)|null|
@@ -70,8 +72,6 @@
 |**2022-10-16**|**Analysis of CKM-Favored Quasi-Two-Body $B \to D (R\to) K π$ Decays in PQCD Approach**|Zhi-Tian Zou et.al.|[2210.08522v1](http://arxiv.org/abs/2210.08522v1)|null|
 |**2022-10-15**|**Dispersive $ππ\rightarrow K\bar K$ amplitude and giant CP violation in B to three light-meson decays at LHCb**|R. Alvarez Garrote et.al.|[2210.08354v1](http://arxiv.org/abs/2210.08354v1)|null|
 |**2022-10-14**|**Calculation of branching fraction and $CP$ violation in $B^-\rightarrow D_s^-D^0$ decay**|Behnam Mohammadi et.al.|[2210.07676v1](http://arxiv.org/abs/2210.07676v1)|null|
-|**2022-10-13**|**Neutral current B-decay anomalies**|T. Hurth et.al.|[2210.07221v1](http://arxiv.org/abs/2210.07221v1)|null|
-|**2022-10-13**|**Measurement of the $Λ_c^+$ to $D^0$ production cross-section ratio in peripheral PbPb collisions**|LHCb collaboration et.al.|[2210.06939v5](http://arxiv.org/abs/2210.06939v5)|null|
 
 ### X(3872)
 |Publish Date|Title|Authors|PDF|Code|
