@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2022-11-29 10:14:15 Asia/Shanghai
+ Automated deployment @ 2022-11-30 08:37:23 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-27**|**Molecular Interpretation of $X(3960)$ as $D_s^+ D_s^-$ State**|Halil Mutuk et.al.|[2211.14836v1](http://arxiv.org/abs/2211.14836v1)|null|
 |**2022-11-25**|**Impact of $Λ_b\to Λ_cτν$ measurement on New Physics in $b\to c \, l ν$ transitions**|Marco Fedele et.al.|[2211.14172v1](http://arxiv.org/abs/2211.14172v1)|null|
 |**2022-11-25**|**Resonance $X(3960)$ as a hidden charm-strange scalar tetraquark**|S. S. Agaev et.al.|[2211.14129v1](http://arxiv.org/abs/2211.14129v1)|null|
 |**2022-11-23**|**Nonleptonic decays of $Ξ_{cc}\to Ξ_c π$ with $Ξ_c-Ξ_c'$ mixing**|Chia-Wei Liu et.al.|[2211.12960v1](http://arxiv.org/abs/2211.12960v1)|null|
@@ -71,7 +72,6 @@
 |**2022-10-23**|**Weak Decays of Antitriplet Charmed Baryons from the Perspective of Flavor Symmetry**|Huiling Zhong et.al.|[2210.12728v1](http://arxiv.org/abs/2210.12728v1)|null|
 |**2022-10-21**|**Charged Current Anomalies with Baryons**|Damir Becirevic et.al.|[2210.12071v1](http://arxiv.org/abs/2210.12071v1)|null|
 |**2022-10-21**|**Measurement of the ratio of branching fractions $\mathcal{B}(B_c^+ \to B_s^0 π^+)/\mathcal{B}(B_c^+ \to J/ψπ^+)$**|LHCb collaboration et.al.|[2210.12000v1](http://arxiv.org/abs/2210.12000v1)|null|
-|**2022-10-19**|**Global fit to $b \to cτν$ anomalies 2022 mid-autumn**|Syuhei Iguro et.al.|[2210.10751v1](http://arxiv.org/abs/2210.10751v1)|null|
 
 ### X(3872)
 |Publish Date|Title|Authors|PDF|Code|
