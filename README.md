@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2022-12-02 10:07:08 Asia/Shanghai
+ Automated deployment @ 2022-12-03 08:32:37 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -8,6 +8,7 @@
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-01**|**Investigating the transition form factors of $Λ_b\toΛ_c(2625)$ and $Ξ_b\toΞ_c(2815)$ and the corresponding weak decays with support from baryon spectroscopy**|Yu-Shuai Li et.al.|[2212.00300v1](http://arxiv.org/abs/2212.00300v1)|null|
 |**2022-11-29**|**$D_1(2420)$ and its interactions with a kaon: open charm states with strangeness**|Brenda B. Malabarba et.al.|[2211.16222v1](http://arxiv.org/abs/2211.16222v1)|null|
 |**2022-11-29**|**Study of parity violation in $Λ_c^+\toφp$ and $Λ_c^+ \to ωp$ decays**|PengCheng Hong et.al.|[2211.16014v1](http://arxiv.org/abs/2211.16014v1)|null|
 |**2022-11-25**|**Impact of $Λ_b\to Λ_cτν$ measurement on New Physics in $b\to c \, l ν$ transitions**|Marco Fedele et.al.|[2211.14172v1](http://arxiv.org/abs/2211.14172v1)|null|
@@ -37,11 +38,11 @@
 |**2022-09-05**|**Enhanced $B_q \to \ell\ell^\prime$ and $B \to (K, π) \ell\ell^\prime$ in light of $(g-2)_μ$**|Wei-Shu Hou et.al.|[2209.02086v1](http://arxiv.org/abs/2209.02086v1)|null|
 |**2022-09-01**|**$B$-anomalies in a twin Pati-Salam theory of flavour**|Mario Fernández Navarro et.al.|[2209.00276v3](http://arxiv.org/abs/2209.00276v3)|null|
 |**2022-09-01**|**Heavy-Flavor-Conserving Hadronic Weak Decays of Charmed and Bottom Baryons: an Update**|Hai-Yang Cheng et.al.|[2209.00257v1](http://arxiv.org/abs/2209.00257v1)|null|
-|**2022-08-31**|**Molecular $Ω_{cc}$ , $Ω_{bb}$ and $Ω_{bc}$ states**|Wen-Fei Wang et.al.|[2208.14858v3](http://arxiv.org/abs/2208.14858v3)|null|
 
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-01**|**Investigating the transition form factors of $Λ_b\toΛ_c(2625)$ and $Ξ_b\toΞ_c(2815)$ and the corresponding weak decays with support from baryon spectroscopy**|Yu-Shuai Li et.al.|[2212.00300v1](http://arxiv.org/abs/2212.00300v1)|null|
 |**2022-11-29**|**Towards clarifying the possibility of observation of the LHCb hidden-charm pentaquarks $P_{c}^+(4312)$, $P_{c}^+(4337)$, $P_{c}^+(4440)$ and $P_{c}^+(4457)$ in near-threshold charmonium photoproduction off protons and nuclei**|E. Ya. Paryev et.al.|[2211.16037v1](http://arxiv.org/abs/2211.16037v1)|null|
 |**2022-11-29**|**Study of parity violation in $Λ_c^+\toφp$ and $Λ_c^+ \to ωp$ decays**|PengCheng Hong et.al.|[2211.16014v1](http://arxiv.org/abs/2211.16014v1)|null|
 |**2022-11-27**|**Molecular Interpretation of $X(3960)$ as $D_s^+ D_s^-$ State**|Halil Mutuk et.al.|[2211.14836v1](http://arxiv.org/abs/2211.14836v1)|null|
@@ -71,7 +72,6 @@
 |**2022-10-27**|**Observation of a resonant structure near the $D_s^+ D_s^-$ threshold in the $B^+\to D_s^+ D_s^- K^+$ decay**|LHCb collaboration et.al.|[2210.15153v1](http://arxiv.org/abs/2210.15153v1)|null|
 |**2022-10-26**|**Observation of the $B^0_s\!\to D^{*+}D^{*-}$ decay**|LHCb collaboration et.al.|[2210.14945v1](http://arxiv.org/abs/2210.14945v1)|null|
 |**2022-10-25**|**Rare decays at LHCb**|M. Santimaria et.al.|[2210.14004v1](http://arxiv.org/abs/2210.14004v1)|null|
-|**2022-10-23**|**Weak Decays of Antitriplet Charmed Baryons from the Perspective of Flavor Symmetry**|Huiling Zhong et.al.|[2210.12728v1](http://arxiv.org/abs/2210.12728v1)|null|
 
 ### X(3872)
 |Publish Date|Title|Authors|PDF|Code|
