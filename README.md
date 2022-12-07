@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2022-12-06 10:04:38 Asia/Shanghai
+ Automated deployment @ 2022-12-07 08:35:22 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -8,6 +8,8 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-04**|**Four-body baryonic $B\to{\bf B_1\bar B'_1 B_2 \bar B'_2}$ decays**|Yu-Kuo Hsiao et.al.|[2212.01954v1](http://arxiv.org/abs/2212.01954v1)|null|
+|**2022-12-04**|**Study of CP Violation in $D^{\pm}\rightarrow K^{\ast}(892)^{0} π^{\pm} + \bar{K}^{\ast }(892)^{0}π^{\pm}\rightarrow K_{S,L}^{0}π^0 π^{\pm}$ Decays**|Xiao-Dong Cheng et.al.|[2212.01828v1](http://arxiv.org/abs/2212.01828v1)|null|
 |**2022-12-01**|**Investigating the transition form factors of $Λ_b\toΛ_c(2625)$ and $Ξ_b\toΞ_c(2815)$ and the corresponding weak decays with support from baryon spectroscopy**|Yu-Shuai Li et.al.|[2212.00300v1](http://arxiv.org/abs/2212.00300v1)|null|
 |**2022-11-29**|**Towards clarifying the possibility of observation of the LHCb hidden-charm pentaquarks $P_{c}^+(4312)$, $P_{c}^+(4337)$, $P_{c}^+(4440)$ and $P_{c}^+(4457)$ in near-threshold charmonium photoproduction off protons and nuclei**|E. Ya. Paryev et.al.|[2211.16037v1](http://arxiv.org/abs/2211.16037v1)|null|
 |**2022-11-29**|**Study of parity violation in $Λ_c^+\toφp$ and $Λ_c^+ \to ωp$ decays**|PengCheng Hong et.al.|[2211.16014v1](http://arxiv.org/abs/2211.16014v1)|null|
@@ -36,12 +38,11 @@
 |**2022-10-28**|**Fully-heavy tetraquark spectroscopy in the relativistic quark model**|R. N. Faustov et.al.|[2210.16015v1](http://arxiv.org/abs/2210.16015v1)|null|
 |**2022-10-27**|**Estimates of exchange topological contributions and $CP$-violating observables in $Λ_b\rightarrow Λφ$ decay**|Zhou Rui et.al.|[2210.15357v1](http://arxiv.org/abs/2210.15357v1)|null|
 |**2022-10-27**|**Observation of a resonant structure near the $D_s^+ D_s^-$ threshold in the $B^+\to D_s^+ D_s^- K^+$ decay**|LHCb collaboration et.al.|[2210.15153v1](http://arxiv.org/abs/2210.15153v1)|null|
-|**2022-10-26**|**Observation of the $B^0_s\!\to D^{*+}D^{*-}$ decay**|LHCb collaboration et.al.|[2210.14945v1](http://arxiv.org/abs/2210.14945v1)|null|
-|**2022-10-25**|**Rare decays at LHCb**|M. Santimaria et.al.|[2210.14004v1](http://arxiv.org/abs/2210.14004v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-04**|**Four-body baryonic $B\to{\bf B_1\bar B'_1 B_2 \bar B'_2}$ decays**|Yu-Kuo Hsiao et.al.|[2212.01954v1](http://arxiv.org/abs/2212.01954v1)|null|
 |**2022-12-01**|**Investigating the transition form factors of $Λ_b\toΛ_c(2625)$ and $Ξ_b\toΞ_c(2815)$ and the corresponding weak decays with support from baryon spectroscopy**|Yu-Shuai Li et.al.|[2212.00300v1](http://arxiv.org/abs/2212.00300v1)|null|
 |**2022-11-29**|**$D_1(2420)$ and its interactions with a kaon: open charm states with strangeness**|Brenda B. Malabarba et.al.|[2211.16222v1](http://arxiv.org/abs/2211.16222v1)|null|
 |**2022-11-29**|**Study of parity violation in $Λ_c^+\toφp$ and $Λ_c^+ \to ωp$ decays**|PengCheng Hong et.al.|[2211.16014v1](http://arxiv.org/abs/2211.16014v1)|null|
@@ -71,7 +72,6 @@
 |**2022-09-06**|**Coupling Constant $g_{Λ_{b}B_{s}Λ}$ using the Baryonic $\bar{B}^{0}_{s}\rightarrow p\barΛ K^{-}$ Decay**|S. Rafibakhsh et.al.|[2209.02423v1](http://arxiv.org/abs/2209.02423v1)|null|
 |**2022-09-05**|**Enhanced $B_q \to \ell\ell^\prime$ and $B \to (K, π) \ell\ell^\prime$ in light of $(g-2)_μ$**|Wei-Shu Hou et.al.|[2209.02086v1](http://arxiv.org/abs/2209.02086v1)|null|
 |**2022-09-01**|**$B$-anomalies in a twin Pati-Salam theory of flavour**|Mario Fernández Navarro et.al.|[2209.00276v3](http://arxiv.org/abs/2209.00276v3)|null|
-|**2022-09-01**|**Heavy-Flavor-Conserving Hadronic Weak Decays of Charmed and Bottom Baryons: an Update**|Hai-Yang Cheng et.al.|[2209.00257v1](http://arxiv.org/abs/2209.00257v1)|null|
 
 ### X(3872)
 |Publish Date|Title|Authors|PDF|Code|
