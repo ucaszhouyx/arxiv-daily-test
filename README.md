@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2022-12-08 08:33:20 Asia/Shanghai
+ Automated deployment @ 2022-12-08 10:06:28 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -16,7 +16,7 @@
 |**2022-12-01**|**Investigating the transition form factors of $Λ_b\toΛ_c(2625)$ and $Ξ_b\toΞ_c(2815)$ and the corresponding weak decays with support from baryon spectroscopy**|Yu-Shuai Li et.al.|[2212.00300v1](http://arxiv.org/abs/2212.00300v1)|null|
 |**2022-11-29**|**Towards clarifying the possibility of observation of the LHCb hidden-charm pentaquarks $P_{c}^+(4312)$, $P_{c}^+(4337)$, $P_{c}^+(4440)$ and $P_{c}^+(4457)$ in near-threshold charmonium photoproduction off protons and nuclei**|E. Ya. Paryev et.al.|[2211.16037v1](http://arxiv.org/abs/2211.16037v1)|null|
 |**2022-11-29**|**Study of parity violation in $Λ_c^+\toφp$ and $Λ_c^+ \to ωp$ decays**|PengCheng Hong et.al.|[2211.16014v1](http://arxiv.org/abs/2211.16014v1)|null|
-|**2022-11-27**|**Molecular Interpretation of $X(3960)$ as $D_s^+ D_s^-$ State**|Halil Mutuk et.al.|[2211.14836v1](http://arxiv.org/abs/2211.14836v1)|null|
+|**2022-11-27**|**Molecular Interpretation of $X(3960)$ as $D_s^+ D_s^-$ State**|Halil Mutuk et.al.|[2211.14836v2](http://arxiv.org/abs/2211.14836v2)|null|
 |**2022-11-25**|**Impact of $Λ_b\to Λ_cτν$ measurement on New Physics in $b\to c \, l ν$ transitions**|Marco Fedele et.al.|[2211.14172v1](http://arxiv.org/abs/2211.14172v1)|null|
 |**2022-11-25**|**Resonance $X(3960)$ as a hidden charm-strange scalar tetraquark**|S. S. Agaev et.al.|[2211.14129v1](http://arxiv.org/abs/2211.14129v1)|null|
 |**2022-11-23**|**Nonleptonic decays of $Ξ_{cc}\to Ξ_c π$ with $Ξ_c-Ξ_c'$ mixing**|Chia-Wei Liu et.al.|[2211.12960v1](http://arxiv.org/abs/2211.12960v1)|null|
