@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2022-12-09 10:06:54 Asia/Shanghai
+ Automated deployment @ 2022-12-10 08:32:17 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-07**|**The branching fraction of $B_s\to K^0\bar K^0$: Three puzzles**|Yasmine Amhis et.al.|[2212.03874v1](http://arxiv.org/abs/2212.03874v1)|null|
 |**2022-12-06**|**The decays of the fully open flavor state $T_{c\bar{s}0}^{0}$ in a $D^{*}K^{*}$ molecule scenario**|Zi-Li Yue et.al.|[2212.03018v1](http://arxiv.org/abs/2212.03018v1)|null|
 |**2022-12-06**|**Amplitude analysis of $B^0 \rightarrow \overline{D}^0 D_s^+ π^-$ and $B^+ \rightarrow D^- D_s^+ π^+$ decays**|LHCb collaboration et.al.|[2212.02717v1](http://arxiv.org/abs/2212.02717v1)|null|
 |**2022-12-06**|**First observation of a doubly charged tetraquark and its neutral partner**|LHCb collaboration et.al.|[2212.02716v1](http://arxiv.org/abs/2212.02716v1)|null|
@@ -71,7 +72,6 @@
 |**2022-11-03**|**Charmed-strange tetraquarks and their decays in the potential quark model**|Feng-Xiao Liu et.al.|[2211.01711v1](http://arxiv.org/abs/2211.01711v1)|null|
 |**2022-11-02**|**Invisible Charm Exotica**|Michał Praszałowicz et.al.|[2211.01470v2](http://arxiv.org/abs/2211.01470v2)|null|
 |**2022-11-02**|**Study of the $B^{-} \to Λ_{c}^{+} \barΛ_{c}^{-} K^{-}$ decay**|LHCb collaboration et.al.|[2211.00812v2](http://arxiv.org/abs/2211.00812v2)|null|
-|**2022-10-28**|**Two is better than one: The U-spin-CP anomaly in charm**|Rigo Bause et.al.|[2210.16330v2](http://arxiv.org/abs/2210.16330v2)|null|
 
 ### X(3872)
 |Publish Date|Title|Authors|PDF|Code|
