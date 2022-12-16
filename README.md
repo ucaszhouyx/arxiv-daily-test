@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2022-12-16 08:33:49 Asia/Shanghai
+ Automated deployment @ 2022-12-16 09:53:43 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -8,11 +8,11 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-12-14**|**Robust Neural Particle Identification Models**|Aziz Temirkhanov et.al.|[2212.07274v1](http://arxiv.org/abs/2212.07274v1)|null|
+|**2022-12-14**|**Robust Neural Particle Identification Models**|Aziz Temirkhanov et.al.|[2212.07274v2](http://arxiv.org/abs/2212.07274v2)|null|
 |**2022-12-14**|**Search for the rare decays $W^+ \to D^+_sγ$ and $Z \to D^0γ$ at LHCb**|LHCb collaboration et.al.|[2212.07120v1](http://arxiv.org/abs/2212.07120v1)|null|
 |**2022-12-09**|**Search for $K^0_{\mathrm{S(L)}}\toμ^+μ^-μ^+μ^-$ decays at LHCb**|LHCb Collaboration et.al.|[2212.04977v4](http://arxiv.org/abs/2212.04977v4)|null|
 |**2022-12-09**|**FCNC processes of charmed hadrons with invisible scalar**|Chao-Qiang Geng et.al.|[2212.04699v1](http://arxiv.org/abs/2212.04699v1)|null|
-|**2022-12-07**|**The branching fraction of $B_s\to K^0\bar K^0$: Three puzzles**|Yasmine Amhis et.al.|[2212.03874v1](http://arxiv.org/abs/2212.03874v1)|null|
+|**2022-12-07**|**The branching fraction of $B_s\to K^0\bar K^0$: Three puzzles**|Yasmine Amhis et.al.|[2212.03874v2](http://arxiv.org/abs/2212.03874v2)|null|
 |**2022-12-06**|**The decays of the fully open flavor state $T_{c\bar{s}0}^{0}$ in a $D^{*}K^{*}$ molecule scenario**|Zi-Li Yue et.al.|[2212.03018v1](http://arxiv.org/abs/2212.03018v1)|null|
 |**2022-12-06**|**Amplitude analysis of $B^0 \rightarrow \overline{D}^0 D_s^+ π^-$ and $B^+ \rightarrow D^- D_s^+ π^+$ decays**|LHCb collaboration et.al.|[2212.02717v1](http://arxiv.org/abs/2212.02717v1)|null|
 |**2022-12-06**|**First observation of a doubly charged tetraquark and its neutral partner**|LHCb collaboration et.al.|[2212.02716v1](http://arxiv.org/abs/2212.02716v1)|null|
