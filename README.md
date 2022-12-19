@@ -1,43 +1,9 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2022-12-18 09:55:28 Asia/Shanghai
+ Automated deployment @ 2022-12-19 08:30:46 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
 ## LHCb
-
-### b baryon
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-12-09**|**Search for $K^0_{\mathrm{S(L)}}\toμ^+μ^-μ^+μ^-$ decays at LHCb**|LHCb Collaboration et.al.|[2212.04977v4](http://arxiv.org/abs/2212.04977v4)|null|
-|**2022-12-09**|**FCNC processes of charmed hadrons with invisible scalar**|Chao-Qiang Geng et.al.|[2212.04699v1](http://arxiv.org/abs/2212.04699v1)|null|
-|**2022-12-07**|**Searching for fully-heavy tetraquark states in QCD moment sum rules**|Wei Chen et.al.|[2212.03689v1](http://arxiv.org/abs/2212.03689v1)|null|
-|**2022-12-04**|**Four-body baryonic $B\to{\bf B_1\bar B'_1 B_2 \bar B'_2}$ decays**|Yu-Kuo Hsiao et.al.|[2212.01954v1](http://arxiv.org/abs/2212.01954v1)|null|
-|**2022-12-01**|**Investigating the transition form factors of $Λ_b\toΛ_c(2625)$ and $Ξ_b\toΞ_c(2815)$ and the corresponding weak decays with support from baryon spectroscopy**|Yu-Shuai Li et.al.|[2212.00300v1](http://arxiv.org/abs/2212.00300v1)|null|
-|**2022-11-29**|**$D_1(2420)$ and its interactions with a kaon: open charm states with strangeness**|Brenda B. Malabarba et.al.|[2211.16222v1](http://arxiv.org/abs/2211.16222v1)|null|
-|**2022-11-29**|**Study of parity violation in $Λ_c^+\toφp$ and $Λ_c^+ \to ωp$ decays**|PengCheng Hong et.al.|[2211.16014v1](http://arxiv.org/abs/2211.16014v1)|null|
-|**2022-11-25**|**Impact of $Λ_b\to Λ_cτν$ measurement on New Physics in $b\to c \, l ν$ transitions**|Marco Fedele et.al.|[2211.14172v1](http://arxiv.org/abs/2211.14172v1)|null|
-|**2022-11-23**|**Nonleptonic decays of $Ξ_{cc}\to Ξ_c π$ with $Ξ_c-Ξ_c'$ mixing**|Chia-Wei Liu et.al.|[2211.12960v1](http://arxiv.org/abs/2211.12960v1)|null|
-|**2022-11-19**|**$B \to K^{(\ast)} ν\barν$ in covariant confined quark model**|Aidos Issadykov et.al.|[2211.10683v2](http://arxiv.org/abs/2211.10683v2)|null|
-|**2022-11-15**|**Zooming into CP violation in $B_{(s)}\to hh$ Decays**|Robert Fleischer et.al.|[2211.08346v1](http://arxiv.org/abs/2211.08346v1)|null|
-|**2022-11-10**|**A lesson from $R_{ττ}^{K^{(\ast)}}$ and $R_{νν}^{K^{(\ast)}}$ at Belle II**|Arturo de Giorgi et.al.|[2211.05595v1](http://arxiv.org/abs/2211.05595v1)|null|
-|**2022-11-02**|**Invisible Charm Exotica**|Michał Praszałowicz et.al.|[2211.01470v2](http://arxiv.org/abs/2211.01470v2)|null|
-|**2022-10-28**|**Fully-heavy tetraquark spectroscopy in the relativistic quark model**|R. N. Faustov et.al.|[2210.16015v1](http://arxiv.org/abs/2210.16015v1)|null|
-|**2022-10-25**|**Rare decays at LHCb**|M. Santimaria et.al.|[2210.14004v1](http://arxiv.org/abs/2210.14004v1)|null|
-|**2022-10-23**|**Weak Decays of Antitriplet Charmed Baryons from the Perspective of Flavor Symmetry**|Huiling Zhong et.al.|[2210.12728v1](http://arxiv.org/abs/2210.12728v1)|null|
-|**2022-10-21**|**Charged Current Anomalies with Baryons**|Damir Becirevic et.al.|[2210.12071v1](http://arxiv.org/abs/2210.12071v1)|null|
-|**2022-10-19**|**Global fit to $b \to cτν$ anomalies 2022 mid-autumn**|Syuhei Iguro et.al.|[2210.10751v1](http://arxiv.org/abs/2210.10751v1)|null|
-|**2022-10-19**|**Light quark decays of doubly heavy baryons in light front approach**|Hang Liu et.al.|[2210.10529v2](http://arxiv.org/abs/2210.10529v2)|null|
-|**2022-10-16**|**Analysis of CKM-Favored Quasi-Two-Body $B \to D (R\to) K π$ Decays in PQCD Approach**|Zhi-Tian Zou et.al.|[2210.08522v1](http://arxiv.org/abs/2210.08522v1)|null|
-|**2022-10-15**|**Dispersive $ππ\rightarrow K\bar K$ amplitude and giant CP violation in B to three light-meson decays at LHCb**|R. Alvarez Garrote et.al.|[2210.08354v1](http://arxiv.org/abs/2210.08354v1)|null|
-|**2022-10-15**|**Molecular tetraquarks and pentaquarks in chiral effective field theory**|Bo Wang et.al.|[2210.08227v1](http://arxiv.org/abs/2210.08227v1)|null|
-|**2022-10-13**|**Neutral current B-decay anomalies**|T. Hurth et.al.|[2210.07221v1](http://arxiv.org/abs/2210.07221v1)|null|
-|**2022-10-10**|**The angular analysis of $Λ_b\toΛ(1520)(\to N\bar{K})\ell^+\ell^-$ decay**|Yu-Shuai Li et.al.|[2210.04640v2](http://arxiv.org/abs/2210.04640v2)|null|
-|**2022-10-10**|**Charmonium production in pp collisions at energies available at the CERN Large Hadron Collider**|Biswarup Paul et.al.|[2210.04518v1](http://arxiv.org/abs/2210.04518v1)|null|
-|**2022-10-06**|**Double strangeness molecular-type pentaquarks from coupled channel dynamics**|J. A. Marse i Valera et.al.|[2210.02792v1](http://arxiv.org/abs/2210.02792v1)|null|
-|**2022-09-28**|**Spectrum of the S-wave fully-heavy tetraquark states**|Jie Zhang et.al.|[2209.13856v2](http://arxiv.org/abs/2209.13856v2)|null|
-|**2022-09-10**|**Singlet vector leptoquark model facing recent LHCb and BABAR measurements**|Cristian H. García-Duque et.al.|[2209.04753v2](http://arxiv.org/abs/2209.04753v2)|null|
-|**2022-09-09**|**Model-independent analysis of $b\to d$ processes**|Rigo Bause et.al.|[2209.04457v1](http://arxiv.org/abs/2209.04457v1)|null|
-|**2022-09-07**|**A new approach to semi-leptonic tags in $B$-meson semi-invisible decays**|Gaetano de Marino et.al.|[2209.03387v1](http://arxiv.org/abs/2209.03387v1)|null|
 
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
@@ -72,6 +38,40 @@
 |**2022-11-10**|**A lesson from $R_{ττ}^{K^{(\ast)}}$ and $R_{νν}^{K^{(\ast)}}$ at Belle II**|Arturo de Giorgi et.al.|[2211.05595v1](http://arxiv.org/abs/2211.05595v1)|null|
 |**2022-11-10**|**Phenomenological description of the $π^-π^+$ $S$-waves in $D^+\toπ^-π^+π^+$ and $D^+_s\toπ^-π^+π^+$ decays. The problem of phases**|N. N. Achasov et.al.|[2211.05526v1](http://arxiv.org/abs/2211.05526v1)|null|
 |**2022-11-09**|**First observation of the $B^+ \rightarrow D_s^+ D_s^- K^+$ decay**|LHCb collaboration et.al.|[2211.05034v1](http://arxiv.org/abs/2211.05034v1)|null|
+
+### b baryon
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-12-09**|**Search for $K^0_{\mathrm{S(L)}}\toμ^+μ^-μ^+μ^-$ decays at LHCb**|LHCb Collaboration et.al.|[2212.04977v4](http://arxiv.org/abs/2212.04977v4)|null|
+|**2022-12-09**|**FCNC processes of charmed hadrons with invisible scalar**|Chao-Qiang Geng et.al.|[2212.04699v1](http://arxiv.org/abs/2212.04699v1)|null|
+|**2022-12-07**|**Searching for fully-heavy tetraquark states in QCD moment sum rules**|Wei Chen et.al.|[2212.03689v1](http://arxiv.org/abs/2212.03689v1)|null|
+|**2022-12-04**|**Four-body baryonic $B\to{\bf B_1\bar B'_1 B_2 \bar B'_2}$ decays**|Yu-Kuo Hsiao et.al.|[2212.01954v1](http://arxiv.org/abs/2212.01954v1)|null|
+|**2022-12-01**|**Investigating the transition form factors of $Λ_b\toΛ_c(2625)$ and $Ξ_b\toΞ_c(2815)$ and the corresponding weak decays with support from baryon spectroscopy**|Yu-Shuai Li et.al.|[2212.00300v1](http://arxiv.org/abs/2212.00300v1)|null|
+|**2022-11-29**|**$D_1(2420)$ and its interactions with a kaon: open charm states with strangeness**|Brenda B. Malabarba et.al.|[2211.16222v1](http://arxiv.org/abs/2211.16222v1)|null|
+|**2022-11-29**|**Study of parity violation in $Λ_c^+\toφp$ and $Λ_c^+ \to ωp$ decays**|PengCheng Hong et.al.|[2211.16014v1](http://arxiv.org/abs/2211.16014v1)|null|
+|**2022-11-25**|**Impact of $Λ_b\to Λ_cτν$ measurement on New Physics in $b\to c \, l ν$ transitions**|Marco Fedele et.al.|[2211.14172v1](http://arxiv.org/abs/2211.14172v1)|null|
+|**2022-11-23**|**Nonleptonic decays of $Ξ_{cc}\to Ξ_c π$ with $Ξ_c-Ξ_c'$ mixing**|Chia-Wei Liu et.al.|[2211.12960v1](http://arxiv.org/abs/2211.12960v1)|null|
+|**2022-11-19**|**$B \to K^{(\ast)} ν\barν$ in covariant confined quark model**|Aidos Issadykov et.al.|[2211.10683v2](http://arxiv.org/abs/2211.10683v2)|null|
+|**2022-11-15**|**Zooming into CP violation in $B_{(s)}\to hh$ Decays**|Robert Fleischer et.al.|[2211.08346v1](http://arxiv.org/abs/2211.08346v1)|null|
+|**2022-11-10**|**A lesson from $R_{ττ}^{K^{(\ast)}}$ and $R_{νν}^{K^{(\ast)}}$ at Belle II**|Arturo de Giorgi et.al.|[2211.05595v1](http://arxiv.org/abs/2211.05595v1)|null|
+|**2022-11-02**|**Invisible Charm Exotica**|Michał Praszałowicz et.al.|[2211.01470v2](http://arxiv.org/abs/2211.01470v2)|null|
+|**2022-10-28**|**Fully-heavy tetraquark spectroscopy in the relativistic quark model**|R. N. Faustov et.al.|[2210.16015v1](http://arxiv.org/abs/2210.16015v1)|null|
+|**2022-10-25**|**Rare decays at LHCb**|M. Santimaria et.al.|[2210.14004v1](http://arxiv.org/abs/2210.14004v1)|null|
+|**2022-10-23**|**Weak Decays of Antitriplet Charmed Baryons from the Perspective of Flavor Symmetry**|Huiling Zhong et.al.|[2210.12728v1](http://arxiv.org/abs/2210.12728v1)|null|
+|**2022-10-21**|**Charged Current Anomalies with Baryons**|Damir Becirevic et.al.|[2210.12071v1](http://arxiv.org/abs/2210.12071v1)|null|
+|**2022-10-19**|**Global fit to $b \to cτν$ anomalies 2022 mid-autumn**|Syuhei Iguro et.al.|[2210.10751v1](http://arxiv.org/abs/2210.10751v1)|null|
+|**2022-10-19**|**Light quark decays of doubly heavy baryons in light front approach**|Hang Liu et.al.|[2210.10529v2](http://arxiv.org/abs/2210.10529v2)|null|
+|**2022-10-16**|**Analysis of CKM-Favored Quasi-Two-Body $B \to D (R\to) K π$ Decays in PQCD Approach**|Zhi-Tian Zou et.al.|[2210.08522v1](http://arxiv.org/abs/2210.08522v1)|null|
+|**2022-10-15**|**Dispersive $ππ\rightarrow K\bar K$ amplitude and giant CP violation in B to three light-meson decays at LHCb**|R. Alvarez Garrote et.al.|[2210.08354v1](http://arxiv.org/abs/2210.08354v1)|null|
+|**2022-10-15**|**Molecular tetraquarks and pentaquarks in chiral effective field theory**|Bo Wang et.al.|[2210.08227v1](http://arxiv.org/abs/2210.08227v1)|null|
+|**2022-10-13**|**Neutral current B-decay anomalies**|T. Hurth et.al.|[2210.07221v1](http://arxiv.org/abs/2210.07221v1)|null|
+|**2022-10-10**|**The angular analysis of $Λ_b\toΛ(1520)(\to N\bar{K})\ell^+\ell^-$ decay**|Yu-Shuai Li et.al.|[2210.04640v2](http://arxiv.org/abs/2210.04640v2)|null|
+|**2022-10-10**|**Charmonium production in pp collisions at energies available at the CERN Large Hadron Collider**|Biswarup Paul et.al.|[2210.04518v1](http://arxiv.org/abs/2210.04518v1)|null|
+|**2022-10-06**|**Double strangeness molecular-type pentaquarks from coupled channel dynamics**|J. A. Marse i Valera et.al.|[2210.02792v1](http://arxiv.org/abs/2210.02792v1)|null|
+|**2022-09-28**|**Spectrum of the S-wave fully-heavy tetraquark states**|Jie Zhang et.al.|[2209.13856v2](http://arxiv.org/abs/2209.13856v2)|null|
+|**2022-09-10**|**Singlet vector leptoquark model facing recent LHCb and BABAR measurements**|Cristian H. García-Duque et.al.|[2209.04753v2](http://arxiv.org/abs/2209.04753v2)|null|
+|**2022-09-09**|**Model-independent analysis of $b\to d$ processes**|Rigo Bause et.al.|[2209.04457v1](http://arxiv.org/abs/2209.04457v1)|null|
+|**2022-09-07**|**A new approach to semi-leptonic tags in $B$-meson semi-invisible decays**|Gaetano de Marino et.al.|[2209.03387v1](http://arxiv.org/abs/2209.03387v1)|null|
 
 ### X(3872)
 |Publish Date|Title|Authors|PDF|Code|
