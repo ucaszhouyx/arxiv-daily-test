@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2022-12-22 09:58:00 Asia/Shanghai
+ Automated deployment @ 2022-12-23 08:32:50 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -8,6 +8,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-21**|**Search for rare decays of $D^0$ mesons into two muons**|LHCb collaboration et.al.|[2212.11203v1](http://arxiv.org/abs/2212.11203v1)|null|
 |**2022-12-20**|**Constraints on Lepton Universality Violation from Rare $B$ Decays**|Marco Ciuchini et.al.|[2212.10516v1](http://arxiv.org/abs/2212.10516v1)|null|
 |**2022-12-20**|**Rare $b$ decays meet high-mass Drell-Yan**|Admir Greljo et.al.|[2212.10497v1](http://arxiv.org/abs/2212.10497v1)|null|
 |**2022-12-18**|**Measurement of lepton universality parameters in $B^+\to K^+\ell^+\ell^-$ and $B^0\to K^{*0}\ell^+\ell^-$ decays**|LHCb collaboration et.al.|[2212.09153v1](http://arxiv.org/abs/2212.09153v1)|null|
@@ -37,7 +38,6 @@
 |**2022-11-16**|**Scalar and tensor mesons in $d\bar d$, $s\bar s$ and $gg\to f_0, f_2$**|A. V. Sarantsev et.al.|[2211.08791v1](http://arxiv.org/abs/2211.08791v1)|null|
 |**2022-11-15**|**Zooming into CP violation in $B_{(s)}\to hh$ Decays**|Robert Fleischer et.al.|[2211.08346v1](http://arxiv.org/abs/2211.08346v1)|null|
 |**2022-11-11**|**$P^Λ_{ψs}(4459)$ and $P^Λ_{ψs}(4338)$ as molecular states in $ J/ψΛ$ invariant mass spectra**|Jun-Tao Zhu et.al.|[2211.06232v1](http://arxiv.org/abs/2211.06232v1)|null|
-|**2022-11-10**|**Precision tau physics: Challenge for Theory, on and off the lattice**|Amarjit Soni et.al.|[2211.05839v1](http://arxiv.org/abs/2211.05839v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
