@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2022-12-23 09:56:05 Asia/Shanghai
+ Automated deployment @ 2022-12-24 08:29:32 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -15,6 +15,7 @@
 |**2022-12-18**|**Test of lepton universality in $b \rightarrow s \ell^+ \ell^-$ decays**|LHCb collaboration et.al.|[2212.09152v1](http://arxiv.org/abs/2212.09152v1)|null|
 |**2022-12-15**|**Forward production of prompt neutrinos from charm in the atmosphere and at high energy colliders**|Weidong Bai et.al.|[2212.07865v1](http://arxiv.org/abs/2212.07865v1)|null|
 |**2022-12-14**|**Robust Neural Particle Identification Models**|Aziz Temirkhanov et.al.|[2212.07274v2](http://arxiv.org/abs/2212.07274v2)|null|
+|**2022-12-14**|**Interplay of the charged Higgs effects in $R_{D^{(\ast)}}$, $b\to s \ell^+\ell^-$ and $W$-mass**|Girish Kumar et.al.|[2212.07233v2](http://arxiv.org/abs/2212.07233v2)|null|
 |**2022-12-14**|**Search for the rare decays $W^+ \to D^+_sγ$ and $Z \to D^0γ$ at LHCb**|LHCb collaboration et.al.|[2212.07120v1](http://arxiv.org/abs/2212.07120v1)|null|
 |**2022-12-09**|**Search for $K^0_{\mathrm{S(L)}}\toμ^+μ^-μ^+μ^-$ decays at LHCb**|LHCb Collaboration et.al.|[2212.04977v4](http://arxiv.org/abs/2212.04977v4)|null|
 |**2022-12-09**|**FCNC processes of charmed hadrons with invisible scalar**|Chao-Qiang Geng et.al.|[2212.04699v1](http://arxiv.org/abs/2212.04699v1)|null|
@@ -37,7 +38,6 @@
 |**2022-11-16**|**Searches for the rare hadronic decays $B^0 \rightarrow p\bar{p}p\bar{p}$ and $B^0_{s} \rightarrow p\bar{p}p\bar{p}$**|LHCb collaboration et.al.|[2211.08847v1](http://arxiv.org/abs/2211.08847v1)|null|
 |**2022-11-16**|**Scalar and tensor mesons in $d\bar d$, $s\bar s$ and $gg\to f_0, f_2$**|A. V. Sarantsev et.al.|[2211.08791v1](http://arxiv.org/abs/2211.08791v1)|null|
 |**2022-11-15**|**Zooming into CP violation in $B_{(s)}\to hh$ Decays**|Robert Fleischer et.al.|[2211.08346v1](http://arxiv.org/abs/2211.08346v1)|null|
-|**2022-11-11**|**$P^Λ_{ψs}(4459)$ and $P^Λ_{ψs}(4338)$ as molecular states in $ J/ψΛ$ invariant mass spectra**|Jun-Tao Zhu et.al.|[2211.06232v1](http://arxiv.org/abs/2211.06232v1)|null|
 
 ### X(3872)
 |Publish Date|Title|Authors|PDF|Code|
@@ -80,6 +80,7 @@
 |**2022-12-20**|**Rare $b$ decays meet high-mass Drell-Yan**|Admir Greljo et.al.|[2212.10497v1](http://arxiv.org/abs/2212.10497v1)|null|
 |**2022-12-19**|**Fingerprinting CP-violating New Physics with $B \to Kμ^+μ^-$**|Robert Fleischer et.al.|[2212.09575v1](http://arxiv.org/abs/2212.09575v1)|null|
 |**2022-12-18**|**Test of lepton universality in $b \rightarrow s \ell^+ \ell^-$ decays**|LHCb collaboration et.al.|[2212.09152v1](http://arxiv.org/abs/2212.09152v1)|null|
+|**2022-12-14**|**Interplay of the charged Higgs effects in $R_{D^{(\ast)}}$, $b\to s \ell^+\ell^-$ and $W$-mass**|Girish Kumar et.al.|[2212.07233v2](http://arxiv.org/abs/2212.07233v2)|null|
 |**2022-12-09**|**Search for $K^0_{\mathrm{S(L)}}\toμ^+μ^-μ^+μ^-$ decays at LHCb**|LHCb Collaboration et.al.|[2212.04977v4](http://arxiv.org/abs/2212.04977v4)|null|
 |**2022-12-09**|**FCNC processes of charmed hadrons with invisible scalar**|Chao-Qiang Geng et.al.|[2212.04699v1](http://arxiv.org/abs/2212.04699v1)|null|
 |**2022-12-07**|**Searching for fully-heavy tetraquark states in QCD moment sum rules**|Wei Chen et.al.|[2212.03689v1](http://arxiv.org/abs/2212.03689v1)|null|
@@ -105,4 +106,3 @@
 |**2022-10-13**|**Neutral current B-decay anomalies**|T. Hurth et.al.|[2210.07221v1](http://arxiv.org/abs/2210.07221v1)|null|
 |**2022-10-10**|**The angular analysis of $Λ_b\toΛ(1520)(\to N\bar{K})\ell^+\ell^-$ decay**|Yu-Shuai Li et.al.|[2210.04640v2](http://arxiv.org/abs/2210.04640v2)|null|
 |**2022-10-10**|**Charmonium production in pp collisions at energies available at the CERN Large Hadron Collider**|Biswarup Paul et.al.|[2210.04518v1](http://arxiv.org/abs/2210.04518v1)|null|
-|**2022-10-06**|**Double strangeness molecular-type pentaquarks from coupled channel dynamics**|J. A. Marse i Valera et.al.|[2210.02792v1](http://arxiv.org/abs/2210.02792v1)|null|
