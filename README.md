@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2023-01-02 08:34:12 Asia/Shanghai
+ Automated deployment @ 2023-01-02 09:57:37 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -14,7 +14,7 @@
 |**2022-12-20**|**Rare $b$ decays meet high-mass Drell-Yan**|Admir Greljo et.al.|[2212.10497v1](http://arxiv.org/abs/2212.10497v1)|null|
 |**2022-12-19**|**Fingerprinting CP-violating New Physics with $B \to Kμ^+μ^-$**|Robert Fleischer et.al.|[2212.09575v1](http://arxiv.org/abs/2212.09575v1)|null|
 |**2022-12-18**|**Test of lepton universality in $b \rightarrow s \ell^+ \ell^-$ decays**|LHCb collaboration et.al.|[2212.09152v1](http://arxiv.org/abs/2212.09152v1)|null|
-|**2022-12-14**|**Interplay of the charged Higgs effects in $R_{D^{(\ast)}}$, $b\to s \ell^+\ell^-$ and $W$-mass**|Girish Kumar et.al.|[2212.07233v2](http://arxiv.org/abs/2212.07233v2)|null|
+|**2022-12-14**|**Interplay of the charged Higgs effects in $R_{D^{(\ast)}}$, $b\to s \ell^+\ell^-$ and $W$-mass**|Girish Kumar et.al.|[2212.07233v3](http://arxiv.org/abs/2212.07233v3)|null|
 |**2022-12-09**|**Search for $K^0_{\mathrm{S(L)}}\toμ^+μ^-μ^+μ^-$ decays at LHCb**|LHCb Collaboration et.al.|[2212.04977v4](http://arxiv.org/abs/2212.04977v4)|null|
 |**2022-12-09**|**FCNC processes of charmed hadrons with invisible scalar**|Chao-Qiang Geng et.al.|[2212.04699v1](http://arxiv.org/abs/2212.04699v1)|null|
 |**2022-12-07**|**Searching for fully-heavy tetraquark states in QCD moment sum rules**|Wei Chen et.al.|[2212.03689v1](http://arxiv.org/abs/2212.03689v1)|null|
@@ -54,7 +54,7 @@
 |**2022-12-18**|**Test of lepton universality in $b \rightarrow s \ell^+ \ell^-$ decays**|LHCb collaboration et.al.|[2212.09152v1](http://arxiv.org/abs/2212.09152v1)|null|
 |**2022-12-15**|**Forward production of prompt neutrinos from charm in the atmosphere and at high energy colliders**|Weidong Bai et.al.|[2212.07865v1](http://arxiv.org/abs/2212.07865v1)|null|
 |**2022-12-14**|**Robust Neural Particle Identification Models**|Aziz Temirkhanov et.al.|[2212.07274v2](http://arxiv.org/abs/2212.07274v2)|null|
-|**2022-12-14**|**Interplay of the charged Higgs effects in $R_{D^{(\ast)}}$, $b\to s \ell^+\ell^-$ and $W$-mass**|Girish Kumar et.al.|[2212.07233v2](http://arxiv.org/abs/2212.07233v2)|null|
+|**2022-12-14**|**Interplay of the charged Higgs effects in $R_{D^{(\ast)}}$, $b\to s \ell^+\ell^-$ and $W$-mass**|Girish Kumar et.al.|[2212.07233v3](http://arxiv.org/abs/2212.07233v3)|null|
 |**2022-12-14**|**Search for the rare decays $W^+ \to D^+_sγ$ and $Z \to D^0γ$ at LHCb**|LHCb collaboration et.al.|[2212.07120v1](http://arxiv.org/abs/2212.07120v1)|null|
 |**2022-12-09**|**Search for $K^0_{\mathrm{S(L)}}\toμ^+μ^-μ^+μ^-$ decays at LHCb**|LHCb Collaboration et.al.|[2212.04977v4](http://arxiv.org/abs/2212.04977v4)|null|
 |**2022-12-09**|**FCNC processes of charmed hadrons with invisible scalar**|Chao-Qiang Geng et.al.|[2212.04699v1](http://arxiv.org/abs/2212.04699v1)|null|
