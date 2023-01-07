@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2023-01-06 10:06:44 Asia/Shanghai
+ Automated deployment @ 2023-01-07 08:33:53 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -8,6 +8,7 @@
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-05**|**Strong decays of $P_ψ^N(4312)^+\to J/ψ(η_c) p$ within the Bethe-Salpeter framework**|Qiang Li et.al.|[2301.02094v1](http://arxiv.org/abs/2301.02094v1)|null|
 |**2023-01-04**|**Status of leptoquark models after LHC Run-2 and discovery prospects at future colliders**|Nishita Desai et.al.|[2301.01754v1](http://arxiv.org/abs/2301.01754v1)|null|
 |**2022-12-26**|**Doubly charmed baryon decays $Ξ_{cc}^{++}\toΞ_c^{(\prime)+}π^+$ in the quark model**|Shuge Zeng et.al.|[2212.12983v1](http://arxiv.org/abs/2212.12983v1)|null|
 |**2022-12-23**|**Investigating $ Υ\to τ^+ τ^- $ decay in the Leptoquark scenario**|Sambit Kumar Pusty et.al.|[2212.12153v1](http://arxiv.org/abs/2212.12153v1)|null|
@@ -37,11 +38,11 @@
 |**2022-10-19**|**Light quark decays of doubly heavy baryons in light front approach**|Hang Liu et.al.|[2210.10529v2](http://arxiv.org/abs/2210.10529v2)|null|
 |**2022-10-16**|**Analysis of CKM-Favored Quasi-Two-Body $B \to D (R\to) K π$ Decays in PQCD Approach**|Zhi-Tian Zou et.al.|[2210.08522v1](http://arxiv.org/abs/2210.08522v1)|null|
 |**2022-10-15**|**Dispersive $ππ\rightarrow K\bar K$ amplitude and giant CP violation in B to three light-meson decays at LHCb**|R. Alvarez Garrote et.al.|[2210.08354v1](http://arxiv.org/abs/2210.08354v1)|null|
-|**2022-10-15**|**Molecular tetraquarks and pentaquarks in chiral effective field theory**|Bo Wang et.al.|[2210.08227v1](http://arxiv.org/abs/2210.08227v1)|null|
 
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-05**|**Strong decays of $P_ψ^N(4312)^+\to J/ψ(η_c) p$ within the Bethe-Salpeter framework**|Qiang Li et.al.|[2301.02094v1](http://arxiv.org/abs/2301.02094v1)|null|
 |**2022-12-31**|**Four-body Semileptonic Charm Decays $D\to P_1P_2\ell^+ν_\ell $ Based on SU(3) Flavor Analysis**|Ru-Min Wang et.al.|[2301.00090v1](http://arxiv.org/abs/2301.00090v1)|null|
 |**2022-12-31**|**Semileptonic $D$ Meson Decays $D\to P/V/S\ell^+ν_\ell$ with the SU(3) Flavor Symmetry/Breaking**|Ru-Min Wang et.al.|[2301.00079v1](http://arxiv.org/abs/2301.00079v1)|null|
 |**2022-12-26**|**Doubly charmed baryon decays $Ξ_{cc}^{++}\toΞ_c^{(\prime)+}π^+$ in the quark model**|Shuge Zeng et.al.|[2212.12983v1](http://arxiv.org/abs/2212.12983v1)|null|
@@ -71,7 +72,6 @@
 |**2022-11-29**|**Study of parity violation in $Λ_c^+\toφp$ and $Λ_c^+ \to ωp$ decays**|PengCheng Hong et.al.|[2211.16014v1](http://arxiv.org/abs/2211.16014v1)|null|
 |**2022-11-27**|**Molecular Interpretation of $X(3960)$ as $D_s^+ D_s^-$ State**|Halil Mutuk et.al.|[2211.14836v2](http://arxiv.org/abs/2211.14836v2)|null|
 |**2022-11-25**|**Impact of $Λ_b\to Λ_cτν$ measurement on New Physics in $b\to c \, l ν$ transitions**|Marco Fedele et.al.|[2211.14172v1](http://arxiv.org/abs/2211.14172v1)|null|
-|**2022-11-25**|**Resonance $X(3960)$ as a hidden charm-strange scalar tetraquark**|S. S. Agaev et.al.|[2211.14129v1](http://arxiv.org/abs/2211.14129v1)|null|
 
 ### X(3872)
 |Publish Date|Title|Authors|PDF|Code|
