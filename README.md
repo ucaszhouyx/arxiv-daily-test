@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2023-02-02 10:08:09 Asia/Shanghai
+ Automated deployment @ 2023-02-03 08:38:05 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -8,6 +8,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-01**|**CP Violation In Baryon Decays At LHCb**|Xinchen Dai et.al.|[2302.00180v1](http://arxiv.org/abs/2302.00180v1)|null|
 |**2023-01-27**|**Strong decays of $T_{cc}^+$ at NLO in an effective field theory**|Lin Dai et.al.|[2301.11950v1](http://arxiv.org/abs/2301.11950v1)|null|
 |**2023-01-24**|**A study of $C\!P$ violation in the decays $B^\pm\to[K^+K^-π^+π^-]_D h^{\pm}$ ($h = K, π$) and $B^\pm\to[π^+π^-π^+π^-]_D h^{\pm}$**|LHCb collaboration et.al.|[2301.10328v1](http://arxiv.org/abs/2301.10328v1)|null|
 |**2023-01-17**|**$Λ^+_\mathrm{c}$ polarimetry using the dominant hadronic mode**|LHCb collaboration et.al.|[2301.07010v1](http://arxiv.org/abs/2301.07010v1)|null|
@@ -37,11 +38,11 @@
 |**2022-12-06**|**Amplitude analysis of $B^0 \rightarrow \overline{D}^0 D_s^+ π^-$ and $B^+ \rightarrow D^- D_s^+ π^+$ decays**|LHCb collaboration et.al.|[2212.02717v1](http://arxiv.org/abs/2212.02717v1)|null|
 |**2022-12-06**|**First observation of a doubly charged tetraquark and its neutral partner**|LHCb collaboration et.al.|[2212.02716v1](http://arxiv.org/abs/2212.02716v1)|null|
 |**2022-12-04**|**Four-body baryonic $B\to{\bf B_1\bar B'_1 B_2 \bar B'_2}$ decays**|Yu-Kuo Hsiao et.al.|[2212.01954v1](http://arxiv.org/abs/2212.01954v1)|null|
-|**2022-12-04**|**Study of CP Violation in $D^{\pm}\rightarrow K^{\ast}(892)^{0} π^{\pm} + \bar{K}^{\ast }(892)^{0}π^{\pm}\rightarrow K_{S,L}^{0}π^0 π^{\pm}$ Decays**|Xiao-Dong Cheng et.al.|[2212.01828v1](http://arxiv.org/abs/2212.01828v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-01**|**CP Violation In Baryon Decays At LHCb**|Xinchen Dai et.al.|[2302.00180v1](http://arxiv.org/abs/2302.00180v1)|null|
 |**2023-01-17**|**$Λ^+_\mathrm{c}$ polarimetry using the dominant hadronic mode**|LHCb collaboration et.al.|[2301.07010v1](http://arxiv.org/abs/2301.07010v1)|null|
 |**2023-01-05**|**Strong decays of $P_ψ^N(4312)^+\to J/ψ(η_c) p$ within the Bethe-Salpeter framework**|Qiang Li et.al.|[2301.02094v1](http://arxiv.org/abs/2301.02094v1)|null|
 |**2023-01-04**|**Status of leptoquark models after LHC Run-2 and discovery prospects at future colliders**|Nishita Desai et.al.|[2301.01754v1](http://arxiv.org/abs/2301.01754v1)|null|
@@ -71,7 +72,6 @@
 |**2022-10-23**|**Weak Decays of Antitriplet Charmed Baryons from the Perspective of Flavor Symmetry**|Huiling Zhong et.al.|[2210.12728v1](http://arxiv.org/abs/2210.12728v1)|null|
 |**2022-10-21**|**Charged Current Anomalies with Baryons**|Damir Becirevic et.al.|[2210.12071v1](http://arxiv.org/abs/2210.12071v1)|null|
 |**2022-10-19**|**Global fit to $b \to cτν$ anomalies 2022 mid-autumn**|Syuhei Iguro et.al.|[2210.10751v2](http://arxiv.org/abs/2210.10751v2)|null|
-|**2022-10-19**|**Light quark decays of doubly heavy baryons in light front approach**|Hang Liu et.al.|[2210.10529v2](http://arxiv.org/abs/2210.10529v2)|null|
 
 ### X(3872)
 |Publish Date|Title|Authors|PDF|Code|
