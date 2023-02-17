@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2023-02-16 10:08:38 Asia/Shanghai
+ Automated deployment @ 2023-02-17 08:39:34 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -8,6 +8,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-15**|**Estimated of $CP$ violation in $B^0$ meson decays into $D^{*+}$ and $D^-$ mesons**|Behnam Mohammadi et.al.|[2302.07819v1](http://arxiv.org/abs/2302.07819v1)|null|
 |**2023-02-09**|**Observation of new $Ω_c^{0}$ states decaying to the $Ξ_c^+K^-$ final state**|LHCb collaboration et.al.|[2302.04733v1](http://arxiv.org/abs/2302.04733v1)|null|
 |**2023-02-07**|**Scrutinizing new physics in exclusive $b \to s \ell \ell ^{\prime}$ processes**|Manas K. Mohapatra et.al.|[2302.03209v1](http://arxiv.org/abs/2302.03209v1)|null|
 |**2023-02-06**|**Measurement of the ratios of branching fractions $\mathcal{R}(D^{*})$ and $\mathcal{R}(D^{0})$**|LHCb Collaboration et.al.|[2302.02886v1](http://arxiv.org/abs/2302.02886v1)|null|
@@ -37,7 +38,6 @@
 |**2022-12-15**|**Forward production of prompt neutrinos from charm in the atmosphere and at high energy colliders**|Weidong Bai et.al.|[2212.07865v1](http://arxiv.org/abs/2212.07865v1)|null|
 |**2022-12-14**|**Robust Neural Particle Identification Models**|Aziz Temirkhanov et.al.|[2212.07274v2](http://arxiv.org/abs/2212.07274v2)|null|
 |**2022-12-14**|**Interplay of the charged Higgs effects in $R_{D^{(\ast)}}$, $b\to s \ell^+\ell^-$ and $W$-mass**|Girish Kumar et.al.|[2212.07233v3](http://arxiv.org/abs/2212.07233v3)|null|
-|**2022-12-14**|**Search for the rare decays $W^+ \to D^+_sγ$ and $Z \to D^0γ$ at LHCb**|LHCb collaboration et.al.|[2212.07120v1](http://arxiv.org/abs/2212.07120v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
