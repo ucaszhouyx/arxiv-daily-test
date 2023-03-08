@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2023-03-07 10:19:00 Asia/Shanghai
+ Automated deployment @ 2023-03-08 08:38:59 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -8,6 +8,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-04**|**Near-threshold structures in the $D_{s}^{+}D_{s}^{-}$ mass distribution of the decay $B^{+}\rightarrow D_{s}^{+}D_{s}^{-}K^{+}$**|S. S. Agaev et.al.|[2303.02457v1](http://arxiv.org/abs/2303.02457v1)|null|
 |**2023-02-27**|**Mixing effects of $η-η'$ in $Λ_b\rightarrow Λ η^{(')}$ decays**|Zhou Rui et.al.|[2302.13785v1](http://arxiv.org/abs/2302.13785v1)|null|
 |**2023-02-27**|**$B_c^- \to J/ψ(\to μ^+ μ^-)τ^- (\to π^- ν_τ, ρ^- ν_τ, \ell^-\barν_\ellν_τ)\barν_τ$ decays with visible final-state kinematics**|Xin-Qiang Li et.al.|[2302.13743v1](http://arxiv.org/abs/2302.13743v1)|null|
 |**2023-02-21**|**Observation of the $B^0_s\rightarrow χ_{c1}(3872)π^+π^-$ decay**|LHCb collaboration et.al.|[2302.10629v1](http://arxiv.org/abs/2302.10629v1)|null|
@@ -37,7 +38,6 @@
 |**2022-12-23**|**Investigating $ Υ(ns) \to τ^+ τ^- $ decay in the Leptoquark scenario**|Sambit Kumar Pusty et.al.|[2212.12153v2](http://arxiv.org/abs/2212.12153v2)|null|
 |**2022-12-21**|**Search for rare decays of $D^0$ mesons into two muons**|LHCb collaboration et.al.|[2212.11203v1](http://arxiv.org/abs/2212.11203v1)|null|
 |**2022-12-20**|**Constraints on Lepton Universality Violation from Rare $B$ Decays**|Marco Ciuchini et.al.|[2212.10516v1](http://arxiv.org/abs/2212.10516v1)|null|
-|**2022-12-20**|**Rare $b$ decays meet high-mass Drell-Yan**|Admir Greljo et.al.|[2212.10497v2](http://arxiv.org/abs/2212.10497v2)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
