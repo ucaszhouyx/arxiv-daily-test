@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2023-03-12 10:10:52 Asia/Shanghai
+ Automated deployment @ 2023-03-13 08:36:38 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -12,7 +12,7 @@
 |**2023-03-07**|**Search for $\it{CP}$ violation in $D_{(s)}^{+}\rightarrow K^{-}K^{+}K^{+}$ decays**|LHCb collaboration et.al.|[2303.04062v1](http://arxiv.org/abs/2303.04062v1)|null|
 |**2023-03-07**|**Dark Vector Mesons at LHC Forward Detector Searches**|Takumi Kuwahara et.al.|[2303.03736v1](http://arxiv.org/abs/2303.03736v1)|null|
 |**2023-03-07**|**The study on the structure of exotic states $χ_{c 1}(3872)$ via beauty-hadron decays in $pp$ collisions at $\sqrt{s}=8\,\mathrm{TeV}$**|Chun-tai Wu et.al.|[2303.03696v1](http://arxiv.org/abs/2303.03696v1)|null|
-|**2023-03-04**|**Near-threshold structures in the $D_{s}^{+}D_{s}^{-}$ mass distribution of the decay $B^{+}\rightarrow D_{s}^{+}D_{s}^{-}K^{+}$**|S. S. Agaev et.al.|[2303.02457v1](http://arxiv.org/abs/2303.02457v1)|null|
+|**2023-03-04**|**Near-threshold structures in the $D_{s}^{+}D_{s}^{-}$ mass distribution of the decay $B^{+}\rightarrow D_{s}^{+}D_{s}^{-}K^{+}$**|S. S. Agaev et.al.|[2303.02457v2](http://arxiv.org/abs/2303.02457v2)|null|
 |**2023-02-27**|**Mixing effects of $η-η'$ in $Λ_b\rightarrow Λ η^{(')}$ decays**|Zhou Rui et.al.|[2302.13785v1](http://arxiv.org/abs/2302.13785v1)|null|
 |**2023-02-27**|**$B_c^- \to J/ψ(\to μ^+ μ^-)τ^- (\to π^- ν_τ, ρ^- ν_τ, \ell^-\barν_\ellν_τ)\barν_τ$ decays with visible final-state kinematics**|Xin-Qiang Li et.al.|[2302.13743v1](http://arxiv.org/abs/2302.13743v1)|null|
 |**2023-02-21**|**Observation of the $B^0_s\rightarrow χ_{c1}(3872)π^+π^-$ decay**|LHCb collaboration et.al.|[2302.10629v1](http://arxiv.org/abs/2302.10629v1)|null|
@@ -57,7 +57,7 @@
 |**2023-01-04**|**Status of leptoquark models after LHC Run-2 and discovery prospects at future colliders**|Nishita Desai et.al.|[2301.01754v1](http://arxiv.org/abs/2301.01754v1)|null|
 |**2022-12-26**|**Doubly charmed baryon decays $Ξ_{cc}^{++}\toΞ_c^{(\prime)+}π^+$ in the quark model**|Shuge Zeng et.al.|[2212.12983v2](http://arxiv.org/abs/2212.12983v2)|null|
 |**2022-12-23**|**Investigating $ Υ(ns) \to τ^+ τ^- $ decay in the Leptoquark scenario**|Sambit Kumar Pusty et.al.|[2212.12153v2](http://arxiv.org/abs/2212.12153v2)|null|
-|**2022-12-20**|**Constraints on Lepton Universality Violation from Rare $B$ Decays**|Marco Ciuchini et.al.|[2212.10516v1](http://arxiv.org/abs/2212.10516v1)|null|
+|**2022-12-20**|**Constraints on Lepton Universality Violation from Rare $B$ Decays**|Marco Ciuchini et.al.|[2212.10516v2](http://arxiv.org/abs/2212.10516v2)|null|
 |**2022-12-20**|**Rare $b$ decays meet high-mass Drell-Yan**|Admir Greljo et.al.|[2212.10497v2](http://arxiv.org/abs/2212.10497v2)|null|
 |**2022-12-19**|**Fingerprinting CP-violating New Physics with $B \to Kμ^+μ^-$**|Robert Fleischer et.al.|[2212.09575v1](http://arxiv.org/abs/2212.09575v1)|null|
 |**2022-12-18**|**Test of lepton universality in $b \rightarrow s \ell^+ \ell^-$ decays**|LHCb collaboration et.al.|[2212.09152v1](http://arxiv.org/abs/2212.09152v1)|null|
