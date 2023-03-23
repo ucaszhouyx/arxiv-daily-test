@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2023-03-22 09:51:52 Asia/Shanghai
+ Automated deployment @ 2023-03-23 08:34:56 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-21**|**The mass spectrum and strong decay properties of the charmed-strange mesons within Godfrey-Isgur model considering the coupled-channel effects**|Jing-Jing Yang et.al.|[2303.11815v1](http://arxiv.org/abs/2303.11815v1)|null|
 |**2023-03-16**|**Observation of the $B^+ \rightarrow J/ψη^{\prime} K^+$ decay**|LHCb Collaboration et.al.|[2303.09443v2](http://arxiv.org/abs/2303.09443v2)|null|
 |**2023-03-15**|**New Perspectives for Testing Electron-Muon Universality**|Robert Fleischer et.al.|[2303.08764v1](http://arxiv.org/abs/2303.08764v1)|null|
 |**2023-03-15**|**Contributions of $K_0^*(1430)$ and $K_0^*(1950)$ in the charmed three-body $B$ meson decays**|Bo-Yan Cui et.al.|[2303.08567v1](http://arxiv.org/abs/2303.08567v1)|null|
@@ -71,7 +72,6 @@
 |**2023-01-12**|**Evidence of a $J/ψK_S^0$ structure in $B^0 \to J/ψφK_S^0$ decays**|LHCb collaboration et.al.|[2301.04899v2](http://arxiv.org/abs/2301.04899v2)|null|
 |**2023-01-05**|**Strong decays of $P_ψ^N(4312)^+\to J/ψ(η_c) p$ within the Bethe-Salpeter framework**|Qiang Li et.al.|[2301.02094v1](http://arxiv.org/abs/2301.02094v1)|null|
 |**2022-12-31**|**Four-body Semileptonic Charm Decays $D\to P_1P_2\ell^+ν_\ell $ Based on SU(3) Flavor Analysis**|Ru-Min Wang et.al.|[2301.00090v1](http://arxiv.org/abs/2301.00090v1)|null|
-|**2022-12-31**|**Semileptonic $D$ Meson Decays $D\to P/V/S\ell^+ν_\ell$ with the SU(3) Flavor Symmetry/Breaking**|Ru-Min Wang et.al.|[2301.00079v1](http://arxiv.org/abs/2301.00079v1)|null|
 
 ### X(3872)
 |Publish Date|Title|Authors|PDF|Code|
