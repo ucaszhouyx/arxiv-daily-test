@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2023-03-27 09:50:55 Asia/Shanghai
+ Automated deployment @ 2023-03-28 08:35:06 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -8,6 +8,7 @@
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-24**|**Analysis of the D-wave $Σ$-type charmed baryon states with the QCD sum rules**|Zhi-Gang Wang et.al.|[2303.13976v1](http://arxiv.org/abs/2303.13976v1)|null|
 |**2023-03-15**|**New Perspectives for Testing Electron-Muon Universality**|Robert Fleischer et.al.|[2303.08764v1](http://arxiv.org/abs/2303.08764v1)|null|
 |**2023-03-15**|**Contributions of $K_0^*(1430)$ and $K_0^*(1950)$ in the charmed three-body $B$ meson decays**|Bo-Yan Cui et.al.|[2303.08567v1](http://arxiv.org/abs/2303.08567v1)|null|
 |**2023-03-07**|**Doubly heavy tetraquarks: heavy quark bindings and chromomagnetically mixings**|Xin-Yue Liu et.al.|[2303.03923v1](http://arxiv.org/abs/2303.03923v1)|null|
@@ -37,7 +38,6 @@
 |**2022-12-01**|**Investigating the transition form factors of $Λ_b\toΛ_c(2625)$ and $Ξ_b\toΞ_c(2815)$ and the corresponding weak decays with support from baryon spectroscopy**|Yu-Shuai Li et.al.|[2212.00300v2](http://arxiv.org/abs/2212.00300v2)|null|
 |**2022-11-29**|**$D_1(2420)$ and its interactions with a kaon: open charm states with strangeness**|Brenda B. Malabarba et.al.|[2211.16222v1](http://arxiv.org/abs/2211.16222v1)|null|
 |**2022-11-29**|**Study of parity violation in $Λ_c^+\toφp$ and $Λ_c^+ \to ωp$ decays**|PengCheng Hong et.al.|[2211.16014v1](http://arxiv.org/abs/2211.16014v1)|null|
-|**2022-11-25**|**Impact of $Λ_b\to Λ_cτν$ measurement on New Physics in $b\to c \, l ν$ transitions**|Marco Fedele et.al.|[2211.14172v2](http://arxiv.org/abs/2211.14172v2)|null|
 
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
