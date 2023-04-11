@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2023-04-10 09:46:18 Asia/Shanghai
+ Automated deployment @ 2023-04-11 08:34:08 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -34,7 +34,7 @@
 |**2023-02-21**|**Observation of the $B^0_s\rightarrow χ_{c1}(3872)π^+π^-$ decay**|LHCb collaboration et.al.|[2302.10629v1](http://arxiv.org/abs/2302.10629v1)|null|
 |**2023-02-17**|**Shedding light on the $ X(3930) $ and $ X(3960) $ states with the $B^- \to K^- J/ψω$ reaction**|L. M. Abreu et.al.|[2302.08877v2](http://arxiv.org/abs/2302.08877v2)|null|
 |**2023-02-16**|**Measurement of the $Λ_{b}^{0}\to Λ(1520) μ^{+}μ^{-}$ differential branching fraction**|LHCb collaboration et.al.|[2302.08262v1](http://arxiv.org/abs/2302.08262v1)|null|
-|**2023-02-15**|**Estimated of $CP$ violation in $B^0$ meson decays into $D^{*+}$ and $D^-$ mesons**|Behnam Mohammadi et.al.|[2302.07819v1](http://arxiv.org/abs/2302.07819v1)|null|
+|**2023-02-15**|**Estimated of $CP$ violation in $B^0$ meson decays into $D^{*+}$ and $D^-$ mesons**|Behnam Mohammadi et.al.|[2302.07819v2](http://arxiv.org/abs/2302.07819v2)|null|
 |**2023-02-09**|**Observation of new $Ω_c^{0}$ states decaying to the $Ξ_c^+K^-$ final state**|LHCb collaboration et.al.|[2302.04733v1](http://arxiv.org/abs/2302.04733v1)|null|
 |**2023-02-07**|**Scrutinizing new physics in exclusive $b \to s \ell \ell ^{\prime}$ processes**|Manas K. Mohapatra et.al.|[2302.03209v1](http://arxiv.org/abs/2302.03209v1)|null|
 |**2023-02-06**|**Measurement of the ratios of branching fractions $\mathcal{R}(D^{*})$ and $\mathcal{R}(D^{0})$**|LHCb Collaboration et.al.|[2302.02886v1](http://arxiv.org/abs/2302.02886v1)|null|
