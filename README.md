@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2023-05-05 09:44:07 Asia/Shanghai
+ Automated deployment @ 2023-05-06 08:30:28 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,7 @@
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-04**|**Placing of the recently observed bottom strange state $B_{sJ}(6063)$ and $B_{sJ}(6114)$ in bottom spectra**|Ritu Garg et.al.|[2305.02557v1](http://arxiv.org/abs/2305.02557v1)|null|
 |**2023-05-03**|**Revisiting lifetimes of doubly charmed baryons**|Lovro Dulibić et.al.|[2305.02243v1](http://arxiv.org/abs/2305.02243v1)|null|
 |**2023-05-02**|**Test of lepton flavour universality using $B^0 \to D^{*-}τ^+ν_τ$ decays with hadronic $τ$ channels**|LHCb collaboration et.al.|[2305.01463v1](http://arxiv.org/abs/2305.01463v1)|null|
 |**2023-05-01**|**Hint of a new scalar interaction in LHCb data**|Alakabha Datta et.al.|[2305.00614v1](http://arxiv.org/abs/2305.00614v1)|null|
@@ -71,11 +72,11 @@
 |**2023-02-27**|**$B_c^- \to J/ψ(\to μ^+ μ^-)τ^- (\to π^- ν_τ, ρ^- ν_τ, \ell^-\barν_\ellν_τ)\barν_τ$ decays with visible final-state kinematics**|Xin-Qiang Li et.al.|[2302.13743v1](http://arxiv.org/abs/2302.13743v1)|null|
 |**2023-02-21**|**Flavour hierarchies and $B$-anomalies in a twin Pati-Salam theory of flavour**|Mario Fernández Navarro et.al.|[2302.10829v2](http://arxiv.org/abs/2302.10829v2)|null|
 |**2023-02-07**|**Scrutinizing new physics in exclusive $b \to s \ell \ell ^{\prime}$ processes**|Manas K. Mohapatra et.al.|[2302.03209v1](http://arxiv.org/abs/2302.03209v1)|null|
-|**2023-02-06**|**Spectroscopic Analysis of Hidden-Charm Pentaquarks**|Ankush Sharma et.al.|[2302.02569v2](http://arxiv.org/abs/2302.02569v2)|null|
 
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-04**|**Placing of the recently observed bottom strange state $B_{sJ}(6063)$ and $B_{sJ}(6114)$ in bottom spectra**|Ritu Garg et.al.|[2305.02557v1](http://arxiv.org/abs/2305.02557v1)|null|
 |**2023-05-02**|**Test of lepton flavour universality using $B^0 \to D^{*-}τ^+ν_τ$ decays with hadronic $τ$ channels**|LHCb collaboration et.al.|[2305.01463v1](http://arxiv.org/abs/2305.01463v1)|null|
 |**2023-05-01**|**Hint of a new scalar interaction in LHCb data**|Alakabha Datta et.al.|[2305.00614v1](http://arxiv.org/abs/2305.00614v1)|null|
 |**2023-04-28**|**Waiting for Precise Measurements of $β$ and $γ$**|Andrzej J. Buras et.al.|[2305.00021v1](http://arxiv.org/abs/2305.00021v1)|null|
@@ -105,4 +106,3 @@
 |**2023-03-15**|**Contributions of $K_0^*(1430)$ and $K_0^*(1950)$ in the charmed three-body $B$ meson decays**|Bo-Yan Cui et.al.|[2303.08567v1](http://arxiv.org/abs/2303.08567v1)|null|
 |**2023-03-08**|**New physics search via CP observables in $B^0_s \rightarrow φφ$ decays with left- and right-handed Chromomagnetic operators**|Tejhas Kapoor et.al.|[2303.04494v1](http://arxiv.org/abs/2303.04494v1)|null|
 |**2023-03-07**|**Search for $\it{CP}$ violation in $D_{(s)}^{+}\rightarrow K^{-}K^{+}K^{+}$ decays**|LHCb collaboration et.al.|[2303.04062v1](http://arxiv.org/abs/2303.04062v1)|null|
-|**2023-03-07**|**Dark Vector Mesons at LHC Forward Detector Searches**|Takumi Kuwahara et.al.|[2303.03736v1](http://arxiv.org/abs/2303.03736v1)|null|
