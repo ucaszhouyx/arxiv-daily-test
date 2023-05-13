@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2023-05-12 09:47:40 Asia/Shanghai
+ Automated deployment @ 2023-05-13 08:31:29 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -8,6 +8,7 @@
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-11**|**Measurement of $Ξ_{c}^{+}$ production in $p$Pb collisions at $\sqrt{s_{NN}}=8.16$ TeV at LHCb**|LHCb collaboration et.al.|[2305.06711v1](http://arxiv.org/abs/2305.06711v1)|null|
 |**2023-05-08**|**Bell inequality is violated in $B^0\to J/ψ\, K^{\star}(892)^0$ decays**|M. Fabbrichesi et.al.|[2305.04982v1](http://arxiv.org/abs/2305.04982v1)|null|
 |**2023-05-05**|**Hadronic molecules $η_c η_c$ and $χ_{c0}χ_{c0}$**|S. S. Agaev et.al.|[2305.03696v1](http://arxiv.org/abs/2305.03696v1)|null|
 |**2023-05-04**|**Placing of the recently observed bottom strange state $B_{sJ}(6063)$ and $B_{sJ}(6114)$ in bottom spectra**|Ritu Garg et.al.|[2305.02557v1](http://arxiv.org/abs/2305.02557v1)|null|
@@ -37,7 +38,6 @@
 |**2023-03-15**|**Contributions of $K_0^*(1430)$ and $K_0^*(1950)$ in the charmed three-body $B$ meson decays**|Bo-Yan Cui et.al.|[2303.08567v1](http://arxiv.org/abs/2303.08567v1)|null|
 |**2023-03-07**|**Doubly heavy tetraquarks: heavy quark bindings and chromomagnetically mixings**|Xin-Yue Liu et.al.|[2303.03923v1](http://arxiv.org/abs/2303.03923v1)|null|
 |**2023-03-07**|**Dark Vector Mesons at LHC Forward Detector Searches**|Takumi Kuwahara et.al.|[2303.03736v1](http://arxiv.org/abs/2303.03736v1)|null|
-|**2023-02-27**|**$B_c^- \to J/ψ(\to μ^+ μ^-)τ^- (\to π^- ν_τ, ρ^- ν_τ, \ell^-\barν_\ellν_τ)\barν_τ$ decays with visible final-state kinematics**|Xin-Qiang Li et.al.|[2302.13743v1](http://arxiv.org/abs/2302.13743v1)|null|
 
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
