@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2023-05-24 09:55:56 Asia/Shanghai
+ Automated deployment @ 2023-05-25 08:32:37 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,7 @@
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-23**|**Heavy flavour spectroscopy at LHCb. Contribution to the 2023 QCD session of the 57th Rencontres de Moriond**|Paolo Gandini et.al.|[2305.13942v1](http://arxiv.org/abs/2305.13942v1)|null|
 |**2023-05-18**|**$b\to s\ell\ell$ and Lepton Universality at LHCb**|Christoph Langenbruch et.al.|[2305.10962v1](http://arxiv.org/abs/2305.10962v1)|null|
 |**2023-05-17**|**The LHCb upgrade I**|LHCb collaboration et.al.|[2305.10515v1](http://arxiv.org/abs/2305.10515v1)|null|
 |**2023-05-17**|**Effects of Kaluza-Klein Neutrinos on $R_{D}$ and $R_{D^{*}}$**|Janus Capellan Aban et.al.|[2305.10305v1](http://arxiv.org/abs/2305.10305v1)|null|
@@ -71,11 +72,11 @@
 |**2023-04-01**|**Excited $Ω_c$ baryons as 2S states**|Marek Karliner et.al.|[2304.00407v1](http://arxiv.org/abs/2304.00407v1)|null|
 |**2023-03-31**|**Description of the newly observed $Ω^{*}_c$ states as molecular states**|Jingwen Feng et.al.|[2303.17770v1](http://arxiv.org/abs/2303.17770v1)|null|
 |**2023-03-27**|**Branching Fraction of the Decay $B^+ \to π^+ τ^+ τ^-$ and Lepton Flavor Universality Test via the Ratio $R_π(τ/μ)$**|Ahmed Ali et.al.|[2303.15384v2](http://arxiv.org/abs/2303.15384v2)|null|
-|**2023-03-27**|**Mass predictions of triply heavy hybrid baryons via QCD sum rules**|Yi-Cheng Zhao et.al.|[2303.15173v1](http://arxiv.org/abs/2303.15173v1)|null|
 
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-23**|**Heavy flavour spectroscopy at LHCb. Contribution to the 2023 QCD session of the 57th Rencontres de Moriond**|Paolo Gandini et.al.|[2305.13942v1](http://arxiv.org/abs/2305.13942v1)|null|
 |**2023-05-19**|**Final-state interactions in the CP asymmetries of charm-meson two-body decays**|Antonio Pich et.al.|[2305.11951v1](http://arxiv.org/abs/2305.11951v1)|null|
 |**2023-05-18**|**$b\to s\ell\ell$ and Lepton Universality at LHCb**|Christoph Langenbruch et.al.|[2305.10962v1](http://arxiv.org/abs/2305.10962v1)|null|
 |**2023-05-17**|**Effects of Kaluza-Klein Neutrinos on $R_{D}$ and $R_{D^{*}}$**|Janus Capellan Aban et.al.|[2305.10305v1](http://arxiv.org/abs/2305.10305v1)|null|
@@ -105,4 +106,3 @@
 |**2023-04-03**|**Towards the precision measurement of CP violation in $B\to D^{\ast}μν$ decays at LHCb**|Vlad Dedu et.al.|[2304.00966v1](http://arxiv.org/abs/2304.00966v1)|null|
 |**2023-04-02**|**Investigation of the strange pentaquark candidate $P_{ψ s}^Λ(4338){}^0$ recently observed by LHCb**|K. Azizi et.al.|[2304.00604v1](http://arxiv.org/abs/2304.00604v1)|null|
 |**2023-04-01**|**Excited $Ω_c$ baryons as 2S states**|Marek Karliner et.al.|[2304.00407v1](http://arxiv.org/abs/2304.00407v1)|null|
-|**2023-03-31**|**Description of the newly observed $Ω^{*}_c$ states as molecular states**|Jingwen Feng et.al.|[2303.17770v1](http://arxiv.org/abs/2303.17770v1)|null|
