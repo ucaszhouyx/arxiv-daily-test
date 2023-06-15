@@ -1,43 +1,9 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2023-06-14 10:03:52 Asia/Shanghai
+ Automated deployment @ 2023-06-15 08:38:16 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
 ## LHCb
-
-### b baryon
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-05-30**|**The Global Fits of New Physics in $b \to s $ after $R_{K^{(*)}}$ 2022 Release**|Qiaoyi Wen et.al.|[2305.19038v2](http://arxiv.org/abs/2305.19038v2)|null|
-|**2023-05-28**|**Revisiting $b \to cτν$ anomalies with charged Higgs boson**|Nilakshi Das et.al.|[2305.17766v1](http://arxiv.org/abs/2305.17766v1)|null|
-|**2023-05-24**|**Associated production of prompt $J/ψ$ and $\mathitΥ$ mesons in $pp$ collisions at $\sqrt{s}=13\,\mathrm{TeV}$**|LHCb collaboration et.al.|[2305.15580v1](http://arxiv.org/abs/2305.15580v1)|null|
-|**2023-05-24**|**Weak decays of heavy-quark baryons**|Janina Nicolini et.al.|[2305.15366v1](http://arxiv.org/abs/2305.15366v1)|null|
-|**2023-05-24**|**Measurement of the mass difference and relative production rate of the $Ω^-_b$ and $Ξ^-_b$ baryons**|LHCb collaboration et.al.|[2305.15329v1](http://arxiv.org/abs/2305.15329v1)|null|
-|**2023-05-23**|**Heavy flavour spectroscopy at LHCb. Contribution to the 2023 QCD session of the 57th Rencontres de Moriond**|Paolo Gandini et.al.|[2305.13942v1](http://arxiv.org/abs/2305.13942v1)|null|
-|**2023-05-18**|**$b\to s\ell\ell$ and Lepton Universality at LHCb**|Christoph Langenbruch et.al.|[2305.10962v1](http://arxiv.org/abs/2305.10962v1)|null|
-|**2023-05-17**|**The LHCb upgrade I**|LHCb collaboration et.al.|[2305.10515v1](http://arxiv.org/abs/2305.10515v1)|null|
-|**2023-05-17**|**Effects of Kaluza-Klein Neutrinos on $R_{D}$ and $R_{D^{*}}$**|Janus Capellan Aban et.al.|[2305.10305v1](http://arxiv.org/abs/2305.10305v1)|null|
-|**2023-05-14**|**Lepton flavour universality tests at LHCb**|Alex Seuthe et.al.|[2305.08216v1](http://arxiv.org/abs/2305.08216v1)|null|
-|**2023-05-14**|**Lepton flavour universality tests in $b \to c l ν$ decays at the LHCb experiment**|Abhijit Mathad et.al.|[2305.08133v1](http://arxiv.org/abs/2305.08133v1)|null|
-|**2023-05-11**|**Measurement of $Ξ_{c}^{+}$ production in $p$Pb collisions at $\sqrt{s_{NN}}=8.16$ TeV at LHCb**|LHCb collaboration et.al.|[2305.06711v1](http://arxiv.org/abs/2305.06711v1)|null|
-|**2023-05-08**|**Bell inequality is violated in $B^0\to J/ψ\, K^{\star}(892)^0$ decays**|M. Fabbrichesi et.al.|[2305.04982v1](http://arxiv.org/abs/2305.04982v1)|null|
-|**2023-05-05**|**Hadronic molecules $η_c η_c$ and $χ_{c0}χ_{c0}$**|S. S. Agaev et.al.|[2305.03696v1](http://arxiv.org/abs/2305.03696v1)|null|
-|**2023-05-04**|**Placing of the recently observed bottom strange state $B_{sJ}(6063)$ and $B_{sJ}(6114)$ in bottom spectra**|Ritu Garg et.al.|[2305.02557v1](http://arxiv.org/abs/2305.02557v1)|null|
-|**2023-05-03**|**Revisiting lifetimes of doubly charmed baryons**|Lovro Dulibić et.al.|[2305.02243v1](http://arxiv.org/abs/2305.02243v1)|null|
-|**2023-05-02**|**Test of lepton flavour universality using $B^0 \to D^{*-}τ^+ν_τ$ decays with hadronic $τ$ channels**|LHCb collaboration et.al.|[2305.01463v1](http://arxiv.org/abs/2305.01463v1)|null|
-|**2023-05-01**|**Hint of a new scalar interaction in LHCb data?**|Alakabha Datta et.al.|[2305.00614v2](http://arxiv.org/abs/2305.00614v2)|null|
-|**2023-04-28**|**Waiting for Precise Measurements of $β$ and $γ$**|Andrzej J. Buras et.al.|[2305.00021v1](http://arxiv.org/abs/2305.00021v1)|null|
-|**2023-04-28**|**Study of charmonium decays to $K^0_S K π$ in the $B \to (K^0_S K π) K$ channels**|LHCb collaboration et.al.|[2304.14891v1](http://arxiv.org/abs/2304.14891v1)|null|
-|**2023-04-28**|**Exotic fully heavy pentaquarks in bag model**|Wen-Xuan Zhang et.al.|[2304.14876v1](http://arxiv.org/abs/2304.14876v1)|null|
-|**2023-04-24**|**Rare charm quark decays in light front approach**|Hang Liu et.al.|[2304.12128v1](http://arxiv.org/abs/2304.12128v1)|null|
-|**2023-04-19**|**Fully charmed resonance $X(6900)$ and its beauty counterpart**|S. S. Agaev et.al.|[2304.09943v2](http://arxiv.org/abs/2304.09943v2)|null|
-|**2023-04-14**|**To (b)e or not to (b)e: No electrons at LHCb**|Marcel Algueró et.al.|[2304.07330v1](http://arxiv.org/abs/2304.07330v1)|null|
-|**2023-04-13**|**Precision measurement of $\it{CP} $ violation in the penguin-mediated decay $B_s^{0}\rightarrowφφ$**|LHCb collaboration et.al.|[2304.06198v2](http://arxiv.org/abs/2304.06198v2)|null|
-|**2023-04-06**|**Exploring fully heavy scalar tetraquarks $QQ\overline{Q}\overline{Q}$**|S. S. Agaev et.al.|[2304.03244v1](http://arxiv.org/abs/2304.03244v1)|null|
-|**2023-04-06**|**$B \rightarrow D^*$ vector, axial-vector and tensor form factors for the full $q^2$ range from lattice QCD**|Judd Harrison et.al.|[2304.03137v1](http://arxiv.org/abs/2304.03137v1)|null|
-|**2023-04-06**|**Light-Cone Sum Rules for $S$-wave $B\to Kπ$ Form Factors**|Sébastien Descotes-Genon et.al.|[2304.02973v1](http://arxiv.org/abs/2304.02973v1)|null|
-|**2023-04-04**|**Search for $D^{*}(2007)^0\toμ^+μ^-$ in $B^-\toπ^-μ^+μ^-$ decays**|LHCb collaboration et.al.|[2304.01981v2](http://arxiv.org/abs/2304.01981v2)|null|
-|**2023-04-04**|**Mass spectra of hidden heavy-flavor tetraquarks with two and four heavy quarks**|Ting-Qi Yan et.al.|[2304.01684v1](http://arxiv.org/abs/2304.01684v1)|null|
 
 ### X(3872)
 |Publish Date|Title|Authors|PDF|Code|
@@ -72,6 +38,40 @@
 |**2020-06-26**|**The nature of $X(3872)$ from high-multiplicity $pp$ collisions**|Angelo Esposito et.al.|[2006.15044v2](http://arxiv.org/abs/2006.15044v2)|null|
 |**2020-05-27**|**Study of the $ψ_2(3823)$ and $χ_{c1}(3872)$ states in $B^+ \rightarrow \left( Jψπ^+π^-\right)K^+$ decays**|LHCb collaboration et.al.|[2005.13422v4](http://arxiv.org/abs/2005.13422v4)|null|
 |**2020-05-27**|**Study of the lineshape of the $χ_{c1}(3872)$ state**|LHCb collaboration et.al.|[2005.13419v3](http://arxiv.org/abs/2005.13419v3)|null|
+
+### b baryon
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-05-30**|**The Global Fits of New Physics in $b \to s $ after $R_{K^{(*)}}$ 2022 Release**|Qiaoyi Wen et.al.|[2305.19038v2](http://arxiv.org/abs/2305.19038v2)|null|
+|**2023-05-28**|**Revisiting $b \to cτν$ anomalies with charged Higgs boson**|Nilakshi Das et.al.|[2305.17766v1](http://arxiv.org/abs/2305.17766v1)|null|
+|**2023-05-24**|**Associated production of prompt $J/ψ$ and $\mathitΥ$ mesons in $pp$ collisions at $\sqrt{s}=13\,\mathrm{TeV}$**|LHCb collaboration et.al.|[2305.15580v1](http://arxiv.org/abs/2305.15580v1)|null|
+|**2023-05-24**|**Weak decays of heavy-quark baryons**|Janina Nicolini et.al.|[2305.15366v1](http://arxiv.org/abs/2305.15366v1)|null|
+|**2023-05-24**|**Measurement of the mass difference and relative production rate of the $Ω^-_b$ and $Ξ^-_b$ baryons**|LHCb collaboration et.al.|[2305.15329v1](http://arxiv.org/abs/2305.15329v1)|null|
+|**2023-05-23**|**Heavy flavour spectroscopy at LHCb. Contribution to the 2023 QCD session of the 57th Rencontres de Moriond**|Paolo Gandini et.al.|[2305.13942v1](http://arxiv.org/abs/2305.13942v1)|null|
+|**2023-05-18**|**$b\to s\ell\ell$ and Lepton Universality at LHCb**|Christoph Langenbruch et.al.|[2305.10962v1](http://arxiv.org/abs/2305.10962v1)|null|
+|**2023-05-17**|**The LHCb upgrade I**|LHCb collaboration et.al.|[2305.10515v1](http://arxiv.org/abs/2305.10515v1)|null|
+|**2023-05-17**|**Effects of Kaluza-Klein Neutrinos on $R_{D}$ and $R_{D^{*}}$**|Janus Capellan Aban et.al.|[2305.10305v1](http://arxiv.org/abs/2305.10305v1)|null|
+|**2023-05-14**|**Lepton flavour universality tests at LHCb**|Alex Seuthe et.al.|[2305.08216v1](http://arxiv.org/abs/2305.08216v1)|null|
+|**2023-05-14**|**Lepton flavour universality tests in $b \to c l ν$ decays at the LHCb experiment**|Abhijit Mathad et.al.|[2305.08133v1](http://arxiv.org/abs/2305.08133v1)|null|
+|**2023-05-11**|**Measurement of $Ξ_{c}^{+}$ production in $p$Pb collisions at $\sqrt{s_{NN}}=8.16$ TeV at LHCb**|LHCb collaboration et.al.|[2305.06711v1](http://arxiv.org/abs/2305.06711v1)|null|
+|**2023-05-08**|**Bell inequality is violated in $B^0\to J/ψ\, K^{\star}(892)^0$ decays**|M. Fabbrichesi et.al.|[2305.04982v1](http://arxiv.org/abs/2305.04982v1)|null|
+|**2023-05-05**|**Hadronic molecules $η_c η_c$ and $χ_{c0}χ_{c0}$**|S. S. Agaev et.al.|[2305.03696v1](http://arxiv.org/abs/2305.03696v1)|null|
+|**2023-05-04**|**Placing of the recently observed bottom strange state $B_{sJ}(6063)$ and $B_{sJ}(6114)$ in bottom spectra**|Ritu Garg et.al.|[2305.02557v1](http://arxiv.org/abs/2305.02557v1)|null|
+|**2023-05-03**|**Revisiting lifetimes of doubly charmed baryons**|Lovro Dulibić et.al.|[2305.02243v1](http://arxiv.org/abs/2305.02243v1)|null|
+|**2023-05-02**|**Test of lepton flavour universality using $B^0 \to D^{*-}τ^+ν_τ$ decays with hadronic $τ$ channels**|LHCb collaboration et.al.|[2305.01463v1](http://arxiv.org/abs/2305.01463v1)|null|
+|**2023-05-01**|**Hint of a new scalar interaction in LHCb data?**|Alakabha Datta et.al.|[2305.00614v2](http://arxiv.org/abs/2305.00614v2)|null|
+|**2023-04-28**|**Waiting for Precise Measurements of $β$ and $γ$**|Andrzej J. Buras et.al.|[2305.00021v1](http://arxiv.org/abs/2305.00021v1)|null|
+|**2023-04-28**|**Study of charmonium decays to $K^0_S K π$ in the $B \to (K^0_S K π) K$ channels**|LHCb collaboration et.al.|[2304.14891v1](http://arxiv.org/abs/2304.14891v1)|null|
+|**2023-04-28**|**Exotic fully heavy pentaquarks in bag model**|Wen-Xuan Zhang et.al.|[2304.14876v1](http://arxiv.org/abs/2304.14876v1)|null|
+|**2023-04-24**|**Rare charm quark decays in light front approach**|Hang Liu et.al.|[2304.12128v1](http://arxiv.org/abs/2304.12128v1)|null|
+|**2023-04-19**|**Fully charmed resonance $X(6900)$ and its beauty counterpart**|S. S. Agaev et.al.|[2304.09943v2](http://arxiv.org/abs/2304.09943v2)|null|
+|**2023-04-14**|**To (b)e or not to (b)e: No electrons at LHCb**|Marcel Algueró et.al.|[2304.07330v1](http://arxiv.org/abs/2304.07330v1)|null|
+|**2023-04-13**|**Precision measurement of $\it{CP} $ violation in the penguin-mediated decay $B_s^{0}\rightarrowφφ$**|LHCb collaboration et.al.|[2304.06198v2](http://arxiv.org/abs/2304.06198v2)|null|
+|**2023-04-06**|**Exploring fully heavy scalar tetraquarks $QQ\overline{Q}\overline{Q}$**|S. S. Agaev et.al.|[2304.03244v1](http://arxiv.org/abs/2304.03244v1)|null|
+|**2023-04-06**|**$B \rightarrow D^*$ vector, axial-vector and tensor form factors for the full $q^2$ range from lattice QCD**|Judd Harrison et.al.|[2304.03137v1](http://arxiv.org/abs/2304.03137v1)|null|
+|**2023-04-06**|**Light-Cone Sum Rules for $S$-wave $B\to Kπ$ Form Factors**|Sébastien Descotes-Genon et.al.|[2304.02973v1](http://arxiv.org/abs/2304.02973v1)|null|
+|**2023-04-04**|**Search for $D^{*}(2007)^0\toμ^+μ^-$ in $B^-\toπ^-μ^+μ^-$ decays**|LHCb collaboration et.al.|[2304.01981v2](http://arxiv.org/abs/2304.01981v2)|null|
+|**2023-04-04**|**Mass spectra of hidden heavy-flavor tetraquarks with two and four heavy quarks**|Ting-Qi Yan et.al.|[2304.01684v1](http://arxiv.org/abs/2304.01684v1)|null|
 
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
