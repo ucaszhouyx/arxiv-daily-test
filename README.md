@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2023-07-10 08:43:03 Asia/Shanghai
+ Automated deployment @ 2023-07-10 10:21:29 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -8,6 +8,7 @@
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-07**|**Fast and flexible data structures for the LHCb Run 3 software trigger**|Sevda Esen et.al.|[2307.03689v1](http://arxiv.org/abs/2307.03689v1)|null|
 |**2023-07-06**|**$C\!P$ violation in beauty and charm quarks at LHCb**|Daniele Manuzzi et.al.|[2307.03094v1](http://arxiv.org/abs/2307.03094v1)|null|
 |**2023-07-02**|**Decay widths and mass spectra of single bottom baryons**|H. García-Tecocoatzi et.al.|[2307.00505v1](http://arxiv.org/abs/2307.00505v1)|null|
 |**2023-06-22**|**Search for $CP$ violation in the phase space of $D^0 \to π^-π^+π^0$ decays with the energy test**|LHCb collaboration et.al.|[2306.12746v1](http://arxiv.org/abs/2306.12746v1)|null|
@@ -37,7 +38,6 @@
 |**2023-05-01**|**Hint of a new scalar interaction in LHCb data?**|Alakabha Datta et.al.|[2305.00614v2](http://arxiv.org/abs/2305.00614v2)|null|
 |**2023-04-28**|**Waiting for Precise Measurements of $β$ and $γ$**|Andrzej J. Buras et.al.|[2305.00021v1](http://arxiv.org/abs/2305.00021v1)|null|
 |**2023-04-28**|**Study of charmonium decays to $K^0_S K π$ in the $B \to (K^0_S K π) K$ channels**|LHCb collaboration et.al.|[2304.14891v1](http://arxiv.org/abs/2304.14891v1)|null|
-|**2023-04-28**|**Exotic fully heavy pentaquarks in bag model**|Wen-Xuan Zhang et.al.|[2304.14876v1](http://arxiv.org/abs/2304.14876v1)|null|
 
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
