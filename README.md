@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2023-07-11 10:10:39 Asia/Shanghai
+ Automated deployment @ 2023-07-12 08:44:03 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -8,6 +8,8 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-10**|**Study of the $B^-\to K^-ηη_c$ decay due to the $D\bar{D}$ bound state**|Xin-Qiang Li et.al.|[2307.04324v1](http://arxiv.org/abs/2307.04324v1)|null|
+|**2023-07-07**|**Transverse momentum dependent feed-down fractions for bottomonium production**|Jacob Boyd et.al.|[2307.03841v1](http://arxiv.org/abs/2307.03841v1)|null|
 |**2023-07-06**|**$C\!P$ violation in beauty and charm quarks at LHCb**|Daniele Manuzzi et.al.|[2307.03094v1](http://arxiv.org/abs/2307.03094v1)|null|
 |**2023-07-04**|**Unveiling the Heavy Neutrino Nature at LHCb**|G. A. Vasquez et.al.|[2307.01871v1](http://arxiv.org/abs/2307.01871v1)|null|
 |**2023-07-02**|**Decay widths and mass spectra of single bottom baryons**|H. García-Tecocoatzi et.al.|[2307.00505v1](http://arxiv.org/abs/2307.00505v1)|null|
@@ -36,8 +38,6 @@
 |**2023-05-08**|**Bell inequality is violated in $B^0\to J/ψ\, K^{\star}(892)^0$ decays**|M. Fabbrichesi et.al.|[2305.04982v1](http://arxiv.org/abs/2305.04982v1)|null|
 |**2023-05-05**|**Hadronic molecules $η_c η_c$ and $χ_{c0}χ_{c0}$**|S. S. Agaev et.al.|[2305.03696v1](http://arxiv.org/abs/2305.03696v1)|null|
 |**2023-05-04**|**Placing of the recently observed bottom strange state $B_{sJ}(6063)$ and $B_{sJ}(6114)$ in bottom spectra**|Ritu Garg et.al.|[2305.02557v1](http://arxiv.org/abs/2305.02557v1)|null|
-|**2023-05-02**|**Test of lepton flavour universality using $B^0 \to D^{*-}τ^+ν_τ$ decays with hadronic $τ$ channels**|LHCb collaboration et.al.|[2305.01463v1](http://arxiv.org/abs/2305.01463v1)|null|
-|**2023-05-01**|**Hint of a new scalar interaction in LHCb data?**|Alakabha Datta et.al.|[2305.00614v2](http://arxiv.org/abs/2305.00614v2)|null|
 
 ### X(3872)
 |Publish Date|Title|Authors|PDF|Code|
