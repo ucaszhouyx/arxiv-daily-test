@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2023-07-29 08:34:17 Asia/Shanghai
+ Automated deployment @ 2023-07-29 09:43:48 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -39,40 +39,6 @@
 |**2023-05-19**|**Final-state interactions in the CP asymmetries of charm-meson two-body decays**|Antonio Pich et.al.|[2305.11951v1](http://arxiv.org/abs/2305.11951v1)|null|
 |**2023-05-18**|**$b\to s\ell\ell$ and Lepton Universality at LHCb**|Christoph Langenbruch et.al.|[2305.10962v1](http://arxiv.org/abs/2305.10962v1)|null|
 
-### b baryon
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-07-26**|**Prediction of various observables for $B_s^0 \to D_s^{(*)-}\ell^+ν_\ell$ within covariant confined quark model**|J. N. Pandya et.al.|[2307.14245v1](http://arxiv.org/abs/2307.14245v1)|null|
-|**2023-07-25**|**Observation of new baryons in the $Ξ_b^-π^+π^-$ and $Ξ_b^0π^+π^-$ systems**|LHCb collaboration et.al.|[2307.13399v1](http://arxiv.org/abs/2307.13399v1)|null|
-|**2023-07-18**|**Observation and branching fraction measurement of the decay $Ξ_b^-\toΛ_b^0π^-$**|LHCb collaboration et.al.|[2307.09427v1](http://arxiv.org/abs/2307.09427v1)|null|
-|**2023-07-18**|**Measurement of the branching fractions of the singly Cabibbo-suppressed decays $Λ_{c}^{+}\to pη$ and $Λ_{c}^{+}\to pω$**|BESIII Collaboration et.al.|[2307.09266v2](http://arxiv.org/abs/2307.09266v2)|null|
-|**2023-07-17**|**Higher molecular $P_{ψs}^{Λ/Σ}$ pentaquarks arising from the $Ξ_c^{(\prime,*)}\bar D_1/Ξ_c^{(\prime,*)}\bar D_2^*$ interactions**|Fu-Lai Wang et.al.|[2307.08276v1](http://arxiv.org/abs/2307.08276v1)|null|
-|**2023-07-16**|**Lepton Flavour Universality tests in $b \to c l ν$ decays at LHCb**|Rizwaan Mohammed et.al.|[2307.08109v1](http://arxiv.org/abs/2307.08109v1)|null|
-|**2023-07-07**|**Fast and flexible data structures for the LHCb Run 3 software trigger**|Sevda Esen et.al.|[2307.03689v1](http://arxiv.org/abs/2307.03689v1)|null|
-|**2023-07-06**|**$C\!P$ violation in beauty and charm quarks at LHCb**|Daniele Manuzzi et.al.|[2307.03094v1](http://arxiv.org/abs/2307.03094v1)|null|
-|**2023-07-02**|**Decay widths and mass spectra of single bottom baryons**|H. García-Tecocoatzi et.al.|[2307.00505v1](http://arxiv.org/abs/2307.00505v1)|null|
-|**2023-06-22**|**Search for $CP$ violation in the phase space of $D^0 \to π^-π^+π^0$ decays with the energy test**|LHCb collaboration et.al.|[2306.12746v1](http://arxiv.org/abs/2306.12746v1)|null|
-|**2023-06-22**|**The $b$ quark fragmentation fractions at LHCb and meson decays with heavy quark spectators**|C. O. Dib et.al.|[2306.12635v1](http://arxiv.org/abs/2306.12635v1)|null|
-|**2023-06-16**|**Measurements of $CP$ asymmetries and branching fractions of $B^-$ decays to two charm mesons**|LHCb collaboration et.al.|[2306.09945v1](http://arxiv.org/abs/2306.09945v1)|null|
-|**2023-06-16**|**Study of the Bose-Einstein correlations of same-sign pions in proton-lead collisions**|LHCb collaboration et.al.|[2306.09755v1](http://arxiv.org/abs/2306.09755v1)|null|
-|**2023-06-15**|**Complementarity of $B\to K^{(*)} μ\bar μ$ and $B\to K^{(*)} + \mathrm{inv}$ for searches of GeV-scale Higgs-like scalars**|Maksym Ovchynnikov et.al.|[2306.09508v1](http://arxiv.org/abs/2306.09508v1)|null|
-|**2023-06-15**|**Study of B^{0}_{s} \rightarrow \ TT(a_{2}(1320),K^{*}_{2}(1430),f_{2}(1270),f^{'}_{2}(1525)) in the perturbative QCD approach**|Jing Dai et.al.|[2306.09378v1](http://arxiv.org/abs/2306.09378v1)|null|
-|**2023-06-14**|**Plan B: New ${Z^\prime}$ models for $b\rightarrow sl^+l^-$ anomalies**|Ben Allanach et.al.|[2306.08669v2](http://arxiv.org/abs/2306.08669v2)|null|
-|**2023-05-30**|**The Global Fits of New Physics in $b \to s $ after $R_{K^{(*)}}$ 2022 Release**|Qiaoyi Wen et.al.|[2305.19038v2](http://arxiv.org/abs/2305.19038v2)|null|
-|**2023-05-28**|**Revisiting $b \to cτν$ anomalies with charged Higgs boson**|Nilakshi Das et.al.|[2305.17766v1](http://arxiv.org/abs/2305.17766v1)|null|
-|**2023-05-24**|**Associated production of prompt $J/ψ$ and $\mathitΥ$ mesons in $pp$ collisions at $\sqrt{s}=13\,\mathrm{TeV}$**|LHCb collaboration et.al.|[2305.15580v1](http://arxiv.org/abs/2305.15580v1)|null|
-|**2023-05-24**|**Weak decays of heavy-quark baryons**|Janina Nicolini et.al.|[2305.15366v1](http://arxiv.org/abs/2305.15366v1)|null|
-|**2023-05-24**|**Measurement of the mass difference and relative production rate of the $Ω^-_b$ and $Ξ^-_b$ baryons**|LHCb collaboration et.al.|[2305.15329v1](http://arxiv.org/abs/2305.15329v1)|null|
-|**2023-05-23**|**Heavy flavour spectroscopy at LHCb. Contribution to the 2023 QCD session of the 57th Rencontres de Moriond**|Paolo Gandini et.al.|[2305.13942v1](http://arxiv.org/abs/2305.13942v1)|null|
-|**2023-05-18**|**$b\to s\ell\ell$ and Lepton Universality at LHCb**|Christoph Langenbruch et.al.|[2305.10962v1](http://arxiv.org/abs/2305.10962v1)|null|
-|**2023-05-17**|**The LHCb upgrade I**|LHCb collaboration et.al.|[2305.10515v1](http://arxiv.org/abs/2305.10515v1)|null|
-|**2023-05-17**|**Effects of Kaluza-Klein Neutrinos on $R_{D}$ and $R_{D^{*}}$**|Janus Capellan Aban et.al.|[2305.10305v1](http://arxiv.org/abs/2305.10305v1)|null|
-|**2023-05-14**|**Lepton flavour universality tests at LHCb**|Alex Seuthe et.al.|[2305.08216v1](http://arxiv.org/abs/2305.08216v1)|null|
-|**2023-05-14**|**Lepton flavour universality tests in $b \to c l ν$ decays at the LHCb experiment**|Abhijit Mathad et.al.|[2305.08133v1](http://arxiv.org/abs/2305.08133v1)|null|
-|**2023-05-11**|**Measurement of $Ξ_{c}^{+}$ production in $p$Pb collisions at $\sqrt{s_{NN}}=8.16$ TeV at LHCb**|LHCb collaboration et.al.|[2305.06711v2](http://arxiv.org/abs/2305.06711v2)|null|
-|**2023-05-08**|**Bell inequality is violated in $B^0\to J/ψ\, K^{\star}(892)^0$ decays**|M. Fabbrichesi et.al.|[2305.04982v1](http://arxiv.org/abs/2305.04982v1)|null|
-|**2023-05-05**|**Hadronic molecules $η_c η_c$ and $χ_{c0}χ_{c0}$**|S. S. Agaev et.al.|[2305.03696v1](http://arxiv.org/abs/2305.03696v1)|null|
-
 ### X(3872)
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -106,3 +72,37 @@
 |**2020-06-26**|**The nature of $X(3872)$ from high-multiplicity $pp$ collisions**|Angelo Esposito et.al.|[2006.15044v2](http://arxiv.org/abs/2006.15044v2)|null|
 |**2020-05-27**|**Study of the $ψ_2(3823)$ and $χ_{c1}(3872)$ states in $B^+ \rightarrow \left( Jψπ^+π^-\right)K^+$ decays**|LHCb collaboration et.al.|[2005.13422v4](http://arxiv.org/abs/2005.13422v4)|null|
 |**2020-05-27**|**Study of the lineshape of the $χ_{c1}(3872)$ state**|LHCb collaboration et.al.|[2005.13419v3](http://arxiv.org/abs/2005.13419v3)|null|
+
+### b baryon
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-07-26**|**Prediction of various observables for $B_s^0 \to D_s^{(*)-}\ell^+ν_\ell$ within covariant confined quark model**|J. N. Pandya et.al.|[2307.14245v1](http://arxiv.org/abs/2307.14245v1)|null|
+|**2023-07-25**|**Observation of new baryons in the $Ξ_b^-π^+π^-$ and $Ξ_b^0π^+π^-$ systems**|LHCb collaboration et.al.|[2307.13399v1](http://arxiv.org/abs/2307.13399v1)|null|
+|**2023-07-18**|**Observation and branching fraction measurement of the decay $Ξ_b^-\toΛ_b^0π^-$**|LHCb collaboration et.al.|[2307.09427v1](http://arxiv.org/abs/2307.09427v1)|null|
+|**2023-07-18**|**Measurement of the branching fractions of the singly Cabibbo-suppressed decays $Λ_{c}^{+}\to pη$ and $Λ_{c}^{+}\to pω$**|BESIII Collaboration et.al.|[2307.09266v2](http://arxiv.org/abs/2307.09266v2)|null|
+|**2023-07-17**|**Higher molecular $P_{ψs}^{Λ/Σ}$ pentaquarks arising from the $Ξ_c^{(\prime,*)}\bar D_1/Ξ_c^{(\prime,*)}\bar D_2^*$ interactions**|Fu-Lai Wang et.al.|[2307.08276v1](http://arxiv.org/abs/2307.08276v1)|null|
+|**2023-07-16**|**Lepton Flavour Universality tests in $b \to c l ν$ decays at LHCb**|Rizwaan Mohammed et.al.|[2307.08109v1](http://arxiv.org/abs/2307.08109v1)|null|
+|**2023-07-07**|**Fast and flexible data structures for the LHCb Run 3 software trigger**|Sevda Esen et.al.|[2307.03689v1](http://arxiv.org/abs/2307.03689v1)|null|
+|**2023-07-06**|**$C\!P$ violation in beauty and charm quarks at LHCb**|Daniele Manuzzi et.al.|[2307.03094v1](http://arxiv.org/abs/2307.03094v1)|null|
+|**2023-07-02**|**Decay widths and mass spectra of single bottom baryons**|H. García-Tecocoatzi et.al.|[2307.00505v1](http://arxiv.org/abs/2307.00505v1)|null|
+|**2023-06-22**|**Search for $CP$ violation in the phase space of $D^0 \to π^-π^+π^0$ decays with the energy test**|LHCb collaboration et.al.|[2306.12746v1](http://arxiv.org/abs/2306.12746v1)|null|
+|**2023-06-22**|**The $b$ quark fragmentation fractions at LHCb and meson decays with heavy quark spectators**|C. O. Dib et.al.|[2306.12635v1](http://arxiv.org/abs/2306.12635v1)|null|
+|**2023-06-16**|**Measurements of $CP$ asymmetries and branching fractions of $B^-$ decays to two charm mesons**|LHCb collaboration et.al.|[2306.09945v1](http://arxiv.org/abs/2306.09945v1)|null|
+|**2023-06-16**|**Study of the Bose-Einstein correlations of same-sign pions in proton-lead collisions**|LHCb collaboration et.al.|[2306.09755v1](http://arxiv.org/abs/2306.09755v1)|null|
+|**2023-06-15**|**Complementarity of $B\to K^{(*)} μ\bar μ$ and $B\to K^{(*)} + \mathrm{inv}$ for searches of GeV-scale Higgs-like scalars**|Maksym Ovchynnikov et.al.|[2306.09508v1](http://arxiv.org/abs/2306.09508v1)|null|
+|**2023-06-15**|**Study of B^{0}_{s} \rightarrow \ TT(a_{2}(1320),K^{*}_{2}(1430),f_{2}(1270),f^{'}_{2}(1525)) in the perturbative QCD approach**|Jing Dai et.al.|[2306.09378v1](http://arxiv.org/abs/2306.09378v1)|null|
+|**2023-06-14**|**Plan B: New ${Z^\prime}$ models for $b\rightarrow sl^+l^-$ anomalies**|Ben Allanach et.al.|[2306.08669v2](http://arxiv.org/abs/2306.08669v2)|null|
+|**2023-05-30**|**The Global Fits of New Physics in $b \to s $ after $R_{K^{(*)}}$ 2022 Release**|Qiaoyi Wen et.al.|[2305.19038v2](http://arxiv.org/abs/2305.19038v2)|null|
+|**2023-05-28**|**Revisiting $b \to cτν$ anomalies with charged Higgs boson**|Nilakshi Das et.al.|[2305.17766v1](http://arxiv.org/abs/2305.17766v1)|null|
+|**2023-05-24**|**Associated production of prompt $J/ψ$ and $\mathitΥ$ mesons in $pp$ collisions at $\sqrt{s}=13\,\mathrm{TeV}$**|LHCb collaboration et.al.|[2305.15580v1](http://arxiv.org/abs/2305.15580v1)|null|
+|**2023-05-24**|**Weak decays of heavy-quark baryons**|Janina Nicolini et.al.|[2305.15366v1](http://arxiv.org/abs/2305.15366v1)|null|
+|**2023-05-24**|**Measurement of the mass difference and relative production rate of the $Ω^-_b$ and $Ξ^-_b$ baryons**|LHCb collaboration et.al.|[2305.15329v1](http://arxiv.org/abs/2305.15329v1)|null|
+|**2023-05-23**|**Heavy flavour spectroscopy at LHCb. Contribution to the 2023 QCD session of the 57th Rencontres de Moriond**|Paolo Gandini et.al.|[2305.13942v1](http://arxiv.org/abs/2305.13942v1)|null|
+|**2023-05-18**|**$b\to s\ell\ell$ and Lepton Universality at LHCb**|Christoph Langenbruch et.al.|[2305.10962v1](http://arxiv.org/abs/2305.10962v1)|null|
+|**2023-05-17**|**The LHCb upgrade I**|LHCb collaboration et.al.|[2305.10515v1](http://arxiv.org/abs/2305.10515v1)|null|
+|**2023-05-17**|**Effects of Kaluza-Klein Neutrinos on $R_{D}$ and $R_{D^{*}}$**|Janus Capellan Aban et.al.|[2305.10305v1](http://arxiv.org/abs/2305.10305v1)|null|
+|**2023-05-14**|**Lepton flavour universality tests at LHCb**|Alex Seuthe et.al.|[2305.08216v1](http://arxiv.org/abs/2305.08216v1)|null|
+|**2023-05-14**|**Lepton flavour universality tests in $b \to c l ν$ decays at the LHCb experiment**|Abhijit Mathad et.al.|[2305.08133v1](http://arxiv.org/abs/2305.08133v1)|null|
+|**2023-05-11**|**Measurement of $Ξ_{c}^{+}$ production in $p$Pb collisions at $\sqrt{s_{NN}}=8.16$ TeV at LHCb**|LHCb collaboration et.al.|[2305.06711v2](http://arxiv.org/abs/2305.06711v2)|null|
+|**2023-05-08**|**Bell inequality is violated in $B^0\to J/ψ\, K^{\star}(892)^0$ decays**|M. Fabbrichesi et.al.|[2305.04982v1](http://arxiv.org/abs/2305.04982v1)|null|
+|**2023-05-05**|**Hadronic molecules $η_c η_c$ and $χ_{c0}χ_{c0}$**|S. S. Agaev et.al.|[2305.03696v1](http://arxiv.org/abs/2305.03696v1)|null|
