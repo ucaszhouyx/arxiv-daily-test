@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2023-08-07 09:48:57 Asia/Shanghai
+ Automated deployment @ 2023-08-08 08:34:45 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -76,6 +76,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-04**|**The decay property of the $X(3842)$ as the $ψ_{_3}(1^3D_{_3})$ state**|Wei Li et.al.|[2308.02280v1](http://arxiv.org/abs/2308.02280v1)|null|
 |**2023-08-02**|**Improved measurement of $CP$ violation parameters in $B^0_s\to J/ψ K^{+}K^{-}$ decays in the vicinity of the $φ(1020)$ resonance**|LHCb collaboration et.al.|[2308.01468v1](http://arxiv.org/abs/2308.01468v1)|null|
 |**2023-08-01**|**Observation of the decays $B_{(s)}^{0}\to D_{s1}(2536)^{\mp}K^{\pm}$**|LHCb collaboration et.al.|[2308.00587v1](http://arxiv.org/abs/2308.00587v1)|null|
 |**2023-07-25**|**Observation of new baryons in the $Ξ_b^-π^+π^-$ and $Ξ_b^0π^+π^-$ systems**|LHCb collaboration et.al.|[2307.13399v1](http://arxiv.org/abs/2307.13399v1)|null|
@@ -105,4 +106,3 @@
 |**2023-05-24**|**Weak decays of heavy-quark baryons**|Janina Nicolini et.al.|[2305.15366v1](http://arxiv.org/abs/2305.15366v1)|null|
 |**2023-05-24**|**Measurement of the mass difference and relative production rate of the $Ω^-_b$ and $Ξ^-_b$ baryons**|LHCb collaboration et.al.|[2305.15329v1](http://arxiv.org/abs/2305.15329v1)|null|
 |**2023-05-23**|**Unraveling the nature of the novel $\mathbf{T_{cs}}$ and $\mathbf{T_{c\bar s}}$ tetraquark candidates**|P. G. Ortega et.al.|[2305.14430v1](http://arxiv.org/abs/2305.14430v1)|null|
-|**2023-05-23**|**Heavy flavour spectroscopy at LHCb. Contribution to the 2023 QCD session of the 57th Rencontres de Moriond**|Paolo Gandini et.al.|[2305.13942v1](http://arxiv.org/abs/2305.13942v1)|null|
