@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2023-08-10 09:51:13 Asia/Shanghai
+ Automated deployment @ 2023-08-11 08:28:30 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -8,6 +8,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-09**|**Study of flavor dependence of the baryon-to-meson ratio in proton-proton collisions at $\sqrt{s} = 13$ TeV**|ALICE Collaboration et.al.|[2308.04873v1](http://arxiv.org/abs/2308.04873v1)|null|
 |**2023-08-08**|**New determination of $|V_{ub}/V_{cb}|$ from $B_s^0\to \lbrace K^-, D_s^- \rbrace μ^+ν$**|Carolina Bolognani et.al.|[2308.04347v1](http://arxiv.org/abs/2308.04347v1)|null|
 |**2023-08-06**|**Semileptonic $B_{c}$ meson decays to S-wave charmonia and $X(3872)$ within the covariant light-front approach**|Zhi-Jie Sun et.al.|[2308.03114v1](http://arxiv.org/abs/2308.03114v1)|null|
 |**2023-08-04**|**The decay property of the $X(3842)$ as the $ψ_{_3}(1^3D_{_3})$ state**|Wei Li et.al.|[2308.02280v1](http://arxiv.org/abs/2308.02280v1)|null|
@@ -37,7 +38,6 @@
 |**2023-06-02**|**Forward Neutrinos from Charm at Large Hadron Collider**|Atri Bhattacharya et.al.|[2306.01578v1](http://arxiv.org/abs/2306.01578v1)|null|
 |**2023-05-30**|**The Global Fits of New Physics in $b \to s $ after $R_{K^{(*)}}$ 2022 Release**|Qiaoyi Wen et.al.|[2305.19038v2](http://arxiv.org/abs/2305.19038v2)|null|
 |**2023-05-28**|**Revisiting $b \to cτν$ anomalies with charged Higgs boson**|Nilakshi Das et.al.|[2305.17766v1](http://arxiv.org/abs/2305.17766v1)|null|
-|**2023-05-24**|**Weak decays of heavy-quark baryons**|Janina Nicolini et.al.|[2305.15366v1](http://arxiv.org/abs/2305.15366v1)|null|
 
 ### X(3872)
 |Publish Date|Title|Authors|PDF|Code|
@@ -76,6 +76,7 @@
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-09**|**Study of flavor dependence of the baryon-to-meson ratio in proton-proton collisions at $\sqrt{s} = 13$ TeV**|ALICE Collaboration et.al.|[2308.04873v1](http://arxiv.org/abs/2308.04873v1)|null|
 |**2023-08-08**|**New determination of $|V_{ub}/V_{cb}|$ from $B_s^0\to \lbrace K^-, D_s^- \rbrace μ^+ν$**|Carolina Bolognani et.al.|[2308.04347v1](http://arxiv.org/abs/2308.04347v1)|null|
 |**2023-08-02**|**Improved measurement of $CP$ violation parameters in $B^0_s\to J/ψ K^{+}K^{-}$ decays in the vicinity of the $φ(1020)$ resonance**|LHCb collaboration et.al.|[2308.01468v1](http://arxiv.org/abs/2308.01468v1)|null|
 |**2023-08-01**|**Observation of the decays $B_{(s)}^{0}\to D_{s1}(2536)^{\mp}K^{\pm}$**|LHCb collaboration et.al.|[2308.00587v1](http://arxiv.org/abs/2308.00587v1)|null|
@@ -105,4 +106,3 @@
 |**2023-05-17**|**The LHCb upgrade I**|LHCb collaboration et.al.|[2305.10515v1](http://arxiv.org/abs/2305.10515v1)|null|
 |**2023-05-17**|**Effects of Kaluza-Klein Neutrinos on $R_{D}$ and $R_{D^{*}}$**|Janus Capellan Aban et.al.|[2305.10305v1](http://arxiv.org/abs/2305.10305v1)|null|
 |**2023-05-14**|**Lepton flavour universality tests at LHCb**|Alex Seuthe et.al.|[2305.08216v1](http://arxiv.org/abs/2305.08216v1)|null|
-|**2023-05-14**|**Lepton flavour universality tests in $b \to c l ν$ decays at the LHCb experiment**|Abhijit Mathad et.al.|[2305.08133v1](http://arxiv.org/abs/2305.08133v1)|null|
