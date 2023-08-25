@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2023-08-24 09:29:06 Asia/Shanghai
+ Automated deployment @ 2023-08-25 08:29:25 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -8,6 +8,7 @@
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-21**|**Investigation of the mass spectra of singly heavy baryons $Σ_{Q}$, $Ξ^{\prime}_{Q}$ and $Ω_{Q}$$(Q=c, d)$ in Regge trajectory model**|Ji-Hai Pan et.al.|[2308.11769v1](http://arxiv.org/abs/2308.11769v1)|null|
 |**2023-08-16**|**Observation of Cabibbo-suppressed two-body hadronic decays and precision mass measurement of the $Ω_{c}^{0}$ baryon**|LHCb collaboration et.al.|[2308.08512v1](http://arxiv.org/abs/2308.08512v1)|null|
 |**2023-08-11**|**A search for rare $B \rightarrow D μ^+ μ^-$ decays**|LHCb collaboration et.al.|[2308.06162v1](http://arxiv.org/abs/2308.06162v1)|null|
 |**2023-08-10**|**Assessing Lepton Flavor Universality Violations in Semileptonic Decays**|Sonali Patnaik et.al.|[2308.05677v1](http://arxiv.org/abs/2308.05677v1)|null|
@@ -37,12 +38,11 @@
 |**2023-05-24**|**Weak decays of heavy-quark baryons**|Janina Nicolini et.al.|[2305.15366v1](http://arxiv.org/abs/2305.15366v1)|null|
 |**2023-05-24**|**Measurement of the mass difference and relative production rate of the $Ω^-_b$ and $Ξ^-_b$ baryons**|LHCb collaboration et.al.|[2305.15329v1](http://arxiv.org/abs/2305.15329v1)|null|
 |**2023-05-23**|**Heavy flavour spectroscopy at LHCb. Contribution to the 2023 QCD session of the 57th Rencontres de Moriond**|Paolo Gandini et.al.|[2305.13942v1](http://arxiv.org/abs/2305.13942v1)|null|
-|**2023-05-18**|**$b\to s\ell\ell$ and Lepton Universality at LHCb**|Christoph Langenbruch et.al.|[2305.10962v1](http://arxiv.org/abs/2305.10962v1)|null|
 
 ### X(3872)
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-08-06**|**Semileptonic $B_{c}$ meson decays to S-wave charmonia and $X(3872)$ within the covariant light-front approach**|Zhi-Jie Sun et.al.|[2308.03114v1](http://arxiv.org/abs/2308.03114v1)|null|
+|**2023-08-06**|**Semileptonic $B_{c}$ meson decays to S-wave charmonia and $X(3872)$ within the covariant light-front approach**|Zhi-Jie Sun et.al.|[2308.03114v2](http://arxiv.org/abs/2308.03114v2)|null|
 |**2023-03-07**|**The study on the structure of exotic states $χ_{c 1}(3872)$ via beauty-hadron decays in $pp$ collisions at $\sqrt{s}=8\,\mathrm{TeV}$**|Chun-tai Wu et.al.|[2303.03696v1](http://arxiv.org/abs/2303.03696v1)|null|
 |**2023-02-21**|**Observation of the $B^0_s\rightarrow χ_{c1}(3872)π^+π^-$ decay**|LHCb collaboration et.al.|[2302.10629v1](http://arxiv.org/abs/2302.10629v1)|null|
 |**2023-02-04**|**Study of the lineshape of $X(3872)$ using $B$ decays to $D^0\overline{D}{}^{*0}K$**|Belle Collaboration et.al.|[2302.02127v2](http://arxiv.org/abs/2302.02127v2)|null|
@@ -76,13 +76,14 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-21**|**Investigation of the mass spectra of singly heavy baryons $Σ_{Q}$, $Ξ^{\prime}_{Q}$ and $Ω_{Q}$$(Q=c, d)$ in Regge trajectory model**|Ji-Hai Pan et.al.|[2308.11769v1](http://arxiv.org/abs/2308.11769v1)|null|
 |**2023-08-16**|**Observation of Cabibbo-suppressed two-body hadronic decays and precision mass measurement of the $Ω_{c}^{0}$ baryon**|LHCb collaboration et.al.|[2308.08512v1](http://arxiv.org/abs/2308.08512v1)|null|
 |**2023-08-13**|**The $X(3960)$, $X_0(4140)$, and other $cs\bar{c}\bar{s}$ compact states**|Shi-Yuan Li et.al.|[2308.06768v1](http://arxiv.org/abs/2308.06768v1)|null|
 |**2023-08-11**|**A search for rare $B \rightarrow D μ^+ μ^-$ decays**|LHCb collaboration et.al.|[2308.06162v1](http://arxiv.org/abs/2308.06162v1)|null|
 |**2023-08-10**|**Assessing Lepton Flavor Universality Violations in Semileptonic Decays**|Sonali Patnaik et.al.|[2308.05677v1](http://arxiv.org/abs/2308.05677v1)|null|
 |**2023-08-09**|**Study of flavor dependence of the baryon-to-meson ratio in proton-proton collisions at $\sqrt{s} = 13$ TeV**|ALICE Collaboration et.al.|[2308.04873v1](http://arxiv.org/abs/2308.04873v1)|null|
 |**2023-08-08**|**New determination of $|V_{ub}/V_{cb}|$ from $B_s^0\to \lbrace K^-, D_s^- \rbrace μ^+ν$**|Carolina Bolognani et.al.|[2308.04347v1](http://arxiv.org/abs/2308.04347v1)|null|
-|**2023-08-06**|**Semileptonic $B_{c}$ meson decays to S-wave charmonia and $X(3872)$ within the covariant light-front approach**|Zhi-Jie Sun et.al.|[2308.03114v1](http://arxiv.org/abs/2308.03114v1)|null|
+|**2023-08-06**|**Semileptonic $B_{c}$ meson decays to S-wave charmonia and $X(3872)$ within the covariant light-front approach**|Zhi-Jie Sun et.al.|[2308.03114v2](http://arxiv.org/abs/2308.03114v2)|null|
 |**2023-08-04**|**The decay property of the $X(3842)$ as the $ψ_{_3}(1^3D_{_3})$ state**|Wei Li et.al.|[2308.02280v1](http://arxiv.org/abs/2308.02280v1)|null|
 |**2023-08-02**|**Improved measurement of $CP$ violation parameters in $B^0_s\to J/ψ K^{+}K^{-}$ decays in the vicinity of the $φ(1020)$ resonance**|LHCb collaboration et.al.|[2308.01468v1](http://arxiv.org/abs/2308.01468v1)|null|
 |**2023-08-01**|**Observation of the decays $B_{(s)}^{0}\to D_{s1}(2536)^{\mp}K^{\pm}$**|LHCb collaboration et.al.|[2308.00587v1](http://arxiv.org/abs/2308.00587v1)|null|
@@ -105,4 +106,3 @@
 |**2023-06-16**|**Measurements of $CP$ asymmetries and branching fractions of $B^-$ decays to two charm mesons**|LHCb collaboration et.al.|[2306.09945v1](http://arxiv.org/abs/2306.09945v1)|null|
 |**2023-06-16**|**Development of the Topological Trigger for LHCb Run 3**|Nicole Schulte et.al.|[2306.09873v2](http://arxiv.org/abs/2306.09873v2)|null|
 |**2023-06-15**|**Complementarity of $B\to K^{(*)} μ\bar μ$ and $B\to K^{(*)} + \mathrm{inv}$ for searches of GeV-scale Higgs-like scalars**|Maksym Ovchynnikov et.al.|[2306.09508v1](http://arxiv.org/abs/2306.09508v1)|null|
-|**2023-06-15**|**Study of B^{0}_{s} \rightarrow \ TT(a_{2}(1320),K^{*}_{2}(1430),f_{2}(1270),f^{'}_{2}(1525)) in the perturbative QCD approach**|Jing Dai et.al.|[2306.09378v1](http://arxiv.org/abs/2306.09378v1)|null|
