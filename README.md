@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2023-08-27 09:34:45 Asia/Shanghai
+ Automated deployment @ 2023-08-28 08:30:21 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -8,7 +8,7 @@
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-08-24**|**Measurement of $Z$ boson production cross-section in $pp$ collisions at $\sqrt{s} = 5.02\,$TeV**|LHCb collaboration et.al.|[2308.12940v1](http://arxiv.org/abs/2308.12940v1)|null|
+|**2023-08-24**|**Measurement of $Z$ boson production cross-section in $pp$ collisions at $\sqrt{s} = 5.02$ TeV**|LHCb collaboration et.al.|[2308.12940v2](http://arxiv.org/abs/2308.12940v2)|null|
 |**2023-08-24**|**Study of four-body decays $B_{(s)} \to (ππ)(ππ)$ in the perturbative QCD approach**|Da-Cheng Yan et.al.|[2308.12543v1](http://arxiv.org/abs/2308.12543v1)|null|
 |**2023-08-21**|**Investigation of the mass spectra of singly heavy baryons $Σ_{Q}$, $Ξ^{\prime}_{Q}$ and $Ω_{Q}$$(Q=c, d)$ in Regge trajectory model**|Ji-Hai Pan et.al.|[2308.11769v1](http://arxiv.org/abs/2308.11769v1)|null|
 |**2023-08-16**|**Observation of Cabibbo-suppressed two-body hadronic decays and precision mass measurement of the $Ω_{c}^{0}$ baryon**|LHCb collaboration et.al.|[2308.08512v1](http://arxiv.org/abs/2308.08512v1)|null|
