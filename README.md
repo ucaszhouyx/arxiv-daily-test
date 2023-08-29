@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2023-08-28 09:32:07 Asia/Shanghai
+ Automated deployment @ 2023-08-29 08:29:54 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -8,6 +8,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-25**|**$B$ meson anomalies and large $B^{+}\to K^{+}ν\barν$ in non-universal $U(1)^\prime$ models**|Peter Athron et.al.|[2308.13426v1](http://arxiv.org/abs/2308.13426v1)|null|
 |**2023-08-24**|**Study of four-body decays $B_{(s)} \to (ππ)(ππ)$ in the perturbative QCD approach**|Da-Cheng Yan et.al.|[2308.12543v1](http://arxiv.org/abs/2308.12543v1)|null|
 |**2023-08-21**|**Investigation of the mass spectra of singly heavy baryons $Σ_{Q}$, $Ξ^{\prime}_{Q}$ and $Ω_{Q}$$(Q=c, d)$ in Regge trajectory model**|Ji-Hai Pan et.al.|[2308.11769v1](http://arxiv.org/abs/2308.11769v1)|null|
 |**2023-08-16**|**Observation of Cabibbo-suppressed two-body hadronic decays and precision mass measurement of the $Ω_{c}^{0}$ baryon**|LHCb collaboration et.al.|[2308.08512v1](http://arxiv.org/abs/2308.08512v1)|null|
@@ -37,7 +38,6 @@
 |**2023-06-22**|**The $b$ quark fragmentation fractions at LHCb and meson decays with heavy quark spectators**|C. O. Dib et.al.|[2306.12635v1](http://arxiv.org/abs/2306.12635v1)|null|
 |**2023-06-20**|**Mixing and $C\!P$ violation in beauty and charm at LHCb**|A. Merli et.al.|[2306.11367v1](http://arxiv.org/abs/2306.11367v1)|null|
 |**2023-06-16**|**Measurements of $CP$ asymmetries and branching fractions of $B^-$ decays to two charm mesons**|LHCb collaboration et.al.|[2306.09945v1](http://arxiv.org/abs/2306.09945v1)|null|
-|**2023-06-16**|**Development of the Topological Trigger for LHCb Run 3**|Nicole Schulte et.al.|[2306.09873v2](http://arxiv.org/abs/2306.09873v2)|null|
 
 ### X(3872)
 |Publish Date|Title|Authors|PDF|Code|
@@ -76,6 +76,7 @@
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-25**|**$B$ meson anomalies and large $B^{+}\to K^{+}ν\barν$ in non-universal $U(1)^\prime$ models**|Peter Athron et.al.|[2308.13426v1](http://arxiv.org/abs/2308.13426v1)|null|
 |**2023-08-24**|**Measurement of $Z$ boson production cross-section in $pp$ collisions at $\sqrt{s} = 5.02$ TeV**|LHCb collaboration et.al.|[2308.12940v2](http://arxiv.org/abs/2308.12940v2)|null|
 |**2023-08-24**|**Study of four-body decays $B_{(s)} \to (ππ)(ππ)$ in the perturbative QCD approach**|Da-Cheng Yan et.al.|[2308.12543v1](http://arxiv.org/abs/2308.12543v1)|null|
 |**2023-08-21**|**Investigation of the mass spectra of singly heavy baryons $Σ_{Q}$, $Ξ^{\prime}_{Q}$ and $Ω_{Q}$$(Q=c, d)$ in Regge trajectory model**|Ji-Hai Pan et.al.|[2308.11769v1](http://arxiv.org/abs/2308.11769v1)|null|
@@ -105,4 +106,3 @@
 |**2023-05-30**|**The Global Fits of New Physics in $b \to s $ after $R_{K^{(*)}}$ 2022 Release**|Qiaoyi Wen et.al.|[2305.19038v2](http://arxiv.org/abs/2305.19038v2)|null|
 |**2023-05-28**|**Revisiting $b \to cτν$ anomalies with charged Higgs boson**|Nilakshi Das et.al.|[2305.17766v1](http://arxiv.org/abs/2305.17766v1)|null|
 |**2023-05-24**|**Associated production of prompt $J/ψ$ and $\mathitΥ$ mesons in $pp$ collisions at $\sqrt{s}=13\,\mathrm{TeV}$**|LHCb collaboration et.al.|[2305.15580v1](http://arxiv.org/abs/2305.15580v1)|null|
-|**2023-05-24**|**Weak decays of heavy-quark baryons**|Janina Nicolini et.al.|[2305.15366v1](http://arxiv.org/abs/2305.15366v1)|null|
