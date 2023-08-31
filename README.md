@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2023-08-30 09:31:04 Asia/Shanghai
+ Automated deployment @ 2023-08-31 08:30:00 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -76,6 +76,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-29**|**New type of doubly charmed molecular pentaquarks containing most strange quarks: Mass spectra, radiative decays, and magnetic moments**|Fu-Lai Wang et.al.|[2308.15255v1](http://arxiv.org/abs/2308.15255v1)|null|
 |**2023-08-28**|**Combined analysis on nature of $X(3960)$, $χ_{c0}(3930)$, and $X_0(4140)$**|Zuo-ming Ding et.al.|[2308.14264v1](http://arxiv.org/abs/2308.14264v1)|null|
 |**2023-08-27**|**Production of the newly observed $\bar{T}_{c\bar{s}0}$ by kaon-induced reactions on a proton/neutron target**|Yin Huang et.al.|[2308.14148v1](http://arxiv.org/abs/2308.14148v1)|null|
 |**2023-08-25**|**$B$ meson anomalies and large $B^{+}\to K^{+}ν\barν$ in non-universal $U(1)^\prime$ models**|Peter Athron et.al.|[2308.13426v1](http://arxiv.org/abs/2308.13426v1)|null|
@@ -105,4 +106,3 @@
 |**2023-07-02**|**Decay widths and mass spectra of single bottom baryons**|H. García-Tecocoatzi et.al.|[2307.00505v1](http://arxiv.org/abs/2307.00505v1)|null|
 |**2023-06-28**|**The roles of the $T_{c\bar{s}0}(2900)^0$ and $D_0^*(2300)$ in the process $B^-\to D_s^+K^-π^-$**|Wen-Tao Lyu et.al.|[2306.16101v1](http://arxiv.org/abs/2306.16101v1)|null|
 |**2023-06-22**|**Search for $CP$ violation in the phase space of $D^0 \to π^-π^+π^0$ decays with the energy test**|LHCb collaboration et.al.|[2306.12746v1](http://arxiv.org/abs/2306.12746v1)|null|
-|**2023-06-22**|**The $b$ quark fragmentation fractions at LHCb and meson decays with heavy quark spectators**|C. O. Dib et.al.|[2306.12635v1](http://arxiv.org/abs/2306.12635v1)|null|
