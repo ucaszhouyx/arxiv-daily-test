@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2023-10-02 09:34:51 Asia/Shanghai
+ Automated deployment @ 2023-10-03 08:31:04 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-29**|**Study of two-body doubly charmful baryonic $B$ decays with $SU(3)$ flavor symmetry**|Yu-Kuo Hsiao et.al.|[2309.16919v1](http://arxiv.org/abs/2309.16919v1)|null|
 |**2023-09-25**|**Strong decays of low-lying $D$-wave $Ξ_b/Ξ_b'$ baryons with QPC model**|Yu-Hui Zhou et.al.|[2309.13906v1](http://arxiv.org/abs/2309.13906v1)|null|
 |**2023-09-21**|**Production rates of hidden-charm pentaquark molecules in $Λ_b$ decays**|Ya-Wen Pan et.al.|[2309.12050v1](http://arxiv.org/abs/2309.12050v1)|null|
 |**2023-09-18**|**Possible large CP violation in charmed $Λ_b$ decays**|Yin-Fa Shen et.al.|[2309.09854v1](http://arxiv.org/abs/2309.09854v1)|null|
@@ -71,11 +72,11 @@
 |**2023-07-18**|**Observation and branching fraction measurement of the decay $Ξ_b^-\toΛ_b^0π^-$**|LHCb collaboration et.al.|[2307.09427v1](http://arxiv.org/abs/2307.09427v1)|null|
 |**2023-07-18**|**Measurement of the branching fractions of the singly Cabibbo-suppressed decays $Λ_{c}^{+}\to pη$ and $Λ_{c}^{+}\to pω$**|BESIII Collaboration et.al.|[2307.09266v2](http://arxiv.org/abs/2307.09266v2)|null|
 |**2023-07-17**|**Higher molecular $P_{ψs}^{Λ/Σ}$ pentaquarks arising from the $Ξ_c^{(\prime,*)}\bar D_1/Ξ_c^{(\prime,*)}\bar D_2^*$ interactions**|Fu-Lai Wang et.al.|[2307.08276v2](http://arxiv.org/abs/2307.08276v2)|null|
-|**2023-07-16**|**Lepton Flavour Universality tests in $b \to c l ν$ decays at LHCb**|Rizwaan Mohammed et.al.|[2307.08109v2](http://arxiv.org/abs/2307.08109v2)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-29**|**Study of two-body doubly charmful baryonic $B$ decays with $SU(3)$ flavor symmetry**|Yu-Kuo Hsiao et.al.|[2309.16919v1](http://arxiv.org/abs/2309.16919v1)|null|
 |**2023-09-25**|**Strong decays of low-lying $D$-wave $Ξ_b/Ξ_b'$ baryons with QPC model**|Yu-Hui Zhou et.al.|[2309.13906v1](http://arxiv.org/abs/2309.13906v1)|null|
 |**2023-09-18**|**Analysis of $b\rightarrow cτ\barν_τ$ anomalies using weak effective Hamiltonian with complex couplings**|Muhammad Arslan et.al.|[2309.09929v1](http://arxiv.org/abs/2309.09929v1)|null|
 |**2023-09-18**|**Possible large CP violation in charmed $Λ_b$ decays**|Yin-Fa Shen et.al.|[2309.09854v1](http://arxiv.org/abs/2309.09854v1)|null|
@@ -105,4 +106,3 @@
 |**2023-07-06**|**$C\!P$ violation in beauty and charm quarks at LHCb**|Daniele Manuzzi et.al.|[2307.03094v1](http://arxiv.org/abs/2307.03094v1)|null|
 |**2023-07-02**|**Decay widths and mass spectra of single bottom baryons**|H. García-Tecocoatzi et.al.|[2307.00505v1](http://arxiv.org/abs/2307.00505v1)|null|
 |**2023-06-22**|**Search for $CP$ violation in the phase space of $D^0 \to π^-π^+π^0$ decays with the energy test**|LHCb collaboration et.al.|[2306.12746v2](http://arxiv.org/abs/2306.12746v2)|null|
-|**2023-06-22**|**The $b$ quark fragmentation fractions at LHCb and meson decays with heavy quark spectators**|C. O. Dib et.al.|[2306.12635v2](http://arxiv.org/abs/2306.12635v2)|null|
