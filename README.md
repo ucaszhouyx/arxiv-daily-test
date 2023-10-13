@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2023-10-12 09:30:39 Asia/Shanghai
+ Automated deployment @ 2023-10-13 08:31:32 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -11,7 +11,7 @@
 |**2023-10-10**|**Maximising the physics potential of $B^\pm\toπ^\pmμ^+μ^-$ decays**|Alexander Mclean Marshall et.al.|[2310.06734v1](http://arxiv.org/abs/2310.06734v1)|null|
 |**2023-10-10**|**New physics search via CP observables in $B_s^0 \rightarrow φφ$ decay with Chromomagnetic operators**|Tejhas Kapoor et.al.|[2310.06459v1](http://arxiv.org/abs/2310.06459v1)|null|
 |**2023-10-09**|**$B$ anomalies in the post $R_{K^{(*)}}$ era**|T. Hurth et.al.|[2310.05585v1](http://arxiv.org/abs/2310.05585v1)|null|
-|**2023-10-06**|**Measurement of the CKM angle $γ$ using the $B^{\pm}\rightarrow D^{*} h^{\pm}$ channels**|LHCb collaboration et.al.|[2310.04277v1](http://arxiv.org/abs/2310.04277v1)|null|
+|**2023-10-06**|**Measurement of the CKM angle $γ$ using the $B^{\pm}\rightarrow D^{*} h^{\pm}$ channels**|LHCb collaboration et.al.|[2310.04277v2](http://arxiv.org/abs/2310.04277v2)|null|
 |**2023-10-06**|**New Probes of Electron--Muon Universality in $B \to K\ell^+\ell^-$ Decays**|Robert Fleischer et.al.|[2310.04170v1](http://arxiv.org/abs/2310.04170v1)|null|
 |**2023-09-30**|**Ratios of Hidden-Charm Compact Pentaquark Decay Widths in Quark-Diquark Model**|Alexandra A. Dobrynina et.al.|[2310.00423v1](http://arxiv.org/abs/2310.00423v1)|null|
 |**2023-09-29**|**Study of two-body doubly charmful baryonic $B$ decays with $SU(3)$ flavor symmetry**|Yu-Kuo Hsiao et.al.|[2309.16919v1](http://arxiv.org/abs/2309.16919v1)|null|
@@ -76,9 +76,10 @@
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-11**|**Training and Onboarding initiatives in High Energy Physics experiments**|S. Hageboeck et.al.|[2310.07342v1](http://arxiv.org/abs/2310.07342v1)|null|
 |**2023-10-09**|**Helium identification with LHCb**|LHCb collaboration et.al.|[2310.05864v1](http://arxiv.org/abs/2310.05864v1)|null|
 |**2023-10-09**|**$B$ anomalies in the post $R_{K^{(*)}}$ era**|T. Hurth et.al.|[2310.05585v1](http://arxiv.org/abs/2310.05585v1)|null|
-|**2023-10-06**|**Measurement of the CKM angle $γ$ using the $B^{\pm}\rightarrow D^{*} h^{\pm}$ channels**|LHCb collaboration et.al.|[2310.04277v1](http://arxiv.org/abs/2310.04277v1)|null|
+|**2023-10-06**|**Measurement of the CKM angle $γ$ using the $B^{\pm}\rightarrow D^{*} h^{\pm}$ channels**|LHCb collaboration et.al.|[2310.04277v2](http://arxiv.org/abs/2310.04277v2)|null|
 |**2023-10-06**|**New Probes of Electron--Muon Universality in $B \to K\ell^+\ell^-$ Decays**|Robert Fleischer et.al.|[2310.04170v1](http://arxiv.org/abs/2310.04170v1)|null|
 |**2023-09-29**|**Study of two-body doubly charmful baryonic $B$ decays with $SU(3)$ flavor symmetry**|Yu-Kuo Hsiao et.al.|[2309.16919v1](http://arxiv.org/abs/2309.16919v1)|null|
 |**2023-09-25**|**Strong decays of low-lying $D$-wave $Ξ_b/Ξ_b'$ baryons with QPC model**|Yu-Hui Zhou et.al.|[2309.13906v1](http://arxiv.org/abs/2309.13906v1)|null|
@@ -102,7 +103,6 @@
 |**2023-08-01**|**Observation of the decays $B_{(s)}^{0}\to D_{s1}(2536)^{\mp}K^{\pm}$**|LHCb collaboration et.al.|[2308.00587v1](http://arxiv.org/abs/2308.00587v1)|null|
 |**2023-07-26**|**Prediction of various observables for $B_s^0 \to D_s^{(*)-}\ell^+ν_\ell$ within covariant confined quark model**|J. N. Pandya et.al.|[2307.14245v1](http://arxiv.org/abs/2307.14245v1)|null|
 |**2023-07-25**|**Observation of new baryons in the $Ξ_b^-π^+π^-$ and $Ξ_b^0π^+π^-$ systems**|LHCb collaboration et.al.|[2307.13399v1](http://arxiv.org/abs/2307.13399v1)|null|
-|**2023-07-18**|**Observation and branching fraction measurement of the decay $Ξ_b^-\toΛ_b^0π^-$**|LHCb collaboration et.al.|[2307.09427v1](http://arxiv.org/abs/2307.09427v1)|null|
+|**2023-07-18**|**Observation and branching fraction measurement of the decay $Ξ_b^-\toΛ_b^0π^-$**|LHCb collaboration et.al.|[2307.09427v2](http://arxiv.org/abs/2307.09427v2)|null|
 |**2023-07-18**|**Measurement of the branching fractions of the singly Cabibbo-suppressed decays $Λ_{c}^{+}\to pη$ and $Λ_{c}^{+}\to pω$**|BESIII Collaboration et.al.|[2307.09266v2](http://arxiv.org/abs/2307.09266v2)|null|
 |**2023-07-17**|**Higher molecular $P_{ψs}^{Λ/Σ}$ pentaquarks arising from the $Ξ_c^{(\prime,*)}\bar D_1/Ξ_c^{(\prime,*)}\bar D_2^*$ interactions**|Fu-Lai Wang et.al.|[2307.08276v2](http://arxiv.org/abs/2307.08276v2)|null|
-|**2023-07-16**|**Lepton Flavour Universality tests in $b \to c l ν$ decays at LHCb**|Rizwaan Mohammed et.al.|[2307.08109v2](http://arxiv.org/abs/2307.08109v2)|null|
