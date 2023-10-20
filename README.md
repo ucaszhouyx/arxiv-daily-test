@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2023-10-19 09:33:59 Asia/Shanghai
+ Automated deployment @ 2023-10-20 08:31:01 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -24,7 +24,7 @@
 |**2023-09-18**|**Possible large CP violation in charmed $Λ_b$ decays**|Yin-Fa Shen et.al.|[2309.09854v1](http://arxiv.org/abs/2309.09854v1)|null|
 |**2023-09-18**|**Measurement of CP violation in $B^0\toψ(\to\ell^+\ell^-)K^0_S(\toπ^+π^-)$ decays**|LHCb collaboration et.al.|[2309.09728v1](http://arxiv.org/abs/2309.09728v1)|null|
 |**2023-09-15**|**Investigating the angular distribution of FCNC process $B_{c}\to{D}_{s}^{*}(\to{D}_{s}π)\ell^{+}\ell^{-}$**|Yu-Shuai Li et.al.|[2309.08191v1](http://arxiv.org/abs/2309.08191v1)|null|
-|**2023-09-11**|**Measurement of the CKM angle $γ$ in the $B^0 \to DK^{*0}$ channel using self-conjugate $D \to K_S^0 h^+ h^-$ decays**|LHCb collaboration et.al.|[2309.05514v1](http://arxiv.org/abs/2309.05514v1)|null|
+|**2023-09-11**|**Measurement of the CKM angle $γ$ in the $B^0 \to DK^{*0}$ channel using self-conjugate $D \to K_S^0 h^+ h^-$ decays**|LHCb collaboration et.al.|[2309.05514v2](http://arxiv.org/abs/2309.05514v2)|null|
 |**2023-09-03**|**Radiative $B$ to axial-vector meson decays at NLO in Soft-Collinear Effective Theory**|Arslan Sikandar et.al.|[2309.01060v1](http://arxiv.org/abs/2309.01060v1)|null|
 |**2023-08-28**|**Combined analysis on nature of $X(3960)$, $χ_{c0}(3930)$, and $X_0(4140)$**|Zuo-ming Ding et.al.|[2308.14264v1](http://arxiv.org/abs/2308.14264v1)|null|
 |**2023-08-25**|**$B$ meson anomalies and large $B^{+}\to K^{+}ν\barν$ in non-universal $U(1)^\prime$ models**|Peter Athron et.al.|[2308.13426v2](http://arxiv.org/abs/2308.13426v2)|null|
@@ -56,7 +56,7 @@
 |**2023-09-21**|**Production rates of hidden-charm pentaquark molecules in $Λ_b$ decays**|Ya-Wen Pan et.al.|[2309.12050v1](http://arxiv.org/abs/2309.12050v1)|null|
 |**2023-09-18**|**Possible large CP violation in charmed $Λ_b$ decays**|Yin-Fa Shen et.al.|[2309.09854v1](http://arxiv.org/abs/2309.09854v1)|null|
 |**2023-09-18**|**Measurement of CP violation in $B^0\toψ(\to\ell^+\ell^-)K^0_S(\toπ^+π^-)$ decays**|LHCb collaboration et.al.|[2309.09728v1](http://arxiv.org/abs/2309.09728v1)|null|
-|**2023-09-11**|**Measurement of the CKM angle $γ$ in the $B^0 \to DK^{*0}$ channel using self-conjugate $D \to K_S^0 h^+ h^-$ decays**|LHCb collaboration et.al.|[2309.05514v1](http://arxiv.org/abs/2309.05514v1)|null|
+|**2023-09-11**|**Measurement of the CKM angle $γ$ in the $B^0 \to DK^{*0}$ channel using self-conjugate $D \to K_S^0 h^+ h^-$ decays**|LHCb collaboration et.al.|[2309.05514v2](http://arxiv.org/abs/2309.05514v2)|null|
 |**2023-09-08**|**Old and new anomalies in charm**|Rigo Bause et.al.|[2309.04513v1](http://arxiv.org/abs/2309.04513v1)|null|
 |**2023-09-03**|**Radiative $B$ to axial-vector meson decays at NLO in Soft-Collinear Effective Theory**|Arslan Sikandar et.al.|[2309.01060v1](http://arxiv.org/abs/2309.01060v1)|null|
 |**2023-08-29**|**New type of doubly charmed molecular pentaquarks containing most strange quarks: Mass spectra, radiative decays, and magnetic moments**|Fu-Lai Wang et.al.|[2308.15255v2](http://arxiv.org/abs/2308.15255v2)|null|
