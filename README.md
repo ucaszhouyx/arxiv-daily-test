@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2023-11-01 09:39:55 Asia/Shanghai
+ Automated deployment @ 2023-11-02 08:30:55 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-30**|**Search for $\textit{CP}$ violation in the phase space of $D^{0} \rightarrow K_{S}^{0} K^{\pm} π^{\mp} $ decays with the energy test**|LHCb collaboration et.al.|[2310.19397v1](http://arxiv.org/abs/2310.19397v1)|null|
 |**2023-10-29**|**Pictorial $SU(3)_f$ approach for two-body $Ω_c$ weak decays**|Y. K. Hsiao et.al.|[2310.18896v1](http://arxiv.org/abs/2310.18896v1)|null|
 |**2023-10-26**|**CP violation in heavy-flavour decays**|Yuehong Xie et.al.|[2310.17515v1](http://arxiv.org/abs/2310.17515v1)|null|
 |**2023-10-26**|**The production of charmonium pentaquark from b-baryon and B-meson decay: SU(3) analysis**|Wei-Hao Han et.al.|[2310.17125v1](http://arxiv.org/abs/2310.17125v1)|null|
@@ -71,11 +72,11 @@
 |**2023-08-24**|**Study of four-body decays $B_{(s)} \to (ππ)(ππ)$ in the perturbative QCD approach**|Da-Cheng Yan et.al.|[2308.12543v2](http://arxiv.org/abs/2308.12543v2)|null|
 |**2023-08-21**|**Investigation of the mass spectra of singly heavy baryons $Σ_{Q}$, $Ξ^{\prime}_{Q}$ and $Ω_{Q}$$(Q=c, d)$ in Regge trajectory model**|Ji-Hai Pan et.al.|[2308.11769v1](http://arxiv.org/abs/2308.11769v1)|null|
 |**2023-08-16**|**Observation of Cabibbo-suppressed two-body hadronic decays and precision mass measurement of the $Ω_{c}^{0}$ baryon**|LHCb collaboration et.al.|[2308.08512v1](http://arxiv.org/abs/2308.08512v1)|null|
-|**2023-08-13**|**The $X(3960)$, $X_0(4140)$, and other $cs\bar{c}\bar{s}$ compact states**|Shi-Yuan Li et.al.|[2308.06768v1](http://arxiv.org/abs/2308.06768v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-30**|**Search for $\textit{CP}$ violation in the phase space of $D^{0} \rightarrow K_{S}^{0} K^{\pm} π^{\mp} $ decays with the energy test**|LHCb collaboration et.al.|[2310.19397v1](http://arxiv.org/abs/2310.19397v1)|null|
 |**2023-10-29**|**Pictorial $SU(3)_f$ approach for two-body $Ω_c$ weak decays**|Y. K. Hsiao et.al.|[2310.18896v1](http://arxiv.org/abs/2310.18896v1)|null|
 |**2023-10-26**|**Studies of $η$ and $η'$ production in $pp$ and $p$Pb collisions**|LHCb collaboration et.al.|[2310.17326v1](http://arxiv.org/abs/2310.17326v1)|null|
 |**2023-10-26**|**The production of charmonium pentaquark from b-baryon and B-meson decay: SU(3) analysis**|Wei-Hao Han et.al.|[2310.17125v1](http://arxiv.org/abs/2310.17125v1)|null|
@@ -105,4 +106,3 @@
 |**2023-08-24**|**Measurement of $Z$ boson production cross-section in $pp$ collisions at $\sqrt{s} = 5.02$ TeV**|LHCb collaboration et.al.|[2308.12940v2](http://arxiv.org/abs/2308.12940v2)|null|
 |**2023-08-24**|**Study of four-body decays $B_{(s)} \to (ππ)(ππ)$ in the perturbative QCD approach**|Da-Cheng Yan et.al.|[2308.12543v2](http://arxiv.org/abs/2308.12543v2)|null|
 |**2023-08-21**|**Investigation of the mass spectra of singly heavy baryons $Σ_{Q}$, $Ξ^{\prime}_{Q}$ and $Ω_{Q}$$(Q=c, d)$ in Regge trajectory model**|Ji-Hai Pan et.al.|[2308.11769v1](http://arxiv.org/abs/2308.11769v1)|null|
-|**2023-08-16**|**Observation of Cabibbo-suppressed two-body hadronic decays and precision mass measurement of the $Ω_{c}^{0}$ baryon**|LHCb collaboration et.al.|[2308.08512v1](http://arxiv.org/abs/2308.08512v1)|null|
