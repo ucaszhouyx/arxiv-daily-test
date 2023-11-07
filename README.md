@@ -1,9 +1,43 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2023-11-07 08:31:43 Asia/Shanghai
+ Automated deployment @ 2023-11-07 09:36:46 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
 ## LHCb
+
+### rare decay
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-11-02**|**Fraction of $χ_c$ decays in prompt $J/ψ$ production measured in pPb collisions at $\sqrt{s_{NN}}=8.16$ TeV**|LHCb collaboration et.al.|[2311.01562v1](http://arxiv.org/abs/2311.01562v1)|null|
+|**2023-11-01**|**The $ρ(770,1450)\to ωπ$ contributions for three-body decays $B\to\bar{D}^{(*)} ωπ$**|Yu-Shan Ren et.al.|[2311.00413v1](http://arxiv.org/abs/2311.00413v1)|null|
+|**2023-10-30**|**Search for $\textit{CP}$ violation in the phase space of $D^{0} \rightarrow K_{S}^{0} K^{\pm} π^{\mp} $ decays with the energy test**|LHCb collaboration et.al.|[2310.19397v1](http://arxiv.org/abs/2310.19397v1)|null|
+|**2023-10-29**|**Pictorial $SU(3)_f$ approach for two-body $Ω_c$ weak decays**|Y. K. Hsiao et.al.|[2310.18896v1](http://arxiv.org/abs/2310.18896v1)|null|
+|**2023-10-26**|**CP violation in heavy-flavour decays**|Yuehong Xie et.al.|[2310.17515v1](http://arxiv.org/abs/2310.17515v1)|null|
+|**2023-10-26**|**The production of charmonium pentaquark from b-baryon and B-meson decay: SU(3) analysis**|Wei-Hao Han et.al.|[2310.17125v1](http://arxiv.org/abs/2310.17125v1)|null|
+|**2023-10-20**|**Observation of $Ξ_b^0 \rightarrow Ξ_c^+ D_s^-$ and $Ξ_b^- \rightarrow Ξ_c^0 D_s^-$ decays**|LHCb collaboration et.al.|[2310.13546v1](http://arxiv.org/abs/2310.13546v1)|null|
+|**2023-10-19**|**A measurement of $ΔΓ_{s}$**|LHCb collaboration et.al.|[2310.12649v1](http://arxiv.org/abs/2310.12649v1)|null|
+|**2023-10-17**|**Impact of Non-universal Z^' in the Lepton Flavour Violating B(B_s ) to K^* (φ) l_1^- l_2^+ decays**|S. Biswas et.al.|[2310.11321v1](http://arxiv.org/abs/2310.11321v1)|null|
+|**2023-10-17**|**Lepton Flavour Violating {Lambda}_b decays in non-universal Z^' model**|S. Biswas et.al.|[2310.11314v1](http://arxiv.org/abs/2310.11314v1)|null|
+|**2023-10-15**|**Imprints of new physics in Λ_b decays into Λ*(1520)l^+ l^- in non-universal Z^' model**|S. Biswas et.al.|[2310.09887v1](http://arxiv.org/abs/2310.09887v1)|null|
+|**2023-10-10**|**Maximising the physics potential of $B^\pm\toπ^\pmμ^+μ^-$ decays**|Alexander Mclean Marshall et.al.|[2310.06734v1](http://arxiv.org/abs/2310.06734v1)|null|
+|**2023-10-10**|**New physics search via CP observables in $B_s^0 \rightarrow φφ$ decay with Chromomagnetic operators**|Tejhas Kapoor et.al.|[2310.06459v1](http://arxiv.org/abs/2310.06459v1)|null|
+|**2023-10-09**|**$B$ anomalies in the post $R_{K^{(*)}}$ era**|T. Hurth et.al.|[2310.05585v1](http://arxiv.org/abs/2310.05585v1)|null|
+|**2023-10-06**|**Measurement of the CKM angle $γ$ using the $B^{\pm}\rightarrow D^{*} h^{\pm}$ channels**|LHCb collaboration et.al.|[2310.04277v2](http://arxiv.org/abs/2310.04277v2)|null|
+|**2023-10-06**|**New Probes of Electron--Muon Universality in $B \to K\ell^+\ell^-$ Decays**|Robert Fleischer et.al.|[2310.04170v1](http://arxiv.org/abs/2310.04170v1)|null|
+|**2023-09-30**|**Ratios of Hidden-Charm Compact Pentaquark Decay Widths in Quark-Diquark Model**|Alexandra A. Dobrynina et.al.|[2310.00423v1](http://arxiv.org/abs/2310.00423v1)|null|
+|**2023-09-29**|**Study of two-body doubly charmful baryonic $B$ decays with $SU(3)$ flavor symmetry**|Yu-Kuo Hsiao et.al.|[2309.16919v1](http://arxiv.org/abs/2309.16919v1)|null|
+|**2023-09-25**|**Strong decays of low-lying $D$-wave $Ξ_b/Ξ_b'$ baryons with QPC model**|Yu-Hui Zhou et.al.|[2309.13906v1](http://arxiv.org/abs/2309.13906v1)|null|
+|**2023-09-21**|**Production rates of hidden-charm pentaquark molecules in $Λ_b$ decays**|Ya-Wen Pan et.al.|[2309.12050v1](http://arxiv.org/abs/2309.12050v1)|null|
+|**2023-09-18**|**Possible large CP violation in charmed $Λ_b$ decays**|Yin-Fa Shen et.al.|[2309.09854v1](http://arxiv.org/abs/2309.09854v1)|null|
+|**2023-09-18**|**Measurement of CP violation in $B^0\toψ(\to\ell^+\ell^-)K^0_S(\toπ^+π^-)$ decays**|LHCb collaboration et.al.|[2309.09728v1](http://arxiv.org/abs/2309.09728v1)|null|
+|**2023-09-11**|**Measurement of the CKM angle $γ$ in the $B^0 \to DK^{*0}$ channel using self-conjugate $D \to K_S^0 h^+ h^-$ decays**|LHCb collaboration et.al.|[2309.05514v2](http://arxiv.org/abs/2309.05514v2)|null|
+|**2023-09-08**|**Old and new anomalies in charm**|Rigo Bause et.al.|[2309.04513v1](http://arxiv.org/abs/2309.04513v1)|null|
+|**2023-09-03**|**Radiative $B$ to axial-vector meson decays at NLO in Soft-Collinear Effective Theory**|Arslan Sikandar et.al.|[2309.01060v1](http://arxiv.org/abs/2309.01060v1)|null|
+|**2023-08-29**|**New type of doubly charmed molecular pentaquarks containing most strange quarks: Mass spectra, radiative decays, and magnetic moments**|Fu-Lai Wang et.al.|[2308.15255v3](http://arxiv.org/abs/2308.15255v3)|null|
+|**2023-08-28**|**Combined analysis on nature of $X(3960)$, $χ_{c0}(3930)$, and $X_0(4140)$**|Zuo-ming Ding et.al.|[2308.14264v1](http://arxiv.org/abs/2308.14264v1)|null|
+|**2023-08-27**|**Production of the newly observed $\bar{T}_{c\bar{s}0}$ by kaon-induced reactions on a proton/neutron target**|Yin Huang et.al.|[2308.14148v1](http://arxiv.org/abs/2308.14148v1)|null|
+|**2023-08-25**|**$B$ meson anomalies and large $B^{+}\to K^{+}ν\barν$ in non-universal $U(1)^\prime$ models**|Peter Athron et.al.|[2308.13426v2](http://arxiv.org/abs/2308.13426v2)|null|
+|**2023-08-24**|**Study of four-body decays $B_{(s)} \to (ππ)(ππ)$ in the perturbative QCD approach**|Da-Cheng Yan et.al.|[2308.12543v2](http://arxiv.org/abs/2308.12543v2)|null|
 
 ### X(3872)
 |Publish Date|Title|Authors|PDF|Code|
@@ -72,37 +106,3 @@
 |**2023-09-03**|**Radiative $B$ to axial-vector meson decays at NLO in Soft-Collinear Effective Theory**|Arslan Sikandar et.al.|[2309.01060v1](http://arxiv.org/abs/2309.01060v1)|null|
 |**2023-08-28**|**Combined analysis on nature of $X(3960)$, $χ_{c0}(3930)$, and $X_0(4140)$**|Zuo-ming Ding et.al.|[2308.14264v1](http://arxiv.org/abs/2308.14264v1)|null|
 |**2023-08-25**|**$B$ meson anomalies and large $B^{+}\to K^{+}ν\barν$ in non-universal $U(1)^\prime$ models**|Peter Athron et.al.|[2308.13426v2](http://arxiv.org/abs/2308.13426v2)|null|
-
-### rare decay
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-11-02**|**Fraction of $χ_c$ decays in prompt $J/ψ$ production measured in pPb collisions at $\sqrt{s_{NN}}=8.16$ TeV**|LHCb collaboration et.al.|[2311.01562v1](http://arxiv.org/abs/2311.01562v1)|null|
-|**2023-11-01**|**The $ρ(770,1450)\to ωπ$ contributions for three-body decays $B\to\bar{D}^{(*)} ωπ$**|Yu-Shan Ren et.al.|[2311.00413v1](http://arxiv.org/abs/2311.00413v1)|null|
-|**2023-10-30**|**Search for $\textit{CP}$ violation in the phase space of $D^{0} \rightarrow K_{S}^{0} K^{\pm} π^{\mp} $ decays with the energy test**|LHCb collaboration et.al.|[2310.19397v1](http://arxiv.org/abs/2310.19397v1)|null|
-|**2023-10-29**|**Pictorial $SU(3)_f$ approach for two-body $Ω_c$ weak decays**|Y. K. Hsiao et.al.|[2310.18896v1](http://arxiv.org/abs/2310.18896v1)|null|
-|**2023-10-26**|**CP violation in heavy-flavour decays**|Yuehong Xie et.al.|[2310.17515v1](http://arxiv.org/abs/2310.17515v1)|null|
-|**2023-10-26**|**The production of charmonium pentaquark from b-baryon and B-meson decay: SU(3) analysis**|Wei-Hao Han et.al.|[2310.17125v1](http://arxiv.org/abs/2310.17125v1)|null|
-|**2023-10-20**|**Observation of $Ξ_b^0 \rightarrow Ξ_c^+ D_s^-$ and $Ξ_b^- \rightarrow Ξ_c^0 D_s^-$ decays**|LHCb collaboration et.al.|[2310.13546v1](http://arxiv.org/abs/2310.13546v1)|null|
-|**2023-10-19**|**A measurement of $ΔΓ_{s}$**|LHCb collaboration et.al.|[2310.12649v1](http://arxiv.org/abs/2310.12649v1)|null|
-|**2023-10-17**|**Impact of Non-universal Z^' in the Lepton Flavour Violating B(B_s ) to K^* (φ) l_1^- l_2^+ decays**|S. Biswas et.al.|[2310.11321v1](http://arxiv.org/abs/2310.11321v1)|null|
-|**2023-10-17**|**Lepton Flavour Violating {Lambda}_b decays in non-universal Z^' model**|S. Biswas et.al.|[2310.11314v1](http://arxiv.org/abs/2310.11314v1)|null|
-|**2023-10-15**|**Imprints of new physics in Λ_b decays into Λ*(1520)l^+ l^- in non-universal Z^' model**|S. Biswas et.al.|[2310.09887v1](http://arxiv.org/abs/2310.09887v1)|null|
-|**2023-10-10**|**Maximising the physics potential of $B^\pm\toπ^\pmμ^+μ^-$ decays**|Alexander Mclean Marshall et.al.|[2310.06734v1](http://arxiv.org/abs/2310.06734v1)|null|
-|**2023-10-10**|**New physics search via CP observables in $B_s^0 \rightarrow φφ$ decay with Chromomagnetic operators**|Tejhas Kapoor et.al.|[2310.06459v1](http://arxiv.org/abs/2310.06459v1)|null|
-|**2023-10-09**|**$B$ anomalies in the post $R_{K^{(*)}}$ era**|T. Hurth et.al.|[2310.05585v1](http://arxiv.org/abs/2310.05585v1)|null|
-|**2023-10-06**|**Measurement of the CKM angle $γ$ using the $B^{\pm}\rightarrow D^{*} h^{\pm}$ channels**|LHCb collaboration et.al.|[2310.04277v2](http://arxiv.org/abs/2310.04277v2)|null|
-|**2023-10-06**|**New Probes of Electron--Muon Universality in $B \to K\ell^+\ell^-$ Decays**|Robert Fleischer et.al.|[2310.04170v1](http://arxiv.org/abs/2310.04170v1)|null|
-|**2023-09-30**|**Ratios of Hidden-Charm Compact Pentaquark Decay Widths in Quark-Diquark Model**|Alexandra A. Dobrynina et.al.|[2310.00423v1](http://arxiv.org/abs/2310.00423v1)|null|
-|**2023-09-29**|**Study of two-body doubly charmful baryonic $B$ decays with $SU(3)$ flavor symmetry**|Yu-Kuo Hsiao et.al.|[2309.16919v1](http://arxiv.org/abs/2309.16919v1)|null|
-|**2023-09-25**|**Strong decays of low-lying $D$-wave $Ξ_b/Ξ_b'$ baryons with QPC model**|Yu-Hui Zhou et.al.|[2309.13906v1](http://arxiv.org/abs/2309.13906v1)|null|
-|**2023-09-21**|**Production rates of hidden-charm pentaquark molecules in $Λ_b$ decays**|Ya-Wen Pan et.al.|[2309.12050v1](http://arxiv.org/abs/2309.12050v1)|null|
-|**2023-09-18**|**Possible large CP violation in charmed $Λ_b$ decays**|Yin-Fa Shen et.al.|[2309.09854v1](http://arxiv.org/abs/2309.09854v1)|null|
-|**2023-09-18**|**Measurement of CP violation in $B^0\toψ(\to\ell^+\ell^-)K^0_S(\toπ^+π^-)$ decays**|LHCb collaboration et.al.|[2309.09728v1](http://arxiv.org/abs/2309.09728v1)|null|
-|**2023-09-11**|**Measurement of the CKM angle $γ$ in the $B^0 \to DK^{*0}$ channel using self-conjugate $D \to K_S^0 h^+ h^-$ decays**|LHCb collaboration et.al.|[2309.05514v2](http://arxiv.org/abs/2309.05514v2)|null|
-|**2023-09-08**|**Old and new anomalies in charm**|Rigo Bause et.al.|[2309.04513v1](http://arxiv.org/abs/2309.04513v1)|null|
-|**2023-09-03**|**Radiative $B$ to axial-vector meson decays at NLO in Soft-Collinear Effective Theory**|Arslan Sikandar et.al.|[2309.01060v1](http://arxiv.org/abs/2309.01060v1)|null|
-|**2023-08-29**|**New type of doubly charmed molecular pentaquarks containing most strange quarks: Mass spectra, radiative decays, and magnetic moments**|Fu-Lai Wang et.al.|[2308.15255v3](http://arxiv.org/abs/2308.15255v3)|null|
-|**2023-08-28**|**Combined analysis on nature of $X(3960)$, $χ_{c0}(3930)$, and $X_0(4140)$**|Zuo-ming Ding et.al.|[2308.14264v1](http://arxiv.org/abs/2308.14264v1)|null|
-|**2023-08-27**|**Production of the newly observed $\bar{T}_{c\bar{s}0}$ by kaon-induced reactions on a proton/neutron target**|Yin Huang et.al.|[2308.14148v1](http://arxiv.org/abs/2308.14148v1)|null|
-|**2023-08-25**|**$B$ meson anomalies and large $B^{+}\to K^{+}ν\barν$ in non-universal $U(1)^\prime$ models**|Peter Athron et.al.|[2308.13426v2](http://arxiv.org/abs/2308.13426v2)|null|
-|**2023-08-24**|**Study of four-body decays $B_{(s)} \to (ππ)(ππ)$ in the perturbative QCD approach**|Da-Cheng Yan et.al.|[2308.12543v2](http://arxiv.org/abs/2308.12543v2)|null|
