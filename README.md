@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2023-11-10 09:35:55 Asia/Shanghai
+ Automated deployment @ 2023-11-11 08:30:39 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -8,6 +8,7 @@
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-09**|**Measurement of the $D^{*}$ longitudinal polarization in $B^0\to D^{*-}τ^{+}ν_τ$ decays**|LHCb collaboration et.al.|[2311.05224v1](http://arxiv.org/abs/2311.05224v1)|null|
 |**2023-11-08**|**Analysis of $DD^*$ and $\bar{D}^{(*)}Ξ_{cc}^{(*)}$ molecule by one boson exchange model based on Heavy quark symmetry**|Tatsuya Asanuma et.al.|[2311.04695v1](http://arxiv.org/abs/2311.04695v1)|null|
 |**2023-11-08**|**Charge-dependent curvature-bias corrections using a pseudomass method**|LHCb collaboration et.al.|[2311.04670v1](http://arxiv.org/abs/2311.04670v1)|null|
 |**2023-11-06**|**Workshop summary -- Kaons@CERN 2023**|G. Anzivino et.al.|[2311.02923v1](http://arxiv.org/abs/2311.02923v1)|null|
@@ -37,7 +38,6 @@
 |**2023-09-18**|**Possible large CP violation in charmed $Λ_b$ decays**|Yin-Fa Shen et.al.|[2309.09854v1](http://arxiv.org/abs/2309.09854v1)|null|
 |**2023-09-18**|**Measurement of CP violation in $B^0\toψ(\to\ell^+\ell^-)K^0_S(\toπ^+π^-)$ decays**|LHCb collaboration et.al.|[2309.09728v1](http://arxiv.org/abs/2309.09728v1)|null|
 |**2023-09-15**|**Investigating the angular distribution of FCNC process $B_{c}\to{D}_{s}^{*}(\to{D}_{s}π)\ell^{+}\ell^{-}$**|Yu-Shuai Li et.al.|[2309.08191v1](http://arxiv.org/abs/2309.08191v1)|null|
-|**2023-09-11**|**Measurement of the CKM angle $γ$ in the $B^0 \to DK^{*0}$ channel using self-conjugate $D \to K_S^0 h^+ h^-$ decays**|LHCb collaboration et.al.|[2309.05514v2](http://arxiv.org/abs/2309.05514v2)|null|
 
 ### X(3872)
 |Publish Date|Title|Authors|PDF|Code|
@@ -76,6 +76,8 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-09**|**Study of $ψ_{2}(3823)$ and $ψ(4040)$ charmonium contributions in $B^+\rightarrow J/ψηK^+$ decays**|Elnaz Amirkhanlou et.al.|[2311.05300v1](http://arxiv.org/abs/2311.05300v1)|null|
+|**2023-11-09**|**Measurement of the $D^{*}$ longitudinal polarization in $B^0\to D^{*-}τ^{+}ν_τ$ decays**|LHCb collaboration et.al.|[2311.05224v1](http://arxiv.org/abs/2311.05224v1)|null|
 |**2023-11-08**|**Charge-dependent curvature-bias corrections using a pseudomass method**|LHCb collaboration et.al.|[2311.04670v1](http://arxiv.org/abs/2311.04670v1)|null|
 |**2023-11-06**|**Workshop summary -- Kaons@CERN 2023**|G. Anzivino et.al.|[2311.02923v1](http://arxiv.org/abs/2311.02923v1)|null|
 |**2023-11-03**|**Searching for Minicharged Particles at the Energy Frontier with the MoEDAL-MAPP Experiment at the LHC**|Vasiliki A. Mitsou et.al.|[2311.02185v1](http://arxiv.org/abs/2311.02185v1)|null|
@@ -104,5 +106,3 @@
 |**2023-09-11**|**Measurement of the CKM angle $γ$ in the $B^0 \to DK^{*0}$ channel using self-conjugate $D \to K_S^0 h^+ h^-$ decays**|LHCb collaboration et.al.|[2309.05514v2](http://arxiv.org/abs/2309.05514v2)|null|
 |**2023-09-08**|**Old and new anomalies in charm**|Rigo Bause et.al.|[2309.04513v1](http://arxiv.org/abs/2309.04513v1)|null|
 |**2023-09-03**|**Radiative $B$ to axial-vector meson decays at NLO in Soft-Collinear Effective Theory**|Arslan Sikandar et.al.|[2309.01060v1](http://arxiv.org/abs/2309.01060v1)|null|
-|**2023-08-29**|**New type of doubly charmed molecular pentaquarks containing most strange quarks: Mass spectra, radiative decays, and magnetic moments**|Fu-Lai Wang et.al.|[2308.15255v3](http://arxiv.org/abs/2308.15255v3)|null|
-|**2023-08-28**|**Combined analysis on nature of $X(3960)$, $χ_{c0}(3930)$, and $X_0(4140)$**|Zuo-ming Ding et.al.|[2308.14264v1](http://arxiv.org/abs/2308.14264v1)|null|
