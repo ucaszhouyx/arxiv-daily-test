@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2023-11-14 08:31:31 Asia/Shanghai
+ Automated deployment @ 2023-11-14 09:36:19 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,7 +42,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-11-09**|**Study of $ψ_{2}(3823)$ and $ψ(4040)$ charmonium contributions in $B^+\rightarrow J/ψηK^+$ decays**|Elnaz Amirkhanlou et.al.|[2311.05300v1](http://arxiv.org/abs/2311.05300v1)|null|
+|**2023-11-09**|**Measurement of the Quasi-Two-Body B Decays**|Hossein. Mehraban et.al.|[2311.05300v2](http://arxiv.org/abs/2311.05300v2)|null|
 |**2023-11-09**|**Measurement of the $D^{*}$ longitudinal polarization in $B^0\to D^{*-}τ^{+}ν_τ$ decays**|LHCb collaboration et.al.|[2311.05224v1](http://arxiv.org/abs/2311.05224v1)|null|
 |**2023-11-08**|**Charge-dependent curvature-bias corrections using a pseudomass method**|LHCb collaboration et.al.|[2311.04670v1](http://arxiv.org/abs/2311.04670v1)|null|
 |**2023-11-06**|**Workshop summary -- Kaons@CERN 2023**|G. Anzivino et.al.|[2311.02923v2](http://arxiv.org/abs/2311.02923v2)|null|
@@ -105,4 +105,4 @@
 |**2023-09-18**|**Analysis of $b\rightarrow cτ\barν_τ$ anomalies using weak effective Hamiltonian with complex couplings**|Muhammad Arslan et.al.|[2309.09929v1](http://arxiv.org/abs/2309.09929v1)|null|
 |**2023-09-18**|**Possible large CP violation in charmed $Λ_b$ decays**|Yin-Fa Shen et.al.|[2309.09854v1](http://arxiv.org/abs/2309.09854v1)|null|
 |**2023-09-18**|**Measurement of CP violation in $B^0\toψ(\to\ell^+\ell^-)K^0_S(\toπ^+π^-)$ decays**|LHCb collaboration et.al.|[2309.09728v1](http://arxiv.org/abs/2309.09728v1)|null|
-|**2023-09-15**|**Investigating the angular distribution of FCNC process $B_{c}\to{D}_{s}^{*}(\to{D}_{s}π)\ell^{+}\ell^{-}$**|Yu-Shuai Li et.al.|[2309.08191v1](http://arxiv.org/abs/2309.08191v1)|null|
+|**2023-09-15**|**Angular distribution of the FCNC process $B_{c}\to{D}_{s}^{*}(\to{D}_{s}π)\ell^{+}\ell^{-}$**|Yu-Shuai Li et.al.|[2309.08191v2](http://arxiv.org/abs/2309.08191v2)|null|
