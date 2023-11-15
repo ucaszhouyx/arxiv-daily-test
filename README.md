@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2023-11-14 09:36:19 Asia/Shanghai
+ Automated deployment @ 2023-11-15 08:31:57 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,7 +42,6 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-11-09**|**Measurement of the Quasi-Two-Body B Decays**|Hossein. Mehraban et.al.|[2311.05300v2](http://arxiv.org/abs/2311.05300v2)|null|
 |**2023-11-09**|**Measurement of the $D^{*}$ longitudinal polarization in $B^0\to D^{*-}τ^{+}ν_τ$ decays**|LHCb collaboration et.al.|[2311.05224v1](http://arxiv.org/abs/2311.05224v1)|null|
 |**2023-11-08**|**Charge-dependent curvature-bias corrections using a pseudomass method**|LHCb collaboration et.al.|[2311.04670v1](http://arxiv.org/abs/2311.04670v1)|null|
 |**2023-11-06**|**Workshop summary -- Kaons@CERN 2023**|G. Anzivino et.al.|[2311.02923v2](http://arxiv.org/abs/2311.02923v2)|null|
@@ -72,6 +71,7 @@
 |**2023-09-11**|**Measurement of the CKM angle $γ$ in the $B^0 \to DK^{*0}$ channel using self-conjugate $D \to K_S^0 h^+ h^-$ decays**|LHCb collaboration et.al.|[2309.05514v2](http://arxiv.org/abs/2309.05514v2)|null|
 |**2023-09-08**|**Old and new anomalies in charm**|Rigo Bause et.al.|[2309.04513v1](http://arxiv.org/abs/2309.04513v1)|null|
 |**2023-09-03**|**Radiative $B$ to axial-vector meson decays at NLO in Soft-Collinear Effective Theory**|Arslan Sikandar et.al.|[2309.01060v1](http://arxiv.org/abs/2309.01060v1)|null|
+|**2023-08-29**|**New type of doubly charmed molecular pentaquarks containing most strange quarks: Mass spectra, radiative decays, and magnetic moments**|Fu-Lai Wang et.al.|[2308.15255v3](http://arxiv.org/abs/2308.15255v3)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
