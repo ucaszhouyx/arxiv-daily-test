@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2023-11-27 09:39:59 Asia/Shanghai
+ Automated deployment @ 2023-11-28 08:33:00 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-23**|**Observation of $Λ_{b}^{0} \to Λ_{c}^{+} \bar{D}^{(*)0} K^{-}$ and $Λ_{b}^{0} \to Λ_{c}^{+} D_{s}^{*-}$ decays**|LHCb collaboration et.al.|[2311.14088v1](http://arxiv.org/abs/2311.14088v1)|null|
 |**2023-11-17**|**A model-independent measurement of the CKM angle $γ$ in partially reconstructed $B^{\pm} \to D^{*} h^{\pm}$ decays with $D \to K_{S}^{0} h^{+}h^{-}$ $(h=π, K)$**|LHCb collaboration et.al.|[2311.10434v1](http://arxiv.org/abs/2311.10434v1)|null|
 |**2023-11-09**|**Measurement of the $D^{*}$ longitudinal polarization in $B^0\to D^{*-}τ^{+}ν_τ$ decays**|LHCb collaboration et.al.|[2311.05224v1](http://arxiv.org/abs/2311.05224v1)|null|
 |**2023-11-08**|**Charge-dependent curvature-bias corrections using a pseudomass method**|LHCb collaboration et.al.|[2311.04670v1](http://arxiv.org/abs/2311.04670v1)|null|
@@ -71,11 +72,12 @@
 |**2023-09-18**|**Possible large CP violation in charmed $Λ_b$ decays**|Yin-Fa Shen et.al.|[2309.09854v1](http://arxiv.org/abs/2309.09854v1)|null|
 |**2023-09-18**|**Measurement of CP violation in $B^0\toψ(\to\ell^+\ell^-)K^0_S(\toπ^+π^-)$ decays**|LHCb collaboration et.al.|[2309.09728v1](http://arxiv.org/abs/2309.09728v1)|null|
 |**2023-09-11**|**Measurement of the CKM angle $γ$ in the $B^0 \to DK^{*0}$ channel using self-conjugate $D \to K_S^0 h^+ h^-$ decays**|LHCb collaboration et.al.|[2309.05514v2](http://arxiv.org/abs/2309.05514v2)|null|
-|**2023-09-08**|**Old and new anomalies in charm**|Rigo Bause et.al.|[2309.04513v1](http://arxiv.org/abs/2309.04513v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-23**|**Observation of $Λ_{b}^{0} \to Λ_{c}^{+} \bar{D}^{(*)0} K^{-}$ and $Λ_{b}^{0} \to Λ_{c}^{+} D_{s}^{*-}$ decays**|LHCb collaboration et.al.|[2311.14088v1](http://arxiv.org/abs/2311.14088v1)|null|
+|**2023-11-23**|**Measurement of $J/ψ$-pair production in $pp$ collisions at $\sqrt{s}=13$ TeV and study of gluon transverse-momentum dependent PDFs**|LHCb collaboration et.al.|[2311.14085v1](http://arxiv.org/abs/2311.14085v1)|null|
 |**2023-11-19**|**Open charm production cross section from combined LHC experiments in $pp$ collisions at $\sqrt{s} = 5.02$ TeV**|Christian Bierlich et.al.|[2311.11426v1](http://arxiv.org/abs/2311.11426v1)|null|
 |**2023-11-17**|**A model-independent measurement of the CKM angle $γ$ in partially reconstructed $B^{\pm} \to D^{*} h^{\pm}$ decays with $D \to K_{S}^{0} h^{+}h^{-}$ $(h=π, K)$**|LHCb collaboration et.al.|[2311.10434v1](http://arxiv.org/abs/2311.10434v1)|null|
 |**2023-11-16**|**Measurement of forward charged hadron flow harmonics in peripheral PbPb collisions at $\sqrt{s_{NN}}=5.02$ TeV with the LHCb detector**|LHCb collaboration et.al.|[2311.09985v1](http://arxiv.org/abs/2311.09985v1)|null|
@@ -104,5 +106,3 @@
 |**2023-10-09**|**$B$ anomalies in the post $R_{K^{(*)}}$ era**|T. Hurth et.al.|[2310.05585v1](http://arxiv.org/abs/2310.05585v1)|null|
 |**2023-10-06**|**Measurement of the CKM angle $γ$ using the $B^{\pm}\rightarrow D^{*} h^{\pm}$ channels**|LHCb collaboration et.al.|[2310.04277v2](http://arxiv.org/abs/2310.04277v2)|null|
 |**2023-10-06**|**New Probes of Electron--Muon Universality in $B \to K\ell^+\ell^-$ Decays**|Robert Fleischer et.al.|[2310.04170v1](http://arxiv.org/abs/2310.04170v1)|null|
-|**2023-10-05**|**Updates on the determination of $\vert V_{cb} \vert$, $R(D^{*})$ and $\vert V_{ub} \vert/\vert V_{cb} \vert$**|G. Martinelli et.al.|[2310.03680v2](http://arxiv.org/abs/2310.03680v2)|null|
-|**2023-09-29**|**Study of two-body doubly charmful baryonic $B$ decays with $SU(3)$ flavor symmetry**|Yu-Kuo Hsiao et.al.|[2309.16919v1](http://arxiv.org/abs/2309.16919v1)|null|
