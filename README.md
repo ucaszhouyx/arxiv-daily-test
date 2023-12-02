@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2023-12-01 09:47:13 Asia/Shanghai
+ Automated deployment @ 2023-12-02 08:31:29 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -76,6 +76,7 @@
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-30**|**Predicted $Ξ_b(6087)^0$ and further predictions**|Wei-Han Tan et.al.|[2311.18380v1](http://arxiv.org/abs/2311.18380v1)|null|
 |**2023-11-29**|**Molecular-type $QQss\bar{s}$ pentaquarks predicted by the chiral unitary approach**|Zhong-Yu Wang et.al.|[2311.17736v1](http://arxiv.org/abs/2311.17736v1)|null|
 |**2023-11-29**|**Preliminary results on the long term operation of RPCs with eco-friendly gas mixtures under irradiation at the CERN Gamma Irradiation Facility**|L. Quaglia et.al.|[2311.17574v1](http://arxiv.org/abs/2311.17574v1)|null|
 |**2023-11-27**|**Measurement of associated $J/ψ$-$ψ(2S)$ production cross-section in $pp$ collisions at $\sqrt{s}=13$ TeV**|LHCb collaboration et.al.|[2311.15921v1](http://arxiv.org/abs/2311.15921v1)|null|
@@ -105,4 +106,3 @@
 |**2023-10-15**|**Imprints of new physics in Λ_b decays into Λ*(1520)l^+ l^- in non-universal Z^' model**|S. Biswas et.al.|[2310.09887v1](http://arxiv.org/abs/2310.09887v1)|null|
 |**2023-10-12**|**Energy deposition studies for the Upgrade II of LHCb at the CERN Large Hadron Collider**|Alessia Ciccotelli et.al.|[2310.08281v2](http://arxiv.org/abs/2310.08281v2)|null|
 |**2023-10-11**|**Training and Onboarding initiatives in High Energy Physics experiments**|S. Hageboeck et.al.|[2310.07342v2](http://arxiv.org/abs/2310.07342v2)|null|
-|**2023-10-09**|**Helium identification with LHCb**|LHCb collaboration et.al.|[2310.05864v1](http://arxiv.org/abs/2310.05864v1)|null|
