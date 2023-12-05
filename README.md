@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2023-12-04 09:40:34 Asia/Shanghai
+ Automated deployment @ 2023-12-05 08:33:29 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-01**|**Re-analysis of rare radiative $Ξ_b^-\rightarrow Ξ^- γ$ decay in QCD**|T. M. Aliev et.al.|[2312.00461v1](http://arxiv.org/abs/2312.00461v1)|null|
 |**2023-11-27**|**Structure of $cc \bar c \bar c$ tetraquarks and interpretation of LHC states**|Muhammad Naeem Anwar et.al.|[2311.15853v1](http://arxiv.org/abs/2311.15853v1)|null|
 |**2023-11-23**|**Observation of $Λ_{b}^{0} \to Λ_{c}^{+} \bar{D}^{(*)0} K^{-}$ and $Λ_{b}^{0} \to Λ_{c}^{+} D_{s}^{*-}$ decays**|LHCb collaboration et.al.|[2311.14088v1](http://arxiv.org/abs/2311.14088v1)|null|
 |**2023-11-17**|**A model-independent measurement of the CKM angle $γ$ in partially reconstructed $B^{\pm} \to D^{*} h^{\pm}$ decays with $D \to K_{S}^{0} h^{+}h^{-}$ $(h=π, K)$**|LHCb collaboration et.al.|[2311.10434v1](http://arxiv.org/abs/2311.10434v1)|null|
@@ -71,7 +72,6 @@
 |**2023-09-25**|**Strong decays of low-lying $D$-wave $Ξ_b/Ξ_b'$ baryons with QPC model**|Yu-Hui Zhou et.al.|[2309.13906v1](http://arxiv.org/abs/2309.13906v1)|null|
 |**2023-09-21**|**Production rates of hidden-charm pentaquark molecules in $Λ_b$ decays**|Ya-Wen Pan et.al.|[2309.12050v2](http://arxiv.org/abs/2309.12050v2)|null|
 |**2023-09-18**|**Possible large CP violation in charmed $Λ_b$ decays**|Yin-Fa Shen et.al.|[2309.09854v1](http://arxiv.org/abs/2309.09854v1)|null|
-|**2023-09-18**|**Measurement of CP violation in $B^0\toψ(\to\ell^+\ell^-)K^0_S(\toπ^+π^-)$ decays**|LHCb collaboration et.al.|[2309.09728v1](http://arxiv.org/abs/2309.09728v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
