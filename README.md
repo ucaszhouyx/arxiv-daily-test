@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2023-12-11 09:40:53 Asia/Shanghai
+ Automated deployment @ 2023-12-12 08:33:21 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-08**|**SMEFT analysis of charged lepton flavor violating $B$-meson decays**|Md Isha Ali et.al.|[2312.05071v1](http://arxiv.org/abs/2312.05071v1)|null|
 |**2023-12-05**|**Pole determination of $X(3960)$ and $X_0(4140)$ in decay $B^+\to K^+D_s^+D_s^-$**|Jialiang Lu et.al.|[2312.02454v1](http://arxiv.org/abs/2312.02454v1)|null|
 |**2023-12-04**|**Momentum scale calibration of the LHCb spectrometer**|LHCb collaboration et.al.|[2312.01772v1](http://arxiv.org/abs/2312.01772v1)|null|
 |**2023-12-01**|**Re-analysis of rare radiative $Ξ_b^-\rightarrow Ξ^- γ$ decay in QCD**|T. M. Aliev et.al.|[2312.00461v1](http://arxiv.org/abs/2312.00461v1)|null|
@@ -71,11 +72,12 @@
 |**2023-10-05**|**Updates on the determination of $\vert V_{cb} \vert$, $R(D^{*})$ and $\vert V_{ub} \vert/\vert V_{cb} \vert$**|G. Martinelli et.al.|[2310.03680v2](http://arxiv.org/abs/2310.03680v2)|null|
 |**2023-09-30**|**Ratios of Hidden-Charm Compact Pentaquark Decay Widths in Quark-Diquark Model**|Alexandra A. Dobrynina et.al.|[2310.00423v1](http://arxiv.org/abs/2310.00423v1)|null|
 |**2023-09-29**|**Study of two-body doubly charmful baryonic $B$ decays with $SU(3)$ flavor symmetry**|Yu-Kuo Hsiao et.al.|[2309.16919v1](http://arxiv.org/abs/2309.16919v1)|null|
-|**2023-09-25**|**Strong decays of low-lying $D$-wave $Ξ_b/Ξ_b'$ baryons with QPC model**|Yu-Hui Zhou et.al.|[2309.13906v1](http://arxiv.org/abs/2309.13906v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-08**|**SMEFT analysis of charged lepton flavor violating $B$-meson decays**|Md Isha Ali et.al.|[2312.05071v1](http://arxiv.org/abs/2312.05071v1)|null|
+|**2023-12-08**|**Prediction of $P_{cc}$ states in quark model**|Ye Yan et.al.|[2312.04977v1](http://arxiv.org/abs/2312.04977v1)|null|
 |**2023-12-04**|**Momentum scale calibration of the LHCb spectrometer**|LHCb collaboration et.al.|[2312.01772v1](http://arxiv.org/abs/2312.01772v1)|null|
 |**2023-11-30**|**Predicted $Ξ_b(6087)^0$ and further predictions**|Wei-Han Tan et.al.|[2311.18380v1](http://arxiv.org/abs/2311.18380v1)|null|
 |**2023-11-29**|**Molecular-type $QQss\bar{s}$ pentaquarks predicted by the chiral unitary approach**|Zhong-Yu Wang et.al.|[2311.17736v1](http://arxiv.org/abs/2311.17736v1)|null|
@@ -104,5 +106,3 @@
 |**2023-10-17**|**Impact of Non-universal Z^' in the Lepton Flavour Violating B(B_s ) to K^* (φ) l_1^- l_2^+ decays**|S. Biswas et.al.|[2310.11321v1](http://arxiv.org/abs/2310.11321v1)|null|
 |**2023-10-17**|**Lepton Flavour Violating {Lambda}_b decays in non-universal Z^' model**|S. Biswas et.al.|[2310.11314v1](http://arxiv.org/abs/2310.11314v1)|null|
 |**2023-10-17**|**Theoretical study of the open-flavor tetraquark $T_{c\bar{s}}(2900)$ in the process $Λ_b\to K^0D^0Λ$**|Wen-Tao Lyu et.al.|[2310.11139v2](http://arxiv.org/abs/2310.11139v2)|null|
-|**2023-10-15**|**Imprints of new physics in Λ_b decays into Λ*(1520)l^+ l^- in non-universal Z^' model**|S. Biswas et.al.|[2310.09887v1](http://arxiv.org/abs/2310.09887v1)|null|
-|**2023-10-12**|**Energy deposition studies for the Upgrade II of LHCb at the CERN Large Hadron Collider**|Alessia Ciccotelli et.al.|[2310.08281v2](http://arxiv.org/abs/2310.08281v2)|null|
