@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2023-12-17 09:44:21 Asia/Shanghai
+ Automated deployment @ 2023-12-18 08:34:02 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,8 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-14**|**Amplitude analysis of the $B^{0}\to K^{*0}μ^+μ^-$ decay**|LHCb collaboration et.al.|[2312.09115v1](http://arxiv.org/abs/2312.09115v1)|null|
+|**2023-12-14**|**Determination of short- and long-distance contributions in $B^{0}\to K^{*0}μ^+μ^-$ decays**|LHCb collaboration et.al.|[2312.09102v1](http://arxiv.org/abs/2312.09102v1)|null|
 |**2023-12-12**|**$S$-wave contribution to rare $D^0 \to π^+ π^- \ell^+ \ell^-$ decays in the Standard Model and sensitivity to New Physics**|Svjetlana Fajfer et.al.|[2312.07501v1](http://arxiv.org/abs/2312.07501v1)|null|
 |**2023-12-12**|**${\rm \overline{B}}_{d,s}\to \rm K^{*0}\overline{K}^{*0}$ decays, a serious problem for the Standard Model**|Roy Aleksan et.al.|[2312.07198v1](http://arxiv.org/abs/2312.07198v1)|null|
 |**2023-12-09**|**Contributions of the subprocess $K^*_0(1430) \to Kη^{\prime}$ in the charmless three-body $B$ meson decays**|Ai-Jun Ma et.al.|[2312.05619v1](http://arxiv.org/abs/2312.05619v1)|null|
@@ -70,12 +72,12 @@
 |**2023-10-15**|**Imprints of new physics in Λ_b decays into Λ*(1520)l^+ l^- in non-universal Z^' model**|S. Biswas et.al.|[2310.09887v1](http://arxiv.org/abs/2310.09887v1)|null|
 |**2023-10-10**|**Maximising the physics potential of $B^\pm\toπ^\pmμ^+μ^-$ decays**|Alexander Mclean Marshall et.al.|[2310.06734v2](http://arxiv.org/abs/2310.06734v2)|null|
 |**2023-10-10**|**New physics search via CP observables in $B_s^0 \rightarrow φφ$ decay with Chromomagnetic operators**|Tejhas Kapoor et.al.|[2310.06459v1](http://arxiv.org/abs/2310.06459v1)|null|
-|**2023-10-09**|**$B$ anomalies in the post $R_{K^{(*)}}$ era**|T. Hurth et.al.|[2310.05585v1](http://arxiv.org/abs/2310.05585v1)|null|
-|**2023-10-06**|**Measurement of the CKM angle $γ$ using the $B^{\pm}\rightarrow D^{*} h^{\pm}$ channels**|LHCb collaboration et.al.|[2310.04277v3](http://arxiv.org/abs/2310.04277v3)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-14**|**Amplitude analysis of the $B^{0}\to K^{*0}μ^+μ^-$ decay**|LHCb collaboration et.al.|[2312.09115v1](http://arxiv.org/abs/2312.09115v1)|null|
+|**2023-12-14**|**Determination of short- and long-distance contributions in $B^{0}\to K^{*0}μ^+μ^-$ decays**|LHCb collaboration et.al.|[2312.09102v1](http://arxiv.org/abs/2312.09102v1)|null|
 |**2023-12-09**|**Contributions of the subprocess $K^*_0(1430) \to Kη^{\prime}$ in the charmless three-body $B$ meson decays**|Ai-Jun Ma et.al.|[2312.05619v1](http://arxiv.org/abs/2312.05619v1)|null|
 |**2023-12-08**|**SMEFT analysis of charged lepton flavor violating $B$-meson decays**|Md Isha Ali et.al.|[2312.05071v1](http://arxiv.org/abs/2312.05071v1)|null|
 |**2023-12-08**|**Prediction of $P_{cc}$ states in quark model**|Ye Yan et.al.|[2312.04977v1](http://arxiv.org/abs/2312.04977v1)|null|
@@ -104,5 +106,3 @@
 |**2023-10-20**|**Observation of $Ξ_b^0 \rightarrow Ξ_c^+ D_s^-$ and $Ξ_b^- \rightarrow Ξ_c^0 D_s^-$ decays**|LHCb collaboration et.al.|[2310.13546v1](http://arxiv.org/abs/2310.13546v1)|null|
 |**2023-10-19**|**A measurement of $ΔΓ_{s}$**|LHCb collaboration et.al.|[2310.12649v1](http://arxiv.org/abs/2310.12649v1)|null|
 |**2023-10-18**|**Enhanced production of $Λ_{b}^{0}$ baryons in high-multiplicity $pp$ collisions at $\sqrt{s} = 13$ TeV**|LHCb collaboration et.al.|[2310.12278v1](http://arxiv.org/abs/2310.12278v1)|null|
-|**2023-10-17**|**Impact of Non-universal Z^' in the Lepton Flavour Violating B(B_s ) to K^* (φ) l_1^- l_2^+ decays**|S. Biswas et.al.|[2310.11321v1](http://arxiv.org/abs/2310.11321v1)|null|
-|**2023-10-17**|**Lepton Flavour Violating {Lambda}_b decays in non-universal Z^' model**|S. Biswas et.al.|[2310.11314v1](http://arxiv.org/abs/2310.11314v1)|null|
