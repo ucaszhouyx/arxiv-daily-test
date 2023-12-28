@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2023-12-27 09:35:55 Asia/Shanghai
+ Automated deployment @ 2023-12-28 08:31:29 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -8,6 +8,7 @@
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-23**|**Multiplicity dependence of $σ_{ψ(2S)}/σ_{J/ψ}$ in $pp$ collisions at $\sqrt{s}=13$ TeV**|LHCb collaboration et.al.|[2312.15201v1](http://arxiv.org/abs/2312.15201v1)|null|
 |**2023-12-21**|**Applications of Lipschitz neural networks to the Run 3 LHCb trigger system**|Blaise Delaney et.al.|[2312.14265v1](http://arxiv.org/abs/2312.14265v1)|null|
 |**2023-12-20**|**Study of $B_c^+ \rightarrow χ_c π^+$ decays**|LHCb collaboration et.al.|[2312.12987v1](http://arxiv.org/abs/2312.12987v1)|null|
 |**2023-12-20**|**Study of the hidden-heavy pentaquarks and $P_{cs}$ states**|Wen-Xuan Zhang et.al.|[2312.12770v1](http://arxiv.org/abs/2312.12770v1)|null|
@@ -20,7 +21,7 @@
 |**2023-12-08**|**Prediction of $P_{cc}$ states in quark model**|Ye Yan et.al.|[2312.04977v1](http://arxiv.org/abs/2312.04977v1)|null|
 |**2023-12-04**|**Momentum scale calibration of the LHCb spectrometer**|LHCb collaboration et.al.|[2312.01772v1](http://arxiv.org/abs/2312.01772v1)|null|
 |**2023-11-30**|**Predicted $Ξ_b(6087)^0$ and further predictions**|Wei-Han Tan et.al.|[2311.18380v1](http://arxiv.org/abs/2311.18380v1)|null|
-|**2023-11-29**|**Molecular-type $QQss\bar{s}$ pentaquarks predicted by the chiral unitary approach**|Zhong-Yu Wang et.al.|[2311.17736v1](http://arxiv.org/abs/2311.17736v1)|null|
+|**2023-11-29**|**Molecular-type $QQss\bar{s}$ pentaquarks predicted by the extended chiral unitary approach**|Zhong-Yu Wang et.al.|[2311.17736v2](http://arxiv.org/abs/2311.17736v2)|null|
 |**2023-11-29**|**Preliminary results on the long term operation of RPCs with eco-friendly gas mixtures under irradiation at the CERN Gamma Irradiation Facility**|L. Quaglia et.al.|[2311.17574v1](http://arxiv.org/abs/2311.17574v1)|null|
 |**2023-11-27**|**Measurement of associated $J/ψ$-$ψ(2S)$ production cross-section in $pp$ collisions at $\sqrt{s}=13$ TeV**|LHCb collaboration et.al.|[2311.15921v1](http://arxiv.org/abs/2311.15921v1)|null|
 |**2023-11-23**|**Observation of $Λ_{b}^{0} \to Λ_{c}^{+} \bar{D}^{(*)0} K^{-}$ and $Λ_{b}^{0} \to Λ_{c}^{+} D_{s}^{*-}$ decays**|LHCb collaboration et.al.|[2311.14088v1](http://arxiv.org/abs/2311.14088v1)|null|
@@ -37,11 +38,11 @@
 |**2023-11-02**|**Hidden-charm pentaquarks with strangeness in a chiral quark model**|Gang Yang et.al.|[2311.01044v1](http://arxiv.org/abs/2311.01044v1)|null|
 |**2023-11-01**|**The $ρ(770,1450)\to ωπ$ contributions for three-body decays $B\to\bar{D}^{(*)} ωπ$**|Yu-Shan Ren et.al.|[2311.00413v2](http://arxiv.org/abs/2311.00413v2)|null|
 |**2023-10-30**|**Search for $\textit{CP}$ violation in the phase space of $D^{0} \rightarrow K_{S}^{0} K^{\pm} π^{\mp} $ decays with the energy test**|LHCb collaboration et.al.|[2310.19397v1](http://arxiv.org/abs/2310.19397v1)|null|
-|**2023-10-29**|**Pictorial $SU(3)_f$ approach for two-body $Ω_c$ weak decays**|Y. K. Hsiao et.al.|[2310.18896v1](http://arxiv.org/abs/2310.18896v1)|null|
 
 ### X(3872)
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-24**|**Analysis of $B^0_s\rightarrow χ_{c1}(3872)π^+π^-$ decay**|Elnaz Amirkhanlou et.al.|[2312.15437v1](http://arxiv.org/abs/2312.15437v1)|null|
 |**2023-11-16**|**Coupled-channel description of charmed heavy hadronic molecules within the meson-exchange model and its implication**|Lin Qiu et.al.|[2311.10067v2](http://arxiv.org/abs/2311.10067v2)|null|
 |**2023-08-06**|**Semileptonic $B_{c}$ meson decays to S-wave charmonia and $X(3872)$ within the covariant light-front approach**|Zhi-Jie Sun et.al.|[2308.03114v2](http://arxiv.org/abs/2308.03114v2)|null|
 |**2023-03-07**|**The study on the structure of exotic states $χ_{c 1}(3872)$ via beauty-hadron decays in $pp$ collisions at $\sqrt{s}=8\,\mathrm{TeV}$**|Chun-tai Wu et.al.|[2303.03696v1](http://arxiv.org/abs/2303.03696v1)|null|
@@ -71,11 +72,11 @@
 |**2020-12-09**|**Is $X(7200)$ the heavy anti-quark diquark symmetry partner of $ X(3872)$?**|Ming-Zhu Liu et.al.|[2012.05096v1](http://arxiv.org/abs/2012.05096v1)|null|
 |**2020-11-03**|**Study of $B^0_s \rightarrow J/ψπ^+π^-K^+K^-$ decays**|LHCb collaboration et.al.|[2011.01867v3](http://arxiv.org/abs/2011.01867v3)|null|
 |**2020-09-14**|**Observation of multiplicity-dependent prompt $χ_{c1}(3872)$ and $ψ(2S)$ production in $pp$ collisions**|LHCb collaboration et.al.|[2009.06619v2](http://arxiv.org/abs/2009.06619v2)|null|
-|**2020-06-26**|**The nature of $X(3872)$ from high-multiplicity $pp$ collisions**|Angelo Esposito et.al.|[2006.15044v2](http://arxiv.org/abs/2006.15044v2)|null|
 
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-24**|**Analysis of $B^0_s\rightarrow χ_{c1}(3872)π^+π^-$ decay**|Elnaz Amirkhanlou et.al.|[2312.15437v1](http://arxiv.org/abs/2312.15437v1)|null|
 |**2023-12-22**|**Phenomenology of light mesons with $J = 2, 3$**|Shahriyar Jafarzade et.al.|[2312.14467v1](http://arxiv.org/abs/2312.14467v1)|null|
 |**2023-12-21**|**Applications of Lipschitz neural networks to the Run 3 LHCb trigger system**|Blaise Delaney et.al.|[2312.14265v1](http://arxiv.org/abs/2312.14265v1)|null|
 |**2023-12-21**|**On the molecular nature of the $Ω_c(3120)$ and its analogy with the $Ω(2012)$**|Natsumi Ikeno et.al.|[2312.13732v1](http://arxiv.org/abs/2312.13732v1)|null|
@@ -105,4 +106,3 @@
 |**2023-10-30**|**Search for $\textit{CP}$ violation in the phase space of $D^{0} \rightarrow K_{S}^{0} K^{\pm} π^{\mp} $ decays with the energy test**|LHCb collaboration et.al.|[2310.19397v1](http://arxiv.org/abs/2310.19397v1)|null|
 |**2023-10-29**|**Pictorial $SU(3)_f$ approach for two-body $Ω_c$ weak decays**|Y. K. Hsiao et.al.|[2310.18896v1](http://arxiv.org/abs/2310.18896v1)|null|
 |**2023-10-26**|**CP violation in heavy-flavour decays**|Yuehong Xie et.al.|[2310.17515v1](http://arxiv.org/abs/2310.17515v1)|null|
-|**2023-10-26**|**The production of charmonium pentaquark from b-baryon and B-meson decay: SU(3) analysis**|Wei-Hao Han et.al.|[2310.17125v1](http://arxiv.org/abs/2310.17125v1)|null|
