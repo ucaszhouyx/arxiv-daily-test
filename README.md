@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-01-05 09:39:30 Asia/Shanghai
+ Automated deployment @ 2024-01-06 08:32:37 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -8,6 +8,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-04**|**Probing New Physics in light of recent developments in $b \rightarrow c \ell ν$ transitions**|Tahira Yasmeen et.al.|[2401.02334v1](http://arxiv.org/abs/2401.02334v1)|null|
 |**2023-12-30**|**Doubly heavy tetraquark states in a mass splitting model**|Shi-Yuan Li et.al.|[2401.00115v1](http://arxiv.org/abs/2401.00115v1)|null|
 |**2023-12-24**|**Analysis of $B^0_s\rightarrow χ_{c1}(3872)π^+π^-$ decay**|Elnaz Amirkhanlou et.al.|[2312.15437v1](http://arxiv.org/abs/2312.15437v1)|null|
 |**2023-12-22**|**Phenomenology of light mesons with $J = 2, 3$**|Shahriyar Jafarzade et.al.|[2312.14467v1](http://arxiv.org/abs/2312.14467v1)|null|
@@ -37,7 +38,6 @@
 |**2023-11-02**|**Fraction of $χ_c$ decays in prompt $J/ψ$ production measured in pPb collisions at $\sqrt{s_{NN}}=8.16$ TeV**|LHCb collaboration et.al.|[2311.01562v1](http://arxiv.org/abs/2311.01562v1)|null|
 |**2023-11-01**|**The $ρ(770,1450)\to ωπ$ contributions for three-body decays $B\to\bar{D}^{(*)} ωπ$**|Yu-Shan Ren et.al.|[2311.00413v2](http://arxiv.org/abs/2311.00413v2)|null|
 |**2023-10-30**|**Search for $\textit{CP}$ violation in the phase space of $D^{0} \rightarrow K_{S}^{0} K^{\pm} π^{\mp} $ decays with the energy test**|LHCb collaboration et.al.|[2310.19397v1](http://arxiv.org/abs/2310.19397v1)|null|
-|**2023-10-29**|**Pictorial $SU(3)_f$ approach for two-body $Ω_c$ weak decays**|Y. K. Hsiao et.al.|[2310.18896v1](http://arxiv.org/abs/2310.18896v1)|null|
 
 ### X(3872)
 |Publish Date|Title|Authors|PDF|Code|
@@ -76,6 +76,7 @@
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-04**|**Probing New Physics in light of recent developments in $b \rightarrow c \ell ν$ transitions**|Tahira Yasmeen et.al.|[2401.02334v1](http://arxiv.org/abs/2401.02334v1)|null|
 |**2024-01-02**|**High-energy QCD dynamics from bottom flavor fragmentation at the Hi-Lumi LHC**|Francesco Giovanni Celiberto et.al.|[2401.01410v1](http://arxiv.org/abs/2401.01410v1)|null|
 |**2023-12-30**|**Doubly heavy tetraquark states in a mass splitting model**|Shi-Yuan Li et.al.|[2401.00115v1](http://arxiv.org/abs/2401.00115v1)|null|
 |**2023-12-23**|**Multiplicity dependence of $σ_{ψ(2S)}/σ_{J/ψ}$ in $pp$ collisions at $\sqrt{s}=13$ TeV**|LHCb collaboration et.al.|[2312.15201v1](http://arxiv.org/abs/2312.15201v1)|null|
@@ -105,4 +106,3 @@
 |**2023-11-08**|**Charge-dependent curvature-bias corrections using a pseudomass method**|LHCb collaboration et.al.|[2311.04670v1](http://arxiv.org/abs/2311.04670v1)|null|
 |**2023-11-06**|**Workshop summary -- Kaons@CERN 2023**|G. Anzivino et.al.|[2311.02923v2](http://arxiv.org/abs/2311.02923v2)|null|
 |**2023-11-02**|**Fraction of $χ_c$ decays in prompt $J/ψ$ production measured in pPb collisions at $\sqrt{s_{NN}}=8.16$ TeV**|LHCb collaboration et.al.|[2311.01562v1](http://arxiv.org/abs/2311.01562v1)|null|
-|**2023-11-02**|**Hidden-charm pentaquarks with strangeness in a chiral quark model**|Gang Yang et.al.|[2311.01044v1](http://arxiv.org/abs/2311.01044v1)|null|
