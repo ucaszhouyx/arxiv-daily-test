@@ -1,43 +1,9 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-01-09 08:33:50 Asia/Shanghai
+ Automated deployment @ 2024-01-09 09:41:18 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
 ## LHCb
-
-### rare decay
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-01-04**|**Probing New Physics in light of recent developments in $b \rightarrow c \ell ν$ transitions**|Tahira Yasmeen et.al.|[2401.02334v1](http://arxiv.org/abs/2401.02334v1)|null|
-|**2023-12-30**|**Doubly heavy tetraquark states in a mass splitting model**|Shi-Yuan Li et.al.|[2401.00115v1](http://arxiv.org/abs/2401.00115v1)|null|
-|**2023-12-24**|**Analysis of $B^0_s\rightarrow χ_{c1}(3872)π^+π^-$ decay**|Elnaz Amirkhanlou et.al.|[2312.15437v1](http://arxiv.org/abs/2312.15437v1)|null|
-|**2023-12-22**|**Phenomenology of light mesons with $J = 2, 3$**|Shahriyar Jafarzade et.al.|[2312.14467v1](http://arxiv.org/abs/2312.14467v1)|null|
-|**2023-12-21**|**Applications of Lipschitz neural networks to the Run 3 LHCb trigger system**|Blaise Delaney et.al.|[2312.14265v1](http://arxiv.org/abs/2312.14265v1)|null|
-|**2023-12-21**|**On the molecular nature of the $Ω_c(3120)$ and its analogy with the $Ω(2012)$**|Natsumi Ikeno et.al.|[2312.13732v2](http://arxiv.org/abs/2312.13732v2)|null|
-|**2023-12-20**|**Study of $B_c^+ \rightarrow χ_c π^+$ decays**|LHCb collaboration et.al.|[2312.12987v1](http://arxiv.org/abs/2312.12987v1)|null|
-|**2023-12-20**|**Study of the hidden-heavy pentaquarks and $P_{cs}$ states**|Wen-Xuan Zhang et.al.|[2312.12770v1](http://arxiv.org/abs/2312.12770v1)|null|
-|**2023-12-19**|**Search for $B_c^+\toπ^+μ^+μ^-$ decays and measurement of the branching fraction ratio ${\cal B}(B_c^+\toψ(2S)π^+)/{\cal B}(B_c^+\to J/ψπ^+)$**|LHCb collaboration et.al.|[2312.12228v1](http://arxiv.org/abs/2312.12228v1)|null|
-|**2023-12-17**|**Hadronic decay of exotic mesons consisting of four charm quarks**|Hong-Fei Zhang et.al.|[2312.10850v1](http://arxiv.org/abs/2312.10850v1)|null|
-|**2023-12-14**|**Amplitude analysis of the $B^{0}\to K^{*0}μ^+μ^-$ decay**|LHCb collaboration et.al.|[2312.09115v1](http://arxiv.org/abs/2312.09115v1)|null|
-|**2023-12-14**|**Determination of short- and long-distance contributions in $B^{0}\to K^{*0}μ^+μ^-$ decays**|LHCb collaboration et.al.|[2312.09102v1](http://arxiv.org/abs/2312.09102v1)|null|
-|**2023-12-12**|**$S$-wave contribution to rare $D^0 \to π^+ π^- \ell^+ \ell^-$ decays in the Standard Model and sensitivity to New Physics**|Svjetlana Fajfer et.al.|[2312.07501v1](http://arxiv.org/abs/2312.07501v1)|null|
-|**2023-12-12**|**${\rm \overline{B}}_{d,s}\to \rm K^{*0}\overline{K}^{*0}$ decays, a serious problem for the Standard Model**|Roy Aleksan et.al.|[2312.07198v1](http://arxiv.org/abs/2312.07198v1)|null|
-|**2023-12-09**|**Contributions of the subprocess $K^*_0(1430) \to Kη^{\prime}$ in the charmless three-body $B$ meson decays**|Ai-Jun Ma et.al.|[2312.05619v1](http://arxiv.org/abs/2312.05619v1)|null|
-|**2023-12-09**|**Rare K decays off and on the lattice**|Stefan Schacht et.al.|[2312.05527v1](http://arxiv.org/abs/2312.05527v1)|null|
-|**2023-12-08**|**SMEFT analysis of charged lepton flavor violating $B$-meson decays**|Md Isha Ali et.al.|[2312.05071v1](http://arxiv.org/abs/2312.05071v1)|null|
-|**2023-12-05**|**Pole determination of $X(3960)$ and $X_0(4140)$ in decay $B^+\to K^+D_s^+D_s^-$**|Jialiang Lu et.al.|[2312.02454v1](http://arxiv.org/abs/2312.02454v1)|null|
-|**2023-12-04**|**Momentum scale calibration of the LHCb spectrometer**|LHCb collaboration et.al.|[2312.01772v1](http://arxiv.org/abs/2312.01772v1)|null|
-|**2023-12-01**|**Re-analysis of rare radiative $Ξ_b^-\rightarrow Ξ^- γ$ decay in QCD**|T. M. Aliev et.al.|[2312.00461v1](http://arxiv.org/abs/2312.00461v1)|null|
-|**2023-11-27**|**Structure of $cc \bar c \bar c$ tetraquarks and interpretation of LHC states**|Muhammad Naeem Anwar et.al.|[2311.15853v1](http://arxiv.org/abs/2311.15853v1)|null|
-|**2023-11-23**|**Observation of $Λ_{b}^{0} \to Λ_{c}^{+} \bar{D}^{(*)0} K^{-}$ and $Λ_{b}^{0} \to Λ_{c}^{+} D_{s}^{*-}$ decays**|LHCb collaboration et.al.|[2311.14088v1](http://arxiv.org/abs/2311.14088v1)|null|
-|**2023-11-17**|**A model-independent measurement of the CKM angle $γ$ in partially reconstructed $B^{\pm} \to D^{*} h^{\pm}$ decays with $D \to K_{S}^{0} h^{+}h^{-}$ $(h=π, K)$**|LHCb collaboration et.al.|[2311.10434v1](http://arxiv.org/abs/2311.10434v1)|null|
-|**2023-11-09**|**Measurement of the $D^{*}$ longitudinal polarization in $B^0\to D^{*-}τ^{+}ν_τ$ decays**|LHCb collaboration et.al.|[2311.05224v1](http://arxiv.org/abs/2311.05224v1)|null|
-|**2023-11-08**|**Charge-dependent curvature-bias corrections using a pseudomass method**|LHCb collaboration et.al.|[2311.04670v1](http://arxiv.org/abs/2311.04670v1)|null|
-|**2023-11-06**|**Workshop summary -- Kaons@CERN 2023**|G. Anzivino et.al.|[2311.02923v2](http://arxiv.org/abs/2311.02923v2)|null|
-|**2023-11-03**|**Searching for Minicharged Particles at the Energy Frontier with the MoEDAL-MAPP Experiment at the LHC**|Vasiliki A. Mitsou et.al.|[2311.02185v1](http://arxiv.org/abs/2311.02185v1)|null|
-|**2023-11-02**|**Fraction of $χ_c$ decays in prompt $J/ψ$ production measured in pPb collisions at $\sqrt{s_{NN}}=8.16$ TeV**|LHCb collaboration et.al.|[2311.01562v1](http://arxiv.org/abs/2311.01562v1)|null|
-|**2023-11-01**|**The $ρ(770,1450)\to ωπ$ contributions for three-body decays $B\to\bar{D}^{(*)} ωπ$**|Yu-Shan Ren et.al.|[2311.00413v2](http://arxiv.org/abs/2311.00413v2)|null|
-|**2023-10-30**|**Search for $\textit{CP}$ violation in the phase space of $D^{0} \rightarrow K_{S}^{0} K^{\pm} π^{\mp} $ decays with the energy test**|LHCb collaboration et.al.|[2310.19397v1](http://arxiv.org/abs/2310.19397v1)|null|
 
 ### X(3872)
 |Publish Date|Title|Authors|PDF|Code|
@@ -72,6 +38,40 @@
 |**2020-12-17**|**Predicting the $\bar{D}_s^{(*)} D_s^{(*)}$ bound states as the partners of $X(3872)$**|Lu Meng et.al.|[2012.09813v3](http://arxiv.org/abs/2012.09813v3)|null|
 |**2020-12-09**|**Is $X(7200)$ the heavy anti-quark diquark symmetry partner of $ X(3872)$?**|Ming-Zhu Liu et.al.|[2012.05096v1](http://arxiv.org/abs/2012.05096v1)|null|
 |**2020-11-03**|**Study of $B^0_s \rightarrow J/ψπ^+π^-K^+K^-$ decays**|LHCb collaboration et.al.|[2011.01867v3](http://arxiv.org/abs/2011.01867v3)|null|
+
+### rare decay
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-01-04**|**Probing New Physics in light of recent developments in $b \rightarrow c \ell ν$ transitions**|Tahira Yasmeen et.al.|[2401.02334v1](http://arxiv.org/abs/2401.02334v1)|null|
+|**2023-12-30**|**Doubly heavy tetraquark states in a mass splitting model**|Shi-Yuan Li et.al.|[2401.00115v1](http://arxiv.org/abs/2401.00115v1)|null|
+|**2023-12-24**|**Analysis of $B^0_s\rightarrow χ_{c1}(3872)π^+π^-$ decay**|Elnaz Amirkhanlou et.al.|[2312.15437v1](http://arxiv.org/abs/2312.15437v1)|null|
+|**2023-12-22**|**Phenomenology of light mesons with $J = 2, 3$**|Shahriyar Jafarzade et.al.|[2312.14467v1](http://arxiv.org/abs/2312.14467v1)|null|
+|**2023-12-21**|**Applications of Lipschitz neural networks to the Run 3 LHCb trigger system**|Blaise Delaney et.al.|[2312.14265v1](http://arxiv.org/abs/2312.14265v1)|null|
+|**2023-12-21**|**On the molecular nature of the $Ω_c(3120)$ and its analogy with the $Ω(2012)$**|Natsumi Ikeno et.al.|[2312.13732v2](http://arxiv.org/abs/2312.13732v2)|null|
+|**2023-12-20**|**Study of $B_c^+ \rightarrow χ_c π^+$ decays**|LHCb collaboration et.al.|[2312.12987v1](http://arxiv.org/abs/2312.12987v1)|null|
+|**2023-12-20**|**Study of the hidden-heavy pentaquarks and $P_{cs}$ states**|Wen-Xuan Zhang et.al.|[2312.12770v1](http://arxiv.org/abs/2312.12770v1)|null|
+|**2023-12-19**|**Search for $B_c^+\toπ^+μ^+μ^-$ decays and measurement of the branching fraction ratio ${\cal B}(B_c^+\toψ(2S)π^+)/{\cal B}(B_c^+\to J/ψπ^+)$**|LHCb collaboration et.al.|[2312.12228v1](http://arxiv.org/abs/2312.12228v1)|null|
+|**2023-12-17**|**Hadronic decay of exotic mesons consisting of four charm quarks**|Hong-Fei Zhang et.al.|[2312.10850v1](http://arxiv.org/abs/2312.10850v1)|null|
+|**2023-12-14**|**Amplitude analysis of the $B^{0}\to K^{*0}μ^+μ^-$ decay**|LHCb collaboration et.al.|[2312.09115v1](http://arxiv.org/abs/2312.09115v1)|null|
+|**2023-12-14**|**Determination of short- and long-distance contributions in $B^{0}\to K^{*0}μ^+μ^-$ decays**|LHCb collaboration et.al.|[2312.09102v1](http://arxiv.org/abs/2312.09102v1)|null|
+|**2023-12-12**|**$S$-wave contribution to rare $D^0 \to π^+ π^- \ell^+ \ell^-$ decays in the Standard Model and sensitivity to New Physics**|Svjetlana Fajfer et.al.|[2312.07501v1](http://arxiv.org/abs/2312.07501v1)|null|
+|**2023-12-12**|**${\rm \overline{B}}_{d,s}\to \rm K^{*0}\overline{K}^{*0}$ decays, a serious problem for the Standard Model**|Roy Aleksan et.al.|[2312.07198v1](http://arxiv.org/abs/2312.07198v1)|null|
+|**2023-12-09**|**Contributions of the subprocess $K^*_0(1430) \to Kη^{\prime}$ in the charmless three-body $B$ meson decays**|Ai-Jun Ma et.al.|[2312.05619v1](http://arxiv.org/abs/2312.05619v1)|null|
+|**2023-12-09**|**Rare K decays off and on the lattice**|Stefan Schacht et.al.|[2312.05527v1](http://arxiv.org/abs/2312.05527v1)|null|
+|**2023-12-08**|**SMEFT analysis of charged lepton flavor violating $B$-meson decays**|Md Isha Ali et.al.|[2312.05071v1](http://arxiv.org/abs/2312.05071v1)|null|
+|**2023-12-05**|**Pole determination of $X(3960)$ and $X_0(4140)$ in decay $B^+\to K^+D_s^+D_s^-$**|Jialiang Lu et.al.|[2312.02454v1](http://arxiv.org/abs/2312.02454v1)|null|
+|**2023-12-04**|**Momentum scale calibration of the LHCb spectrometer**|LHCb collaboration et.al.|[2312.01772v1](http://arxiv.org/abs/2312.01772v1)|null|
+|**2023-12-01**|**Re-analysis of rare radiative $Ξ_b^-\rightarrow Ξ^- γ$ decay in QCD**|T. M. Aliev et.al.|[2312.00461v1](http://arxiv.org/abs/2312.00461v1)|null|
+|**2023-11-27**|**Structure of $cc \bar c \bar c$ tetraquarks and interpretation of LHC states**|Muhammad Naeem Anwar et.al.|[2311.15853v1](http://arxiv.org/abs/2311.15853v1)|null|
+|**2023-11-23**|**Observation of $Λ_{b}^{0} \to Λ_{c}^{+} \bar{D}^{(*)0} K^{-}$ and $Λ_{b}^{0} \to Λ_{c}^{+} D_{s}^{*-}$ decays**|LHCb collaboration et.al.|[2311.14088v1](http://arxiv.org/abs/2311.14088v1)|null|
+|**2023-11-17**|**A model-independent measurement of the CKM angle $γ$ in partially reconstructed $B^{\pm} \to D^{*} h^{\pm}$ decays with $D \to K_{S}^{0} h^{+}h^{-}$ $(h=π, K)$**|LHCb collaboration et.al.|[2311.10434v1](http://arxiv.org/abs/2311.10434v1)|null|
+|**2023-11-09**|**Measurement of the $D^{*}$ longitudinal polarization in $B^0\to D^{*-}τ^{+}ν_τ$ decays**|LHCb collaboration et.al.|[2311.05224v1](http://arxiv.org/abs/2311.05224v1)|null|
+|**2023-11-08**|**Charge-dependent curvature-bias corrections using a pseudomass method**|LHCb collaboration et.al.|[2311.04670v1](http://arxiv.org/abs/2311.04670v1)|null|
+|**2023-11-06**|**Workshop summary -- Kaons@CERN 2023**|G. Anzivino et.al.|[2311.02923v2](http://arxiv.org/abs/2311.02923v2)|null|
+|**2023-11-03**|**Searching for Minicharged Particles at the Energy Frontier with the MoEDAL-MAPP Experiment at the LHC**|Vasiliki A. Mitsou et.al.|[2311.02185v1](http://arxiv.org/abs/2311.02185v1)|null|
+|**2023-11-02**|**Fraction of $χ_c$ decays in prompt $J/ψ$ production measured in pPb collisions at $\sqrt{s_{NN}}=8.16$ TeV**|LHCb collaboration et.al.|[2311.01562v1](http://arxiv.org/abs/2311.01562v1)|null|
+|**2023-11-01**|**The $ρ(770,1450)\to ωπ$ contributions for three-body decays $B\to\bar{D}^{(*)} ωπ$**|Yu-Shan Ren et.al.|[2311.00413v2](http://arxiv.org/abs/2311.00413v2)|null|
+|**2023-10-30**|**Search for $\textit{CP}$ violation in the phase space of $D^{0} \rightarrow K_{S}^{0} K^{\pm} π^{\mp} $ decays with the energy test**|LHCb collaboration et.al.|[2310.19397v1](http://arxiv.org/abs/2310.19397v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
