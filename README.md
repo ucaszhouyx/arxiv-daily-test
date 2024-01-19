@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-01-18 09:40:34 Asia/Shanghai
+ Automated deployment @ 2024-01-19 08:33:58 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-16**|**Dark showers from Z-dark Z' mixing**|Hsin-Chia Cheng et.al.|[2401.08785v1](http://arxiv.org/abs/2401.08785v1)|null|
 |**2024-01-15**|**CKM and CPV measurements in the beauty and charm sector**|Lei Hao et.al.|[2401.07438v1](http://arxiv.org/abs/2401.07438v1)|null|
 |**2024-01-09**|**$\bar{B}_s^0 \to D_{s1}(2460)^+ K^-, D_{s1}(2536)^+ K^-$ and the nature of the two $D_{s1}$ resonance**|Jia-Xin Lin et.al.|[2401.04587v1](http://arxiv.org/abs/2401.04587v1)|null|
 |**2024-01-08**|**CKM $γ$ measurements at LHCb**|Lei Hao et.al.|[2401.03720v1](http://arxiv.org/abs/2401.03720v1)|null|
@@ -71,11 +72,11 @@
 |**2023-11-09**|**Measurement of the $D^{*}$ longitudinal polarization in $B^0\to D^{*-}τ^{+}ν_τ$ decays**|LHCb collaboration et.al.|[2311.05224v1](http://arxiv.org/abs/2311.05224v1)|null|
 |**2023-11-08**|**Charge-dependent curvature-bias corrections using a pseudomass method**|LHCb collaboration et.al.|[2311.04670v1](http://arxiv.org/abs/2311.04670v1)|null|
 |**2023-11-06**|**Workshop summary -- Kaons@CERN 2023**|G. Anzivino et.al.|[2311.02923v2](http://arxiv.org/abs/2311.02923v2)|null|
-|**2023-11-03**|**Searching for Minicharged Particles at the Energy Frontier with the MoEDAL-MAPP Experiment at the LHC**|Vasiliki A. Mitsou et.al.|[2311.02185v1](http://arxiv.org/abs/2311.02185v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-16**|**Dark showers from Z-dark Z' mixing**|Hsin-Chia Cheng et.al.|[2401.08785v1](http://arxiv.org/abs/2401.08785v1)|null|
 |**2024-01-04**|**Probing New Physics in light of recent developments in $b \rightarrow c \ell ν$ transitions**|Tahira Yasmeen et.al.|[2401.02334v1](http://arxiv.org/abs/2401.02334v1)|null|
 |**2024-01-02**|**High-energy QCD dynamics from bottom flavor fragmentation at the Hi-Lumi LHC**|Francesco Giovanni Celiberto et.al.|[2401.01410v1](http://arxiv.org/abs/2401.01410v1)|null|
 |**2023-12-30**|**Doubly heavy tetraquark states in a mass splitting model**|Shi-Yuan Li et.al.|[2401.00115v1](http://arxiv.org/abs/2401.00115v1)|null|
@@ -105,4 +106,3 @@
 |**2023-11-08**|**Analysis of $DD^*$ and $\bar{D}^{(*)}Ξ_{cc}^{(*)}$ molecule by one boson exchange model based on Heavy quark symmetry**|Tatsuya Asanuma et.al.|[2311.04695v1](http://arxiv.org/abs/2311.04695v1)|null|
 |**2023-11-08**|**Charge-dependent curvature-bias corrections using a pseudomass method**|LHCb collaboration et.al.|[2311.04670v1](http://arxiv.org/abs/2311.04670v1)|null|
 |**2023-11-06**|**Workshop summary -- Kaons@CERN 2023**|G. Anzivino et.al.|[2311.02923v2](http://arxiv.org/abs/2311.02923v2)|null|
-|**2023-11-02**|**Fraction of $χ_c$ decays in prompt $J/ψ$ production measured in pPb collisions at $\sqrt{s_{NN}}=8.16$ TeV**|LHCb collaboration et.al.|[2311.01562v1](http://arxiv.org/abs/2311.01562v1)|null|
