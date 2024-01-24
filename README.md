@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-01-23 09:42:59 Asia/Shanghai
+ Automated deployment @ 2024-01-24 08:34:18 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,8 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-22**|**$Λ_{b}\rightarrow Pl$ factorization in QCD**|Lei-Yi Li et.al.|[2401.11978v1](http://arxiv.org/abs/2401.11978v1)|null|
+|**2024-01-20**|**Study on the mixing of $Ξ_c$ and $Ξ'_c$ by the transition $Ξ_{b}\toΞ^{(')}_c$**|Hong-Wei Ke et.al.|[2401.11106v1](http://arxiv.org/abs/2401.11106v1)|null|
 |**2024-01-16**|**Dark showers from Z-dark Z' mixing**|Hsin-Chia Cheng et.al.|[2401.08785v1](http://arxiv.org/abs/2401.08785v1)|null|
 |**2024-01-15**|**CKM and CPV measurements in the beauty and charm sector**|Lei Hao et.al.|[2401.07438v1](http://arxiv.org/abs/2401.07438v1)|null|
 |**2024-01-09**|**$\bar{B}_s^0 \to D_{s1}(2460)^+ K^-, D_{s1}(2536)^+ K^-$ and the nature of the two $D_{s1}$ resonance**|Jia-Xin Lin et.al.|[2401.04587v1](http://arxiv.org/abs/2401.04587v1)|null|
@@ -70,12 +72,13 @@
 |**2023-11-23**|**Observation of $Λ_{b}^{0} \to Λ_{c}^{+} \bar{D}^{(*)0} K^{-}$ and $Λ_{b}^{0} \to Λ_{c}^{+} D_{s}^{*-}$ decays**|LHCb collaboration et.al.|[2311.14088v1](http://arxiv.org/abs/2311.14088v1)|null|
 |**2023-11-17**|**A model-independent measurement of the CKM angle $γ$ in partially reconstructed $B^{\pm} \to D^{*} h^{\pm}$ decays with $D \to K_{S}^{0} h^{+}h^{-}$ $(h=π, K)$**|LHCb collaboration et.al.|[2311.10434v1](http://arxiv.org/abs/2311.10434v1)|null|
 |**2023-11-09**|**Measurement of the $D^{*}$ longitudinal polarization in $B^0\to D^{*-}τ^{+}ν_τ$ decays**|LHCb collaboration et.al.|[2311.05224v1](http://arxiv.org/abs/2311.05224v1)|null|
-|**2023-11-08**|**Charge-dependent curvature-bias corrections using a pseudomass method**|LHCb collaboration et.al.|[2311.04670v1](http://arxiv.org/abs/2311.04670v1)|null|
-|**2023-11-06**|**Workshop summary -- Kaons@CERN 2023**|G. Anzivino et.al.|[2311.02923v2](http://arxiv.org/abs/2311.02923v2)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-22**|**$Λ_{b}\rightarrow Pl$ factorization in QCD**|Lei-Yi Li et.al.|[2401.11978v1](http://arxiv.org/abs/2401.11978v1)|null|
+|**2024-01-20**|**Prompt and nonprompt $ψ(2S)$ production in $p$Pb collisions at $\sqrt{s_{NN}}=8.16$ TeV**|LHCb collaboration et.al.|[2401.11342v1](http://arxiv.org/abs/2401.11342v1)|null|
+|**2024-01-20**|**Study on the mixing of $Ξ_c$ and $Ξ'_c$ by the transition $Ξ_{b}\toΞ^{(')}_c$**|Hong-Wei Ke et.al.|[2401.11106v1](http://arxiv.org/abs/2401.11106v1)|null|
 |**2024-01-16**|**Dark showers from Z-dark Z' mixing**|Hsin-Chia Cheng et.al.|[2401.08785v1](http://arxiv.org/abs/2401.08785v1)|null|
 |**2024-01-04**|**Probing New Physics in light of recent developments in $b \rightarrow c \ell ν$ transitions**|Tahira Yasmeen et.al.|[2401.02334v2](http://arxiv.org/abs/2401.02334v2)|null|
 |**2024-01-02**|**High-energy QCD dynamics from bottom flavor fragmentation at the Hi-Lumi LHC**|Francesco Giovanni Celiberto et.al.|[2401.01410v1](http://arxiv.org/abs/2401.01410v1)|null|
@@ -103,6 +106,3 @@
 |**2023-11-16**|**Measurement of forward charged hadron flow harmonics in peripheral PbPb collisions at $\sqrt{s_{NN}}=5.02$ TeV with the LHCb detector**|LHCb collaboration et.al.|[2311.09985v1](http://arxiv.org/abs/2311.09985v1)|null|
 |**2023-11-14**|**Observation of strangeness enhancement with charmed mesons in high-multiplicity $p\mathrm{Pb}$ collisions at $\sqrt {s_{\mathrm{NN}}}=8.16\,$TeV**|LHCb collaboration et.al.|[2311.08490v1](http://arxiv.org/abs/2311.08490v1)|null|
 |**2023-11-09**|**Measurement of the $D^{*}$ longitudinal polarization in $B^0\to D^{*-}τ^{+}ν_τ$ decays**|LHCb collaboration et.al.|[2311.05224v1](http://arxiv.org/abs/2311.05224v1)|null|
-|**2023-11-08**|**Analysis of $DD^*$ and $\bar{D}^{(*)}Ξ_{cc}^{(*)}$ molecule by one boson exchange model based on Heavy quark symmetry**|Tatsuya Asanuma et.al.|[2311.04695v1](http://arxiv.org/abs/2311.04695v1)|null|
-|**2023-11-08**|**Charge-dependent curvature-bias corrections using a pseudomass method**|LHCb collaboration et.al.|[2311.04670v1](http://arxiv.org/abs/2311.04670v1)|null|
-|**2023-11-06**|**Workshop summary -- Kaons@CERN 2023**|G. Anzivino et.al.|[2311.02923v2](http://arxiv.org/abs/2311.02923v2)|null|
