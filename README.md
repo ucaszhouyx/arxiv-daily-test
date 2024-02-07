@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-02-06 09:31:51 Asia/Shanghai
+ Automated deployment @ 2024-02-07 08:29:51 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,8 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-05**|**The $B_{s}\to μ^{+}μ^{-}γ$ decay rate at large $q^{2}$ from lattice QCD**|R. Frezzotti et.al.|[2402.03262v1](http://arxiv.org/abs/2402.03262v1)|null|
+|**2024-02-04**|**Probing Planck scale physics with Belle II and LHCb**|Ashutosh Kumar Alok et.al.|[2402.02470v1](http://arxiv.org/abs/2402.02470v1)|null|
 |**2024-02-02**|**Measurements of the branching fraction ratio $\mathcal{B}(φ\to μ^+μ^-)/\mathcal{B}(φ\to e^+e^-)$ with charm meson decays**|LHCb collaboration et.al.|[2402.01336v1](http://arxiv.org/abs/2402.01336v1)|null|
 |**2024-01-31**|**Study of $CP$ violation in $B^0_{(s)} \to D K^{*}(892)^0$ decays with $D \to K π( ππ)$, $ ππ( ππ)$, and $KK$ final states**|LHCb collaboration et.al.|[2401.17934v1](http://arxiv.org/abs/2401.17934v1)|null|
 |**2024-01-22**|**$Λ_{b}\rightarrow Pl$ factorization in QCD**|Lei-Yi Li et.al.|[2401.11978v1](http://arxiv.org/abs/2401.11978v1)|null|
@@ -70,12 +72,11 @@
 |**2023-12-05**|**Pole determination of $X(3960)$ and $X_0(4140)$ in decay $B^+\to K^+D_s^+D_s^-$**|Jialiang Lu et.al.|[2312.02454v1](http://arxiv.org/abs/2312.02454v1)|null|
 |**2023-12-04**|**Momentum scale calibration of the LHCb spectrometer**|LHCb collaboration et.al.|[2312.01772v1](http://arxiv.org/abs/2312.01772v1)|null|
 |**2023-12-01**|**Re-analysis of rare radiative $Ξ_b^-\rightarrow Ξ^- γ$ decay in QCD**|T. M. Aliev et.al.|[2312.00461v1](http://arxiv.org/abs/2312.00461v1)|null|
-|**2023-11-27**|**Structure of $cc \bar c \bar c$ tetraquarks and interpretation of LHC states**|Muhammad Naeem Anwar et.al.|[2311.15853v1](http://arxiv.org/abs/2311.15853v1)|null|
-|**2023-11-23**|**Observation of $Λ_{b}^{0} \to Λ_{c}^{+} \bar{D}^{(*)0} K^{-}$ and $Λ_{b}^{0} \to Λ_{c}^{+} D_{s}^{*-}$ decays**|LHCb collaboration et.al.|[2311.14088v1](http://arxiv.org/abs/2311.14088v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-04**|**Probing Planck scale physics with Belle II and LHCb**|Ashutosh Kumar Alok et.al.|[2402.02470v1](http://arxiv.org/abs/2402.02470v1)|null|
 |**2024-02-02**|**Measurements of the branching fraction ratio $\mathcal{B}(φ\to μ^+μ^-)/\mathcal{B}(φ\to e^+e^-)$ with charm meson decays**|LHCb collaboration et.al.|[2402.01336v1](http://arxiv.org/abs/2402.01336v1)|null|
 |**2024-01-31**|**Study of $CP$ violation in $B^0_{(s)} \to D K^{*}(892)^0$ decays with $D \to K π( ππ)$, $ ππ( ππ)$, and $KK$ final states**|LHCb collaboration et.al.|[2401.17934v1](http://arxiv.org/abs/2401.17934v1)|null|
 |**2024-01-22**|**$Λ_{b}\rightarrow Pl$ factorization in QCD**|Lei-Yi Li et.al.|[2401.11978v1](http://arxiv.org/abs/2401.11978v1)|null|
@@ -105,4 +106,3 @@
 |**2023-11-23**|**Measurement of $J/ψ$-pair production in $pp$ collisions at $\sqrt{s}=13$ TeV and study of gluon transverse-momentum dependent PDFs**|LHCb collaboration et.al.|[2311.14085v1](http://arxiv.org/abs/2311.14085v1)|null|
 |**2023-11-19**|**Open charm production cross section from combined LHC experiments in $pp$ collisions at $\sqrt{s} = 5.02$ TeV**|Christian Bierlich et.al.|[2311.11426v1](http://arxiv.org/abs/2311.11426v1)|null|
 |**2023-11-17**|**A model-independent measurement of the CKM angle $γ$ in partially reconstructed $B^{\pm} \to D^{*} h^{\pm}$ decays with $D \to K_{S}^{0} h^{+}h^{-}$ $(h=π, K)$**|LHCb collaboration et.al.|[2311.10434v1](http://arxiv.org/abs/2311.10434v1)|null|
-|**2023-11-16**|**Measurement of forward charged hadron flow harmonics in peripheral PbPb collisions at $\sqrt{s_{NN}}=5.02$ TeV with the LHCb detector**|LHCb collaboration et.al.|[2311.09985v1](http://arxiv.org/abs/2311.09985v1)|null|
