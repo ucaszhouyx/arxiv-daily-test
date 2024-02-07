@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-02-07 08:29:51 Asia/Shanghai
+ Automated deployment @ 2024-02-07 09:29:59 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -70,7 +70,7 @@
 |**2023-12-09**|**Rare K decays off and on the lattice**|Stefan Schacht et.al.|[2312.05527v1](http://arxiv.org/abs/2312.05527v1)|null|
 |**2023-12-08**|**SMEFT analysis of charged lepton flavor violating $B$-meson decays**|Md Isha Ali et.al.|[2312.05071v1](http://arxiv.org/abs/2312.05071v1)|null|
 |**2023-12-05**|**Pole determination of $X(3960)$ and $X_0(4140)$ in decay $B^+\to K^+D_s^+D_s^-$**|Jialiang Lu et.al.|[2312.02454v1](http://arxiv.org/abs/2312.02454v1)|null|
-|**2023-12-04**|**Momentum scale calibration of the LHCb spectrometer**|LHCb collaboration et.al.|[2312.01772v1](http://arxiv.org/abs/2312.01772v1)|null|
+|**2023-12-04**|**Momentum scale calibration of the LHCb spectrometer**|LHCb collaboration et.al.|[2312.01772v2](http://arxiv.org/abs/2312.01772v2)|null|
 |**2023-12-01**|**Re-analysis of rare radiative $Ξ_b^-\rightarrow Ξ^- γ$ decay in QCD**|T. M. Aliev et.al.|[2312.00461v1](http://arxiv.org/abs/2312.00461v1)|null|
 
 ### b baryon
@@ -97,7 +97,7 @@
 |**2023-12-09**|**Contributions of the subprocess $K^*_0(1430) \to Kη^{\prime}$ in the charmless three-body $B$ meson decays**|Ai-Jun Ma et.al.|[2312.05619v1](http://arxiv.org/abs/2312.05619v1)|null|
 |**2023-12-08**|**SMEFT analysis of charged lepton flavor violating $B$-meson decays**|Md Isha Ali et.al.|[2312.05071v1](http://arxiv.org/abs/2312.05071v1)|null|
 |**2023-12-08**|**Prediction of $P_{cc}$ states in quark model**|Ye Yan et.al.|[2312.04977v1](http://arxiv.org/abs/2312.04977v1)|null|
-|**2023-12-04**|**Momentum scale calibration of the LHCb spectrometer**|LHCb collaboration et.al.|[2312.01772v1](http://arxiv.org/abs/2312.01772v1)|null|
+|**2023-12-04**|**Momentum scale calibration of the LHCb spectrometer**|LHCb collaboration et.al.|[2312.01772v2](http://arxiv.org/abs/2312.01772v2)|null|
 |**2023-11-30**|**Predicted $Ξ_b(6087)^0$ and further predictions**|Wei-Han Tan et.al.|[2311.18380v1](http://arxiv.org/abs/2311.18380v1)|null|
 |**2023-11-29**|**Molecular-type $QQss\bar{s}$ pentaquarks predicted by the extended chiral unitary approach**|Zhong-Yu Wang et.al.|[2311.17736v2](http://arxiv.org/abs/2311.17736v2)|null|
 |**2023-11-29**|**Preliminary results on the long term operation of RPCs with eco-friendly gas mixtures under irradiation at the CERN Gamma Irradiation Facility**|L. Quaglia et.al.|[2311.17574v1](http://arxiv.org/abs/2311.17574v1)|null|
