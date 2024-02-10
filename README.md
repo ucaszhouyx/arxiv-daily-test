@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-02-09 09:30:29 Asia/Shanghai
+ Automated deployment @ 2024-02-10 08:30:04 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,9 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-08**|**Explaining the $B^+\to K^+ ν\barν$ excess via a massless dark photon**|E. Gabrielli et.al.|[2402.05901v1](http://arxiv.org/abs/2402.05901v1)|null|
+|**2024-02-08**|**Measurement of the Branching Fraction of $B^{0} \rightarrow J/ψ π^{0}$ Decays**|LHCb collaboration et.al.|[2402.05528v1](http://arxiv.org/abs/2402.05528v1)|null|
+|**2024-02-08**|**Observation of the $B_c^+ \to J/ψπ^+ π^0$ decay**|LHCb collaboration et.al.|[2402.05523v1](http://arxiv.org/abs/2402.05523v1)|null|
 |**2024-02-05**|**The $B_{s}\to μ^{+}μ^{-}γ$ decay rate at large $q^{2}$ from lattice QCD**|R. Frezzotti et.al.|[2402.03262v1](http://arxiv.org/abs/2402.03262v1)|null|
 |**2024-02-04**|**Probing Planck scale physics with Belle II and LHCb**|Ashutosh Kumar Alok et.al.|[2402.02470v1](http://arxiv.org/abs/2402.02470v1)|null|
 |**2024-02-02**|**Measurements of the branching fraction ratio $\mathcal{B}(φ\to μ^+μ^-)/\mathcal{B}(φ\to e^+e^-)$ with charm meson decays**|LHCb collaboration et.al.|[2402.01336v1](http://arxiv.org/abs/2402.01336v1)|null|
@@ -69,13 +72,13 @@
 |**2023-12-09**|**Contributions of the subprocess $K^*_0(1430) \to Kη^{\prime}$ in the charmless three-body $B$ meson decays**|Ai-Jun Ma et.al.|[2312.05619v1](http://arxiv.org/abs/2312.05619v1)|null|
 |**2023-12-09**|**Rare K decays off and on the lattice**|Stefan Schacht et.al.|[2312.05527v1](http://arxiv.org/abs/2312.05527v1)|null|
 |**2023-12-08**|**SMEFT analysis of charged lepton flavor violating $B$-meson decays**|Md Isha Ali et.al.|[2312.05071v1](http://arxiv.org/abs/2312.05071v1)|null|
-|**2023-12-05**|**Pole determination of $X(3960)$ and $X_0(4140)$ in decay $B^+\to K^+D_s^+D_s^-$**|Jialiang Lu et.al.|[2312.02454v1](http://arxiv.org/abs/2312.02454v1)|null|
-|**2023-12-04**|**Momentum scale calibration of the LHCb spectrometer**|LHCb collaboration et.al.|[2312.01772v2](http://arxiv.org/abs/2312.01772v2)|null|
-|**2023-12-01**|**Re-analysis of rare radiative $Ξ_b^-\rightarrow Ξ^- γ$ decay in QCD**|T. M. Aliev et.al.|[2312.00461v1](http://arxiv.org/abs/2312.00461v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-08**|**Explaining the $B^+\to K^+ ν\barν$ excess via a massless dark photon**|E. Gabrielli et.al.|[2402.05901v1](http://arxiv.org/abs/2402.05901v1)|null|
+|**2024-02-08**|**Measurement of the Branching Fraction of $B^{0} \rightarrow J/ψ π^{0}$ Decays**|LHCb collaboration et.al.|[2402.05528v1](http://arxiv.org/abs/2402.05528v1)|null|
+|**2024-02-08**|**Observation of the $B_c^+ \to J/ψπ^+ π^0$ decay**|LHCb collaboration et.al.|[2402.05523v1](http://arxiv.org/abs/2402.05523v1)|null|
 |**2024-02-06**|**On the non-universality of heavy quark hadronization in elementary high-energy collisions**|Yuxuan Dai et.al.|[2402.03692v1](http://arxiv.org/abs/2402.03692v1)|null|
 |**2024-02-04**|**Probing Planck scale physics with Belle II and LHCb**|Ashutosh Kumar Alok et.al.|[2402.02470v1](http://arxiv.org/abs/2402.02470v1)|null|
 |**2024-02-02**|**Measurements of the branching fraction ratio $\mathcal{B}(φ\to μ^+μ^-)/\mathcal{B}(φ\to e^+e^-)$ with charm meson decays**|LHCb collaboration et.al.|[2402.01336v1](http://arxiv.org/abs/2402.01336v1)|null|
@@ -103,6 +106,3 @@
 |**2023-11-29**|**Molecular-type $QQss\bar{s}$ pentaquarks predicted by an extended hidden gauge symmetry approach**|Zhong-Yu Wang et.al.|[2311.17736v4](http://arxiv.org/abs/2311.17736v4)|null|
 |**2023-11-29**|**Preliminary results on the long term operation of RPCs with eco-friendly gas mixtures under irradiation at the CERN Gamma Irradiation Facility**|L. Quaglia et.al.|[2311.17574v1](http://arxiv.org/abs/2311.17574v1)|null|
 |**2023-11-27**|**Measurement of associated $J/ψ$-$ψ(2S)$ production cross-section in $pp$ collisions at $\sqrt{s}=13$ TeV**|LHCb collaboration et.al.|[2311.15921v1](http://arxiv.org/abs/2311.15921v1)|null|
-|**2023-11-23**|**Observation of $Λ_{b}^{0} \to Λ_{c}^{+} \bar{D}^{(*)0} K^{-}$ and $Λ_{b}^{0} \to Λ_{c}^{+} D_{s}^{*-}$ decays**|LHCb collaboration et.al.|[2311.14088v1](http://arxiv.org/abs/2311.14088v1)|null|
-|**2023-11-23**|**Measurement of $J/ψ$-pair production in $pp$ collisions at $\sqrt{s}=13$ TeV and study of gluon transverse-momentum dependent PDFs**|LHCb collaboration et.al.|[2311.14085v1](http://arxiv.org/abs/2311.14085v1)|null|
-|**2023-11-19**|**Open charm production cross section from combined LHC experiments in $pp$ collisions at $\sqrt{s} = 5.02$ TeV**|Christian Bierlich et.al.|[2311.11426v1](http://arxiv.org/abs/2311.11426v1)|null|
