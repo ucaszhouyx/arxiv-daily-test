@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-02-13 09:32:40 Asia/Shanghai
+ Automated deployment @ 2024-02-14 08:31:11 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-11**|**Investigating the M1 radiative decay behaviors and the magnetic moments of the predicted triple-charm molecular-type pentaquarks**|Bao-Jun Lai et.al.|[2402.07195v1](http://arxiv.org/abs/2402.07195v1)|null|
 |**2024-02-08**|**Explaining the $B^+\to K^+ ν\barν$ excess via a massless dark photon**|E. Gabrielli et.al.|[2402.05901v1](http://arxiv.org/abs/2402.05901v1)|null|
 |**2024-02-08**|**Measurement of the Branching Fraction of $B^{0} \rightarrow J/ψ π^{0}$ Decays**|LHCb collaboration et.al.|[2402.05528v1](http://arxiv.org/abs/2402.05528v1)|null|
 |**2024-02-08**|**Observation of the $B_c^+ \to J/ψπ^+ π^0$ decay**|LHCb collaboration et.al.|[2402.05523v1](http://arxiv.org/abs/2402.05523v1)|null|
@@ -71,7 +72,6 @@
 |**2023-12-12**|**${\rm \overline{B}}_{d,s}\to \rm K^{*0}\overline{K}^{*0}$ decays, a serious problem for the Standard Model**|Roy Aleksan et.al.|[2312.07198v1](http://arxiv.org/abs/2312.07198v1)|null|
 |**2023-12-09**|**Contributions of the subprocess $K^*_0(1430) \to Kη^{\prime}$ in the charmless three-body $B$ meson decays**|Ai-Jun Ma et.al.|[2312.05619v1](http://arxiv.org/abs/2312.05619v1)|null|
 |**2023-12-09**|**Rare K decays off and on the lattice**|Stefan Schacht et.al.|[2312.05527v1](http://arxiv.org/abs/2312.05527v1)|null|
-|**2023-12-08**|**SMEFT analysis of charged lepton flavor violating $B$-meson decays**|Md Isha Ali et.al.|[2312.05071v1](http://arxiv.org/abs/2312.05071v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
