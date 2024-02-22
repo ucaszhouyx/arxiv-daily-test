@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-02-21 09:32:25 Asia/Shanghai
+ Automated deployment @ 2024-02-22 08:31:13 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-20**|**Studies on $R_K$ with Large Dilepton Invariant-Mass, Scalable Pythonic Fitting, and Online Event Interpretation with GNNs at LHCb**|Jonas Eschle et.al.|[2402.12622v1](http://arxiv.org/abs/2402.12622v1)|null|
 |**2024-02-17**|**Topological heavy-flavor tagging and intrinsic bottom at the Electron-Ion Collider**|Thomas Boettcher et.al.|[2402.11344v1](http://arxiv.org/abs/2402.11344v1)|null|
 |**2024-02-15**|**Analysis of $B^0_{(s)}\toμ^+μ^-$ decays at the LHC**|Kai-Feng Chen et.al.|[2402.09901v1](http://arxiv.org/abs/2402.09901v1)|null|
 |**2024-02-11**|**Investigating the M1 radiative decay behaviors and the magnetic moments of the predicted triple-charm molecular-type pentaquarks**|Bao-Jun Lai et.al.|[2402.07195v1](http://arxiv.org/abs/2402.07195v1)|null|
@@ -71,7 +72,6 @@
 |**2023-12-14**|**Amplitude analysis of the $B^{0}\to K^{*0}μ^+μ^-$ decay**|LHCb collaboration et.al.|[2312.09115v1](http://arxiv.org/abs/2312.09115v1)|null|
 |**2023-12-14**|**Determination of short- and long-distance contributions in $B^{0}\to K^{*0}μ^+μ^-$ decays**|LHCb collaboration et.al.|[2312.09102v1](http://arxiv.org/abs/2312.09102v1)|null|
 |**2023-12-12**|**$S$-wave contribution to rare $D^0 \to π^+ π^- \ell^+ \ell^-$ decays in the Standard Model and sensitivity to New Physics**|Svjetlana Fajfer et.al.|[2312.07501v1](http://arxiv.org/abs/2312.07501v1)|null|
-|**2023-12-12**|**${\rm \overline{B}}_{d,s}\to \rm K^{*0}\overline{K}^{*0}$ decays, a serious problem for the Standard Model**|Roy Aleksan et.al.|[2312.07198v1](http://arxiv.org/abs/2312.07198v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
