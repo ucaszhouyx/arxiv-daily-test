@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-02-26 09:34:07 Asia/Shanghai
+ Automated deployment @ 2024-02-27 08:31:07 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -8,6 +8,7 @@
 ### X(3872)
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-22**|**Modification of $χ_{c1}$(3872) and $ψ$(2$S$) production in $p$Pb collisions at $\sqrt{s_{NN}} = 8.16$ TeV**|LHCb collaboration et.al.|[2402.14975v1](http://arxiv.org/abs/2402.14975v1)|null|
 |**2023-12-31**|**Study the structure of X(3872) from its lineshape**|Hongge Xu et.al.|[2401.00411v1](http://arxiv.org/abs/2401.00411v1)|null|
 |**2023-12-24**|**Analysis of $B^0_s\rightarrow χ_{c1}(3872)π^+π^-$ decay**|Elnaz Amirkhanlou et.al.|[2312.15437v1](http://arxiv.org/abs/2312.15437v1)|null|
 |**2023-11-16**|**Coupled-channel description of charmed heavy hadronic molecules within the meson-exchange model and its implication**|Lin Qiu et.al.|[2311.10067v2](http://arxiv.org/abs/2311.10067v2)|null|
@@ -37,7 +38,6 @@
 |**2020-12-25**|**Production of $X(3872)$ at High Multiplicity**|Eric Braaten et.al.|[2012.13499v1](http://arxiv.org/abs/2012.13499v1)|null|
 |**2020-12-17**|**Predicting the $\bar{D}_s^{(*)} D_s^{(*)}$ bound states as the partners of $X(3872)$**|Lu Meng et.al.|[2012.09813v3](http://arxiv.org/abs/2012.09813v3)|null|
 |**2020-12-09**|**Is $X(7200)$ the heavy anti-quark diquark symmetry partner of $ X(3872)$?**|Ming-Zhu Liu et.al.|[2012.05096v1](http://arxiv.org/abs/2012.05096v1)|null|
-|**2020-11-03**|**Study of $B^0_s \rightarrow J/ψπ^+π^-K^+K^-$ decays**|LHCb collaboration et.al.|[2011.01867v3](http://arxiv.org/abs/2011.01867v3)|null|
 
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
@@ -76,6 +76,7 @@
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-22**|**Modification of $χ_{c1}$(3872) and $ψ$(2$S$) production in $p$Pb collisions at $\sqrt{s_{NN}} = 8.16$ TeV**|LHCb collaboration et.al.|[2402.14975v1](http://arxiv.org/abs/2402.14975v1)|null|
 |**2024-02-08**|**Explaining the $B^+\to K^+ ν\barν$ excess via a massless dark photon**|E. Gabrielli et.al.|[2402.05901v1](http://arxiv.org/abs/2402.05901v1)|null|
 |**2024-02-08**|**Measurement of the Branching Fraction of $B^{0} \rightarrow J/ψ π^{0}$ Decays**|LHCb collaboration et.al.|[2402.05528v1](http://arxiv.org/abs/2402.05528v1)|null|
 |**2024-02-08**|**Observation of the $B_c^+ \to J/ψπ^+ π^0$ decay**|LHCb collaboration et.al.|[2402.05523v1](http://arxiv.org/abs/2402.05523v1)|null|
@@ -105,4 +106,3 @@
 |**2023-11-30**|**Predicted $Ξ_b(6087)^0$ and further predictions**|Wei-Han Tan et.al.|[2311.18380v1](http://arxiv.org/abs/2311.18380v1)|null|
 |**2023-11-29**|**Molecular-type $QQss\bar{s}$ pentaquarks predicted by an extended hidden gauge symmetry approach**|Zhong-Yu Wang et.al.|[2311.17736v4](http://arxiv.org/abs/2311.17736v4)|null|
 |**2023-11-29**|**Preliminary results on the long term operation of RPCs with eco-friendly gas mixtures under irradiation at the CERN Gamma Irradiation Facility**|L. Quaglia et.al.|[2311.17574v1](http://arxiv.org/abs/2311.17574v1)|null|
-|**2023-11-27**|**Measurement of associated $J/ψ$-$ψ(2S)$ production cross-section in $pp$ collisions at $\sqrt{s}=13$ TeV**|LHCb collaboration et.al.|[2311.15921v1](http://arxiv.org/abs/2311.15921v1)|null|
