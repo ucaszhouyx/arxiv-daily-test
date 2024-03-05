@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-03-04 09:36:24 Asia/Shanghai
+ Automated deployment @ 2024-03-05 08:30:31 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -65,7 +65,7 @@
 |**2023-12-22**|**Phenomenology of light mesons with $J = 2, 3$**|Shahriyar Jafarzade et.al.|[2312.14467v1](http://arxiv.org/abs/2312.14467v1)|null|
 |**2023-12-21**|**Applications of Lipschitz neural networks to the Run 3 LHCb trigger system**|Blaise Delaney et.al.|[2312.14265v1](http://arxiv.org/abs/2312.14265v1)|null|
 |**2023-12-21**|**On the molecular nature of the $Ω_c(3120)$ and its analogy with the $Ω(2012)$**|Natsumi Ikeno et.al.|[2312.13732v2](http://arxiv.org/abs/2312.13732v2)|null|
-|**2023-12-20**|**Study of $B_c^+ \rightarrow χ_c π^+$ decays**|LHCb collaboration et.al.|[2312.12987v1](http://arxiv.org/abs/2312.12987v1)|null|
+|**2023-12-20**|**Study of $B_c^+ \rightarrow χ_c π^+$ decays**|LHCb collaboration et.al.|[2312.12987v2](http://arxiv.org/abs/2312.12987v2)|null|
 |**2023-12-20**|**Study of the hidden-heavy pentaquarks and $P_{cs}$ states**|Wen-Xuan Zhang et.al.|[2312.12770v1](http://arxiv.org/abs/2312.12770v1)|null|
 |**2023-12-19**|**Search for $B_c^+\toπ^+μ^+μ^-$ decays and measurement of the branching fraction ratio ${\cal B}(B_c^+\toψ(2S)π^+)/{\cal B}(B_c^+\to J/ψπ^+)$**|LHCb collaboration et.al.|[2312.12228v1](http://arxiv.org/abs/2312.12228v1)|null|
 |**2023-12-17**|**Hadronic decay of exotic mesons consisting of four charm quarks**|Hong-Fei Zhang et.al.|[2312.10850v1](http://arxiv.org/abs/2312.10850v1)|null|
@@ -94,7 +94,7 @@
 |**2023-12-30**|**Doubly heavy tetraquark states in a mass splitting model**|Shi-Yuan Li et.al.|[2401.00115v1](http://arxiv.org/abs/2401.00115v1)|null|
 |**2023-12-23**|**Multiplicity dependence of $σ_{ψ(2S)}/σ_{J/ψ}$ in $pp$ collisions at $\sqrt{s}=13$ TeV**|LHCb collaboration et.al.|[2312.15201v1](http://arxiv.org/abs/2312.15201v1)|null|
 |**2023-12-21**|**Applications of Lipschitz neural networks to the Run 3 LHCb trigger system**|Blaise Delaney et.al.|[2312.14265v1](http://arxiv.org/abs/2312.14265v1)|null|
-|**2023-12-20**|**Study of $B_c^+ \rightarrow χ_c π^+$ decays**|LHCb collaboration et.al.|[2312.12987v1](http://arxiv.org/abs/2312.12987v1)|null|
+|**2023-12-20**|**Study of $B_c^+ \rightarrow χ_c π^+$ decays**|LHCb collaboration et.al.|[2312.12987v2](http://arxiv.org/abs/2312.12987v2)|null|
 |**2023-12-20**|**Study of the hidden-heavy pentaquarks and $P_{cs}$ states**|Wen-Xuan Zhang et.al.|[2312.12770v1](http://arxiv.org/abs/2312.12770v1)|null|
 |**2023-12-19**|**Search for $B_c^+\toπ^+μ^+μ^-$ decays and measurement of the branching fraction ratio ${\cal B}(B_c^+\toψ(2S)π^+)/{\cal B}(B_c^+\to J/ψπ^+)$**|LHCb collaboration et.al.|[2312.12228v1](http://arxiv.org/abs/2312.12228v1)|null|
 |**2023-12-18**|**Fully-heavy hadronic molecules $B_c^{(*)+} B_c^{(*)-}$ bound by fully-heavy mesons**|Wen-Ying Liu et.al.|[2312.11212v2](http://arxiv.org/abs/2312.11212v2)|null|
