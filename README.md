@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-03-05 09:31:09 Asia/Shanghai
+ Automated deployment @ 2024-03-06 08:31:43 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -8,12 +8,13 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-02**|**Angular analyses of rare decays at the LHC**|Biplab Dey et.al.|[2403.01143v1](http://arxiv.org/abs/2403.01143v1)|null|
 |**2024-02-20**|**Studies on $R_K$ with Large Dilepton Invariant-Mass, Scalable Pythonic Fitting, and Online Event Interpretation with GNNs at LHCb**|Jonas Eschle et.al.|[2402.12622v1](http://arxiv.org/abs/2402.12622v1)|null|
 |**2024-02-17**|**Topological heavy-flavor tagging and intrinsic bottom at the Electron-Ion Collider**|Thomas Boettcher et.al.|[2402.11344v1](http://arxiv.org/abs/2402.11344v1)|null|
 |**2024-02-15**|**Analysis of $B^0_{(s)}\toμ^+μ^-$ decays at the LHC**|Kai-Feng Chen et.al.|[2402.09901v1](http://arxiv.org/abs/2402.09901v1)|null|
 |**2024-02-11**|**Investigating the M1 radiative decay behaviors and the magnetic moments of the predicted triple-charm molecular-type pentaquarks**|Bao-Jun Lai et.al.|[2402.07195v1](http://arxiv.org/abs/2402.07195v1)|null|
 |**2024-02-08**|**Explaining the $B^+\to K^+ ν\barν$ excess via a massless dark photon**|E. Gabrielli et.al.|[2402.05901v1](http://arxiv.org/abs/2402.05901v1)|null|
-|**2024-02-08**|**Measurement of the Branching Fraction of $B^{0} \rightarrow J/ψ π^{0}$ Decays**|LHCb collaboration et.al.|[2402.05528v1](http://arxiv.org/abs/2402.05528v1)|null|
+|**2024-02-08**|**Measurement of the Branching Fraction of $B^{0} \rightarrow J/ψ π^{0}$ Decays**|LHCb collaboration et.al.|[2402.05528v2](http://arxiv.org/abs/2402.05528v2)|null|
 |**2024-02-08**|**Observation of the $B_c^+ \to J/ψπ^+ π^0$ decay**|LHCb collaboration et.al.|[2402.05523v1](http://arxiv.org/abs/2402.05523v1)|null|
 |**2024-02-05**|**The $B_{s}\to μ^{+}μ^{-}γ$ decay rate at large $q^{2}$ from lattice QCD**|R. Frezzotti et.al.|[2402.03262v1](http://arxiv.org/abs/2402.03262v1)|null|
 |**2024-02-04**|**Probing Planck scale physics with Belle II and LHCb**|Ashutosh Kumar Alok et.al.|[2402.02470v1](http://arxiv.org/abs/2402.02470v1)|null|
@@ -37,7 +38,6 @@
 |**2023-12-17**|**Hadronic decay of exotic mesons consisting of four charm quarks**|Hong-Fei Zhang et.al.|[2312.10850v1](http://arxiv.org/abs/2312.10850v1)|null|
 |**2023-12-14**|**Amplitude analysis of the $B^{0}\to K^{*0}μ^+μ^-$ decay**|LHCb collaboration et.al.|[2312.09115v1](http://arxiv.org/abs/2312.09115v1)|null|
 |**2023-12-14**|**Determination of short- and long-distance contributions in $B^{0}\to K^{*0}μ^+μ^-$ decays**|LHCb collaboration et.al.|[2312.09102v1](http://arxiv.org/abs/2312.09102v1)|null|
-|**2023-12-12**|**$S$-wave contribution to rare $D^0 \to π^+ π^- \ell^+ \ell^-$ decays in the Standard Model and sensitivity to New Physics**|Svjetlana Fajfer et.al.|[2312.07501v1](http://arxiv.org/abs/2312.07501v1)|null|
 
 ### X(3872)
 |Publish Date|Title|Authors|PDF|Code|
@@ -76,10 +76,12 @@
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-02**|**Angular analyses of rare decays at the LHC**|Biplab Dey et.al.|[2403.01143v1](http://arxiv.org/abs/2403.01143v1)|null|
+|**2024-03-01**|**Determination of the resonant parameters of chi_c0(3915) with global fit**|Chunhua Li et.al.|[2403.01017v1](http://arxiv.org/abs/2403.01017v1)|null|
 |**2024-02-29**|**Exploring Eco-Friendly Gas Mixtures for Resistive Plate Chambers: A Comprehensive Study on Performance and Aging**|The RPC ECOGas@GIF++ collaboration et.al.|[2402.19395v1](http://arxiv.org/abs/2402.19395v1)|null|
 |**2024-02-22**|**Modification of $χ_{c1}$(3872) and $ψ$(2$S$) production in $p$Pb collisions at $\sqrt{s_{NN}} = 8.16$ TeV**|LHCb collaboration et.al.|[2402.14975v1](http://arxiv.org/abs/2402.14975v1)|null|
 |**2024-02-08**|**Explaining the $B^+\to K^+ ν\barν$ excess via a massless dark photon**|E. Gabrielli et.al.|[2402.05901v1](http://arxiv.org/abs/2402.05901v1)|null|
-|**2024-02-08**|**Measurement of the Branching Fraction of $B^{0} \rightarrow J/ψ π^{0}$ Decays**|LHCb collaboration et.al.|[2402.05528v1](http://arxiv.org/abs/2402.05528v1)|null|
+|**2024-02-08**|**Measurement of the Branching Fraction of $B^{0} \rightarrow J/ψ π^{0}$ Decays**|LHCb collaboration et.al.|[2402.05528v2](http://arxiv.org/abs/2402.05528v2)|null|
 |**2024-02-08**|**Observation of the $B_c^+ \to J/ψπ^+ π^0$ decay**|LHCb collaboration et.al.|[2402.05523v1](http://arxiv.org/abs/2402.05523v1)|null|
 |**2024-02-06**|**On the non-universality of heavy quark hadronization in elementary high-energy collisions**|Yuxuan Dai et.al.|[2402.03692v1](http://arxiv.org/abs/2402.03692v1)|null|
 |**2024-02-04**|**Probing Planck scale physics with Belle II and LHCb**|Ashutosh Kumar Alok et.al.|[2402.02470v1](http://arxiv.org/abs/2402.02470v1)|null|
@@ -104,5 +106,3 @@
 |**2023-12-08**|**SMEFT analysis of charged lepton flavor violating $B$-meson decays**|Md Isha Ali et.al.|[2312.05071v1](http://arxiv.org/abs/2312.05071v1)|null|
 |**2023-12-08**|**Prediction of $P_{cc}$ states in quark model**|Ye Yan et.al.|[2312.04977v1](http://arxiv.org/abs/2312.04977v1)|null|
 |**2023-12-04**|**Momentum scale calibration of the LHCb spectrometer**|LHCb collaboration et.al.|[2312.01772v2](http://arxiv.org/abs/2312.01772v2)|null|
-|**2023-11-30**|**Predicted $Ξ_b(6087)^0$ and further predictions**|Wei-Han Tan et.al.|[2311.18380v1](http://arxiv.org/abs/2311.18380v1)|null|
-|**2023-11-29**|**Molecular-type $QQss\bar{s}$ pentaquarks predicted by an extended hidden gauge symmetry approach**|Zhong-Yu Wang et.al.|[2311.17736v4](http://arxiv.org/abs/2311.17736v4)|null|
