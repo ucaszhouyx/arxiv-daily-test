@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-03-08 09:31:52 Asia/Shanghai
+ Automated deployment @ 2024-03-09 08:30:25 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -76,6 +76,7 @@
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-07**|**$B$-meson production at forward rapidities in $pp$ collisions at the LHC: Estimating the intrinsic bottom contribution**|Yuri N. Lima et.al.|[2403.04619v1](http://arxiv.org/abs/2403.04619v1)|null|
 |**2024-03-06**|**Amplitude analysis of the $Λ_b^0\to pK^-γ$ decay**|LHCb collaboration et.al.|[2403.03710v1](http://arxiv.org/abs/2403.03710v1)|null|
 |**2024-03-06**|**First observation of the $Λ^0_b \to D^+ D^- Λ$ decay**|LHCb collaboration et.al.|[2403.03586v1](http://arxiv.org/abs/2403.03586v1)|null|
 |**2024-03-02**|**Angular analyses of rare decays at the LHC**|Biplab Dey et.al.|[2403.01143v1](http://arxiv.org/abs/2403.01143v1)|null|
@@ -105,4 +106,3 @@
 |**2023-12-14**|**Amplitude analysis of the $B^{0}\to K^{*0}μ^+μ^-$ decay**|LHCb collaboration et.al.|[2312.09115v1](http://arxiv.org/abs/2312.09115v1)|null|
 |**2023-12-14**|**Determination of short- and long-distance contributions in $B^{0}\to K^{*0}μ^+μ^-$ decays**|LHCb collaboration et.al.|[2312.09102v1](http://arxiv.org/abs/2312.09102v1)|null|
 |**2023-12-09**|**Contributions of the subprocess $K^*_0(1430) \to Kη^{\prime}$ in the charmless three-body $B$ meson decays**|Ai-Jun Ma et.al.|[2312.05619v1](http://arxiv.org/abs/2312.05619v1)|null|
-|**2023-12-08**|**SMEFT analysis of charged lepton flavor violating $B$-meson decays**|Md Isha Ali et.al.|[2312.05071v1](http://arxiv.org/abs/2312.05071v1)|null|
