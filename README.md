@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-04-01 09:41:23 Asia/Shanghai
+ Automated deployment @ 2024-04-02 08:31:56 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,9 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-29**|**Rare Strange and Charm Decays at LHCb**|Paras Naik et.al.|[2403.20154v1](http://arxiv.org/abs/2403.20154v1)|null|
+|**2024-03-29**|**Direct CP violation in D decays at LHCb**|Jolanta Brodzicka et.al.|[2403.20108v1](http://arxiv.org/abs/2403.20108v1)|null|
+|**2024-03-29**|**CP violation measurements in three-body charmless B decays**|Lucas Falcao et.al.|[2403.19921v1](http://arxiv.org/abs/2403.19921v1)|null|
 |**2024-03-28**|**New results of $γ$ measurements in ADS and GLW-like decays at LHCb**|Seophine Stanislaus et.al.|[2403.19592v1](http://arxiv.org/abs/2403.19592v1)|null|
 |**2024-03-22**|**Spectrum of $S$- and $P$-wave $cc\bar{q}\bar{q}'$ $(\bar{q},\bar{q}' = \bar{u}, \bar{d}, \bar{s})$ systems in a chiral SU(3) quark model**|Du Wang et.al.|[2403.15187v1](http://arxiv.org/abs/2403.15187v1)|null|
 |**2024-03-18**|**Giant CP violation in charmless three-body $B$ meson decays at LHCb: all order formalism for meson-meson final state interactions**|A. Reyes-Torrecilla et.al.|[2403.11581v1](http://arxiv.org/abs/2403.11581v1)|null|
@@ -69,13 +72,11 @@
 |**2024-01-16**|**Dark showers from Z-dark Z' mixing**|Hsin-Chia Cheng et.al.|[2401.08785v1](http://arxiv.org/abs/2401.08785v1)|null|
 |**2024-01-15**|**CKM and CPV measurements in the beauty and charm sector**|Lei Hao et.al.|[2401.07438v1](http://arxiv.org/abs/2401.07438v1)|null|
 |**2024-01-09**|**$\bar{B}_s^0 \to D_{s1}(2460)^+ K^-, D_{s1}(2536)^+ K^-$ and the nature of the two $D_{s1}$ resonance**|Jia-Xin Lin et.al.|[2401.04587v1](http://arxiv.org/abs/2401.04587v1)|null|
-|**2024-01-08**|**CKM $γ$ measurements at LHCb**|Lei Hao et.al.|[2401.03720v1](http://arxiv.org/abs/2401.03720v1)|null|
-|**2024-01-04**|**Probing New Physics in light of recent developments in $b \rightarrow c \ell ν$ transitions**|Tahira Yasmeen et.al.|[2401.02334v2](http://arxiv.org/abs/2401.02334v2)|null|
-|**2023-12-30**|**Doubly heavy tetraquark states in a mass splitting model**|Shi-Yuan Li et.al.|[2401.00115v1](http://arxiv.org/abs/2401.00115v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-29**|**CP violation measurements in three-body charmless B decays**|Lucas Falcao et.al.|[2403.19921v1](http://arxiv.org/abs/2403.19921v1)|null|
 |**2024-03-18**|**Giant CP violation in charmless three-body $B$ meson decays at LHCb: all order formalism for meson-meson final state interactions**|A. Reyes-Torrecilla et.al.|[2403.11581v1](http://arxiv.org/abs/2403.11581v1)|null|
 |**2024-03-14**|**The study of weak decays of doubly charmed baryons within rescattering mechanism**|Xiao-Hui Hu et.al.|[2403.09511v1](http://arxiv.org/abs/2403.09511v1)|null|
 |**2024-03-14**|**Tracking of charged particles with nanosecond lifetimes at LHCb**|LHCb collaboration et.al.|[2403.09483v1](http://arxiv.org/abs/2403.09483v1)|null|
@@ -105,4 +106,3 @@
 |**2023-12-30**|**Doubly heavy tetraquark states in a mass splitting model**|Shi-Yuan Li et.al.|[2401.00115v1](http://arxiv.org/abs/2401.00115v1)|null|
 |**2023-12-23**|**Multiplicity dependence of $σ_{ψ(2S)}/σ_{J/ψ}$ in $pp$ collisions at $\sqrt{s}=13$ TeV**|LHCb collaboration et.al.|[2312.15201v1](http://arxiv.org/abs/2312.15201v1)|null|
 |**2023-12-21**|**Applications of Lipschitz neural networks to the Run 3 LHCb trigger system**|Blaise Delaney et.al.|[2312.14265v1](http://arxiv.org/abs/2312.14265v1)|null|
-|**2023-12-20**|**Study of $B_c^+ \rightarrow χ_c π^+$ decays**|LHCb collaboration et.al.|[2312.12987v2](http://arxiv.org/abs/2312.12987v2)|null|
