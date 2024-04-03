@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-04-02 09:37:27 Asia/Shanghai
+ Automated deployment @ 2024-04-03 08:31:16 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -65,7 +65,7 @@
 |**2024-02-08**|**Observation of the $B_c^+ \to J/ψπ^+ π^0$ decay**|LHCb collaboration et.al.|[2402.05523v1](http://arxiv.org/abs/2402.05523v1)|null|
 |**2024-02-05**|**The $B_{s}\to μ^{+}μ^{-}γ$ decay rate at large $q^{2}$ from lattice QCD**|R. Frezzotti et.al.|[2402.03262v1](http://arxiv.org/abs/2402.03262v1)|null|
 |**2024-02-04**|**Probing Planck scale physics with Belle II and LHCb**|Ashutosh Kumar Alok et.al.|[2402.02470v1](http://arxiv.org/abs/2402.02470v1)|null|
-|**2024-02-02**|**Measurements of the branching fraction ratio $\cal{B}(φ\to μ^+μ^-)/\cal{B}(φ\to e^+e^-)$ with charm meson decays**|LHCb collaboration et.al.|[2402.01336v2](http://arxiv.org/abs/2402.01336v2)|null|
+|**2024-02-02**|**Measurements of the branching fraction ratio $\cal{B}(φ\to μ^+μ^-)/\cal{B}(φ\to e^+e^-)$ with charm meson decays**|LHCb collaboration et.al.|[2402.01336v3](http://arxiv.org/abs/2402.01336v3)|null|
 |**2024-01-31**|**Study of $CP$ violation in $B^0_{(s)} \to D K^{*}(892)^0$ decays with $D \to K π( ππ)$, $ ππ( ππ)$, and $KK$ final states**|LHCb collaboration et.al.|[2401.17934v1](http://arxiv.org/abs/2401.17934v1)|null|
 |**2024-01-22**|**$Λ_{b}\rightarrow Pl$ factorization in QCD**|Lei-Yi Li et.al.|[2401.11978v1](http://arxiv.org/abs/2401.11978v1)|null|
 |**2024-01-20**|**Study on the mixing of $Ξ_c$ and $Ξ'_c$ by the transition $Ξ_{b}\toΞ^{(')}_c$**|Hong-Wei Ke et.al.|[2401.11106v1](http://arxiv.org/abs/2401.11106v1)|null|
@@ -95,7 +95,7 @@
 |**2024-02-08**|**Observation of the $B_c^+ \to J/ψπ^+ π^0$ decay**|LHCb collaboration et.al.|[2402.05523v1](http://arxiv.org/abs/2402.05523v1)|null|
 |**2024-02-06**|**On the non-universality of heavy quark hadronization in elementary high-energy collisions**|Yuxuan Dai et.al.|[2402.03692v1](http://arxiv.org/abs/2402.03692v1)|null|
 |**2024-02-04**|**Probing Planck scale physics with Belle II and LHCb**|Ashutosh Kumar Alok et.al.|[2402.02470v1](http://arxiv.org/abs/2402.02470v1)|null|
-|**2024-02-02**|**Measurements of the branching fraction ratio $\cal{B}(φ\to μ^+μ^-)/\cal{B}(φ\to e^+e^-)$ with charm meson decays**|LHCb collaboration et.al.|[2402.01336v2](http://arxiv.org/abs/2402.01336v2)|null|
+|**2024-02-02**|**Measurements of the branching fraction ratio $\cal{B}(φ\to μ^+μ^-)/\cal{B}(φ\to e^+e^-)$ with charm meson decays**|LHCb collaboration et.al.|[2402.01336v3](http://arxiv.org/abs/2402.01336v3)|null|
 |**2024-01-31**|**Study of $CP$ violation in $B^0_{(s)} \to D K^{*}(892)^0$ decays with $D \to K π( ππ)$, $ ππ( ππ)$, and $KK$ final states**|LHCb collaboration et.al.|[2401.17934v1](http://arxiv.org/abs/2401.17934v1)|null|
 |**2024-01-22**|**$Λ_{b}\rightarrow Pl$ factorization in QCD**|Lei-Yi Li et.al.|[2401.11978v1](http://arxiv.org/abs/2401.11978v1)|null|
 |**2024-01-20**|**Prompt and nonprompt $ψ(2S)$ production in $p$Pb collisions at $\sqrt{s_{NN}}=8.16$ TeV**|LHCb collaboration et.al.|[2401.11342v1](http://arxiv.org/abs/2401.11342v1)|null|
