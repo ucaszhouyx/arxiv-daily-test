@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-04-10 09:33:10 Asia/Shanghai
+ Automated deployment @ 2024-04-11 08:32:47 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-09**|**Polarization and quantum entanglement effects in $B^\pm_c\to J/ψ+π^\pm +π^0$ process**|Kaiwen Chen et.al.|[2404.06221v1](http://arxiv.org/abs/2404.06221v1)|null|
 |**2024-04-04**|**Search for the $B_s^0 \rightarrow μ^+μ^-γ$ decay**|LHCb collaboration et.al.|[2404.03375v1](http://arxiv.org/abs/2404.03375v1)|null|
 |**2024-04-02**|**Search of CP violation in baryons with the LHCb detector**|Chiara Mancuso et.al.|[2404.01793v1](http://arxiv.org/abs/2404.01793v1)|null|
 |**2024-04-01**|**Optimised observables and new physics prospects in the penguin-mediated decays $B_{d(s)}\to K^{(*)0}φ$**|Aritra Biswas et.al.|[2404.01186v2](http://arxiv.org/abs/2404.01186v2)|null|
@@ -71,7 +72,6 @@
 |**2024-02-02**|**Measurements of the branching fraction ratio $\cal{B}(φ\to μ^+μ^-)/\cal{B}(φ\to e^+e^-)$ with charm meson decays**|LHCb collaboration et.al.|[2402.01336v3](http://arxiv.org/abs/2402.01336v3)|null|
 |**2024-01-31**|**Study of $CP$ violation in $B^0_{(s)} \to D K^{*}(892)^0$ decays with $D \to K π( ππ)$, $ ππ( ππ)$, and $KK$ final states**|LHCb collaboration et.al.|[2401.17934v1](http://arxiv.org/abs/2401.17934v1)|null|
 |**2024-01-22**|**$Λ_{b}\rightarrow Pl$ factorization in QCD**|Lei-Yi Li et.al.|[2401.11978v1](http://arxiv.org/abs/2401.11978v1)|null|
-|**2024-01-20**|**Study on the mixing of $Ξ_c$ and $Ξ'_c$ by the transition $Ξ_{b}\toΞ^{(')}_c$**|Hong-Wei Ke et.al.|[2401.11106v1](http://arxiv.org/abs/2401.11106v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
