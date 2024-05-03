@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-05-02 09:36:33 Asia/Shanghai
+ Automated deployment @ 2024-05-03 08:35:09 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,8 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-01**|**Isospin violation effect and three-body decays of the $T_{cc}^{+}$ state**|Zhi-Feng Sun et.al.|[2405.00525v1](http://arxiv.org/abs/2405.00525v1)|null|
+|**2024-04-30**|**Amplitude analysis and branching fraction measurement of $B^{+}\to D^{*-}D^{+}_{s}π^{+}$ decays**|LHCb collaboration et.al.|[2405.00098v1](http://arxiv.org/abs/2405.00098v1)|null|
 |**2024-04-30**|**First observation of $Λ_{b}^{0} \rightarrow Σ_c^{(*)++} D^{(*)-} K^{-}$ decays**|LHCb collaboration et.al.|[2404.19510v1](http://arxiv.org/abs/2404.19510v1)|null|
 |**2024-04-29**|**Measurements of the CKM angle $γ$ and parameters related to mixing and CP violation in the charm at LHCb**|Innes Mackay et.al.|[2404.18789v1](http://arxiv.org/abs/2404.18789v1)|null|
 |**2024-04-23**|**The decays $Σ^{+}\to p \ell^{+}\ell^{-}$ within the standard model and beyond**|Arnab Roy et.al.|[2404.15268v1](http://arxiv.org/abs/2404.15268v1)|null|
@@ -70,12 +72,11 @@
 |**2024-02-17**|**Topological heavy-flavor tagging and intrinsic bottom at the Electron-Ion Collider**|Thomas Boettcher et.al.|[2402.11344v1](http://arxiv.org/abs/2402.11344v1)|null|
 |**2024-02-15**|**Analysis of $B^0_{(s)}\toμ^+μ^-$ decays at the LHC**|Kai-Feng Chen et.al.|[2402.09901v1](http://arxiv.org/abs/2402.09901v1)|null|
 |**2024-02-11**|**Investigating the M1 radiative decay behaviors and the magnetic moments of the predicted triple-charm molecular-type pentaquarks**|Bao-Jun Lai et.al.|[2402.07195v3](http://arxiv.org/abs/2402.07195v3)|null|
-|**2024-02-08**|**Explaining the $B^+\to K^+ ν\barν$ excess via a massless dark photon**|E. Gabrielli et.al.|[2402.05901v1](http://arxiv.org/abs/2402.05901v1)|null|
-|**2024-02-08**|**Measurement of the Branching Fraction of $B^{0} \rightarrow J/ψ π^{0}$ Decays**|LHCb collaboration et.al.|[2402.05528v2](http://arxiv.org/abs/2402.05528v2)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-30**|**Amplitude analysis and branching fraction measurement of $B^{+}\to D^{*-}D^{+}_{s}π^{+}$ decays**|LHCb collaboration et.al.|[2405.00098v1](http://arxiv.org/abs/2405.00098v1)|null|
 |**2024-04-30**|**First observation of $Λ_{b}^{0} \rightarrow Σ_c^{(*)++} D^{(*)-} K^{-}$ decays**|LHCb collaboration et.al.|[2404.19510v1](http://arxiv.org/abs/2404.19510v1)|null|
 |**2024-04-23**|**Inputs for the $γ$ measurements from BESIII**|Xiaokang Zhou et.al.|[2404.14907v1](http://arxiv.org/abs/2404.14907v1)|null|
 |**2024-04-22**|**Fast Inclusive Flavour Tagging at LHCb**|Claire Prouve et.al.|[2404.14145v2](http://arxiv.org/abs/2404.14145v2)|null|
@@ -105,4 +106,3 @@
 |**2024-02-06**|**On the non-universality of heavy quark hadronization in elementary high-energy collisions**|Yuxuan Dai et.al.|[2402.03692v1](http://arxiv.org/abs/2402.03692v1)|null|
 |**2024-02-04**|**Probing quantum decoherence at Belle II and LHCb**|Ashutosh Kumar Alok et.al.|[2402.02470v2](http://arxiv.org/abs/2402.02470v2)|null|
 |**2024-02-02**|**Measurements of the branching fraction ratio $\cal{B}(φ\to μ^+μ^-)/\cal{B}(φ\to e^+e^-)$ with charm meson decays**|LHCb collaboration et.al.|[2402.01336v4](http://arxiv.org/abs/2402.01336v4)|null|
-|**2024-01-31**|**Study of $CP$ violation in $B^0_{(s)} \to D K^{*}(892)^0$ decays with $D \to K π( ππ)$, $ ππ( ππ)$, and $KK$ final states**|LHCb collaboration et.al.|[2401.17934v1](http://arxiv.org/abs/2401.17934v1)|null|
