@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-05-03 09:40:18 Asia/Shanghai
+ Automated deployment @ 2024-05-04 08:31:48 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -8,6 +8,8 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-02**|**Data-driven analysis of the beauty hadron production in p+p collisions at the LHC with Bayesian unfolding**|Xiaozhi Bai et.al.|[2405.01444v1](http://arxiv.org/abs/2405.01444v1)|null|
+|**2024-05-02**|**Assignment of charmed-strange $D_{s0}(2590)^+$ and $D_{sJ}(3040)^+$**|Zi-Han Jiang et.al.|[2405.00992v1](http://arxiv.org/abs/2405.00992v1)|null|
 |**2024-05-01**|**Isospin violation effect and three-body decays of the $T_{cc}^{+}$ state**|Zhi-Feng Sun et.al.|[2405.00525v1](http://arxiv.org/abs/2405.00525v1)|null|
 |**2024-04-30**|**Amplitude analysis and branching fraction measurement of $B^{+}\to D^{*-}D^{+}_{s}π^{+}$ decays**|LHCb collaboration et.al.|[2405.00098v1](http://arxiv.org/abs/2405.00098v1)|null|
 |**2024-04-30**|**First observation of $Λ_{b}^{0} \rightarrow Σ_c^{(*)++} D^{(*)-} K^{-}$ decays**|LHCb collaboration et.al.|[2404.19510v1](http://arxiv.org/abs/2404.19510v1)|null|
@@ -36,8 +38,6 @@
 |**2024-03-02**|**Angular analyses of rare decays at the LHC**|Biplab Dey et.al.|[2403.01143v1](http://arxiv.org/abs/2403.01143v1)|null|
 |**2024-02-20**|**Studies on $R_K$ with Large Dilepton Invariant-Mass, Scalable Pythonic Fitting, and Online Event Interpretation with GNNs at LHCb**|Jonas Eschle et.al.|[2402.12622v1](http://arxiv.org/abs/2402.12622v1)|null|
 |**2024-02-17**|**Topological heavy-flavor tagging and intrinsic bottom at the Electron-Ion Collider**|Thomas Boettcher et.al.|[2402.11344v1](http://arxiv.org/abs/2402.11344v1)|null|
-|**2024-02-15**|**Analysis of $B^0_{(s)}\toμ^+μ^-$ decays at the LHC**|Kai-Feng Chen et.al.|[2402.09901v1](http://arxiv.org/abs/2402.09901v1)|null|
-|**2024-02-11**|**Investigating the M1 radiative decay behaviors and the magnetic moments of the predicted triple-charm molecular-type pentaquarks**|Bao-Jun Lai et.al.|[2402.07195v3](http://arxiv.org/abs/2402.07195v3)|null|
 
 ### X(3872)
 |Publish Date|Title|Authors|PDF|Code|
