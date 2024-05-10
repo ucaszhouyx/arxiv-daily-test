@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-05-09 09:40:01 Asia/Shanghai
+ Automated deployment @ 2024-05-10 08:33:22 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-08**|**Amplitude analysis of $ B^0 \to K^0_S K^+ K^-$ decays in a quasi-two-body QCD factorization approach**|J. -P. Dedonder et.al.|[2405.04838v1](http://arxiv.org/abs/2405.04838v1)|null|
 |**2024-05-04**|**Exploration of the LHCb $P_c$ states and possible resonances in a unitary coupled-channel model**|Chao-Wei Shen et.al.|[2405.02626v1](http://arxiv.org/abs/2405.02626v1)|null|
 |**2024-05-02**|**Data-driven analysis of the beauty hadron production in p+p collisions at the LHC with Bayesian unfolding**|Xiaozhi Bai et.al.|[2405.01444v1](http://arxiv.org/abs/2405.01444v1)|null|
 |**2024-05-02**|**Assignment of charmed-strange $D_{s0}(2590)^+$ and $D_{sJ}(3040)^+$**|Zi-Han Jiang et.al.|[2405.00992v1](http://arxiv.org/abs/2405.00992v1)|null|
@@ -71,11 +72,11 @@
 |**2024-03-06**|**Amplitude analysis of the $Λ_b^0\to pK^-γ$ decay**|LHCb collaboration et.al.|[2403.03710v1](http://arxiv.org/abs/2403.03710v1)|null|
 |**2024-03-06**|**First observation of the $Λ^0_b \to D^+ D^- Λ$ decay**|LHCb collaboration et.al.|[2403.03586v1](http://arxiv.org/abs/2403.03586v1)|null|
 |**2024-03-02**|**Angular analyses of rare decays at the LHC**|Biplab Dey et.al.|[2403.01143v1](http://arxiv.org/abs/2403.01143v1)|null|
-|**2024-02-20**|**Studies on $R_K$ with Large Dilepton Invariant-Mass, Scalable Pythonic Fitting, and Online Event Interpretation with GNNs at LHCb**|Jonas Eschle et.al.|[2402.12622v1](http://arxiv.org/abs/2402.12622v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-08**|**Amplitude analysis of $ B^0 \to K^0_S K^+ K^-$ decays in a quasi-two-body QCD factorization approach**|J. -P. Dedonder et.al.|[2405.04838v1](http://arxiv.org/abs/2405.04838v1)|null|
 |**2024-05-04**|**Exploration of the LHCb $P_c$ states and possible resonances in a unitary coupled-channel model**|Chao-Wei Shen et.al.|[2405.02626v1](http://arxiv.org/abs/2405.02626v1)|null|
 |**2024-04-30**|**Amplitude analysis and branching fraction measurement of $B^{+}\to D^{*-}D^{+}_{s}π^{+}$ decays**|LHCb collaboration et.al.|[2405.00098v1](http://arxiv.org/abs/2405.00098v1)|null|
 |**2024-04-30**|**First observation of $Λ_{b}^{0} \rightarrow Σ_c^{(*)++} D^{(*)-} K^{-}$ decays**|LHCb collaboration et.al.|[2404.19510v1](http://arxiv.org/abs/2404.19510v1)|null|
@@ -98,11 +99,10 @@
 |**2024-03-06**|**Amplitude analysis of the $Λ_b^0\to pK^-γ$ decay**|LHCb collaboration et.al.|[2403.03710v1](http://arxiv.org/abs/2403.03710v1)|null|
 |**2024-03-06**|**First observation of the $Λ^0_b \to D^+ D^- Λ$ decay**|LHCb collaboration et.al.|[2403.03586v1](http://arxiv.org/abs/2403.03586v1)|null|
 |**2024-03-02**|**Angular analyses of rare decays at the LHC**|Biplab Dey et.al.|[2403.01143v1](http://arxiv.org/abs/2403.01143v1)|null|
-|**2024-03-01**|**Determination of the resonant parameters of chi_c0(3915) with global fit**|Chunhua Li et.al.|[2403.01017v1](http://arxiv.org/abs/2403.01017v1)|null|
+|**2024-03-01**|**Determination of the resonant parameters of chi_c0(3915) with global fit**|Chunhua Li et.al.|[2403.01017v2](http://arxiv.org/abs/2403.01017v2)|null|
 |**2024-02-29**|**Exploring Eco-Friendly Gas Mixtures for Resistive Plate Chambers: A Comprehensive Study on Performance and Aging**|The RPC ECOGas@GIF++ collaboration et.al.|[2402.19395v1](http://arxiv.org/abs/2402.19395v1)|null|
 |**2024-02-22**|**Modification of $χ_{c1}$(3872) and $ψ$(2$S$) production in $p$Pb collisions at $\sqrt{s_{NN}} = 8.16$ TeV**|LHCb collaboration et.al.|[2402.14975v1](http://arxiv.org/abs/2402.14975v1)|null|
 |**2024-02-08**|**Explaining the $B^+\to K^+ ν\barν$ excess via a massless dark photon**|E. Gabrielli et.al.|[2402.05901v1](http://arxiv.org/abs/2402.05901v1)|null|
 |**2024-02-08**|**Measurement of the Branching Fraction of $B^{0} \rightarrow J/ψ π^{0}$ Decays**|LHCb collaboration et.al.|[2402.05528v2](http://arxiv.org/abs/2402.05528v2)|null|
 |**2024-02-08**|**Observation of the $B_c^+ \to J/ψπ^+ π^0$ decay**|LHCb collaboration et.al.|[2402.05523v1](http://arxiv.org/abs/2402.05523v1)|null|
 |**2024-02-06**|**On the non-universality of heavy quark hadronization in elementary high-energy collisions**|Yuxuan Dai et.al.|[2402.03692v1](http://arxiv.org/abs/2402.03692v1)|null|
-|**2024-02-04**|**Probing quantum decoherence at Belle II and LHCb**|Ashutosh Kumar Alok et.al.|[2402.02470v2](http://arxiv.org/abs/2402.02470v2)|null|
