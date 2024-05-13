@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-05-12 09:44:49 Asia/Shanghai
+ Automated deployment @ 2024-05-13 08:34:38 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -50,7 +50,7 @@
 |**2024-04-30**|**Amplitude analysis and branching fraction measurement of $B^{+}\to D^{*-}D^{+}_{s}π^{+}$ decays**|LHCb collaboration et.al.|[2405.00098v1](http://arxiv.org/abs/2405.00098v1)|null|
 |**2024-04-30**|**First observation of $Λ_{b}^{0} \rightarrow Σ_c^{(*)++} D^{(*)-} K^{-}$ decays**|LHCb collaboration et.al.|[2404.19510v1](http://arxiv.org/abs/2404.19510v1)|null|
 |**2024-04-29**|**Measurements of the CKM angle $γ$ and parameters related to mixing and CP violation in the charm at LHCb**|Innes Mackay et.al.|[2404.18789v1](http://arxiv.org/abs/2404.18789v1)|null|
-|**2024-04-23**|**The decays $Σ^{+}\to p \ell^{+}\ell^{-}$ within the standard model and beyond**|Arnab Roy et.al.|[2404.15268v1](http://arxiv.org/abs/2404.15268v1)|null|
+|**2024-04-23**|**The decays $Σ^{+}\to p \ell^{+}\ell^{-}$ within the standard model and beyond**|Arnab Roy et.al.|[2404.15268v2](http://arxiv.org/abs/2404.15268v2)|null|
 |**2024-04-22**|**Study of exclusive nonleptonic decay of $B_s^0\to J/ψK_s$**|Lopamudra Nayak et.al.|[2404.14267v1](http://arxiv.org/abs/2404.14267v1)|null|
 |**2024-04-10**|**Search for prompt production of pentaquarks in charm hadron final states**|LHCb collaboration et.al.|[2404.07131v1](http://arxiv.org/abs/2404.07131v1)|null|
 |**2024-04-09**|**Polarization and quantum entanglement effects in $B^\pm_c\to J/ψ+π^\pm +π^0$ process**|Kaiwen Chen et.al.|[2404.06221v1](http://arxiv.org/abs/2404.06221v1)|null|
