@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-05-14 09:38:55 Asia/Shanghai
+ Automated deployment @ 2024-05-15 08:34:11 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-13**|**$\mathrm{B^0_{(s)}}\to μ^+μ^-$ rare decays at LHC**|Giacomo Fedi et.al.|[2405.07693v1](http://arxiv.org/abs/2405.07693v1)|null|
 |**2024-05-10**|**Search for time-dependent $CP$ violation in $D^0 \rightarrow π^+ π^- π^0$ decays**|LHCb collaboration et.al.|[2405.06556v1](http://arxiv.org/abs/2405.06556v1)|null|
 |**2024-05-08**|**Amplitude analysis of $ B^0 \to K^0_S K^+ K^-$ decays in a quasi-two-body QCD factorization approach**|J. -P. Dedonder et.al.|[2405.04838v1](http://arxiv.org/abs/2405.04838v1)|null|
 |**2024-05-04**|**Exploration of the LHCb $P_c$ states and possible resonances in a unitary coupled-channel model**|Chao-Wei Shen et.al.|[2405.02626v1](http://arxiv.org/abs/2405.02626v1)|null|
@@ -71,11 +72,11 @@
 |**2024-03-14**|**Exploring the lepton flavor violating decay modes $b \to s μ^{\pm} τ^{\mp}$ in SMEFT approach**|Dhiren Panda et.al.|[2403.09393v1](http://arxiv.org/abs/2403.09393v1)|null|
 |**2024-03-11**|**Nonleptonic three-body charmed baryon weak decays with H(15)**|Chao-Qiang Geng et.al.|[2403.06469v1](http://arxiv.org/abs/2403.06469v1)|null|
 |**2024-03-07**|**Reappraisal of SU(3)-flavor breaking in $B\rightarrow DP$**|Jonathan Davies et.al.|[2403.04878v1](http://arxiv.org/abs/2403.04878v1)|null|
-|**2024-03-06**|**Amplitude analysis of the $Λ_b^0\to pK^-γ$ decay**|LHCb collaboration et.al.|[2403.03710v1](http://arxiv.org/abs/2403.03710v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-13**|**The coupled-channel analysis of $B^{(*)}_{(s)}\bar{B}^{(*)}_{(s)}$ systems within complex scaling method**|Qing-Fu Song et.al.|[2405.07694v1](http://arxiv.org/abs/2405.07694v1)|null|
 |**2024-05-10**|**Search for time-dependent $CP$ violation in $D^0 \rightarrow π^+ π^- π^0$ decays**|LHCb collaboration et.al.|[2405.06556v1](http://arxiv.org/abs/2405.06556v1)|null|
 |**2024-05-08**|**Amplitude analysis of $ B^0 \to K^0_S K^+ K^-$ decays in a quasi-two-body QCD factorization approach**|J. -P. Dedonder et.al.|[2405.04838v1](http://arxiv.org/abs/2405.04838v1)|null|
 |**2024-05-04**|**Exploration of the LHCb $P_c$ states and possible resonances in a unitary coupled-channel model**|Chao-Wei Shen et.al.|[2405.02626v1](http://arxiv.org/abs/2405.02626v1)|null|
@@ -105,4 +106,3 @@
 |**2024-02-29**|**Exploring Eco-Friendly Gas Mixtures for Resistive Plate Chambers: A Comprehensive Study on Performance and Aging**|The RPC ECOGas@GIF++ collaboration et.al.|[2402.19395v1](http://arxiv.org/abs/2402.19395v1)|null|
 |**2024-02-22**|**Modification of $χ_{c1}$(3872) and $ψ$(2$S$) production in $p$Pb collisions at $\sqrt{s_{NN}} = 8.16$ TeV**|LHCb collaboration et.al.|[2402.14975v1](http://arxiv.org/abs/2402.14975v1)|null|
 |**2024-02-08**|**Explaining the $B^+\to K^+ ν\barν$ excess via a massless dark photon**|E. Gabrielli et.al.|[2402.05901v1](http://arxiv.org/abs/2402.05901v1)|null|
-|**2024-02-08**|**Measurement of the Branching Fraction of $B^{0} \rightarrow J/ψ π^{0}$ Decays**|LHCb collaboration et.al.|[2402.05528v2](http://arxiv.org/abs/2402.05528v2)|null|
