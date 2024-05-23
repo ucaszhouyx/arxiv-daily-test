@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-05-22 09:40:34 Asia/Shanghai
+ Automated deployment @ 2024-05-23 08:33:32 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-21**|**Study of $b$-hadron decays to $Λ_c^+ h^- h^{\prime -}$ final states**|LHCb collaboration et.al.|[2405.12688v1](http://arxiv.org/abs/2405.12688v1)|null|
 |**2024-05-20**|**Rare Beauty and Charm Decays**|Angel F. Campoverde et.al.|[2405.12056v1](http://arxiv.org/abs/2405.12056v1)|null|
 |**2024-05-20**|**$b\to{}s\ell\ell$ decays at LHCb**|Mark Smith et.al.|[2405.11890v1](http://arxiv.org/abs/2405.11890v1)|null|
 |**2024-05-18**|**Transverse polarization measurement of $Λ$ hyperons in $p$Ne collisions at $\sqrt{s_{NN}}$ = 68.4 GeV with the $\mbox{LHCb}$ detector**|LHCb collaboration et.al.|[2405.11324v1](http://arxiv.org/abs/2405.11324v1)|null|
@@ -71,11 +72,11 @@
 |**2024-03-29**|**Rare Strange and Charm Decays at LHCb**|Paras Naik et.al.|[2403.20154v1](http://arxiv.org/abs/2403.20154v1)|null|
 |**2024-03-29**|**Direct CP violation in D decays at LHCb**|Jolanta Brodzicka et.al.|[2403.20108v1](http://arxiv.org/abs/2403.20108v1)|null|
 |**2024-03-29**|**CP violation measurements in three-body charmless B decays**|Lucas Falcao et.al.|[2403.19921v1](http://arxiv.org/abs/2403.19921v1)|null|
-|**2024-03-28**|**New results of $γ$ measurements in ADS and GLW-like decays at LHCb**|Seophine Stanislaus et.al.|[2403.19592v1](http://arxiv.org/abs/2403.19592v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-21**|**Study of $b$-hadron decays to $Λ_c^+ h^- h^{\prime -}$ final states**|LHCb collaboration et.al.|[2405.12688v1](http://arxiv.org/abs/2405.12688v1)|null|
 |**2024-05-20**|**$b\to{}s\ell\ell$ decays at LHCb**|Mark Smith et.al.|[2405.11890v1](http://arxiv.org/abs/2405.11890v1)|null|
 |**2024-05-18**|**Transverse polarization measurement of $Λ$ hyperons in $p$Ne collisions at $\sqrt{s_{NN}}$ = 68.4 GeV with the $\mbox{LHCb}$ detector**|LHCb collaboration et.al.|[2405.11324v1](http://arxiv.org/abs/2405.11324v1)|null|
 |**2024-05-17**|**Binned angular analysis of $B^{0} \to K^{*0} μ^{+} μ^{-}$ with LHCb**|Leon Carus et.al.|[2405.10882v1](http://arxiv.org/abs/2405.10882v1)|null|
@@ -105,4 +106,3 @@
 |**2024-03-07**|**Reappraisal of SU(3)-flavor breaking in $B\rightarrow DP$**|Jonathan Davies et.al.|[2403.04878v1](http://arxiv.org/abs/2403.04878v1)|null|
 |**2024-03-07**|**$B$-meson production at forward rapidities in $pp$ collisions at the LHC: Estimating the intrinsic bottom contribution**|Yuri N. Lima et.al.|[2403.04619v1](http://arxiv.org/abs/2403.04619v1)|null|
 |**2024-03-06**|**Amplitude analysis of the $Λ_b^0\to pK^-γ$ decay**|LHCb collaboration et.al.|[2403.03710v1](http://arxiv.org/abs/2403.03710v1)|null|
-|**2024-03-06**|**First observation of the $Λ^0_b \to D^+ D^- Λ$ decay**|LHCb collaboration et.al.|[2403.03586v1](http://arxiv.org/abs/2403.03586v1)|null|
