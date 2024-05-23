@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-05-23 08:33:32 Asia/Shanghai
+ Automated deployment @ 2024-05-23 09:39:49 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -39,40 +39,6 @@
 |**2020-12-25**|**Production of $X(3872)$ at High Multiplicity**|Eric Braaten et.al.|[2012.13499v1](http://arxiv.org/abs/2012.13499v1)|null|
 |**2020-12-17**|**Predicting the $\bar{D}_s^{(*)} D_s^{(*)}$ bound states as the partners of $X(3872)$**|Lu Meng et.al.|[2012.09813v3](http://arxiv.org/abs/2012.09813v3)|null|
 
-### rare decay
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-05-21**|**Study of $b$-hadron decays to $Λ_c^+ h^- h^{\prime -}$ final states**|LHCb collaboration et.al.|[2405.12688v1](http://arxiv.org/abs/2405.12688v1)|null|
-|**2024-05-20**|**Rare Beauty and Charm Decays**|Angel F. Campoverde et.al.|[2405.12056v1](http://arxiv.org/abs/2405.12056v1)|null|
-|**2024-05-20**|**$b\to{}s\ell\ell$ decays at LHCb**|Mark Smith et.al.|[2405.11890v1](http://arxiv.org/abs/2405.11890v1)|null|
-|**2024-05-18**|**Transverse polarization measurement of $Λ$ hyperons in $p$Ne collisions at $\sqrt{s_{NN}}$ = 68.4 GeV with the $\mbox{LHCb}$ detector**|LHCb collaboration et.al.|[2405.11324v1](http://arxiv.org/abs/2405.11324v1)|null|
-|**2024-05-18**|**Theory of CP angles measurement**|Amarjit Soni et.al.|[2405.11164v1](http://arxiv.org/abs/2405.11164v1)|null|
-|**2024-05-17**|**Binned angular analysis of $B^{0} \to K^{*0} μ^{+} μ^{-}$ with LHCb**|Leon Carus et.al.|[2405.10882v1](http://arxiv.org/abs/2405.10882v1)|null|
-|**2024-05-17**|**Proceedings of the talk "Study of CP violation in charm meson decays" for XXX Epiphany conference**|LHCb Collaboration et.al.|[2405.10709v1](http://arxiv.org/abs/2405.10709v1)|null|
-|**2024-05-14**|**$b \to c l \barν$ decays at LHCb**|Chen Chen et.al.|[2405.08953v1](http://arxiv.org/abs/2405.08953v1)|null|
-|**2024-05-13**|**$\mathrm{B^0_{(s)}}\to μ^+μ^-$ rare decays at LHC**|Giacomo Fedi et.al.|[2405.07693v1](http://arxiv.org/abs/2405.07693v1)|null|
-|**2024-05-10**|**Search for time-dependent $CP$ violation in $D^0 \rightarrow π^+ π^- π^0$ decays**|LHCb collaboration et.al.|[2405.06556v1](http://arxiv.org/abs/2405.06556v1)|null|
-|**2024-05-08**|**Amplitude analysis of $ B^0 \to K^0_S K^+ K^-$ decays in a quasi-two-body QCD factorization approach**|J. -P. Dedonder et.al.|[2405.04838v1](http://arxiv.org/abs/2405.04838v1)|null|
-|**2024-05-04**|**Exploration of the LHCb $P_c$ states and possible resonances in a unitary coupled-channel model**|Chao-Wei Shen et.al.|[2405.02626v1](http://arxiv.org/abs/2405.02626v1)|null|
-|**2024-05-02**|**Data-driven analysis of the beauty hadron production in p+p collisions at the LHC with Bayesian unfolding**|Xiaozhi Bai et.al.|[2405.01444v1](http://arxiv.org/abs/2405.01444v1)|null|
-|**2024-05-02**|**Assignment of charmed-strange $D_{s0}(2590)^+$ and $D_{sJ}(3040)^+$**|Zi-Han Jiang et.al.|[2405.00992v1](http://arxiv.org/abs/2405.00992v1)|null|
-|**2024-05-01**|**Isospin violation effect and three-body decays of the $T_{cc}^{+}$ state**|Zhi-Feng Sun et.al.|[2405.00525v1](http://arxiv.org/abs/2405.00525v1)|null|
-|**2024-04-30**|**Amplitude analysis and branching fraction measurement of $B^{+}\to D^{*-}D^{+}_{s}π^{+}$ decays**|LHCb collaboration et.al.|[2405.00098v1](http://arxiv.org/abs/2405.00098v1)|null|
-|**2024-04-30**|**First observation of $Λ_{b}^{0} \rightarrow Σ_c^{(*)++} D^{(*)-} K^{-}$ decays**|LHCb collaboration et.al.|[2404.19510v1](http://arxiv.org/abs/2404.19510v1)|null|
-|**2024-04-29**|**Measurements of the CKM angle $γ$ and parameters related to mixing and CP violation in the charm at LHCb**|Innes Mackay et.al.|[2404.18789v1](http://arxiv.org/abs/2404.18789v1)|null|
-|**2024-04-23**|**The decays $Σ^{+}\to p \ell^{+}\ell^{-}$ within the standard model and beyond**|Arnab Roy et.al.|[2404.15268v2](http://arxiv.org/abs/2404.15268v2)|null|
-|**2024-04-22**|**Study of exclusive nonleptonic decay of $B_s^0\to J/ψK_s$**|Lopamudra Nayak et.al.|[2404.14267v1](http://arxiv.org/abs/2404.14267v1)|null|
-|**2024-04-10**|**Search for prompt production of pentaquarks in charm hadron final states**|LHCb collaboration et.al.|[2404.07131v1](http://arxiv.org/abs/2404.07131v1)|null|
-|**2024-04-09**|**Polarization and quantum entanglement effects in $B^\pm_c\to J/ψ+π^\pm +π^0$ process**|Kaiwen Chen et.al.|[2404.06221v1](http://arxiv.org/abs/2404.06221v1)|null|
-|**2024-04-09**|**A Novel Model-Independent Approach to Explore New Physics in Five-body Semileptonic Decays**|Yao Yu et.al.|[2404.06523v1](http://arxiv.org/abs/2404.06523v1)|null|
-|**2024-04-08**|**Global fit to $b \to cτν$ anomaly 2024 Spring breeze**|Syuhei Iguro et.al.|[2405.06062v1](http://arxiv.org/abs/2405.06062v1)|null|
-|**2024-04-04**|**Search for the $B_s^0 \rightarrow μ^+μ^-γ$ decay**|LHCb collaboration et.al.|[2404.03375v1](http://arxiv.org/abs/2404.03375v1)|null|
-|**2024-04-02**|**Search of CP violation in baryons with the LHCb detector**|Chiara Mancuso et.al.|[2404.01793v1](http://arxiv.org/abs/2404.01793v1)|null|
-|**2024-04-01**|**Optimised observables and new physics prospects in the penguin-mediated decays $B_{d(s)}\to K^{(*)0}φ$**|Aritra Biswas et.al.|[2404.01186v2](http://arxiv.org/abs/2404.01186v2)|null|
-|**2024-03-29**|**Rare Strange and Charm Decays at LHCb**|Paras Naik et.al.|[2403.20154v1](http://arxiv.org/abs/2403.20154v1)|null|
-|**2024-03-29**|**Direct CP violation in D decays at LHCb**|Jolanta Brodzicka et.al.|[2403.20108v1](http://arxiv.org/abs/2403.20108v1)|null|
-|**2024-03-29**|**CP violation measurements in three-body charmless B decays**|Lucas Falcao et.al.|[2403.19921v1](http://arxiv.org/abs/2403.19921v1)|null|
-
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -106,3 +72,37 @@
 |**2024-03-07**|**Reappraisal of SU(3)-flavor breaking in $B\rightarrow DP$**|Jonathan Davies et.al.|[2403.04878v1](http://arxiv.org/abs/2403.04878v1)|null|
 |**2024-03-07**|**$B$-meson production at forward rapidities in $pp$ collisions at the LHC: Estimating the intrinsic bottom contribution**|Yuri N. Lima et.al.|[2403.04619v1](http://arxiv.org/abs/2403.04619v1)|null|
 |**2024-03-06**|**Amplitude analysis of the $Λ_b^0\to pK^-γ$ decay**|LHCb collaboration et.al.|[2403.03710v1](http://arxiv.org/abs/2403.03710v1)|null|
+
+### rare decay
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-05-21**|**Study of $b$-hadron decays to $Λ_c^+ h^- h^{\prime -}$ final states**|LHCb collaboration et.al.|[2405.12688v1](http://arxiv.org/abs/2405.12688v1)|null|
+|**2024-05-20**|**Rare Beauty and Charm Decays**|Angel F. Campoverde et.al.|[2405.12056v1](http://arxiv.org/abs/2405.12056v1)|null|
+|**2024-05-20**|**$b\to{}s\ell\ell$ decays at LHCb**|Mark Smith et.al.|[2405.11890v1](http://arxiv.org/abs/2405.11890v1)|null|
+|**2024-05-18**|**Transverse polarization measurement of $Λ$ hyperons in $p$Ne collisions at $\sqrt{s_{NN}}$ = 68.4 GeV with the $\mbox{LHCb}$ detector**|LHCb collaboration et.al.|[2405.11324v1](http://arxiv.org/abs/2405.11324v1)|null|
+|**2024-05-18**|**Theory of CP angles measurement**|Amarjit Soni et.al.|[2405.11164v1](http://arxiv.org/abs/2405.11164v1)|null|
+|**2024-05-17**|**Binned angular analysis of $B^{0} \to K^{*0} μ^{+} μ^{-}$ with LHCb**|Leon Carus et.al.|[2405.10882v1](http://arxiv.org/abs/2405.10882v1)|null|
+|**2024-05-17**|**Proceedings of the talk "Study of CP violation in charm meson decays" for XXX Epiphany conference**|LHCb Collaboration et.al.|[2405.10709v1](http://arxiv.org/abs/2405.10709v1)|null|
+|**2024-05-14**|**$b \to c l \barν$ decays at LHCb**|Chen Chen et.al.|[2405.08953v1](http://arxiv.org/abs/2405.08953v1)|null|
+|**2024-05-13**|**$\mathrm{B^0_{(s)}}\to μ^+μ^-$ rare decays at LHC**|Giacomo Fedi et.al.|[2405.07693v1](http://arxiv.org/abs/2405.07693v1)|null|
+|**2024-05-10**|**Search for time-dependent $CP$ violation in $D^0 \rightarrow π^+ π^- π^0$ decays**|LHCb collaboration et.al.|[2405.06556v1](http://arxiv.org/abs/2405.06556v1)|null|
+|**2024-05-08**|**Amplitude analysis of $ B^0 \to K^0_S K^+ K^-$ decays in a quasi-two-body QCD factorization approach**|J. -P. Dedonder et.al.|[2405.04838v1](http://arxiv.org/abs/2405.04838v1)|null|
+|**2024-05-04**|**Exploration of the LHCb $P_c$ states and possible resonances in a unitary coupled-channel model**|Chao-Wei Shen et.al.|[2405.02626v1](http://arxiv.org/abs/2405.02626v1)|null|
+|**2024-05-02**|**Data-driven analysis of the beauty hadron production in p+p collisions at the LHC with Bayesian unfolding**|Xiaozhi Bai et.al.|[2405.01444v1](http://arxiv.org/abs/2405.01444v1)|null|
+|**2024-05-02**|**Assignment of charmed-strange $D_{s0}(2590)^+$ and $D_{sJ}(3040)^+$**|Zi-Han Jiang et.al.|[2405.00992v1](http://arxiv.org/abs/2405.00992v1)|null|
+|**2024-05-01**|**Isospin violation effect and three-body decays of the $T_{cc}^{+}$ state**|Zhi-Feng Sun et.al.|[2405.00525v1](http://arxiv.org/abs/2405.00525v1)|null|
+|**2024-04-30**|**Amplitude analysis and branching fraction measurement of $B^{+}\to D^{*-}D^{+}_{s}π^{+}$ decays**|LHCb collaboration et.al.|[2405.00098v1](http://arxiv.org/abs/2405.00098v1)|null|
+|**2024-04-30**|**First observation of $Λ_{b}^{0} \rightarrow Σ_c^{(*)++} D^{(*)-} K^{-}$ decays**|LHCb collaboration et.al.|[2404.19510v1](http://arxiv.org/abs/2404.19510v1)|null|
+|**2024-04-29**|**Measurements of the CKM angle $γ$ and parameters related to mixing and CP violation in the charm at LHCb**|Innes Mackay et.al.|[2404.18789v1](http://arxiv.org/abs/2404.18789v1)|null|
+|**2024-04-23**|**The decays $Σ^{+}\to p \ell^{+}\ell^{-}$ within the standard model and beyond**|Arnab Roy et.al.|[2404.15268v2](http://arxiv.org/abs/2404.15268v2)|null|
+|**2024-04-22**|**Study of exclusive nonleptonic decay of $B_s^0\to J/ψK_s$**|Lopamudra Nayak et.al.|[2404.14267v1](http://arxiv.org/abs/2404.14267v1)|null|
+|**2024-04-10**|**Search for prompt production of pentaquarks in charm hadron final states**|LHCb collaboration et.al.|[2404.07131v1](http://arxiv.org/abs/2404.07131v1)|null|
+|**2024-04-09**|**Polarization and quantum entanglement effects in $B^\pm_c\to J/ψ+π^\pm +π^0$ process**|Kaiwen Chen et.al.|[2404.06221v1](http://arxiv.org/abs/2404.06221v1)|null|
+|**2024-04-09**|**A Novel Model-Independent Approach to Explore New Physics in Five-body Semileptonic Decays**|Yao Yu et.al.|[2404.06523v1](http://arxiv.org/abs/2404.06523v1)|null|
+|**2024-04-08**|**Global fit to $b \to cτν$ anomaly 2024 Spring breeze**|Syuhei Iguro et.al.|[2405.06062v1](http://arxiv.org/abs/2405.06062v1)|null|
+|**2024-04-04**|**Search for the $B_s^0 \rightarrow μ^+μ^-γ$ decay**|LHCb collaboration et.al.|[2404.03375v1](http://arxiv.org/abs/2404.03375v1)|null|
+|**2024-04-02**|**Search of CP violation in baryons with the LHCb detector**|Chiara Mancuso et.al.|[2404.01793v1](http://arxiv.org/abs/2404.01793v1)|null|
+|**2024-04-01**|**Optimised observables and new physics prospects in the penguin-mediated decays $B_{d(s)}\to K^{(*)0}φ$**|Aritra Biswas et.al.|[2404.01186v2](http://arxiv.org/abs/2404.01186v2)|null|
+|**2024-03-29**|**Rare Strange and Charm Decays at LHCb**|Paras Naik et.al.|[2403.20154v1](http://arxiv.org/abs/2403.20154v1)|null|
+|**2024-03-29**|**Direct CP violation in D decays at LHCb**|Jolanta Brodzicka et.al.|[2403.20108v1](http://arxiv.org/abs/2403.20108v1)|null|
+|**2024-03-29**|**CP violation measurements in three-body charmless B decays**|Lucas Falcao et.al.|[2403.19921v1](http://arxiv.org/abs/2403.19921v1)|null|
