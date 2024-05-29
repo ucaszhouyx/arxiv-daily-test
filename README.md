@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-05-28 09:42:03 Asia/Shanghai
+ Automated deployment @ 2024-05-29 08:36:25 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -8,6 +8,7 @@
 ### X(3872)
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-27**|**X(3872) revisited: the roles of OPEP and the quark degrees of freedom**|Sachiko Takeuchi et.al.|[2405.16794v1](http://arxiv.org/abs/2405.16794v1)|null|
 |**2024-04-25**|**Probing the pole origin of $X(3872)$ with the coupled-channel dynamics**|Jun-Zhang Wang et.al.|[2404.16575v1](http://arxiv.org/abs/2404.16575v1)|null|
 |**2024-02-22**|**Modification of $χ_{c1}$(3872) and $ψ$(2$S$) production in $p$Pb collisions at $\sqrt{s_{NN}} = 8.16$ TeV**|LHCb collaboration et.al.|[2402.14975v1](http://arxiv.org/abs/2402.14975v1)|null|
 |**2023-12-31**|**Study the structure of X(3872) from its lineshape**|Hongge Xu et.al.|[2401.00411v2](http://arxiv.org/abs/2401.00411v2)|null|
@@ -37,11 +38,12 @@
 |**2021-03-01**|**Cross sections of inclusive $ψ(2S)$ and $X(3872)$ production from $b$-hadron decays in $pp$ collisions and comparison with ATLAS and CMS data**|B. A. Kniehl et.al.|[2103.00876v2](http://arxiv.org/abs/2103.00876v2)|null|
 |**2021-01-09**|**Beauty meson decays to charmonuim-like states at LHCb**|Tatiana Ovsiannikova et.al.|[2101.03332v3](http://arxiv.org/abs/2101.03332v3)|null|
 |**2020-12-25**|**Production of $X(3872)$ at High Multiplicity**|Eric Braaten et.al.|[2012.13499v1](http://arxiv.org/abs/2012.13499v1)|null|
-|**2020-12-17**|**Predicting the $\bar{D}_s^{(*)} D_s^{(*)}$ bound states as the partners of $X(3872)$**|Lu Meng et.al.|[2012.09813v3](http://arxiv.org/abs/2012.09813v3)|null|
 
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-27**|**Comprehensive analysis of local and nonlocal amplitudes in the $B^0\rightarrow K^{*0}μ^+μ^-$ decay**|LHCb collaboration et.al.|[2405.17347v1](http://arxiv.org/abs/2405.17347v1)|null|
+|**2024-05-25**|**Selecting long-lived particles in the first trigger level at the LHC**|Lorenzo Pica et.al.|[2405.16170v1](http://arxiv.org/abs/2405.16170v1)|null|
 |**2024-05-24**|**Study of the $B^{+}\toπ^{+}\left(π^{+}π^{-}\right)$ decay in PQCD Approach**|Qin Chang et.al.|[2405.15309v1](http://arxiv.org/abs/2405.15309v1)|null|
 |**2024-05-23**|**Measurement of the production cross section of prompt $Ξ^0_{\rm c}$ baryons in p$-$Pb collisions at $\sqrt{s_{\mathrm{NN}}}~=~5.02$ TeV**|ALICE Collaboration et.al.|[2405.14538v1](http://arxiv.org/abs/2405.14538v1)|null|
 |**2024-05-23**|**Explore the properties of $Λ(1670)$ in the Cabibbo-favored process $Λ^+_c \to p K^- π^+$ decay**|Sheng-Chao Zhang et.al.|[2405.14235v1](http://arxiv.org/abs/2405.14235v1)|null|
@@ -70,12 +72,11 @@
 |**2024-04-10**|**Search for prompt production of pentaquarks in charm hadron final states**|LHCb collaboration et.al.|[2404.07131v1](http://arxiv.org/abs/2404.07131v1)|null|
 |**2024-04-09**|**Polarization and quantum entanglement effects in $B^\pm_c\to J/ψ+π^\pm +π^0$ process**|Kaiwen Chen et.al.|[2404.06221v1](http://arxiv.org/abs/2404.06221v1)|null|
 |**2024-04-09**|**A Novel Model-Independent Approach to Explore New Physics in Five-body Semileptonic Decays**|Yao Yu et.al.|[2404.06523v1](http://arxiv.org/abs/2404.06523v1)|null|
-|**2024-04-08**|**Global fit to $b \to cτν$ anomaly 2024 Spring breeze**|Syuhei Iguro et.al.|[2405.06062v1](http://arxiv.org/abs/2405.06062v1)|null|
-|**2024-04-04**|**Search for the $B_s^0 \rightarrow μ^+μ^-γ$ decay**|LHCb collaboration et.al.|[2404.03375v1](http://arxiv.org/abs/2404.03375v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-27**|**Comprehensive analysis of local and nonlocal amplitudes in the $B^0\rightarrow K^{*0}μ^+μ^-$ decay**|LHCb collaboration et.al.|[2405.17347v1](http://arxiv.org/abs/2405.17347v1)|null|
 |**2024-05-24**|**Study of the $B^{+}\toπ^{+}\left(π^{+}π^{-}\right)$ decay in PQCD Approach**|Qin Chang et.al.|[2405.15309v1](http://arxiv.org/abs/2405.15309v1)|null|
 |**2024-05-23**|**Measurement of the production cross section of prompt $Ξ^0_{\rm c}$ baryons in p$-$Pb collisions at $\sqrt{s_{\mathrm{NN}}}~=~5.02$ TeV**|ALICE Collaboration et.al.|[2405.14538v1](http://arxiv.org/abs/2405.14538v1)|null|
 |**2024-05-23**|**Explore the properties of $Λ(1670)$ in the Cabibbo-favored process $Λ^+_c \to p K^- π^+$ decay**|Sheng-Chao Zhang et.al.|[2405.14235v1](http://arxiv.org/abs/2405.14235v1)|null|
@@ -105,4 +106,3 @@
 |**2024-03-29**|**CP violation measurements in three-body charmless B decays**|Lucas Falcao et.al.|[2403.19921v1](http://arxiv.org/abs/2403.19921v1)|null|
 |**2024-03-18**|**Giant CP violation in charmless three-body $B$ meson decays at LHCb: all order formalism for meson-meson final state interactions**|A. Reyes-Torrecilla et.al.|[2403.11581v1](http://arxiv.org/abs/2403.11581v1)|null|
 |**2024-03-14**|**The study of weak decays of doubly charmed baryons within rescattering mechanism**|Xiao-Hui Hu et.al.|[2403.09511v1](http://arxiv.org/abs/2403.09511v1)|null|
-|**2024-03-14**|**Tracking of charged particles with nanosecond lifetimes at LHCb**|LHCb collaboration et.al.|[2403.09483v1](http://arxiv.org/abs/2403.09483v1)|null|
