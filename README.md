@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-06-05 09:42:37 Asia/Shanghai
+ Automated deployment @ 2024-06-06 08:34:24 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,10 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-04**|**The Benchmark Mode $Ω_c \to Ω^-π^+$ and Its Related Processes**|Shuge Zeng et.al.|[2406.02097v1](http://arxiv.org/abs/2406.02097v1)|null|
+|**2024-06-01**|**Analysis of three-body decays $B \to D (V \to ) PP $ under the factorization-assisted topological-amplitude approach**|Si-Hong Zhou et.al.|[2406.00373v1](http://arxiv.org/abs/2406.00373v1)|null|
+|**2024-06-01**|**CP asymmetry from the effect of the isospin symmetry breaking during B-meson decay**|Wan-Ying Yao et.al.|[2406.00250v1](http://arxiv.org/abs/2406.00250v1)|null|
+|**2024-05-31**|**Amplitude analysis of the radiative decay $B^0_s\to K^+K^-γ$**|LHCb collaboration et.al.|[2406.00235v1](http://arxiv.org/abs/2406.00235v1)|null|
 |**2024-05-28**|**Dalitz-plot analysis of B+- --> K+-K+K- decays**|L. Lesniak et.al.|[2405.18192v1](http://arxiv.org/abs/2405.18192v1)|null|
 |**2024-05-27**|**QCD predictions for vector boson plus hadron production at the LHC**|Simone Caletti et.al.|[2405.17540v1](http://arxiv.org/abs/2405.17540v1)|null|
 |**2024-05-27**|**Comprehensive analysis of local and nonlocal amplitudes in the $B^0\rightarrow K^{*0}μ^+μ^-$ decay**|LHCb collaboration et.al.|[2405.17347v1](http://arxiv.org/abs/2405.17347v1)|null|
@@ -68,14 +72,15 @@
 |**2024-05-01**|**Isospin violation effect and three-body decays of the $T_{cc}^{+}$ state**|Zhi-Feng Sun et.al.|[2405.00525v1](http://arxiv.org/abs/2405.00525v1)|null|
 |**2024-04-30**|**Amplitude analysis and branching fraction measurement of $B^{+}\to D^{*-}D^{+}_{s}π^{+}$ decays**|LHCb collaboration et.al.|[2405.00098v1](http://arxiv.org/abs/2405.00098v1)|null|
 |**2024-04-30**|**First observation of $Λ_{b}^{0} \rightarrow Σ_c^{(*)++} D^{(*)-} K^{-}$ decays**|LHCb collaboration et.al.|[2404.19510v1](http://arxiv.org/abs/2404.19510v1)|null|
-|**2024-04-29**|**Measurements of the CKM angle $γ$ and parameters related to mixing and CP violation in the charm at LHCb**|Innes Mackay et.al.|[2404.18789v1](http://arxiv.org/abs/2404.18789v1)|null|
-|**2024-04-23**|**The decays $Σ^{+}\to p \ell^{+}\ell^{-}$ within the standard model and beyond**|Arnab Roy et.al.|[2404.15268v2](http://arxiv.org/abs/2404.15268v2)|null|
-|**2024-04-22**|**Study of exclusive nonleptonic decay of $B_s^0\to J/ψK_s$**|Lopamudra Nayak et.al.|[2404.14267v1](http://arxiv.org/abs/2404.14267v1)|null|
-|**2024-04-10**|**Search for prompt production of pentaquarks in charm hadron final states**|LHCb collaboration et.al.|[2404.07131v2](http://arxiv.org/abs/2404.07131v2)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-04**|**The Benchmark Mode $Ω_c \to Ω^-π^+$ and Its Related Processes**|Shuge Zeng et.al.|[2406.02097v1](http://arxiv.org/abs/2406.02097v1)|null|
+|**2024-06-03**|**Exploring doubly-heavy tetraquarks in constituent-quark-model based meson-meson coupled-channels approach**|P. G. Ortega et.al.|[2406.01697v1](http://arxiv.org/abs/2406.01697v1)|null|
+|**2024-06-01**|**Analysis of three-body decays $B \to D (V \to ) PP $ under the factorization-assisted topological-amplitude approach**|Si-Hong Zhou et.al.|[2406.00373v1](http://arxiv.org/abs/2406.00373v1)|null|
+|**2024-06-01**|**CP asymmetry from the effect of the isospin symmetry breaking during B-meson decay**|Wan-Ying Yao et.al.|[2406.00250v1](http://arxiv.org/abs/2406.00250v1)|null|
+|**2024-05-31**|**Amplitude analysis of the radiative decay $B^0_s\to K^+K^-γ$**|LHCb collaboration et.al.|[2406.00235v1](http://arxiv.org/abs/2406.00235v1)|null|
 |**2024-05-27**|**Comprehensive analysis of local and nonlocal amplitudes in the $B^0\rightarrow K^{*0}μ^+μ^-$ decay**|LHCb collaboration et.al.|[2405.17347v1](http://arxiv.org/abs/2405.17347v1)|null|
 |**2024-05-24**|**Study of the $B^{+}\toπ^{+}\left(π^{+}π^{-}\right)$ decay in PQCD Approach**|Qin Chang et.al.|[2405.15309v1](http://arxiv.org/abs/2405.15309v1)|null|
 |**2024-05-23**|**Measurement of the production cross section of prompt $Ξ^0_{\rm c}$ baryons in p$-$Pb collisions at $\sqrt{s_{\mathrm{NN}}}~=~5.02$ TeV**|ALICE Collaboration et.al.|[2405.14538v1](http://arxiv.org/abs/2405.14538v1)|null|
@@ -101,8 +106,3 @@
 |**2024-04-04**|**Inclusive $\bar{B}\to X_s \ell^+\ell^-$ at the LHC: theory predictions and new-physics reach**|Tobias Huber et.al.|[2404.03517v1](http://arxiv.org/abs/2404.03517v1)|null|
 |**2024-04-04**|**Search for the $B_s^0 \rightarrow μ^+μ^-γ$ decay**|LHCb collaboration et.al.|[2404.03375v1](http://arxiv.org/abs/2404.03375v1)|null|
 |**2024-04-02**|**Search of CP violation in baryons with the LHCb detector**|Chiara Mancuso et.al.|[2404.01793v1](http://arxiv.org/abs/2404.01793v1)|null|
-|**2024-04-01**|**Mass Spectra of Full-Heavy and Double-Heavy Tetraquark States in the Conventional Quark Model**|Qi Meng et.al.|[2404.01238v1](http://arxiv.org/abs/2404.01238v1)|null|
-|**2024-04-01**|**Optimised observables and new physics prospects in the penguin-mediated decays $B_{d(s)}\to K^{(*)0}φ$**|Aritra Biswas et.al.|[2404.01186v2](http://arxiv.org/abs/2404.01186v2)|null|
-|**2024-03-29**|**CP violation measurements in three-body charmless B decays**|Lucas Falcao et.al.|[2403.19921v1](http://arxiv.org/abs/2403.19921v1)|null|
-|**2024-03-18**|**Giant CP violation in charmless three-body $B$ meson decays at LHCb: all order formalism for meson-meson final state interactions**|A. Reyes-Torrecilla et.al.|[2403.11581v1](http://arxiv.org/abs/2403.11581v1)|null|
-|**2024-03-14**|**The study of weak decays of doubly charmed baryons within rescattering mechanism**|Xiao-Hui Hu et.al.|[2403.09511v1](http://arxiv.org/abs/2403.09511v1)|null|
