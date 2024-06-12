@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-06-12 08:35:22 Asia/Shanghai
+ Automated deployment @ 2024-06-12 09:44:48 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -101,7 +101,7 @@
 |**2024-05-08**|**Amplitude analysis of $ B^0 \to K^0_S K^+ K^-$ decays in a quasi-two-body QCD factorization approach**|J. -P. Dedonder et.al.|[2405.04838v1](http://arxiv.org/abs/2405.04838v1)|null|
 |**2024-05-04**|**Exploration of the LHCb $P_c$ states and possible resonances in a unitary coupled-channel model**|Chao-Wei Shen et.al.|[2405.02626v1](http://arxiv.org/abs/2405.02626v1)|null|
 |**2024-04-30**|**Amplitude analysis and branching fraction measurement of $B^{+}\to D^{*-}D^{+}_{s}π^{+}$ decays**|LHCb collaboration et.al.|[2405.00098v1](http://arxiv.org/abs/2405.00098v1)|null|
-|**2024-04-30**|**First observation of $Λ_{b}^{0} \rightarrow Σ_c^{(*)++} D^{(*)-} K^{-}$ decays**|LHCb collaboration et.al.|[2404.19510v1](http://arxiv.org/abs/2404.19510v1)|null|
+|**2024-04-30**|**First observation of $Λ_{b}^{0} \rightarrow Σ_c^{(*)++} D^{(*)-} K^{-}$ decays**|LHCb collaboration et.al.|[2404.19510v2](http://arxiv.org/abs/2404.19510v2)|null|
 |**2024-04-23**|**Inputs for the $γ$ measurements from BESIII**|Xiaokang Zhou et.al.|[2404.14907v1](http://arxiv.org/abs/2404.14907v1)|null|
 |**2024-04-22**|**Fast Inclusive Flavour Tagging at LHCb**|Claire Prouve et.al.|[2404.14145v2](http://arxiv.org/abs/2404.14145v2)|null|
 |**2024-04-10**|**Search for prompt production of pentaquarks in charm hadron final states**|LHCb collaboration et.al.|[2404.07131v2](http://arxiv.org/abs/2404.07131v2)|null|
