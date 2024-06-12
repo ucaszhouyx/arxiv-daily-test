@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-06-11 09:44:50 Asia/Shanghai
+ Automated deployment @ 2024-06-12 08:35:22 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-10**|**Using $Λ_b^0(6146)$ and $Λ_b^0(6152)$ as probes to investigate possible $\bar{B}^{*}N$ and $\bar{D}^{*}N$ molecules**|Jing-wen Feng et.al.|[2406.05991v1](http://arxiv.org/abs/2406.05991v1)|null|
 |**2024-06-05**|**Measurement of the branching fraction ratios $R(D^{+})$ and $R(D^{*+})$ using muonic $τ$ decays**|LHCb collaboration et.al.|[2406.03387v1](http://arxiv.org/abs/2406.03387v1)|null|
 |**2024-06-05**|**Observation of new charmonium(-like) states in $B^+ \to D^{*\pm} D^{\mp} K^+$ decays**|LHCb collaboration et.al.|[2406.03156v1](http://arxiv.org/abs/2406.03156v1)|null|
 |**2024-06-04**|**The Benchmark Mode $Ω_c \to Ω^-π^+$ and Its Related Processes**|Shuge Zeng et.al.|[2406.02097v1](http://arxiv.org/abs/2406.02097v1)|null|
@@ -71,11 +72,11 @@
 |**2024-05-04**|**Exploration of the LHCb $P_c$ states and possible resonances in a unitary coupled-channel model**|Chao-Wei Shen et.al.|[2405.02626v1](http://arxiv.org/abs/2405.02626v1)|null|
 |**2024-05-02**|**Data-driven analysis of the beauty hadron production in p+p collisions at the LHC with Bayesian unfolding**|Xiaozhi Bai et.al.|[2405.01444v1](http://arxiv.org/abs/2405.01444v1)|null|
 |**2024-05-02**|**Assignment of charmed-strange $D_{s0}(2590)^+$ and $D_{sJ}(3040)^+$**|Zi-Han Jiang et.al.|[2405.00992v1](http://arxiv.org/abs/2405.00992v1)|null|
-|**2024-05-01**|**Isospin violation effect and three-body decays of the $T_{cc}^{+}$ state**|Zhi-Feng Sun et.al.|[2405.00525v1](http://arxiv.org/abs/2405.00525v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-10**|**Using $Λ_b^0(6146)$ and $Λ_b^0(6152)$ as probes to investigate possible $\bar{B}^{*}N$ and $\bar{D}^{*}N$ molecules**|Jing-wen Feng et.al.|[2406.05991v1](http://arxiv.org/abs/2406.05991v1)|null|
 |**2024-06-05**|**Measurement of the branching fraction ratios $R(D^{+})$ and $R(D^{*+})$ using muonic $τ$ decays**|LHCb collaboration et.al.|[2406.03387v1](http://arxiv.org/abs/2406.03387v1)|null|
 |**2024-06-05**|**Observation of new charmonium(-like) states in $B^+ \to D^{*\pm} D^{\mp} K^+$ decays**|LHCb collaboration et.al.|[2406.03156v1](http://arxiv.org/abs/2406.03156v1)|null|
 |**2024-06-04**|**The Benchmark Mode $Ω_c \to Ω^-π^+$ and Its Related Processes**|Shuge Zeng et.al.|[2406.02097v1](http://arxiv.org/abs/2406.02097v1)|null|
@@ -105,4 +106,3 @@
 |**2024-04-22**|**Fast Inclusive Flavour Tagging at LHCb**|Claire Prouve et.al.|[2404.14145v2](http://arxiv.org/abs/2404.14145v2)|null|
 |**2024-04-10**|**Search for prompt production of pentaquarks in charm hadron final states**|LHCb collaboration et.al.|[2404.07131v2](http://arxiv.org/abs/2404.07131v2)|null|
 |**2024-04-08**|**Global fit to $b \to cτν$ anomaly 2024 Spring breeze**|Syuhei Iguro et.al.|[2405.06062v1](http://arxiv.org/abs/2405.06062v1)|null|
-|**2024-04-04**|**Inclusive $\bar{B}\to X_s \ell^+\ell^-$ at the LHC: theory predictions and new-physics reach**|Tobias Huber et.al.|[2404.03517v1](http://arxiv.org/abs/2404.03517v1)|null|
