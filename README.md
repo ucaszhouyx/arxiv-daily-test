@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-06-12 09:44:48 Asia/Shanghai
+ Automated deployment @ 2024-06-13 08:34:55 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-11**|**Strong decays of the isovector-scalar $D^\ast\bar{D}^\ast$ hadronic molecule**|Jin-Cheng Deng et.al.|[2406.07000v1](http://arxiv.org/abs/2406.07000v1)|null|
 |**2024-06-10**|**Using $Λ_b^0(6146)$ and $Λ_b^0(6152)$ as probes to investigate possible $\bar{B}^{*}N$ and $\bar{D}^{*}N$ molecules**|Jing-wen Feng et.al.|[2406.05991v1](http://arxiv.org/abs/2406.05991v1)|null|
 |**2024-06-05**|**Measurement of the branching fraction ratios $R(D^{+})$ and $R(D^{*+})$ using muonic $τ$ decays**|LHCb collaboration et.al.|[2406.03387v1](http://arxiv.org/abs/2406.03387v1)|null|
 |**2024-06-05**|**Observation of new charmonium(-like) states in $B^+ \to D^{*\pm} D^{\mp} K^+$ decays**|LHCb collaboration et.al.|[2406.03156v1](http://arxiv.org/abs/2406.03156v1)|null|
@@ -71,7 +72,6 @@
 |**2024-05-08**|**Amplitude analysis of $ B^0 \to K^0_S K^+ K^-$ decays in a quasi-two-body QCD factorization approach**|J. -P. Dedonder et.al.|[2405.04838v1](http://arxiv.org/abs/2405.04838v1)|null|
 |**2024-05-04**|**Exploration of the LHCb $P_c$ states and possible resonances in a unitary coupled-channel model**|Chao-Wei Shen et.al.|[2405.02626v1](http://arxiv.org/abs/2405.02626v1)|null|
 |**2024-05-02**|**Data-driven analysis of the beauty hadron production in p+p collisions at the LHC with Bayesian unfolding**|Xiaozhi Bai et.al.|[2405.01444v1](http://arxiv.org/abs/2405.01444v1)|null|
-|**2024-05-02**|**Assignment of charmed-strange $D_{s0}(2590)^+$ and $D_{sJ}(3040)^+$**|Zi-Han Jiang et.al.|[2405.00992v1](http://arxiv.org/abs/2405.00992v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
