@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-06-18 09:45:05 Asia/Shanghai
+ Automated deployment @ 2024-06-19 08:35:24 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-17**|**Rare leptonic and semi-leptonic decays at LHCb**|Tom Hadavizadeh et.al.|[2406.11108v1](http://arxiv.org/abs/2406.11108v1)|null|
 |**2024-06-12**|**SHIFT@LHC: Searches for New Physics with Shifted Interaction on a Fixed Target at the Large Hadron Collider**|Jeremi Niedziela et.al.|[2406.08557v1](http://arxiv.org/abs/2406.08557v1)|null|
 |**2024-06-11**|**Strong decays of the isovector-scalar $D^\ast\bar{D}^\ast$ hadronic molecule**|Jin-Cheng Deng et.al.|[2406.07000v1](http://arxiv.org/abs/2406.07000v1)|null|
 |**2024-06-10**|**Using $Λ_b^0(6146)$ and $Λ_b^0(6152)$ as probes to investigate possible $\bar{B}^{*}N$ and $D^{*}N$ molecules**|Jing-wen Feng et.al.|[2406.05991v2](http://arxiv.org/abs/2406.05991v2)|null|
@@ -71,7 +72,6 @@
 |**2024-05-13**|**$\mathrm{B^0_{(s)}}\to μ^+μ^-$ rare decays at LHC**|Giacomo Fedi et.al.|[2405.07693v1](http://arxiv.org/abs/2405.07693v1)|null|
 |**2024-05-10**|**Search for time-dependent $CP$ violation in $D^0 \rightarrow π^+ π^- π^0$ decays**|LHCb collaboration et.al.|[2405.06556v1](http://arxiv.org/abs/2405.06556v1)|null|
 |**2024-05-08**|**Amplitude analysis of $ B^0 \to K^0_S K^+ K^-$ decays in a quasi-two-body QCD factorization approach**|J. -P. Dedonder et.al.|[2405.04838v1](http://arxiv.org/abs/2405.04838v1)|null|
-|**2024-05-04**|**Exploration of the LHCb $P_c$ states and possible resonances in a unitary coupled-channel model**|Chao-Wei Shen et.al.|[2405.02626v1](http://arxiv.org/abs/2405.02626v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
