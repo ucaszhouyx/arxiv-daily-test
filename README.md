@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-06-25 09:44:36 Asia/Shanghai
+ Automated deployment @ 2024-06-26 08:34:58 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-24**|**Production of pentaquarks with hidden charm and double strangeness in $Ξ_b$ and $Ω_b$ decays**|E. Oset et.al.|[2406.16504v1](http://arxiv.org/abs/2406.16504v1)|null|
 |**2024-06-20**|**Measurement of the polarizations of prompt and non-prompt J/$ψ$ and $ψ$(2S) mesons produced in pp collisions at $\sqrt{s}$ = 13 TeV**|CMS Collaboration et.al.|[2406.14409v1](http://arxiv.org/abs/2406.14409v1)|null|
 |**2024-06-17**|**Rare leptonic and semi-leptonic decays at LHCb**|Tom Hadavizadeh et.al.|[2406.11108v1](http://arxiv.org/abs/2406.11108v1)|null|
 |**2024-06-12**|**SHIFT@LHC: Searches for New Physics with Shifted Interaction on a Fixed Target at the Large Hadron Collider**|Jeremi Niedziela et.al.|[2406.08557v2](http://arxiv.org/abs/2406.08557v2)|null|
@@ -71,11 +72,11 @@
 |**2024-05-17**|**Proceedings of the talk "Study of CP violation in charm meson decays" for XXX Epiphany conference**|LHCb Collaboration et.al.|[2405.10709v1](http://arxiv.org/abs/2405.10709v1)|null|
 |**2024-05-14**|**$b \to c l \barν$ decays at LHCb**|Chen Chen et.al.|[2405.08953v1](http://arxiv.org/abs/2405.08953v1)|null|
 |**2024-05-13**|**$\mathrm{B^0_{(s)}}\to μ^+μ^-$ rare decays at LHC**|Giacomo Fedi et.al.|[2405.07693v1](http://arxiv.org/abs/2405.07693v1)|null|
-|**2024-05-10**|**Search for time-dependent $CP$ violation in $D^0 \rightarrow π^+ π^- π^0$ decays**|LHCb collaboration et.al.|[2405.06556v1](http://arxiv.org/abs/2405.06556v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-24**|**Production of pentaquarks with hidden charm and double strangeness in $Ξ_b$ and $Ω_b$ decays**|E. Oset et.al.|[2406.16504v1](http://arxiv.org/abs/2406.16504v1)|null|
 |**2024-06-20**|**Measurement of the polarizations of prompt and non-prompt J/$ψ$ and $ψ$(2S) mesons produced in pp collisions at $\sqrt{s}$ = 13 TeV**|CMS Collaboration et.al.|[2406.14409v1](http://arxiv.org/abs/2406.14409v1)|null|
 |**2024-06-17**|**Precision measurement of the $Ξ^-_b$ baryon lifetime**|LHCb collaboration et.al.|[2406.12111v1](http://arxiv.org/abs/2406.12111v1)|null|
 |**2024-06-10**|**Using $Λ_b^0(6146)$ and $Λ_b^0(6152)$ as probes to investigate possible $\bar{B}^{*}N$ and $D^{*}N$ molecules**|Jing-wen Feng et.al.|[2406.05991v2](http://arxiv.org/abs/2406.05991v2)|null|
@@ -105,4 +106,3 @@
 |**2024-04-30**|**Amplitude analysis and branching fraction measurement of $B^{+}\to D^{*-}D^{+}_{s}π^{+}$ decays**|LHCb collaboration et.al.|[2405.00098v1](http://arxiv.org/abs/2405.00098v1)|null|
 |**2024-04-30**|**First observation of $Λ_{b}^{0} \rightarrow Σ_c^{(*)++} D^{(*)-} K^{-}$ decays**|LHCb collaboration et.al.|[2404.19510v2](http://arxiv.org/abs/2404.19510v2)|null|
 |**2024-04-23**|**Inputs for the $γ$ measurements from BESIII**|Xiaokang Zhou et.al.|[2404.14907v1](http://arxiv.org/abs/2404.14907v1)|null|
-|**2024-04-22**|**Fast Inclusive Flavour Tagging at LHCb**|Claire Prouve et.al.|[2404.14145v2](http://arxiv.org/abs/2404.14145v2)|null|
