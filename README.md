@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-07-03 09:44:41 Asia/Shanghai
+ Automated deployment @ 2024-07-04 08:35:37 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -8,6 +8,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-29**|**Study of semileptonic $B\to DP\ell^+ν_\ell$ decays based on the SU(3) flavor symmetry**|Ru-Min Wang et.al.|[2407.00372v1](http://arxiv.org/abs/2407.00372v1)|null|
 |**2024-06-24**|**Probing the nature of the $χ_{c1}(3872)$ state using radiative decays**|LHCb collaboration et.al.|[2406.17006v1](http://arxiv.org/abs/2406.17006v1)|null|
 |**2024-06-24**|**Production of pentaquarks with hidden charm and double strangeness in $Ξ_b$ and $Ω_b$ decays**|E. Oset et.al.|[2406.16504v1](http://arxiv.org/abs/2406.16504v1)|null|
 |**2024-06-20**|**Measurement of the polarizations of prompt and non-prompt J/$ψ$ and $ψ$(2S) mesons produced in pp collisions at $\sqrt{s}$ = 13 TeV**|CMS Collaboration et.al.|[2406.14409v1](http://arxiv.org/abs/2406.14409v1)|null|
@@ -37,7 +38,6 @@
 |**2024-05-18**|**Theory of CP angles measurement**|Amarjit Soni et.al.|[2405.11164v1](http://arxiv.org/abs/2405.11164v1)|null|
 |**2024-05-17**|**Binned angular analysis of $B^{0} \to K^{*0} μ^{+} μ^{-}$ with LHCb**|Leon Carus et.al.|[2405.10882v1](http://arxiv.org/abs/2405.10882v1)|null|
 |**2024-05-17**|**Proceedings of the talk "Study of CP violation in charm meson decays" for XXX Epiphany conference**|LHCb Collaboration et.al.|[2405.10709v1](http://arxiv.org/abs/2405.10709v1)|null|
-|**2024-05-14**|**$b \to c l \barν$ decays at LHCb**|Chen Chen et.al.|[2405.08953v1](http://arxiv.org/abs/2405.08953v1)|null|
 
 ### X(3872)
 |Publish Date|Title|Authors|PDF|Code|
@@ -76,6 +76,7 @@
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-29**|**Study of semileptonic $B\to DP\ell^+ν_\ell$ decays based on the SU(3) flavor symmetry**|Ru-Min Wang et.al.|[2407.00372v1](http://arxiv.org/abs/2407.00372v1)|null|
 |**2024-06-24**|**Probing the nature of the $χ_{c1}(3872)$ state using radiative decays**|LHCb collaboration et.al.|[2406.17006v1](http://arxiv.org/abs/2406.17006v1)|null|
 |**2024-06-24**|**Production of pentaquarks with hidden charm and double strangeness in $Ξ_b$ and $Ω_b$ decays**|E. Oset et.al.|[2406.16504v1](http://arxiv.org/abs/2406.16504v1)|null|
 |**2024-06-20**|**Measurement of the polarizations of prompt and non-prompt J/$ψ$ and $ψ$(2S) mesons produced in pp collisions at $\sqrt{s}$ = 13 TeV**|CMS Collaboration et.al.|[2406.14409v1](http://arxiv.org/abs/2406.14409v1)|null|
@@ -105,4 +106,3 @@
 |**2024-05-08**|**Amplitude analysis of $ B^0 \to K^0_S K^+ K^-$ decays in a quasi-two-body QCD factorization approach**|J. -P. Dedonder et.al.|[2405.04838v1](http://arxiv.org/abs/2405.04838v1)|null|
 |**2024-05-04**|**Exploration of the LHCb $P_c$ states and possible resonances in a unitary coupled-channel model**|Chao-Wei Shen et.al.|[2405.02626v1](http://arxiv.org/abs/2405.02626v1)|null|
 |**2024-04-30**|**Amplitude analysis and branching fraction measurement of $B^{+}\to D^{*-}D^{+}_{s}π^{+}$ decays**|LHCb collaboration et.al.|[2405.00098v1](http://arxiv.org/abs/2405.00098v1)|null|
-|**2024-04-30**|**First observation of $Λ_{b}^{0} \rightarrow Σ_c^{(*)++} D^{(*)-} K^{-}$ decays**|LHCb collaboration et.al.|[2404.19510v2](http://arxiv.org/abs/2404.19510v2)|null|
