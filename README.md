@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-07-09 09:46:47 Asia/Shanghai
+ Automated deployment @ 2024-07-10 08:36:31 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -100,9 +100,9 @@
 |**2024-05-20**|**$b\to{}s\ell\ell$ decays at LHCb**|Mark Smith et.al.|[2405.11890v1](http://arxiv.org/abs/2405.11890v1)|null|
 |**2024-05-18**|**Transverse polarization measurement of $Λ$ hyperons in $p$Ne collisions at $\sqrt{s_{NN}}$ = 68.4 GeV with the $\mbox{LHCb}$ detector**|LHCb collaboration et.al.|[2405.11324v2](http://arxiv.org/abs/2405.11324v2)|null|
 |**2024-05-17**|**Binned angular analysis of $B^{0} \to K^{*0} μ^{+} μ^{-}$ with LHCb**|Leon Carus et.al.|[2405.10882v1](http://arxiv.org/abs/2405.10882v1)|null|
-|**2024-05-17**|**Proceedings of the talk "Study of CP violation in charm meson decays" for XXX Epiphany conference**|Aleksei Chernov et.al.|[2405.10709v2](http://arxiv.org/abs/2405.10709v2)|null|
 |**2024-05-14**|**$b \to c l \barν$ decays at LHCb**|Chen Chen et.al.|[2405.08953v1](http://arxiv.org/abs/2405.08953v1)|null|
 |**2024-05-13**|**The coupled-channel analysis of $B^{(*)}_{(s)}\bar{B}^{(*)}_{(s)}$ systems within complex scaling method**|Qing-Fu Song et.al.|[2405.07694v1](http://arxiv.org/abs/2405.07694v1)|null|
 |**2024-05-10**|**Search for time-dependent $CP$ violation in $D^0 \rightarrow π^+ π^- π^0$ decays**|LHCb collaboration et.al.|[2405.06556v1](http://arxiv.org/abs/2405.06556v1)|null|
 |**2024-05-08**|**Amplitude analysis of $ B^0 \to K^0_S K^+ K^-$ decays in a quasi-two-body QCD factorization approach**|J. -P. Dedonder et.al.|[2405.04838v1](http://arxiv.org/abs/2405.04838v1)|null|
 |**2024-05-04**|**Exploration of the LHCb $P_c$ states and possible resonances in a unitary coupled-channel model**|Chao-Wei Shen et.al.|[2405.02626v1](http://arxiv.org/abs/2405.02626v1)|null|
+|**2024-04-30**|**Amplitude analysis and branching fraction measurement of $B^{+}\to D^{*-}D^{+}_{s}π^{+}$ decays**|LHCb collaboration et.al.|[2405.00098v1](http://arxiv.org/abs/2405.00098v1)|null|
