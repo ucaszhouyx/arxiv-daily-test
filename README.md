@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-07-23 09:48:31 Asia/Shanghai
+ Automated deployment @ 2024-07-24 08:37:27 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,10 +42,12 @@
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-22**|**Model-independent analysis of new physics effects in $B\rightarrow K^*_2(1430)μ^+ μ^-$ decay**|Juhi Vardani et.al.|[2407.15577v1](http://arxiv.org/abs/2407.15577v1)|null|
 |**2024-07-19**|**Observation of exotic $J/ψφ$ resonances in diffractive processes in proton-proton collisions**|LHCb collaboration et.al.|[2407.14301v1](http://arxiv.org/abs/2407.14301v1)|null|
 |**2024-07-19**|**Study of charmonium production via the decay to $p\bar{p}$ at $\sqrt{s} = 13 TeV$**|LHCb collaboration et.al.|[2407.14261v1](http://arxiv.org/abs/2407.14261v1)|null|
 |**2024-07-19**|**A high-density gas target at the LHCb experiment**|O. Boente Garcia et.al.|[2407.14200v1](http://arxiv.org/abs/2407.14200v1)|null|
 |**2024-07-17**|**Amplitude analysis of $B^+ \to ψ(2S) K^+ π^+ π^-$ decays**|LHCb collaboration et.al.|[2407.12475v1](http://arxiv.org/abs/2407.12475v1)|null|
+|**2024-07-16**|**Triply charm and bottom tetraquarks in a constituent quark model**|Gang Yang et.al.|[2407.14548v1](http://arxiv.org/abs/2407.14548v1)|null|
 |**2024-07-16**|**Search for the rare $Λ_c^+ \to p μ^+ μ^-$ decay**|LHCb collaboration et.al.|[2407.11474v1](http://arxiv.org/abs/2407.11474v1)|null|
 |**2024-07-05**|**Radiative decays of $P$-wave bottom baryons from light-cone sum rules**|Xuan Luo et.al.|[2407.04433v2](http://arxiv.org/abs/2407.04433v2)|null|
 |**2024-06-29**|**Study of semileptonic $B\to DP\ell^+ν_\ell$ decays based on the SU(3) flavor symmetry**|Ru-Min Wang et.al.|[2407.00372v1](http://arxiv.org/abs/2407.00372v1)|null|
@@ -70,12 +72,11 @@
 |**2024-05-21**|**Study of $b$-hadron decays to $Λ_c^+ h^- h^{\prime -}$ final states**|LHCb collaboration et.al.|[2405.12688v2](http://arxiv.org/abs/2405.12688v2)|null|
 |**2024-05-20**|**$b\to{}s\ell\ell$ decays at LHCb**|Mark Smith et.al.|[2405.11890v1](http://arxiv.org/abs/2405.11890v1)|null|
 |**2024-05-18**|**Transverse polarization measurement of $Λ$ hyperons in $p$Ne collisions at $\sqrt{s_{NN}}$ = 68.4 GeV with the $\mbox{LHCb}$ detector**|LHCb collaboration et.al.|[2405.11324v2](http://arxiv.org/abs/2405.11324v2)|null|
-|**2024-05-17**|**Binned angular analysis of $B^{0} \to K^{*0} μ^{+} μ^{-}$ with LHCb**|Leon Carus et.al.|[2405.10882v1](http://arxiv.org/abs/2405.10882v1)|null|
-|**2024-05-14**|**$b \to c l \barν$ decays at LHCb**|Chen Chen et.al.|[2405.08953v1](http://arxiv.org/abs/2405.08953v1)|null|
 
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-22**|**Model-independent analysis of new physics effects in $B\rightarrow K^*_2(1430)μ^+ μ^-$ decay**|Juhi Vardani et.al.|[2407.15577v1](http://arxiv.org/abs/2407.15577v1)|null|
 |**2024-07-19**|**Observation of exotic $J/ψφ$ resonances in diffractive processes in proton-proton collisions**|LHCb collaboration et.al.|[2407.14301v1](http://arxiv.org/abs/2407.14301v1)|null|
 |**2024-07-19**|**Study of charmonium production via the decay to $p\bar{p}$ at $\sqrt{s} = 13 TeV$**|LHCb collaboration et.al.|[2407.14261v1](http://arxiv.org/abs/2407.14261v1)|null|
 |**2024-07-17**|**Amplitude analysis of $B^+ \to ψ(2S) K^+ π^+ π^-$ decays**|LHCb collaboration et.al.|[2407.12475v1](http://arxiv.org/abs/2407.12475v1)|null|
@@ -105,4 +106,3 @@
 |**2024-05-23**|**Explore the properties of $Λ(1670)$ in the Cabibbo-favored process $Λ^+_c \to p K^- π^+$ decay**|Sheng-Chao Zhang et.al.|[2405.14235v1](http://arxiv.org/abs/2405.14235v1)|null|
 |**2024-05-22**|**How Viable Is a QCD Axion near 10 MeV?**|Sudhakantha Girmohanta et.al.|[2405.13425v1](http://arxiv.org/abs/2405.13425v1)|null|
 |**2024-05-21**|**Search for the lepton-flavor violating decay $B^0_s\toφμ^\pmτ^\mp$**|LHCb collaboration et.al.|[2405.13103v1](http://arxiv.org/abs/2405.13103v1)|null|
-|**2024-05-21**|**Study of $b$-hadron decays to $Λ_c^+ h^- h^{\prime -}$ final states**|LHCb collaboration et.al.|[2405.12688v2](http://arxiv.org/abs/2405.12688v2)|null|
