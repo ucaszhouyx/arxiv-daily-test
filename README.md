@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-07-24 09:48:28 Asia/Shanghai
+ Automated deployment @ 2024-07-25 08:36:36 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -81,7 +81,7 @@
 |**2024-07-19**|**Study of charmonium production via the decay to $p\bar{p}$ at $\sqrt{s} = 13 TeV$**|LHCb collaboration et.al.|[2407.14261v1](http://arxiv.org/abs/2407.14261v1)|null|
 |**2024-07-19**|**A high-density gas target at the LHCb experiment**|O. Boente Garcia et.al.|[2407.14200v1](http://arxiv.org/abs/2407.14200v1)|null|
 |**2024-07-17**|**Amplitude analysis of $B^+ \to ψ(2S) K^+ π^+ π^-$ decays**|LHCb collaboration et.al.|[2407.12475v1](http://arxiv.org/abs/2407.12475v1)|null|
-|**2024-07-16**|**Triply charm and bottom tetraquarks in a constituent quark model**|Gang Yang et.al.|[2407.14548v1](http://arxiv.org/abs/2407.14548v1)|null|
+|**2024-07-16**|**Triply charm and bottom tetraquarks in a constituent quark model**|Gang Yang et.al.|[2407.14548v2](http://arxiv.org/abs/2407.14548v2)|null|
 |**2024-07-16**|**Search for the rare $Λ_c^+ \to p μ^+ μ^-$ decay**|LHCb collaboration et.al.|[2407.11474v1](http://arxiv.org/abs/2407.11474v1)|null|
 |**2024-07-05**|**Radiative decays of $P$-wave bottom baryons from light-cone sum rules**|Xuan Luo et.al.|[2407.04433v2](http://arxiv.org/abs/2407.04433v2)|null|
 |**2024-06-29**|**Study of semileptonic $B\to DP\ell^+ν_\ell$ decays based on the SU(3) flavor symmetry**|Ru-Min Wang et.al.|[2407.00372v1](http://arxiv.org/abs/2407.00372v1)|null|
