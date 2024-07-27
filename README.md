@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-07-26 09:47:34 Asia/Shanghai
+ Automated deployment @ 2024-07-27 08:36:10 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-25**|**Measurement of $D^0-\overline{D}^0$ mixing and search for $CP$ violation with $D^0\rightarrow K^+π^-$ decays**|LHCb collaboration et.al.|[2407.18001v1](http://arxiv.org/abs/2407.18001v1)|null|
 |**2024-07-22**|**Model-independent analysis of new physics effects in $B\rightarrow K^*_2(1430)μ^+ μ^-$ decay**|Juhi Vardani et.al.|[2407.15577v1](http://arxiv.org/abs/2407.15577v1)|null|
 |**2024-07-19**|**Observation of exotic $J/ψφ$ resonances in diffractive processes in proton-proton collisions**|LHCb collaboration et.al.|[2407.14301v1](http://arxiv.org/abs/2407.14301v1)|null|
 |**2024-07-19**|**Study of charmonium production via the decay to $p\bar{p}$ at $\sqrt{s} = 13 TeV$**|LHCb collaboration et.al.|[2407.14261v1](http://arxiv.org/abs/2407.14261v1)|null|
@@ -71,11 +72,11 @@
 |**2024-05-23**|**Measurement of the production cross section of prompt $Ξ^0_{\rm c}$ baryons in p$-$Pb collisions at $\sqrt{s_{\mathrm{NN}}}~=~5.02$ TeV**|ALICE Collaboration et.al.|[2405.14538v1](http://arxiv.org/abs/2405.14538v1)|null|
 |**2024-05-23**|**Explore the properties of $Λ(1670)$ in the Cabibbo-favored process $Λ^+_c \to p K^- π^+$ decay**|Sheng-Chao Zhang et.al.|[2405.14235v1](http://arxiv.org/abs/2405.14235v1)|null|
 |**2024-05-22**|**How Viable Is a QCD Axion near 10 MeV?**|Sudhakantha Girmohanta et.al.|[2405.13425v1](http://arxiv.org/abs/2405.13425v1)|null|
-|**2024-05-21**|**Search for the lepton-flavor violating decay $B^0_s\toφμ^\pmτ^\mp$**|LHCb collaboration et.al.|[2405.13103v1](http://arxiv.org/abs/2405.13103v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-25**|**Measurement of $D^0-\overline{D}^0$ mixing and search for $CP$ violation with $D^0\rightarrow K^+π^-$ decays**|LHCb collaboration et.al.|[2407.18001v1](http://arxiv.org/abs/2407.18001v1)|null|
 |**2024-07-22**|**Model-independent analysis of new physics effects in $B\rightarrow K^*_2(1430)μ^+ μ^-$ decay**|Juhi Vardani et.al.|[2407.15577v1](http://arxiv.org/abs/2407.15577v1)|null|
 |**2024-07-19**|**Observation of exotic $J/ψφ$ resonances in diffractive processes in proton-proton collisions**|LHCb collaboration et.al.|[2407.14301v1](http://arxiv.org/abs/2407.14301v1)|null|
 |**2024-07-19**|**Study of charmonium production via the decay to $p\bar{p}$ at $\sqrt{s} = 13 TeV$**|LHCb collaboration et.al.|[2407.14261v1](http://arxiv.org/abs/2407.14261v1)|null|
@@ -105,4 +106,3 @@
 |**2024-05-21**|**Search for the lepton-flavor violating decay $B^0_s\toφμ^\pmτ^\mp$**|LHCb collaboration et.al.|[2405.13103v1](http://arxiv.org/abs/2405.13103v1)|null|
 |**2024-05-21**|**Study of $b$-hadron decays to $Λ_c^+ h^- h^{\prime -}$ final states**|LHCb collaboration et.al.|[2405.12688v2](http://arxiv.org/abs/2405.12688v2)|null|
 |**2024-05-20**|**$b\to{}s\ell\ell$ decays at LHCb**|Mark Smith et.al.|[2405.11890v1](http://arxiv.org/abs/2405.11890v1)|null|
-|**2024-05-18**|**Transverse polarization measurement of $Λ$ hyperons in $p$Ne collisions at $\sqrt{s_{NN}}$ = 68.4 GeV with the $\mbox{LHCb}$ detector**|LHCb collaboration et.al.|[2405.11324v2](http://arxiv.org/abs/2405.11324v2)|null|
