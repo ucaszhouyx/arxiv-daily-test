@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-08-13 09:51:58 Asia/Shanghai
+ Automated deployment @ 2024-08-14 08:37:38 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,7 @@
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-12**|**Recent spectroscopy studies at Belle**|Dmytro Meleshko et.al.|[2408.06064v1](http://arxiv.org/abs/2408.06064v1)|null|
 |**2024-08-09**|**Observation of muonic Dalitz decays of $χ_{b}$ mesons and precise spectroscopy of hidden-beauty states**|LHCb collaboration et.al.|[2408.05134v1](http://arxiv.org/abs/2408.05134v1)|null|
 |**2024-08-09**|**Entanglement and Bell inequality violation in $B\to \it{ΦΦ}$ decays**|Emidio Gabrielli et.al.|[2408.05010v1](http://arxiv.org/abs/2408.05010v1)|null|
 |**2024-07-27**|**Experiments and phenomenology of electric dipole moments**|Joan Ruiz-Vidal et.al.|[2407.19247v1](http://arxiv.org/abs/2407.19247v1)|null|
@@ -71,11 +72,12 @@
 |**2024-05-27**|**Comprehensive analysis of local and nonlocal amplitudes in the $B^0\rightarrow K^{*0}μ^+μ^-$ decay**|LHCb collaboration et.al.|[2405.17347v1](http://arxiv.org/abs/2405.17347v1)|null|
 |**2024-05-24**|**Study of the $B^{+}\toπ^{+}\left(π^{+}π^{-}\right)$ decay in PQCD Approach**|Qin Chang et.al.|[2405.15309v1](http://arxiv.org/abs/2405.15309v1)|null|
 |**2024-05-23**|**Measurement of the production cross section of prompt $Ξ^0_{\rm c}$ baryons in p$-$Pb collisions at $\sqrt{s_{\mathrm{NN}}}~=~5.02$ TeV**|ALICE Collaboration et.al.|[2405.14538v1](http://arxiv.org/abs/2405.14538v1)|null|
-|**2024-05-23**|**Explore the properties of $Λ(1670)$ in the Cabibbo-favored process $Λ^+_c \to p K^- π^+$ decay**|Sheng-Chao Zhang et.al.|[2405.14235v1](http://arxiv.org/abs/2405.14235v1)|null|
 
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-12**|**Recent spectroscopy studies at Belle**|Dmytro Meleshko et.al.|[2408.06064v1](http://arxiv.org/abs/2408.06064v1)|null|
+|**2024-08-11**|**$X(4630)$ and $Y(4626)$ production in the $B^+$ and $B_s^0$ decays**|Zhuo Yu et.al.|[2408.05813v1](http://arxiv.org/abs/2408.05813v1)|null|
 |**2024-08-09**|**Observation of muonic Dalitz decays of $χ_{b}$ mesons and precise spectroscopy of hidden-beauty states**|LHCb collaboration et.al.|[2408.05134v1](http://arxiv.org/abs/2408.05134v1)|null|
 |**2024-08-09**|**Entanglement and Bell inequality violation in $B\to \it{ΦΦ}$ decays**|Emidio Gabrielli et.al.|[2408.05010v1](http://arxiv.org/abs/2408.05010v1)|null|
 |**2024-08-06**|**$\rm{SU}(3)_F$ sum rules for CP asymmetry of $D_{(s)}$ decays**|Syuhei Iguro et.al.|[2408.03227v1](http://arxiv.org/abs/2408.03227v1)|null|
@@ -104,5 +106,3 @@
 |**2024-06-01**|**Analysis of three-body decays $B \to D (V \to ) PP $ under the factorization-assisted topological-amplitude approach**|Si-Hong Zhou et.al.|[2406.00373v1](http://arxiv.org/abs/2406.00373v1)|null|
 |**2024-06-01**|**CP asymmetry from the effect of the isospin symmetry breaking during B-meson decay**|Wan-Ying Yao et.al.|[2406.00250v1](http://arxiv.org/abs/2406.00250v1)|null|
 |**2024-05-31**|**Amplitude analysis of the radiative decay $B^0_s\to K^+K^-γ$**|LHCb collaboration et.al.|[2406.00235v1](http://arxiv.org/abs/2406.00235v1)|null|
-|**2024-05-28**|**Dalitz-plot analysis of B+- --> K+-K+K- decays**|L. Lesniak et.al.|[2405.18192v1](http://arxiv.org/abs/2405.18192v1)|null|
-|**2024-05-27**|**QCD predictions for vector boson plus hadron production at the LHC**|Simone Caletti et.al.|[2405.17540v1](http://arxiv.org/abs/2405.17540v1)|null|
