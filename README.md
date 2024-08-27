@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-08-26 09:51:57 Asia/Shanghai
+ Automated deployment @ 2024-08-27 08:38:11 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,9 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-23**|**Analysis of the resonance X(4630) at non-zero temperature**|G. Bozkır et.al.|[2408.13093v1](http://arxiv.org/abs/2408.13093v1)|null|
+|**2024-08-23**|**Search for the $Σ(1380)1/2^-$ state in $Λ^+_c \to γ π^+ Λ$ decay by triangle singularity**|Ke Wang et.al.|[2408.12965v1](http://arxiv.org/abs/2408.12965v1)|null|
+|**2024-08-23**|**Spectroscopic Analysis of Singly Heavy Pentaquarks in the Symmetric 15-Plet Representation Using Phenomenological Models**|Ankush Sharma et.al.|[2408.12881v1](http://arxiv.org/abs/2408.12881v1)|null|
 |**2024-08-21**|**Theoretical study of the open-flavor tetraquark $T_{c\bar{s}}(2900)$ in the process $\bar{B}_s^0 \to K^0 D^0 π^0$**|Wen-Tao Lyu et.al.|[2408.11454v1](http://arxiv.org/abs/2408.11454v1)|null|
 |**2024-08-15**|**Mixing angle between $^{3}P_1$ and $^{1}P_1$ states in heavy axial vector mesons within QCD sum rules framework**|T. M. Aliev et.al.|[2408.08014v1](http://arxiv.org/abs/2408.08014v1)|null|
 |**2024-08-12**|**Recent spectroscopy studies at Belle**|Dmytro Meleshko et.al.|[2408.06064v1](http://arxiv.org/abs/2408.06064v1)|null|
@@ -69,13 +72,11 @@
 |**2024-06-11**|**Strong decays of the isovector-scalar $D^\ast\bar{D}^\ast$ hadronic molecule**|Jin-Cheng Deng et.al.|[2406.07000v1](http://arxiv.org/abs/2406.07000v1)|null|
 |**2024-06-10**|**Using $Λ_b^0(6146)$ and $Λ_b^0(6152)$ as probes to investigate possible $\bar{B}^{*}N$ and $D^{*}N$ molecules**|Jing-wen Feng et.al.|[2406.05991v2](http://arxiv.org/abs/2406.05991v2)|null|
 |**2024-06-05**|**Measurement of the branching fraction ratios $R(D^{+})$ and $R(D^{*+})$ using muonic $τ$ decays**|LHCb collaboration et.al.|[2406.03387v1](http://arxiv.org/abs/2406.03387v1)|null|
-|**2024-06-05**|**Observation of new charmonium(-like) states in $B^+ \to D^{*\pm} D^{\mp} K^+$ decays**|LHCb collaboration et.al.|[2406.03156v1](http://arxiv.org/abs/2406.03156v1)|null|
-|**2024-06-04**|**The Benchmark Mode $Ω_c \to Ω^-π^+$ and Its Related Processes**|Shuge Zeng et.al.|[2406.02097v1](http://arxiv.org/abs/2406.02097v1)|null|
-|**2024-06-01**|**Analysis of three-body decays $B \to D (V \to ) PP $ under the factorization-assisted topological-amplitude approach**|Si-Hong Zhou et.al.|[2406.00373v1](http://arxiv.org/abs/2406.00373v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-23**|**Spectroscopic Analysis of Singly Heavy Pentaquarks in the Symmetric 15-Plet Representation Using Phenomenological Models**|Ankush Sharma et.al.|[2408.12881v1](http://arxiv.org/abs/2408.12881v1)|null|
 |**2024-08-12**|**Recent spectroscopy studies at Belle**|Dmytro Meleshko et.al.|[2408.06064v1](http://arxiv.org/abs/2408.06064v1)|null|
 |**2024-08-09**|**Observation of muonic Dalitz decays of $χ_{b}$ mesons and precise spectroscopy of hidden-beauty states**|LHCb collaboration et.al.|[2408.05134v1](http://arxiv.org/abs/2408.05134v1)|null|
 |**2024-08-09**|**Entanglement and Bell inequality violation in $B\to \it{ΦΦ}$ decays**|Emidio Gabrielli et.al.|[2408.05010v1](http://arxiv.org/abs/2408.05010v1)|null|
@@ -105,4 +106,3 @@
 |**2024-05-31**|**Amplitude analysis of the radiative decay $B^0_s\to K^+K^-γ$**|LHCb collaboration et.al.|[2406.00235v2](http://arxiv.org/abs/2406.00235v2)|null|
 |**2024-05-27**|**Comprehensive analysis of local and nonlocal amplitudes in the $B^0\rightarrow K^{*0}μ^+μ^-$ decay**|LHCb collaboration et.al.|[2405.17347v1](http://arxiv.org/abs/2405.17347v1)|null|
 |**2024-05-24**|**Study of the $B^{+}\toπ^{+}\left(π^{+}π^{-}\right)$ decay in PQCD Approach**|Qin Chang et.al.|[2405.15309v1](http://arxiv.org/abs/2405.15309v1)|null|
-|**2024-05-23**|**Measurement of the production cross section of prompt $Ξ^0_{\rm c}$ baryons in p$-$Pb collisions at $\sqrt{s_{\mathrm{NN}}}~=~5.02$ TeV**|ALICE Collaboration et.al.|[2405.14538v1](http://arxiv.org/abs/2405.14538v1)|null|
