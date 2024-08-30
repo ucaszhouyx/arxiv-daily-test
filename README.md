@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-08-29 09:55:19 Asia/Shanghai
+ Automated deployment @ 2024-08-30 08:38:53 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,8 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-28**|**Study of CP Violation in charm decays**|Felipe Cesário Laterza Lopes et.al.|[2408.15525v1](http://arxiv.org/abs/2408.15525v1)|null|
+|**2024-08-28**|**$B_{(s)}\to D_{(s)}^{(*)}M$ decays in the presence of final-state interaction**|Albertus Hariwangsa Panuluh et.al.|[2408.15466v1](http://arxiv.org/abs/2408.15466v1)|null|
 |**2024-08-23**|**Analysis of the resonance X(4630) at non-zero temperature**|G. Bozkır et.al.|[2408.13093v1](http://arxiv.org/abs/2408.13093v1)|null|
 |**2024-08-23**|**Search for the $Σ(1380)1/2^-$ state in $Λ^+_c \to γ π^+ Λ$ decay by triangle singularity**|Ke Wang et.al.|[2408.12965v1](http://arxiv.org/abs/2408.12965v1)|null|
 |**2024-08-23**|**Spectroscopic Analysis of Singly Heavy Pentaquarks in the Symmetric 15-Plet Representation Using Phenomenological Models**|Ankush Sharma et.al.|[2408.12881v1](http://arxiv.org/abs/2408.12881v1)|null|
@@ -70,12 +72,11 @@
 |**2024-06-17**|**Rare leptonic and semi-leptonic decays at LHCb**|Tom Hadavizadeh et.al.|[2406.11108v1](http://arxiv.org/abs/2406.11108v1)|null|
 |**2024-06-12**|**SHIFT@LHC: Searches for New Physics with Shifted Interaction on a Fixed Target at the Large Hadron Collider**|Jeremi Niedziela et.al.|[2406.08557v2](http://arxiv.org/abs/2406.08557v2)|null|
 |**2024-06-11**|**Strong decays of the isovector-scalar $D^\ast\bar{D}^\ast$ hadronic molecule**|Jin-Cheng Deng et.al.|[2406.07000v1](http://arxiv.org/abs/2406.07000v1)|null|
-|**2024-06-10**|**Using $Λ_b^0(6146)$ and $Λ_b^0(6152)$ as probes to investigate possible $\bar{B}^{*}N$ and $D^{*}N$ molecules**|Jing-wen Feng et.al.|[2406.05991v2](http://arxiv.org/abs/2406.05991v2)|null|
-|**2024-06-05**|**Measurement of the branching fraction ratios $R(D^{+})$ and $R(D^{*+})$ using muonic $τ$ decays**|LHCb collaboration et.al.|[2406.03387v1](http://arxiv.org/abs/2406.03387v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-28**|**$B_{(s)}\to D_{(s)}^{(*)}M$ decays in the presence of final-state interaction**|Albertus Hariwangsa Panuluh et.al.|[2408.15466v1](http://arxiv.org/abs/2408.15466v1)|null|
 |**2024-08-23**|**Spectroscopic Analysis of Singly Heavy Pentaquarks in the Symmetric 15-Plet Representation Using Phenomenological Models**|Ankush Sharma et.al.|[2408.12881v1](http://arxiv.org/abs/2408.12881v1)|null|
 |**2024-08-12**|**Recent spectroscopy studies at Belle**|Dmytro Meleshko et.al.|[2408.06064v1](http://arxiv.org/abs/2408.06064v1)|null|
 |**2024-08-09**|**Observation of muonic Dalitz decays of $χ_{b}$ mesons and precise spectroscopy of hidden-beauty states**|LHCb collaboration et.al.|[2408.05134v1](http://arxiv.org/abs/2408.05134v1)|null|
@@ -105,4 +106,3 @@
 |**2024-06-01**|**CP asymmetry from the effect of the isospin symmetry breaking during B-meson decay**|Wan-Ying Yao et.al.|[2406.00250v1](http://arxiv.org/abs/2406.00250v1)|null|
 |**2024-05-31**|**Amplitude analysis of the radiative decay $B^0_s\to K^+K^-γ$**|LHCb collaboration et.al.|[2406.00235v2](http://arxiv.org/abs/2406.00235v2)|null|
 |**2024-05-27**|**Comprehensive analysis of local and nonlocal amplitudes in the $B^0\rightarrow K^{*0}μ^+μ^-$ decay**|LHCb collaboration et.al.|[2405.17347v1](http://arxiv.org/abs/2405.17347v1)|null|
-|**2024-05-24**|**Study of the $B^{+}\toπ^{+}\left(π^{+}π^{-}\right)$ decay in PQCD Approach**|Qin Chang et.al.|[2405.15309v1](http://arxiv.org/abs/2405.15309v1)|null|
