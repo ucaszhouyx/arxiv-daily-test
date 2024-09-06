@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-09-05 10:00:23 Asia/Shanghai
+ Automated deployment @ 2024-09-06 08:39:24 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,10 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-04**|**Measurement of $\itΛ_\it{b}^0$, $\itΛ_\it{c}^+$ and $\itΛ$ decay parameters using $\itΛ_\it{b}^0 \to \itΛ_\it{c}^+ h^-$ decays**|LHCb collaboration et.al.|[2409.02759v1](http://arxiv.org/abs/2409.02759v1)|null|
+|**2024-09-04**|**Weak decays of $B_s$ to $D_s$ based on the helicity analysis**|Sara Rahmani et.al.|[2409.02460v1](http://arxiv.org/abs/2409.02460v1)|null|
+|**2024-09-02**|**Measurement of $C\!P$ violation observables in $D^+\rightarrow K^-K^+π^+$ decays**|LHCb collaboration et.al.|[2409.01414v1](http://arxiv.org/abs/2409.01414v1)|null|
+|**2024-08-30**|**Investigation of the semileptonic decay $ Ξ^{++}_{cc}\rightarrow Ξ^+_{c} \bar{\ell}ν_{\ell}$ within QCD sum rules**|M. Shekari Tous et.al.|[2409.00241v1](http://arxiv.org/abs/2409.00241v1)|null|
 |**2024-08-29**|**Study of the rare decay $J/ψ\to μ^+μ^-μ^+μ^-$**|LHCb collaboration et.al.|[2408.16646v1](http://arxiv.org/abs/2408.16646v1)|null|
 |**2024-08-28**|**Study of CP Violation in charm decays**|Felipe Cesário Laterza Lopes et.al.|[2408.15525v1](http://arxiv.org/abs/2408.15525v1)|null|
 |**2024-08-28**|**$B_{(s)}\to D_{(s)}^{(*)}M$ decays in the presence of final-state interaction**|Albertus Hariwangsa Panuluh et.al.|[2408.15466v2](http://arxiv.org/abs/2408.15466v2)|null|
@@ -68,14 +72,13 @@
 |**2024-07-05**|**Radiative decays of $P$-wave bottom baryons from light-cone sum rules**|Xuan Luo et.al.|[2407.04433v2](http://arxiv.org/abs/2407.04433v2)|null|
 |**2024-06-29**|**Study of semileptonic $B\to DP\ell^+ν_\ell$ decays based on the SU(3) flavor symmetry**|Ru-Min Wang et.al.|[2407.00372v1](http://arxiv.org/abs/2407.00372v1)|null|
 |**2024-06-24**|**Probing the nature of the $χ_{c1}(3872)$ state using radiative decays**|LHCb collaboration et.al.|[2406.17006v1](http://arxiv.org/abs/2406.17006v1)|null|
-|**2024-06-24**|**Production of pentaquarks with hidden charm and double strangeness in $Ξ_b$ and $Ω_b$ decays**|E. Oset et.al.|[2406.16504v1](http://arxiv.org/abs/2406.16504v1)|null|
-|**2024-06-20**|**Measurement of the polarizations of prompt and non-prompt J/$ψ$ and $ψ$(2S) mesons produced in pp collisions at $\sqrt{s}$ = 13 TeV**|CMS Collaboration et.al.|[2406.14409v1](http://arxiv.org/abs/2406.14409v1)|null|
-|**2024-06-17**|**Rare leptonic and semi-leptonic decays at LHCb**|Tom Hadavizadeh et.al.|[2406.11108v1](http://arxiv.org/abs/2406.11108v1)|null|
-|**2024-06-12**|**SHIFT@LHC: Searches for New Physics with Shifted Interaction on a Fixed Target at the Large Hadron Collider**|Jeremi Niedziela et.al.|[2406.08557v2](http://arxiv.org/abs/2406.08557v2)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-04**|**Measurement of $\itΛ_\it{b}^0$, $\itΛ_\it{c}^+$ and $\itΛ$ decay parameters using $\itΛ_\it{b}^0 \to \itΛ_\it{c}^+ h^-$ decays**|LHCb collaboration et.al.|[2409.02759v1](http://arxiv.org/abs/2409.02759v1)|null|
+|**2024-09-02**|**Measurement of $C\!P$ violation observables in $D^+\rightarrow K^-K^+π^+$ decays**|LHCb collaboration et.al.|[2409.01414v1](http://arxiv.org/abs/2409.01414v1)|null|
+|**2024-08-30**|**Investigation of the semileptonic decay $ Ξ^{++}_{cc}\rightarrow Ξ^+_{c} \bar{\ell}ν_{\ell}$ within QCD sum rules**|M. Shekari Tous et.al.|[2409.00241v1](http://arxiv.org/abs/2409.00241v1)|null|
 |**2024-08-29**|**Study of the rare decay $J/ψ\to μ^+μ^-μ^+μ^-$**|LHCb collaboration et.al.|[2408.16646v1](http://arxiv.org/abs/2408.16646v1)|null|
 |**2024-08-29**|**Event-activity-dependent beauty-baryon enhancement in simulations with color junctions**|Lea Virág Földvári et.al.|[2408.16447v1](http://arxiv.org/abs/2408.16447v1)|null|
 |**2024-08-28**|**$B_{(s)}\to D_{(s)}^{(*)}M$ decays in the presence of final-state interaction**|Albertus Hariwangsa Panuluh et.al.|[2408.15466v2](http://arxiv.org/abs/2408.15466v2)|null|
@@ -103,6 +106,3 @@
 |**2024-06-05**|**Measurement of the branching fraction ratios $R(D^{+})$ and $R(D^{*+})$ using muonic $τ$ decays**|LHCb collaboration et.al.|[2406.03387v1](http://arxiv.org/abs/2406.03387v1)|null|
 |**2024-06-05**|**Observation of new charmonium(-like) states in $B^+ \to D^{*\pm} D^{\mp} K^+$ decays**|LHCb collaboration et.al.|[2406.03156v1](http://arxiv.org/abs/2406.03156v1)|null|
 |**2024-06-04**|**The Benchmark Mode $Ω_c \to Ω^-π^+$ and Its Related Processes**|Shuge Zeng et.al.|[2406.02097v1](http://arxiv.org/abs/2406.02097v1)|null|
-|**2024-06-03**|**Exploring doubly-heavy tetraquarks in constituent-quark-model based meson-meson coupled-channels approach**|P. G. Ortega et.al.|[2406.01697v1](http://arxiv.org/abs/2406.01697v1)|null|
-|**2024-06-01**|**Analysis of three-body decays $B \to D (V \to ) PP $ under the factorization-assisted topological-amplitude approach**|Si-Hong Zhou et.al.|[2406.00373v1](http://arxiv.org/abs/2406.00373v1)|null|
-|**2024-06-01**|**CP asymmetry from the effect of the isospin symmetry breaking during B-meson decay**|Wan-Ying Yao et.al.|[2406.00250v1](http://arxiv.org/abs/2406.00250v1)|null|
