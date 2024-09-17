@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-09-16 10:09:14 Asia/Shanghai
+ Automated deployment @ 2024-09-17 08:33:20 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -8,6 +8,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-13**|**Dynamical study of $T_{ss}$ systems at a chiral quark model**|Jiazheng Ji et.al.|[2409.08933v1](http://arxiv.org/abs/2409.08933v1)|null|
 |**2024-09-09**|**First determination of the spin-parity of $Ξ_{c}(3055)^{+,0}$ baryons**|LHCb collaboration et.al.|[2409.05440v1](http://arxiv.org/abs/2409.05440v1)|null|
 |**2024-09-09**|**Strong decays of $a_0$, $f_0$, $f_2$, and $K^*_2$ resonances as dynamically generated states of two vector mesons**|Qing-Hua Shen et.al.|[2409.05302v1](http://arxiv.org/abs/2409.05302v1)|null|
 |**2024-09-04**|**Measurement of $CP$ violation in ${B^0}\rightarrow{D^{+}D^{-}}$ and ${B^{0}_{s}}\rightarrow{D^{+}_{s}D^{-}_{s}}$ decays**|LHCb collaboration et.al.|[2409.03009v1](http://arxiv.org/abs/2409.03009v1)|null|
@@ -37,7 +38,6 @@
 |**2024-07-19**|**Study of charmonium production via the decay to $p\bar{p}$ at $\sqrt{s} = 13 TeV$**|LHCb collaboration et.al.|[2407.14261v1](http://arxiv.org/abs/2407.14261v1)|null|
 |**2024-07-17**|**Amplitude analysis of $B^+ \to ψ(2S) K^+ π^+ π^-$ decays**|LHCb collaboration et.al.|[2407.12475v1](http://arxiv.org/abs/2407.12475v1)|null|
 |**2024-07-16**|**Search for the rare $Λ_c^+ \to p μ^+ μ^-$ decay**|LHCb collaboration et.al.|[2407.11474v1](http://arxiv.org/abs/2407.11474v1)|null|
-|**2024-07-09**|**New constraints on CPT symmetry violation in charm mesons**|Wojciech Krzemien et.al.|[2407.07215v2](http://arxiv.org/abs/2407.07215v2)|null|
 
 ### X(3872)
 |Publish Date|Title|Authors|PDF|Code|
