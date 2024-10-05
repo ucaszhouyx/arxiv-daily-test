@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-10-04 10:07:20 Asia/Shanghai
+ Automated deployment @ 2024-10-05 08:41:08 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -76,6 +76,7 @@
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-03**|**Measurement of the effective leptonic weak mixing angle**|LHCb collaboration et.al.|[2410.02502v1](http://arxiv.org/abs/2410.02502v1)|null|
 |**2024-10-02**|**Possible signal of an exotic $I=1$, $J=2$ state in the $B \to D^{*-}D^+K^+$ reaction**|Wen-Tao Lyu et.al.|[2410.01701v1](http://arxiv.org/abs/2410.01701v1)|null|
 |**2024-09-25**|**Search for $B_{(s)}^{*0}\toμ^+μ^-$ in $B_c^+\toπ^+μ^+μ^-$ decays**|LHCb collaboration et.al.|[2409.17209v1](http://arxiv.org/abs/2409.17209v1)|null|
 |**2024-09-19**|**Tripartite entanglement from experimental data: $B^0\to K^{*0}μ^+μ^-$ as a case study**|Roberto A. Morales et.al.|[2409.13033v1](http://arxiv.org/abs/2409.13033v1)|null|
@@ -105,4 +106,3 @@
 |**2024-07-19**|**A high-density gas target at the LHCb experiment**|O. Boente Garcia et.al.|[2407.14200v1](http://arxiv.org/abs/2407.14200v1)|null|
 |**2024-07-17**|**Amplitude analysis of $B^+ \to ψ(2S) K^+ π^+ π^-$ decays**|LHCb collaboration et.al.|[2407.12475v1](http://arxiv.org/abs/2407.12475v1)|null|
 |**2024-07-16**|**Triply charm and bottom tetraquarks in a constituent quark model**|Gang Yang et.al.|[2407.14548v2](http://arxiv.org/abs/2407.14548v2)|null|
-|**2024-07-16**|**Search for the rare decay of charmed baryon $Λ_c^+$ into $p μ^+ μ^-$ final state**|LHCb collaboration et.al.|[2407.11474v2](http://arxiv.org/abs/2407.11474v2)|null|
