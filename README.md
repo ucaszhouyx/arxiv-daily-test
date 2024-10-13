@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-10-13 08:45:00 Asia/Shanghai
+ Automated deployment @ 2024-10-13 10:13:00 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -39,40 +39,6 @@
 |**2021-07-29**|**$S$-wave contributions to the $B_{(s)}\rightarrow χ_{c1} (ππ,Kπ,KK)$ decays**|Meng-Kun Jia et.al.|[2107.13882v2](http://arxiv.org/abs/2107.13882v2)|null|
 |**2021-03-15**|**The new resonances Z_{cs}(3985) and Z_{cs}(4003) (almost) fill two tetraquark nonets of broken SU(3)_f**|Luciano Maiani et.al.|[2103.08331v2](http://arxiv.org/abs/2103.08331v2)|null|
 
-### b baryon
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-10-08**|**Binwise exploration of vector couplings in $B_s \to D_s^{(*)} τ\bar ν_τ$ decays**|Ajay Kumar yadav et.al.|[2410.06100v1](http://arxiv.org/abs/2410.06100v1)|null|
-|**2024-10-07**|**Hadronic Weak Decays of Charmed Baryons in the Topological Diagrammatic Approach: An Update**|Hai-Yang Cheng et.al.|[2410.04675v1](http://arxiv.org/abs/2410.04675v1)|null|
-|**2024-10-03**|**Measurement of the effective leptonic weak mixing angle**|LHCb collaboration et.al.|[2410.02502v1](http://arxiv.org/abs/2410.02502v1)|null|
-|**2024-10-02**|**Possible signal of an exotic $I=1$, $J=2$ state in the $B \to D^{*-}D^+K^+$ reaction**|Wen-Tao Lyu et.al.|[2410.01701v1](http://arxiv.org/abs/2410.01701v1)|null|
-|**2024-09-25**|**Search for $B_{(s)}^{*0}\toμ^+μ^-$ in $B_c^+\toπ^+μ^+μ^-$ decays**|LHCb collaboration et.al.|[2409.17209v1](http://arxiv.org/abs/2409.17209v1)|null|
-|**2024-09-19**|**Tripartite entanglement from experimental data: $B^0\to K^{*0}μ^+μ^-$ as a case study**|Roberto A. Morales et.al.|[2409.13033v1](http://arxiv.org/abs/2409.13033v1)|null|
-|**2024-09-19**|**Analysis of $\itΛ^\mathrm{0}_b \rightarrow pK^-μ^+μ^-$ decays**|LHCb collaboration et.al.|[2409.12629v1](http://arxiv.org/abs/2409.12629v1)|null|
-|**2024-09-19**|**Baryon number transportation over full rapidity space in pp collisions at LHC energies**|Banajit Barman et.al.|[2409.12492v1](http://arxiv.org/abs/2409.12492v1)|null|
-|**2024-09-17**|**Quark mass dependence of doubly heavy tetraquark binding**|W. G. Parrott et.al.|[2409.11477v1](http://arxiv.org/abs/2409.11477v1)|null|
-|**2024-09-15**|**Revealing the $q^2$ dependence in $b \to s μ^+ μ^-$ baryonic decay modes**|Ajay Kumar Yadav et.al.|[2409.09737v1](http://arxiv.org/abs/2409.09737v1)|null|
-|**2024-09-09**|**First determination of the spin-parity of $Ξ_{c}(3055)^{+,0}$ baryons**|LHCb collaboration et.al.|[2409.05440v1](http://arxiv.org/abs/2409.05440v1)|null|
-|**2024-09-05**|**Measurement of exclusive $J/ψ$ and $ψ(2S)$ production at $\sqrt{s}=13$ TeV**|LHCb collaboration et.al.|[2409.03496v2](http://arxiv.org/abs/2409.03496v2)|null|
-|**2024-09-04**|**Measurement of $CP$ violation in ${B^0}\rightarrow{D^{+}D^{-}}$ and ${B^{0}_{s}}\rightarrow{D^{+}_{s}D^{-}_{s}}$ decays**|LHCb collaboration et.al.|[2409.03009v1](http://arxiv.org/abs/2409.03009v1)|null|
-|**2024-09-04**|**Measurement of $\itΛ_\it{b}^0$, $\itΛ_\it{c}^+$ and $\itΛ$ decay parameters using $\itΛ_\it{b}^0 \to \itΛ_\it{c}^+ h^-$ decays**|LHCb collaboration et.al.|[2409.02759v1](http://arxiv.org/abs/2409.02759v1)|null|
-|**2024-09-02**|**Measurement of $C\!P$ violation observables in $D^+\rightarrow K^-K^+π^+$ decays**|LHCb collaboration et.al.|[2409.01414v1](http://arxiv.org/abs/2409.01414v1)|null|
-|**2024-08-30**|**Investigation of the semileptonic decay $ Ξ^{++}_{cc}\rightarrow Ξ^+_{c} \bar{\ell}ν_{\ell}$ within QCD sum rules**|M. Shekari Tous et.al.|[2409.00241v1](http://arxiv.org/abs/2409.00241v1)|null|
-|**2024-08-29**|**Study of the rare decay $J/ψ\to μ^+μ^-μ^+μ^-$**|LHCb collaboration et.al.|[2408.16646v1](http://arxiv.org/abs/2408.16646v1)|null|
-|**2024-08-29**|**Event-activity-dependent beauty-baryon enhancement in simulations with color junctions**|Lea Virág Földvári et.al.|[2408.16447v1](http://arxiv.org/abs/2408.16447v1)|null|
-|**2024-08-28**|**$B_{(s)}\to D_{(s)}^{(*)}M$ decays in the presence of final-state interaction**|Albertus Hariwangsa Panuluh et.al.|[2408.15466v2](http://arxiv.org/abs/2408.15466v2)|null|
-|**2024-08-23**|**Spectroscopic Analysis of Singly Heavy Pentaquarks in the Symmetric 15-Plet Representation Using Phenomenological Models**|Ankush Sharma et.al.|[2408.12881v1](http://arxiv.org/abs/2408.12881v1)|null|
-|**2024-08-12**|**Recent spectroscopy studies at Belle**|Dmytro Meleshko et.al.|[2408.06064v1](http://arxiv.org/abs/2408.06064v1)|null|
-|**2024-08-09**|**Observation of muonic Dalitz decays of $χ_{b}$ mesons and precise spectroscopy of hidden-beauty states**|LHCb collaboration et.al.|[2408.05134v1](http://arxiv.org/abs/2408.05134v1)|null|
-|**2024-08-09**|**Entanglement and Bell inequality violation in $B\to \it{ΦΦ}$ decays**|Emidio Gabrielli et.al.|[2408.05010v1](http://arxiv.org/abs/2408.05010v1)|null|
-|**2024-07-27**|**Experiments and phenomenology of electric dipole moments**|Joan Ruiz-Vidal et.al.|[2407.19247v1](http://arxiv.org/abs/2407.19247v1)|null|
-|**2024-07-26**|**Lepton flavor violation in exclusive $b\to d\ell_i\ell_j$ and $b\to s\ell_i\ell_j$ decay modes**|Damir Bečirević et.al.|[2407.19060v1](http://arxiv.org/abs/2407.19060v1)|null|
-|**2024-07-25**|**Measurement of $D^0-\overline{D}^0$ mixing and search for $CP$ violation with $D^0\rightarrow K^+π^-$ decays**|LHCb collaboration et.al.|[2407.18001v1](http://arxiv.org/abs/2407.18001v1)|null|
-|**2024-07-22**|**Model-independent analysis of new physics effects in $B\rightarrow K^*_2(1430)μ^+ μ^-$ decay**|Juhi Vardani et.al.|[2407.15577v2](http://arxiv.org/abs/2407.15577v2)|null|
-|**2024-07-19**|**Observation of exotic $J/ψφ$ resonances in diffractive processes in proton-proton collisions**|LHCb collaboration et.al.|[2407.14301v1](http://arxiv.org/abs/2407.14301v1)|null|
-|**2024-07-19**|**Study of charmonium production via the decay to $p\bar{p}$ at $\sqrt{s} = 13 TeV$**|LHCb collaboration et.al.|[2407.14261v1](http://arxiv.org/abs/2407.14261v1)|null|
-|**2024-07-19**|**A high-density gas target at the LHCb experiment**|O. Boente Garcia et.al.|[2407.14200v1](http://arxiv.org/abs/2407.14200v1)|null|
-
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -106,3 +72,37 @@
 |**2024-08-12**|**Recent spectroscopy studies at Belle**|Dmytro Meleshko et.al.|[2408.06064v1](http://arxiv.org/abs/2408.06064v1)|null|
 |**2024-08-11**|**$X(4630)$ and $Y(4626)$ production in the $B^+$ and $B_s^0$ decays**|Zhuo Yu et.al.|[2408.05813v1](http://arxiv.org/abs/2408.05813v1)|null|
 |**2024-08-09**|**Observation of muonic Dalitz decays of $χ_{b}$ mesons and precise spectroscopy of hidden-beauty states**|LHCb collaboration et.al.|[2408.05134v1](http://arxiv.org/abs/2408.05134v1)|null|
+
+### b baryon
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-10-08**|**Binwise exploration of vector couplings in $B_s \to D_s^{(*)} τ\bar ν_τ$ decays**|Ajay Kumar yadav et.al.|[2410.06100v1](http://arxiv.org/abs/2410.06100v1)|null|
+|**2024-10-07**|**Hadronic Weak Decays of Charmed Baryons in the Topological Diagrammatic Approach: An Update**|Hai-Yang Cheng et.al.|[2410.04675v1](http://arxiv.org/abs/2410.04675v1)|null|
+|**2024-10-03**|**Measurement of the effective leptonic weak mixing angle**|LHCb collaboration et.al.|[2410.02502v1](http://arxiv.org/abs/2410.02502v1)|null|
+|**2024-10-02**|**Possible signal of an exotic $I=1$, $J=2$ state in the $B \to D^{*-}D^+K^+$ reaction**|Wen-Tao Lyu et.al.|[2410.01701v1](http://arxiv.org/abs/2410.01701v1)|null|
+|**2024-09-25**|**Search for $B_{(s)}^{*0}\toμ^+μ^-$ in $B_c^+\toπ^+μ^+μ^-$ decays**|LHCb collaboration et.al.|[2409.17209v1](http://arxiv.org/abs/2409.17209v1)|null|
+|**2024-09-19**|**Tripartite entanglement from experimental data: $B^0\to K^{*0}μ^+μ^-$ as a case study**|Roberto A. Morales et.al.|[2409.13033v1](http://arxiv.org/abs/2409.13033v1)|null|
+|**2024-09-19**|**Analysis of $\itΛ^\mathrm{0}_b \rightarrow pK^-μ^+μ^-$ decays**|LHCb collaboration et.al.|[2409.12629v1](http://arxiv.org/abs/2409.12629v1)|null|
+|**2024-09-19**|**Baryon number transportation over full rapidity space in pp collisions at LHC energies**|Banajit Barman et.al.|[2409.12492v1](http://arxiv.org/abs/2409.12492v1)|null|
+|**2024-09-17**|**Quark mass dependence of doubly heavy tetraquark binding**|W. G. Parrott et.al.|[2409.11477v1](http://arxiv.org/abs/2409.11477v1)|null|
+|**2024-09-15**|**Revealing the $q^2$ dependence in $b \to s μ^+ μ^-$ baryonic decay modes**|Ajay Kumar Yadav et.al.|[2409.09737v1](http://arxiv.org/abs/2409.09737v1)|null|
+|**2024-09-09**|**First determination of the spin-parity of $Ξ_{c}(3055)^{+,0}$ baryons**|LHCb collaboration et.al.|[2409.05440v1](http://arxiv.org/abs/2409.05440v1)|null|
+|**2024-09-05**|**Measurement of exclusive $J/ψ$ and $ψ(2S)$ production at $\sqrt{s}=13$ TeV**|LHCb collaboration et.al.|[2409.03496v2](http://arxiv.org/abs/2409.03496v2)|null|
+|**2024-09-04**|**Measurement of $CP$ violation in ${B^0}\rightarrow{D^{+}D^{-}}$ and ${B^{0}_{s}}\rightarrow{D^{+}_{s}D^{-}_{s}}$ decays**|LHCb collaboration et.al.|[2409.03009v1](http://arxiv.org/abs/2409.03009v1)|null|
+|**2024-09-04**|**Measurement of $\itΛ_\it{b}^0$, $\itΛ_\it{c}^+$ and $\itΛ$ decay parameters using $\itΛ_\it{b}^0 \to \itΛ_\it{c}^+ h^-$ decays**|LHCb collaboration et.al.|[2409.02759v1](http://arxiv.org/abs/2409.02759v1)|null|
+|**2024-09-02**|**Measurement of $C\!P$ violation observables in $D^+\rightarrow K^-K^+π^+$ decays**|LHCb collaboration et.al.|[2409.01414v1](http://arxiv.org/abs/2409.01414v1)|null|
+|**2024-08-30**|**Investigation of the semileptonic decay $ Ξ^{++}_{cc}\rightarrow Ξ^+_{c} \bar{\ell}ν_{\ell}$ within QCD sum rules**|M. Shekari Tous et.al.|[2409.00241v1](http://arxiv.org/abs/2409.00241v1)|null|
+|**2024-08-29**|**Study of the rare decay $J/ψ\to μ^+μ^-μ^+μ^-$**|LHCb collaboration et.al.|[2408.16646v1](http://arxiv.org/abs/2408.16646v1)|null|
+|**2024-08-29**|**Event-activity-dependent beauty-baryon enhancement in simulations with color junctions**|Lea Virág Földvári et.al.|[2408.16447v1](http://arxiv.org/abs/2408.16447v1)|null|
+|**2024-08-28**|**$B_{(s)}\to D_{(s)}^{(*)}M$ decays in the presence of final-state interaction**|Albertus Hariwangsa Panuluh et.al.|[2408.15466v2](http://arxiv.org/abs/2408.15466v2)|null|
+|**2024-08-23**|**Spectroscopic Analysis of Singly Heavy Pentaquarks in the Symmetric 15-Plet Representation Using Phenomenological Models**|Ankush Sharma et.al.|[2408.12881v1](http://arxiv.org/abs/2408.12881v1)|null|
+|**2024-08-12**|**Recent spectroscopy studies at Belle**|Dmytro Meleshko et.al.|[2408.06064v1](http://arxiv.org/abs/2408.06064v1)|null|
+|**2024-08-09**|**Observation of muonic Dalitz decays of $χ_{b}$ mesons and precise spectroscopy of hidden-beauty states**|LHCb collaboration et.al.|[2408.05134v1](http://arxiv.org/abs/2408.05134v1)|null|
+|**2024-08-09**|**Entanglement and Bell inequality violation in $B\to \it{ΦΦ}$ decays**|Emidio Gabrielli et.al.|[2408.05010v1](http://arxiv.org/abs/2408.05010v1)|null|
+|**2024-07-27**|**Experiments and phenomenology of electric dipole moments**|Joan Ruiz-Vidal et.al.|[2407.19247v1](http://arxiv.org/abs/2407.19247v1)|null|
+|**2024-07-26**|**Lepton flavor violation in exclusive $b\to d\ell_i\ell_j$ and $b\to s\ell_i\ell_j$ decay modes**|Damir Bečirević et.al.|[2407.19060v1](http://arxiv.org/abs/2407.19060v1)|null|
+|**2024-07-25**|**Measurement of $D^0-\overline{D}^0$ mixing and search for $CP$ violation with $D^0\rightarrow K^+π^-$ decays**|LHCb collaboration et.al.|[2407.18001v1](http://arxiv.org/abs/2407.18001v1)|null|
+|**2024-07-22**|**Model-independent analysis of new physics effects in $B\rightarrow K^*_2(1430)μ^+ μ^-$ decay**|Juhi Vardani et.al.|[2407.15577v2](http://arxiv.org/abs/2407.15577v2)|null|
+|**2024-07-19**|**Observation of exotic $J/ψφ$ resonances in diffractive processes in proton-proton collisions**|LHCb collaboration et.al.|[2407.14301v1](http://arxiv.org/abs/2407.14301v1)|null|
+|**2024-07-19**|**Study of charmonium production via the decay to $p\bar{p}$ at $\sqrt{s} = 13 TeV$**|LHCb collaboration et.al.|[2407.14261v1](http://arxiv.org/abs/2407.14261v1)|null|
+|**2024-07-19**|**A high-density gas target at the LHCb experiment**|O. Boente Garcia et.al.|[2407.14200v1](http://arxiv.org/abs/2407.14200v1)|null|
