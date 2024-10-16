@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-10-15 10:09:38 Asia/Shanghai
+ Automated deployment @ 2024-10-16 08:42:11 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -76,6 +76,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-12**|**Semileptonic and nonleptonic decays of $B_{u,d,s,c}^{*}$ in the covariant light-front approach**|Si-Yang Wang et.al.|[2410.09672v1](http://arxiv.org/abs/2410.09672v1)|null|
 |**2024-10-08**|**Binwise exploration of vector couplings in $B_s \to D_s^{(*)} τ\bar ν_τ$ decays**|Ajay Kumar yadav et.al.|[2410.06100v1](http://arxiv.org/abs/2410.06100v1)|null|
 |**2024-10-07**|**Hadronic Weak Decays of Charmed Baryons in the Topological Diagrammatic Approach: An Update**|Hai-Yang Cheng et.al.|[2410.04675v1](http://arxiv.org/abs/2410.04675v1)|null|
 |**2024-10-02**|**Possible signal of an exotic $I=1$, $J=2$ state in the $B \to D^{*-}D^+K^+$ reaction**|Wen-Tao Lyu et.al.|[2410.01701v1](http://arxiv.org/abs/2410.01701v1)|null|
@@ -105,4 +106,3 @@
 |**2024-08-15**|**Mixing angle between $^{3}P_1$ and $^{1}P_1$ states in heavy axial vector mesons within QCD sum rules framework**|T. M. Aliev et.al.|[2408.08014v1](http://arxiv.org/abs/2408.08014v1)|null|
 |**2024-08-12**|**Recent spectroscopy studies at Belle**|Dmytro Meleshko et.al.|[2408.06064v1](http://arxiv.org/abs/2408.06064v1)|null|
 |**2024-08-11**|**$X(4630)$ and $Y(4626)$ production in the $B^+$ and $B_s^0$ decays**|Zhuo Yu et.al.|[2408.05813v1](http://arxiv.org/abs/2408.05813v1)|null|
-|**2024-08-09**|**Observation of muonic Dalitz decays of $χ_{b}$ mesons and precise spectroscopy of hidden-beauty states**|LHCb collaboration et.al.|[2408.05134v1](http://arxiv.org/abs/2408.05134v1)|null|
