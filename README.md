@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-10-17 08:41:51 Asia/Shanghai
+ Automated deployment @ 2024-10-17 10:07:04 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -18,7 +18,7 @@
 |**2023-12-31**|**Study the structure of X(3872) from its lineshape**|Hongge Xu et.al.|[2401.00411v2](http://arxiv.org/abs/2401.00411v2)|null|
 |**2023-12-24**|**Analysis of $B^0_s\rightarrow χ_{c1}(3872)π^+π^-$ decay**|Elnaz Amirkhanlou et.al.|[2312.15437v1](http://arxiv.org/abs/2312.15437v1)|null|
 |**2023-11-16**|**Coupled-channel description of charmed heavy hadronic molecules within the meson-exchange model and its implication**|Lin Qiu et.al.|[2311.10067v3](http://arxiv.org/abs/2311.10067v3)|null|
-|**2023-08-06**|**Semileptonic $B_{c}$ meson decays to S-wave charmonia and $X(3872)$ within the covariant light-front approach**|Zhi-Jie Sun et.al.|[2308.03114v2](http://arxiv.org/abs/2308.03114v2)|null|
+|**2023-08-06**|**Semileptonic $B_{c}$ meson decays to S-wave charmonia and $X(3872)$ within the covariant light-front approach**|Zhi-Jie Sun et.al.|[2308.03114v3](http://arxiv.org/abs/2308.03114v3)|null|
 |**2023-03-07**|**The study on the structure of exotic states $χ_{c 1}(3872)$ via beauty-hadron decays in $pp$ collisions at $\sqrt{s}=8\,\mathrm{TeV}$**|Chun-tai Wu et.al.|[2303.03696v1](http://arxiv.org/abs/2303.03696v1)|null|
 |**2023-02-21**|**Observation of the $B^0_s\rightarrow χ_{c1}(3872)π^+π^-$ decay**|LHCb collaboration et.al.|[2302.10629v2](http://arxiv.org/abs/2302.10629v2)|null|
 |**2023-02-04**|**Study of the lineshape of $X(3872)$ using $B$ decays to $D^0\overline{D}{}^{*0}K$**|Belle Collaboration et.al.|[2302.02127v2](http://arxiv.org/abs/2302.02127v2)|null|
