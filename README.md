@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-10-30 10:08:26 Asia/Shanghai
+ Automated deployment @ 2024-10-31 08:42:52 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-28**|**Sum rules for semi-leptonic $b \to c$ and $b \to u$ decays: accuracy checks and implications**|Wen-Feng Duan et.al.|[2410.21384v1](http://arxiv.org/abs/2410.21384v1)|null|
 |**2024-10-28**|**Measurement of the CKM angle $γ$ in $B^{\pm} \to D K^*(892)^{\pm}$ decays**|LHCb collaboration et.al.|[2410.21115v1](http://arxiv.org/abs/2410.21115v1)|null|
 |**2024-10-27**|**Angular observables of the four-fold $B \to K_{1}(1270,1400)(\to V P) \ell^{+}\ell^{-}$ decays in and beyond the Standard Model**|Faisal Munir Bhutta et.al.|[2410.20633v1](http://arxiv.org/abs/2410.20633v1)|null|
 |**2024-10-23**|**Measurements of $ψ{(2S)}$ and $χ_{c1}(3872)$ production within fully reconstructed jets**|LHCb collaboration et.al.|[2410.18018v1](http://arxiv.org/abs/2410.18018v1)|null|
@@ -71,11 +72,11 @@
 |**2024-08-28**|**$B_{(s)}\to D_{(s)}^{(*)}M$ decays in the presence of final-state interaction**|Albertus Hariwangsa Panuluh et.al.|[2408.15466v2](http://arxiv.org/abs/2408.15466v2)|null|
 |**2024-08-26**|**Predictions for $h_c$ and $h_b$ production at the LHC**|Sudhansu S. Biswal et.al.|[2408.14133v2](http://arxiv.org/abs/2408.14133v2)|null|
 |**2024-08-23**|**Analysis of the resonance X(4630) at non-zero temperature**|G. Bozkır et.al.|[2408.13093v1](http://arxiv.org/abs/2408.13093v1)|null|
-|**2024-08-23**|**Search for the $Σ(1380)1/2^-$ state in $Λ^+_c \to γ π^+ Λ$ decay by triangle singularity**|Ke Wang et.al.|[2408.12965v1](http://arxiv.org/abs/2408.12965v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-28**|**Sum rules for semi-leptonic $b \to c$ and $b \to u$ decays: accuracy checks and implications**|Wen-Feng Duan et.al.|[2410.21384v1](http://arxiv.org/abs/2410.21384v1)|null|
 |**2024-10-28**|**Measurement of the CKM angle $γ$ in $B^{\pm} \to D K^*(892)^{\pm}$ decays**|LHCb collaboration et.al.|[2410.21115v1](http://arxiv.org/abs/2410.21115v1)|null|
 |**2024-10-27**|**Angular observables of the four-fold $B \to K_{1}(1270,1400)(\to V P) \ell^{+}\ell^{-}$ decays in and beyond the Standard Model**|Faisal Munir Bhutta et.al.|[2410.20633v1](http://arxiv.org/abs/2410.20633v1)|null|
 |**2024-10-23**|**Measurements of $ψ{(2S)}$ and $χ_{c1}(3872)$ production within fully reconstructed jets**|LHCb collaboration et.al.|[2410.18018v1](http://arxiv.org/abs/2410.18018v1)|null|
@@ -105,4 +106,3 @@
 |**2024-08-09**|**Observation of muonic Dalitz decays of $χ_{b}$ mesons and precise spectroscopy of hidden-beauty states**|LHCb collaboration et.al.|[2408.05134v2](http://arxiv.org/abs/2408.05134v2)|null|
 |**2024-08-09**|**Entanglement and Bell inequality violation in $B\to \it{ΦΦ}$ decays**|Emidio Gabrielli et.al.|[2408.05010v1](http://arxiv.org/abs/2408.05010v1)|null|
 |**2024-07-27**|**Experiments and phenomenology of electric dipole moments**|Joan Ruiz-Vidal et.al.|[2407.19247v1](http://arxiv.org/abs/2407.19247v1)|null|
-|**2024-07-26**|**Lepton flavor violation in exclusive $b\to d\ell_i\ell_j$ and $b\to s\ell_i\ell_j$ decay modes**|Damir Bečirević et.al.|[2407.19060v1](http://arxiv.org/abs/2407.19060v1)|null|
