@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-11-07 10:04:52 Asia/Shanghai
+ Automated deployment @ 2024-11-08 08:41:32 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -8,6 +8,8 @@
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-05**|**Hunting New Animalcula with Rare K and B Decays**|Andrzej J. Buras et.al.|[2411.03440v1](http://arxiv.org/abs/2411.03440v1)|null|
+|**2024-11-05**|**Study of $D_{s1}(2460)^{+}\to D_{s}^{+}π^{+}π^{-}$ in $B\to {\bar{D}}^{(*)}D_{s}^{+}π^{+}π^{-}$ decays**|LHCb collaboration et.al.|[2411.03399v1](http://arxiv.org/abs/2411.03399v1)|null|
 |**2024-11-01**|**Exploring New Physics in transition $b\to s\,\ell^+\ell^-$ through different $B_c\to D_s^{(\ast)} \,\ell^+\ell^-$ observables**|Qazi Maaz Us Salam et.al.|[2411.00912v1](http://arxiv.org/abs/2411.00912v1)|null|
 |**2024-10-28**|**Sum rules for semi-leptonic $b \to c$ and $b \to u$ decays: accuracy checks and implications**|Wen-Feng Duan et.al.|[2410.21384v1](http://arxiv.org/abs/2410.21384v1)|null|
 |**2024-10-28**|**Measurement of the CKM angle $γ$ in $B^{\pm} \to D K^*(892)^{\pm}$ decays**|LHCb collaboration et.al.|[2410.21115v1](http://arxiv.org/abs/2410.21115v1)|null|
@@ -36,8 +38,6 @@
 |**2024-08-28**|**$B_{(s)}\to D_{(s)}^{(*)}M$ decays in the presence of final-state interaction**|Albertus Hariwangsa Panuluh et.al.|[2408.15466v2](http://arxiv.org/abs/2408.15466v2)|null|
 |**2024-08-23**|**Spectroscopic Analysis of Singly Heavy Pentaquarks in the Symmetric 15-Plet Representation Using Phenomenological Models**|Ankush Sharma et.al.|[2408.12881v1](http://arxiv.org/abs/2408.12881v1)|null|
 |**2024-08-12**|**Recent spectroscopy studies at Belle**|Dmytro Meleshko et.al.|[2408.06064v1](http://arxiv.org/abs/2408.06064v1)|null|
-|**2024-08-09**|**Observation of muonic Dalitz decays of $χ_{b}$ mesons and precise spectroscopy of hidden-beauty states**|LHCb collaboration et.al.|[2408.05134v2](http://arxiv.org/abs/2408.05134v2)|null|
-|**2024-08-09**|**Entanglement and Bell inequality violation in $B\to \it{ΦΦ}$ decays**|Emidio Gabrielli et.al.|[2408.05010v1](http://arxiv.org/abs/2408.05010v1)|null|
 
 ### X(3872)
 |Publish Date|Title|Authors|PDF|Code|
@@ -76,6 +76,8 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-05**|**Hunting New Animalcula with Rare K and B Decays**|Andrzej J. Buras et.al.|[2411.03440v1](http://arxiv.org/abs/2411.03440v1)|null|
+|**2024-11-05**|**Study of $D_{s1}(2460)^{+}\to D_{s}^{+}π^{+}π^{-}$ in $B\to {\bar{D}}^{(*)}D_{s}^{+}π^{+}π^{-}$ decays**|LHCb collaboration et.al.|[2411.03399v1](http://arxiv.org/abs/2411.03399v1)|null|
 |**2024-11-04**|**Searching for signals of an exotic $I=1,J^P=2^+$ state of $D^*K^*$ nature and the structure of the $P_c(4312)$ in the $Λ_b\to Σ_c^{++} D^- K^-$ reaction**|Jing Song et.al.|[2411.02358v1](http://arxiv.org/abs/2411.02358v1)|null|
 |**2024-11-04**|**Production and decay of anticharmed pentaquark state with quark content $\bar{c}sudd$**|Shi-Dong Liu et.al.|[2411.01910v1](http://arxiv.org/abs/2411.01910v1)|null|
 |**2024-11-01**|**Exploring New Physics in transition $b\to s\,\ell^+\ell^-$ through different $B_c\to D_s^{(\ast)} \,\ell^+\ell^-$ observables**|Qazi Maaz Us Salam et.al.|[2411.00912v1](http://arxiv.org/abs/2411.00912v1)|null|
@@ -104,5 +106,3 @@
 |**2024-09-04**|**Measurement of $\itΛ_\it{b}^0$, $\itΛ_\it{c}^+$ and $\itΛ$ decay parameters using $\itΛ_\it{b}^0 \to \itΛ_\it{c}^+ h^-$ decays**|LHCb collaboration et.al.|[2409.02759v1](http://arxiv.org/abs/2409.02759v1)|null|
 |**2024-09-04**|**Weak decays of $B_s$ to $D_s$ based on the helicity analysis**|Sara Rahmani et.al.|[2409.02460v1](http://arxiv.org/abs/2409.02460v1)|null|
 |**2024-09-02**|**Measurement of $C\!P$ violation observables in $D^+\rightarrow K^-K^+π^+$ decays**|LHCb collaboration et.al.|[2409.01414v1](http://arxiv.org/abs/2409.01414v1)|null|
-|**2024-08-30**|**Investigation of the semileptonic decay $ Ξ^{++}_{cc}\rightarrow Ξ^+_{c} \bar{\ell}ν_{\ell}$ within QCD sum rules**|M. Shekari Tousi et.al.|[2409.00241v2](http://arxiv.org/abs/2409.00241v2)|null|
-|**2024-08-29**|**Study of the rare decay $J/ψ\to μ^+μ^-μ^+μ^-$**|LHCb collaboration et.al.|[2408.16646v1](http://arxiv.org/abs/2408.16646v1)|null|
