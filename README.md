@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-11-08 10:05:31 Asia/Shanghai
+ Automated deployment @ 2024-11-09 08:40:41 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-06**|**Probing QCD Axions or Axion-like Particles in three-body $K$ Decays**|Mael Cavan-Piton et.al.|[2411.04170v1](http://arxiv.org/abs/2411.04170v1)|null|
 |**2024-11-05**|**Hunting New Animalcula with Rare K and B Decays**|Andrzej J. Buras et.al.|[2411.03440v1](http://arxiv.org/abs/2411.03440v1)|null|
 |**2024-11-05**|**Study of $D_{s1}(2460)^{+}\to D_{s}^{+}π^{+}π^{-}$ in $B\to {\bar{D}}^{(*)}D_{s}^{+}π^{+}π^{-}$ decays**|LHCb collaboration et.al.|[2411.03399v1](http://arxiv.org/abs/2411.03399v1)|null|
 |**2024-11-04**|**Searching for signals of an exotic $I=1,J^P=2^+$ state of $D^*K^*$ nature and the structure of the $P_c(4312)$ in the $Λ_b\to Σ_c^{++} D^- K^-$ reaction**|Jing Song et.al.|[2411.02358v1](http://arxiv.org/abs/2411.02358v1)|null|
@@ -71,7 +72,6 @@
 |**2024-09-04**|**Measurement of $CP$ violation in ${B^0}\rightarrow{D^{+}D^{-}}$ and ${B^{0}_{s}}\rightarrow{D^{+}_{s}D^{-}_{s}}$ decays**|LHCb collaboration et.al.|[2409.03009v1](http://arxiv.org/abs/2409.03009v1)|null|
 |**2024-09-04**|**Measurement of $\itΛ_\it{b}^0$, $\itΛ_\it{c}^+$ and $\itΛ$ decay parameters using $\itΛ_\it{b}^0 \to \itΛ_\it{c}^+ h^-$ decays**|LHCb collaboration et.al.|[2409.02759v1](http://arxiv.org/abs/2409.02759v1)|null|
 |**2024-09-04**|**Weak decays of $B_s$ to $D_s$ based on the helicity analysis**|Sara Rahmani et.al.|[2409.02460v1](http://arxiv.org/abs/2409.02460v1)|null|
-|**2024-09-02**|**Measurement of $C\!P$ violation observables in $D^+\rightarrow K^-K^+π^+$ decays**|LHCb collaboration et.al.|[2409.01414v1](http://arxiv.org/abs/2409.01414v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
