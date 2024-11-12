@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-11-11 10:07:19 Asia/Shanghai
+ Automated deployment @ 2024-11-12 08:41:02 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -76,6 +76,7 @@
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-08**|**Measurement of the $ψ(2S)$ to $J/ψ$ cross-section ratio as a function of centrality in PbPb collisions at $\sqrt{s_{\text{NN}}}$ = 5.02 TeV**|LHCb collaboration et.al.|[2411.05669v1](http://arxiv.org/abs/2411.05669v1)|null|
 |**2024-11-05**|**Hunting New Animalcula with Rare K and B Decays**|Andrzej J. Buras et.al.|[2411.03440v1](http://arxiv.org/abs/2411.03440v1)|null|
 |**2024-11-05**|**Study of $D_{s1}(2460)^{+}\to D_{s}^{+}π^{+}π^{-}$ in $B\to {\bar{D}}^{(*)}D_{s}^{+}π^{+}π^{-}$ decays**|LHCb collaboration et.al.|[2411.03399v1](http://arxiv.org/abs/2411.03399v1)|null|
 |**2024-11-01**|**Exploring New Physics in transition $b\to s\,\ell^+\ell^-$ through different $B_c\to D_s^{(\ast)} \,\ell^+\ell^-$ observables**|Qazi Maaz Us Salam et.al.|[2411.00912v1](http://arxiv.org/abs/2411.00912v1)|null|
@@ -105,4 +106,3 @@
 |**2024-08-29**|**Event-activity-dependent beauty-baryon enhancement in simulations with color junctions**|Lea Virág Földvári et.al.|[2408.16447v1](http://arxiv.org/abs/2408.16447v1)|null|
 |**2024-08-28**|**$B_{(s)}\to D_{(s)}^{(*)}M$ decays in the presence of final-state interaction**|Albertus Hariwangsa Panuluh et.al.|[2408.15466v2](http://arxiv.org/abs/2408.15466v2)|null|
 |**2024-08-23**|**Spectroscopic Analysis of Singly Heavy Pentaquarks in the Symmetric 15-Plet Representation Using Phenomenological Models**|Ankush Sharma et.al.|[2408.12881v1](http://arxiv.org/abs/2408.12881v1)|null|
-|**2024-08-12**|**Recent spectroscopy studies at Belle**|Dmytro Meleshko et.al.|[2408.06064v1](http://arxiv.org/abs/2408.06064v1)|null|
