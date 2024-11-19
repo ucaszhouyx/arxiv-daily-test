@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-11-19 08:44:18 Asia/Shanghai
+ Automated deployment @ 2024-11-19 10:13:12 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -43,7 +43,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-11-15**|**Bridging correlation and spectroscopy measurements to access the hadron interaction behind molecular states: the case of the $Ξ$(1620) and $Ξ$(1690) in the $K^- Λ$ system**|A. Feijoo et.al.|[2411.10245v1](http://arxiv.org/abs/2411.10245v1)|null|
-|**2024-11-15**|**Constraints on the photon polarisation in $b \to s γ$ transitions using $B_s^0 \rightarrow φe^+e^-$ decays**|LHCb collaboration et.al.|[2411.10219v1](http://arxiv.org/abs/2411.10219v1)|null|
+|**2024-11-15**|**Constraints on the photon polarisation in $b \to s γ$ transitions using $B_s^0 \rightarrow φe^+e^-$ decays**|LHCb collaboration et.al.|[2411.10219v2](http://arxiv.org/abs/2411.10219v2)|null|
 |**2024-11-14**|**Measurement of $φ(1020)$ meson production in fixed-target $\textit{p}$Ne collisions at $\sqrt{s_{NN}}$ = 68.5 GeV**|LHCb collaboration et.al.|[2411.09343v1](http://arxiv.org/abs/2411.09343v1)|null|
 |**2024-11-06**|**Probing QCD Axions or Axion-like Particles in three-body $K$ Decays**|Mael Cavan-Piton et.al.|[2411.04170v1](http://arxiv.org/abs/2411.04170v1)|null|
 |**2024-11-05**|**Hunting New Animalcula with Rare K and B Decays**|Andrzej J. Buras et.al.|[2411.03440v1](http://arxiv.org/abs/2411.03440v1)|null|
@@ -77,7 +77,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-11-15**|**Bridging correlation and spectroscopy measurements to access the hadron interaction behind molecular states: the case of the $Ξ$(1620) and $Ξ$(1690) in the $K^- Λ$ system**|A. Feijoo et.al.|[2411.10245v1](http://arxiv.org/abs/2411.10245v1)|null|
-|**2024-11-15**|**Constraints on the photon polarisation in $b \to s γ$ transitions using $B_s^0 \rightarrow φe^+e^-$ decays**|LHCb collaboration et.al.|[2411.10219v1](http://arxiv.org/abs/2411.10219v1)|null|
+|**2024-11-15**|**Constraints on the photon polarisation in $b \to s γ$ transitions using $B_s^0 \rightarrow φe^+e^-$ decays**|LHCb collaboration et.al.|[2411.10219v2](http://arxiv.org/abs/2411.10219v2)|null|
 |**2024-11-14**|**Measurement of $φ(1020)$ meson production in fixed-target $\textit{p}$Ne collisions at $\sqrt{s_{NN}}$ = 68.5 GeV**|LHCb collaboration et.al.|[2411.09343v1](http://arxiv.org/abs/2411.09343v1)|null|
 |**2024-11-08**|**Measurement of the $ψ(2S)$ to $J/ψ$ cross-section ratio as a function of centrality in PbPb collisions at $\sqrt{s_{\text{NN}}}$ = 5.02 TeV**|LHCb collaboration et.al.|[2411.05669v1](http://arxiv.org/abs/2411.05669v1)|null|
 |**2024-11-05**|**Hunting New Animalcula with Rare K and B Decays**|Andrzej J. Buras et.al.|[2411.03440v1](http://arxiv.org/abs/2411.03440v1)|null|
