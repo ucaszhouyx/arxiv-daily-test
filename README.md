@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-11-22 10:13:35 Asia/Shanghai
+ Automated deployment @ 2024-11-23 08:43:00 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -76,6 +76,7 @@
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-21**|**Analysis of hidden-charm pentaquarks as triangle singularities via deep learning**|Darwin Alexander O. Co et.al.|[2411.14044v1](http://arxiv.org/abs/2411.14044v1)|null|
 |**2024-11-19**|**First evidence for direct CP violation in beauty to charmonium decays**|LHCb collaboration et.al.|[2411.12178v1](http://arxiv.org/abs/2411.12178v1)|null|
 |**2024-11-15**|**Bridging correlation and spectroscopy measurements to access the hadron interaction behind molecular states: the case of the $Ξ$(1620) and $Ξ$(1690) in the $K^- Λ$ system**|A. Feijoo et.al.|[2411.10245v1](http://arxiv.org/abs/2411.10245v1)|null|
 |**2024-11-15**|**Constraints on the photon polarisation in $b \to s γ$ transitions using $B_s^0 \rightarrow φe^+e^-$ decays**|LHCb collaboration et.al.|[2411.10219v2](http://arxiv.org/abs/2411.10219v2)|null|
@@ -105,4 +106,3 @@
 |**2024-09-04**|**Measurement of $CP$ violation in ${B^0}\rightarrow{D^{+}D^{-}}$ and ${B^{0}_{s}}\rightarrow{D^{+}_{s}D^{-}_{s}}$ decays**|LHCb collaboration et.al.|[2409.03009v1](http://arxiv.org/abs/2409.03009v1)|null|
 |**2024-09-04**|**Measurement of $\itΛ_\it{b}^0$, $\itΛ_\it{c}^+$ and $\itΛ$ decay parameters using $\itΛ_\it{b}^0 \to \itΛ_\it{c}^+ h^-$ decays**|LHCb collaboration et.al.|[2409.02759v1](http://arxiv.org/abs/2409.02759v1)|null|
 |**2024-09-02**|**Measurement of $C\!P$ violation observables in $D^+\rightarrow K^-K^+π^+$ decays**|LHCb collaboration et.al.|[2409.01414v1](http://arxiv.org/abs/2409.01414v1)|null|
-|**2024-08-30**|**Investigation of the semileptonic decay $ Ξ^{++}_{cc}\rightarrow Ξ^+_{c} \bar{\ell}ν_{\ell}$ within QCD sum rules**|M. Shekari Tousi et.al.|[2409.00241v3](http://arxiv.org/abs/2409.00241v3)|null|
