@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-11-27 10:16:34 Asia/Shanghai
+ Automated deployment @ 2024-11-28 08:45:17 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-26**|**Determination of the binding and $KD$ probability of the $D^{*}_{s0}(2317)$ from the $(\bar{D}\bar K)^-$ mass distributions in $Λ_{b}\to Λ_{c} (\bar{D}\bar K)^-$ decays**|Hai-Peng Li et.al.|[2411.17098v1](http://arxiv.org/abs/2411.17098v1)|null|
 |**2024-11-24**|**High-lying states in the charmonium family**|Zhi-Hao Pang et.al.|[2411.15689v1](http://arxiv.org/abs/2411.15689v1)|null|
 |**2024-11-23**|**Study of $\itΛ_{\it{b}}^\rm{0}$ and $\itΞ_{\it{b}}^\rm{0}$ decays to $\itΛ h^+h^{'-}$ and evidence for $CP$ violation in $\itΛ_{\it{b}}^\rm{0}\to\itΛ K^+K^-$ decays**|LHCb collaboration et.al.|[2411.15441v1](http://arxiv.org/abs/2411.15441v1)|null|
 |**2024-11-19**|**First evidence for direct CP violation in beauty to charmonium decays**|LHCb collaboration et.al.|[2411.12178v2](http://arxiv.org/abs/2411.12178v2)|null|
@@ -71,7 +72,6 @@
 |**2024-09-19**|**Tripartite entanglement from experimental data: $B^0\to K^{*0}μ^+μ^-$ as a case study**|Roberto A. Morales et.al.|[2409.13033v2](http://arxiv.org/abs/2409.13033v2)|null|
 |**2024-09-19**|**Analysis of $\itΛ^\mathrm{0}_b \rightarrow pK^-μ^+μ^-$ decays**|LHCb collaboration et.al.|[2409.12629v1](http://arxiv.org/abs/2409.12629v1)|null|
 |**2024-09-16**|**The higher $χ_{cJ}(nP)$, $h_c(nP)$ states and the role of the gluon-exchange potential**|A. M. Badalian et.al.|[2409.10761v1](http://arxiv.org/abs/2409.10761v1)|null|
-|**2024-09-15**|**Revealing the $q^2$ dependence in $b \to s μ^+ μ^-$ baryonic decay modes**|Ajay Kumar Yadav et.al.|[2409.09737v1](http://arxiv.org/abs/2409.09737v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
