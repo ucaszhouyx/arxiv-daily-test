@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-12-09 08:48:54 Asia/Shanghai
+ Automated deployment @ 2024-12-09 10:22:15 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,7 +42,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-12-03**|**Excited $Ω$ hyperon in charmful $Ω_b$ weak decays**|Juan Wang et.al.|[2412.02464v1](http://arxiv.org/abs/2412.02464v1)|null|
+|**2024-12-03**|**Excited $Ω$ hyperon in charmful $Ω_b$ weak decays**|Juan Wang et.al.|[2412.02464v2](http://arxiv.org/abs/2412.02464v2)|null|
 |**2024-11-29**|**Observation of the open-charm tetraquark state $T_{cs 0}^{*}(2870)^0$ in the $B^- \rightarrow D^- D^0 K_\mathrm{S}^0$ decay**|LHCb collaboration et.al.|[2411.19781v1](http://arxiv.org/abs/2411.19781v1)|null|
 |**2024-11-27**|**Implications on CP violation of charmless three body decays of bottom baryon from the U-spin analysis**|Wei Wang et.al.|[2411.18400v1](http://arxiv.org/abs/2411.18400v1)|null|
 |**2024-11-27**|**CP violation observables in baryon decays**|Jian-Peng Wang et.al.|[2411.18323v1](http://arxiv.org/abs/2411.18323v1)|null|
@@ -76,7 +76,7 @@
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-12-03**|**Excited $Ω$ hyperon in charmful $Ω_b$ weak decays**|Juan Wang et.al.|[2412.02464v1](http://arxiv.org/abs/2412.02464v1)|null|
+|**2024-12-03**|**Excited $Ω$ hyperon in charmful $Ω_b$ weak decays**|Juan Wang et.al.|[2412.02464v2](http://arxiv.org/abs/2412.02464v2)|null|
 |**2024-11-29**|**Observation of the open-charm tetraquark state $T_{cs 0}^{*}(2870)^0$ in the $B^- \rightarrow D^- D^0 K_\mathrm{S}^0$ decay**|LHCb collaboration et.al.|[2411.19781v1](http://arxiv.org/abs/2411.19781v1)|null|
 |**2024-11-27**|**Implications on CP violation of charmless three body decays of bottom baryon from the U-spin analysis**|Wei Wang et.al.|[2411.18400v1](http://arxiv.org/abs/2411.18400v1)|null|
 |**2024-11-27**|**CP violation observables in baryon decays**|Jian-Peng Wang et.al.|[2411.18323v1](http://arxiv.org/abs/2411.18323v1)|null|
@@ -98,7 +98,7 @@
 |**2024-10-17**|**Test of lepton flavour universality with $B_s^0 \rightarrow φ \ell^+\ell^-$ decays**|LHCb collaboration et.al.|[2410.13748v1](http://arxiv.org/abs/2410.13748v1)|null|
 |**2024-10-08**|**Binwise exploration of vector couplings in $B_s \to D_s^{(*)} τ\bar ν_τ$ decays**|Ajay Kumar yadav et.al.|[2410.06100v1](http://arxiv.org/abs/2410.06100v1)|null|
 |**2024-10-07**|**Hadronic Weak Decays of Charmed Baryons in the Topological Diagrammatic Approach: An Update**|Hai-Yang Cheng et.al.|[2410.04675v1](http://arxiv.org/abs/2410.04675v1)|null|
-|**2024-10-03**|**Measurement of the effective leptonic weak mixing angle**|LHCb collaboration et.al.|[2410.02502v1](http://arxiv.org/abs/2410.02502v1)|null|
+|**2024-10-03**|**Measurement of the effective leptonic weak mixing angle**|LHCb collaboration et.al.|[2410.02502v2](http://arxiv.org/abs/2410.02502v2)|null|
 |**2024-10-02**|**Possible signal of an exotic $I=1$, $J=2$ state in the $B \to D^{*-}D^+K^+$ reaction**|Wen-Tao Lyu et.al.|[2410.01701v1](http://arxiv.org/abs/2410.01701v1)|null|
 |**2024-09-25**|**Search for $B_{(s)}^{*0}\toμ^+μ^-$ in $B_c^+\toπ^+μ^+μ^-$ decays**|LHCb collaboration et.al.|[2409.17209v1](http://arxiv.org/abs/2409.17209v1)|null|
 |**2024-09-19**|**Tripartite entanglement from experimental data: $B^0\to K^{*0}μ^+μ^-$ as a case study**|Roberto A. Morales et.al.|[2409.13033v2](http://arxiv.org/abs/2409.13033v2)|null|
