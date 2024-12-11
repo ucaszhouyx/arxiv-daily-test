@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-12-10 10:21:10 Asia/Shanghai
+ Automated deployment @ 2024-12-11 08:46:24 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,8 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-12-09**|**Transition form factors of the $Λ_b \rightarrow Λ(1520)$ in QCD light-cone sum rules**|Ke-Sheng Huang et.al.|[2412.06515v1](http://arxiv.org/abs/2412.06515v1)|null|
+|**2024-12-09**|**Scalar resonance contributions in the $D_{s1}(2460)^{+} \rightarrow D_{s}^{+}π^{+}π^{-}$ reaction**|Zhong-Yu Wang et.al.|[2412.06446v1](http://arxiv.org/abs/2412.06446v1)|null|
 |**2024-12-03**|**Excited $Ω$ hyperon in charmful $Ω_b$ weak decays**|Juan Wang et.al.|[2412.02464v2](http://arxiv.org/abs/2412.02464v2)|null|
 |**2024-11-29**|**Observation of the open-charm tetraquark state $T_{cs 0}^{*}(2870)^0$ in the $B^- \rightarrow D^- D^0 K_\mathrm{S}^0$ decay**|LHCb collaboration et.al.|[2411.19781v1](http://arxiv.org/abs/2411.19781v1)|null|
 |**2024-11-27**|**Implications on CP violation of charmless three body decays of bottom baryon from the U-spin analysis**|Wei Wang et.al.|[2411.18400v1](http://arxiv.org/abs/2411.18400v1)|null|
@@ -70,8 +72,6 @@
 |**2024-10-17**|**Test of lepton flavour universality with $B_s^0 \rightarrow φ \ell^+\ell^-$ decays**|LHCb collaboration et.al.|[2410.13748v1](http://arxiv.org/abs/2410.13748v1)|null|
 |**2024-10-12**|**Semileptonic and nonleptonic decays of $B_{u,d,s,c}^{*}$ in the covariant light-front approach**|Si-Yang Wang et.al.|[2410.09672v1](http://arxiv.org/abs/2410.09672v1)|null|
 |**2024-10-08**|**Binwise exploration of vector couplings in $B_s \to D_s^{(*)} τ\bar ν_τ$ decays**|Ajay Kumar yadav et.al.|[2410.06100v1](http://arxiv.org/abs/2410.06100v1)|null|
-|**2024-10-07**|**Hadronic Weak Decays of Charmed Baryons in the Topological Diagrammatic Approach: An Update**|Hai-Yang Cheng et.al.|[2410.04675v1](http://arxiv.org/abs/2410.04675v1)|null|
-|**2024-10-02**|**Possible signal of an exotic $I=1$, $J=2$ state in the $B \to D^{*-}D^+K^+$ reaction**|Wen-Tao Lyu et.al.|[2410.01701v1](http://arxiv.org/abs/2410.01701v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
