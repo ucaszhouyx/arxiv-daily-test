@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2024-12-18 08:44:26 Asia/Shanghai
+ Automated deployment @ 2024-12-19 08:44:50 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -39,46 +39,12 @@
 |**2021-08-05**|**A survey of heavy-heavy hadronic molecules**|Xiang-Kun Dong et.al.|[2108.02673v3](http://arxiv.org/abs/2108.02673v3)|null|
 |**2021-07-29**|**$S$-wave contributions to the $B_{(s)}\rightarrow χ_{c1} (ππ,Kπ,KK)$ decays**|Meng-Kun Jia et.al.|[2107.13882v2](http://arxiv.org/abs/2107.13882v2)|null|
 
-### rare decay
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-12-16**|**Test of lepton flavour universality with $B^+ \to K^+π^+π^-\ell^+\ell^-$ decays**|LHCb collaboration et.al.|[2412.11645v1](http://arxiv.org/abs/2412.11645v1)|null|
-|**2024-12-16**|**Charmful two-body $Ω_b$ decays in the light-front quark model**|Yan-Li Wang et.al.|[2412.11584v1](http://arxiv.org/abs/2412.11584v1)|null|
-|**2024-12-12**|**Search for $D^0$ meson decays to $π^+ π^- e^+ e^-$ and $K^+ K^- e^+ e^-$ final states**|LHCb collaboration et.al.|[2412.09414v1](http://arxiv.org/abs/2412.09414v1)|null|
-|**2024-12-12**|**Non-$D\bar{D}$ Decays into Light Meson Pairs of the $D$-Wave Charmonium $ψ_3(3842)$**|Zi-Yue Bai et.al.|[2412.09408v2](http://arxiv.org/abs/2412.09408v2)|null|
-|**2024-12-09**|**Transition form factors of the $Λ_b \rightarrow Λ(1520)$ in QCD light-cone sum rules**|Ke-Sheng Huang et.al.|[2412.06515v1](http://arxiv.org/abs/2412.06515v1)|null|
-|**2024-12-09**|**Scalar resonance contributions in the $D_{s1}(2460)^{+} \rightarrow D_{s}^{+}π^{+}π^{-}$ reaction**|Zhong-Yu Wang et.al.|[2412.06446v1](http://arxiv.org/abs/2412.06446v1)|null|
-|**2024-12-03**|**Excited $Ω$ hyperon in charmful $Ω_b$ weak decays**|Kai-Lei Wang et.al.|[2412.02464v3](http://arxiv.org/abs/2412.02464v3)|null|
-|**2024-11-29**|**Observation of the open-charm tetraquark state $T_{cs 0}^{*}(2870)^0$ in the $B^- \rightarrow D^- D^0 K_\mathrm{S}^0$ decay**|LHCb collaboration et.al.|[2411.19781v1](http://arxiv.org/abs/2411.19781v1)|null|
-|**2024-11-27**|**Implications on CP violation of charmless three body decays of bottom baryon from the U-spin analysis**|Wei Wang et.al.|[2411.18400v1](http://arxiv.org/abs/2411.18400v1)|null|
-|**2024-11-27**|**CP violation observables in baryon decays**|Jian-Peng Wang et.al.|[2411.18323v1](http://arxiv.org/abs/2411.18323v1)|null|
-|**2024-11-27**|**Study of the exotic three-body $N D^* \bar{K}^*$ system**|Qing-Yu Zhai et.al.|[2411.18285v1](http://arxiv.org/abs/2411.18285v1)|null|
-|**2024-11-27**|**Roles of $f_{0}(500)$ and $f_{0}(980)$ in the $D_{(s)}^{+}\rightarrowπ^{+}π^{+}π^{-}$ decays**|Zhong-Yu Wang et.al.|[2411.18134v1](http://arxiv.org/abs/2411.18134v1)|null|
-|**2024-11-26**|**Determination of the binding and $KD$ probability of the $D^{*}_{s0}(2317)$ from the $(\bar{D}\bar K)^-$ mass distributions in $Λ_{b}\to Λ_{c} (\bar{D}\bar K)^-$ decays**|Hai-Peng Li et.al.|[2411.17098v1](http://arxiv.org/abs/2411.17098v1)|null|
-|**2024-11-24**|**High-lying states in the charmonium family**|Zhi-Hao Pan et.al.|[2411.15689v2](http://arxiv.org/abs/2411.15689v2)|null|
-|**2024-11-23**|**Study of $\itΛ_{\it{b}}^\rm{0}$ and $\itΞ_{\it{b}}^\rm{0}$ decays to $\itΛ h^+h^{'-}$ and evidence for $CP$ violation in $\itΛ_{\it{b}}^\rm{0}\to\itΛ K^+K^-$ decays**|LHCb collaboration et.al.|[2411.15441v1](http://arxiv.org/abs/2411.15441v1)|null|
-|**2024-11-19**|**First evidence for direct CP violation in beauty to charmonium decays**|LHCb collaboration et.al.|[2411.12178v2](http://arxiv.org/abs/2411.12178v2)|null|
-|**2024-11-15**|**Bridging correlation and spectroscopy measurements to access the hadron interaction behind molecular states: the case of the $Ξ$(1620) and $Ξ$(1690) in the $K^- Λ$ system**|A. Feijoo et.al.|[2411.10245v1](http://arxiv.org/abs/2411.10245v1)|null|
-|**2024-11-15**|**Constraints on the photon polarisation in $b \to s γ$ transitions using $B_s^0 \rightarrow φe^+e^-$ decays**|LHCb collaboration et.al.|[2411.10219v2](http://arxiv.org/abs/2411.10219v2)|null|
-|**2024-11-14**|**Measurement of $φ(1020)$ meson production in fixed-target $\textit{p}$Ne collisions at $\sqrt{s_{NN}}$ = 68.5 GeV**|LHCb collaboration et.al.|[2411.09343v1](http://arxiv.org/abs/2411.09343v1)|null|
-|**2024-11-06**|**Probing QCD Axions or Axion-like Particles in three-body $K$ Decays**|Mael Cavan-Piton et.al.|[2411.04170v1](http://arxiv.org/abs/2411.04170v1)|null|
-|**2024-11-05**|**Hunting New Animalcula with Rare K and B Decays**|Andrzej J. Buras et.al.|[2411.03440v1](http://arxiv.org/abs/2411.03440v1)|null|
-|**2024-11-05**|**Study of $D_{s1}(2460)^{+}\to D_{s}^{+}π^{+}π^{-}$ in $B\to {\bar{D}}^{(*)}D_{s}^{+}π^{+}π^{-}$ decays**|LHCb collaboration et.al.|[2411.03399v1](http://arxiv.org/abs/2411.03399v1)|null|
-|**2024-11-04**|**Searching for signals of an exotic $I=1,J^P=2^+$ state of $D^*K^*$ nature and the structure of the $P_c(4312)$ in the $Λ_b\to Σ_c^{++} D^- K^-$ reaction**|Jing Song et.al.|[2411.02358v1](http://arxiv.org/abs/2411.02358v1)|null|
-|**2024-11-04**|**Production and decay of anticharmed pentaquark state with quark content $\bar{c}sudd$**|Shi-Dong Liu et.al.|[2411.01910v2](http://arxiv.org/abs/2411.01910v2)|null|
-|**2024-11-01**|**Exploring New Physics in transition $b\to s\,\ell^+\ell^-$ through different $B_c\to D_s^{(\ast)} \,\ell^+\ell^-$ observables**|Qazi Maaz Us Salam et.al.|[2411.00912v2](http://arxiv.org/abs/2411.00912v2)|null|
-|**2024-11-01**|**Estimate of the S-wave $D^*K$ scattering length in the isospin-0 channel from the Belle and LHCb data**|N. N. Achasov et.al.|[2411.00377v1](http://arxiv.org/abs/2411.00377v1)|null|
-|**2024-10-28**|**Sum rules for semi-leptonic $b \to c$ and $b \to u$ decays: accuracy checks and implications**|Wen-Feng Duan et.al.|[2410.21384v1](http://arxiv.org/abs/2410.21384v1)|null|
-|**2024-10-28**|**Measurement of the CKM angle $γ$ in $B^{\pm} \to D K^*(892)^{\pm}$ decays**|LHCb collaboration et.al.|[2410.21115v1](http://arxiv.org/abs/2410.21115v1)|null|
-|**2024-10-27**|**Angular observables of the four-fold $B \to K_{1}(1270,1400)(\to V P) \ell^{+}\ell^{-}$ decays in and beyond the Standard Model**|Faisal Munir Bhutta et.al.|[2410.20633v1](http://arxiv.org/abs/2410.20633v1)|null|
-|**2024-10-23**|**Measurements of $ψ{(2S)}$ and $χ_{c1}(3872)$ production within fully reconstructed jets**|LHCb collaboration et.al.|[2410.18018v1](http://arxiv.org/abs/2410.18018v1)|null|
-
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-12-16**|**Test of lepton flavour universality with $B^+ \to K^+π^+π^-\ell^+\ell^-$ decays**|LHCb collaboration et.al.|[2412.11645v1](http://arxiv.org/abs/2412.11645v1)|null|
 |**2024-12-16**|**Charmful two-body $Ω_b$ decays in the light-front quark model**|Yan-Li Wang et.al.|[2412.11584v1](http://arxiv.org/abs/2412.11584v1)|null|
-|**2024-12-12**|**Search for $D^0$ meson decays to $π^+ π^- e^+ e^-$ and $K^+ K^- e^+ e^-$ final states**|LHCb collaboration et.al.|[2412.09414v1](http://arxiv.org/abs/2412.09414v1)|null|
+|**2024-12-12**|**Search for $D^0$ meson decays to $π^+ π^- e^+ e^-$ and $K^+ K^- e^+ e^-$ final states**|LHCb collaboration et.al.|[2412.09414v2](http://arxiv.org/abs/2412.09414v2)|null|
 |**2024-12-03**|**Excited $Ω$ hyperon in charmful $Ω_b$ weak decays**|Kai-Lei Wang et.al.|[2412.02464v3](http://arxiv.org/abs/2412.02464v3)|null|
 |**2024-11-29**|**Observation of the open-charm tetraquark state $T_{cs 0}^{*}(2870)^0$ in the $B^- \rightarrow D^- D^0 K_\mathrm{S}^0$ decay**|LHCb collaboration et.al.|[2411.19781v1](http://arxiv.org/abs/2411.19781v1)|null|
 |**2024-11-27**|**Implications on CP violation of charmless three body decays of bottom baryon from the U-spin analysis**|Wei Wang et.al.|[2411.18400v1](http://arxiv.org/abs/2411.18400v1)|null|
@@ -106,3 +72,37 @@
 |**2024-09-25**|**Search for $B_{(s)}^{*0}\toμ^+μ^-$ in $B_c^+\toπ^+μ^+μ^-$ decays**|LHCb collaboration et.al.|[2409.17209v1](http://arxiv.org/abs/2409.17209v1)|null|
 |**2024-09-19**|**Tripartite entanglement from experimental data: $B^0\to K^{*0}μ^+μ^-$ as a case study**|Roberto A. Morales et.al.|[2409.13033v2](http://arxiv.org/abs/2409.13033v2)|null|
 |**2024-09-19**|**Analysis of $\itΛ^\mathrm{0}_b \rightarrow pK^-μ^+μ^-$ decays**|LHCb collaboration et.al.|[2409.12629v1](http://arxiv.org/abs/2409.12629v1)|null|
+
+### rare decay
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-12-16**|**Test of lepton flavour universality with $B^+ \to K^+π^+π^-\ell^+\ell^-$ decays**|LHCb collaboration et.al.|[2412.11645v1](http://arxiv.org/abs/2412.11645v1)|null|
+|**2024-12-16**|**Charmful two-body $Ω_b$ decays in the light-front quark model**|Yan-Li Wang et.al.|[2412.11584v1](http://arxiv.org/abs/2412.11584v1)|null|
+|**2024-12-12**|**Search for $D^0$ meson decays to $π^+ π^- e^+ e^-$ and $K^+ K^- e^+ e^-$ final states**|LHCb collaboration et.al.|[2412.09414v2](http://arxiv.org/abs/2412.09414v2)|null|
+|**2024-12-12**|**Non-$D\bar{D}$ Decays into Light Meson Pairs of the $D$-Wave Charmonium $ψ_3(3842)$**|Zi-Yue Bai et.al.|[2412.09408v2](http://arxiv.org/abs/2412.09408v2)|null|
+|**2024-12-09**|**Transition form factors of the $Λ_b \rightarrow Λ(1520)$ in QCD light-cone sum rules**|Ke-Sheng Huang et.al.|[2412.06515v1](http://arxiv.org/abs/2412.06515v1)|null|
+|**2024-12-09**|**Scalar resonance contributions in the $D_{s1}(2460)^{+} \rightarrow D_{s}^{+}π^{+}π^{-}$ reaction**|Zhong-Yu Wang et.al.|[2412.06446v2](http://arxiv.org/abs/2412.06446v2)|null|
+|**2024-12-03**|**Excited $Ω$ hyperon in charmful $Ω_b$ weak decays**|Kai-Lei Wang et.al.|[2412.02464v3](http://arxiv.org/abs/2412.02464v3)|null|
+|**2024-11-29**|**Observation of the open-charm tetraquark state $T_{cs 0}^{*}(2870)^0$ in the $B^- \rightarrow D^- D^0 K_\mathrm{S}^0$ decay**|LHCb collaboration et.al.|[2411.19781v1](http://arxiv.org/abs/2411.19781v1)|null|
+|**2024-11-27**|**Implications on CP violation of charmless three body decays of bottom baryon from the U-spin analysis**|Wei Wang et.al.|[2411.18400v1](http://arxiv.org/abs/2411.18400v1)|null|
+|**2024-11-27**|**CP violation observables in baryon decays**|Jian-Peng Wang et.al.|[2411.18323v1](http://arxiv.org/abs/2411.18323v1)|null|
+|**2024-11-27**|**Study of the exotic three-body $N D^* \bar{K}^*$ system**|Qing-Yu Zhai et.al.|[2411.18285v1](http://arxiv.org/abs/2411.18285v1)|null|
+|**2024-11-27**|**Roles of $f_{0}(500)$ and $f_{0}(980)$ in the $D_{(s)}^{+}\rightarrowπ^{+}π^{+}π^{-}$ decays**|Zhong-Yu Wang et.al.|[2411.18134v1](http://arxiv.org/abs/2411.18134v1)|null|
+|**2024-11-26**|**Determination of the binding and $KD$ probability of the $D^{*}_{s0}(2317)$ from the $(\bar{D}\bar K)^-$ mass distributions in $Λ_{b}\to Λ_{c} (\bar{D}\bar K)^-$ decays**|Hai-Peng Li et.al.|[2411.17098v1](http://arxiv.org/abs/2411.17098v1)|null|
+|**2024-11-24**|**High-lying states in the charmonium family**|Zhi-Hao Pan et.al.|[2411.15689v2](http://arxiv.org/abs/2411.15689v2)|null|
+|**2024-11-23**|**Study of $\itΛ_{\it{b}}^\rm{0}$ and $\itΞ_{\it{b}}^\rm{0}$ decays to $\itΛ h^+h^{'-}$ and evidence for $CP$ violation in $\itΛ_{\it{b}}^\rm{0}\to\itΛ K^+K^-$ decays**|LHCb collaboration et.al.|[2411.15441v1](http://arxiv.org/abs/2411.15441v1)|null|
+|**2024-11-19**|**First evidence for direct CP violation in beauty to charmonium decays**|LHCb collaboration et.al.|[2411.12178v2](http://arxiv.org/abs/2411.12178v2)|null|
+|**2024-11-15**|**Bridging correlation and spectroscopy measurements to access the hadron interaction behind molecular states: the case of the $Ξ$(1620) and $Ξ$(1690) in the $K^- Λ$ system**|A. Feijoo et.al.|[2411.10245v1](http://arxiv.org/abs/2411.10245v1)|null|
+|**2024-11-15**|**Constraints on the photon polarisation in $b \to s γ$ transitions using $B_s^0 \rightarrow φe^+e^-$ decays**|LHCb collaboration et.al.|[2411.10219v2](http://arxiv.org/abs/2411.10219v2)|null|
+|**2024-11-14**|**Measurement of $φ(1020)$ meson production in fixed-target $\textit{p}$Ne collisions at $\sqrt{s_{NN}}$ = 68.5 GeV**|LHCb collaboration et.al.|[2411.09343v1](http://arxiv.org/abs/2411.09343v1)|null|
+|**2024-11-06**|**Probing QCD Axions or Axion-like Particles in three-body $K$ Decays**|Mael Cavan-Piton et.al.|[2411.04170v1](http://arxiv.org/abs/2411.04170v1)|null|
+|**2024-11-05**|**Hunting New Animalcula with Rare K and B Decays**|Andrzej J. Buras et.al.|[2411.03440v1](http://arxiv.org/abs/2411.03440v1)|null|
+|**2024-11-05**|**Study of $D_{s1}(2460)^{+}\to D_{s}^{+}π^{+}π^{-}$ in $B\to {\bar{D}}^{(*)}D_{s}^{+}π^{+}π^{-}$ decays**|LHCb collaboration et.al.|[2411.03399v1](http://arxiv.org/abs/2411.03399v1)|null|
+|**2024-11-04**|**Searching for signals of an exotic $I=1,J^P=2^+$ state of $D^*K^*$ nature and the structure of the $P_c(4312)$ in the $Λ_b\to Σ_c^{++} D^- K^-$ reaction**|Jing Song et.al.|[2411.02358v1](http://arxiv.org/abs/2411.02358v1)|null|
+|**2024-11-04**|**Production and decay of anticharmed pentaquark state with quark content $\bar{c}sudd$**|Shi-Dong Liu et.al.|[2411.01910v2](http://arxiv.org/abs/2411.01910v2)|null|
+|**2024-11-01**|**Exploring New Physics in transition $b\to s\,\ell^+\ell^-$ through different $B_c\to D_s^{(\ast)} \,\ell^+\ell^-$ observables**|Qazi Maaz Us Salam et.al.|[2411.00912v2](http://arxiv.org/abs/2411.00912v2)|null|
+|**2024-11-01**|**Estimate of the S-wave $D^*K$ scattering length in the isospin-0 channel from the Belle and LHCb data**|N. N. Achasov et.al.|[2411.00377v1](http://arxiv.org/abs/2411.00377v1)|null|
+|**2024-10-28**|**Sum rules for semi-leptonic $b \to c$ and $b \to u$ decays: accuracy checks and implications**|Wen-Feng Duan et.al.|[2410.21384v1](http://arxiv.org/abs/2410.21384v1)|null|
+|**2024-10-28**|**Measurement of the CKM angle $γ$ in $B^{\pm} \to D K^*(892)^{\pm}$ decays**|LHCb collaboration et.al.|[2410.21115v1](http://arxiv.org/abs/2410.21115v1)|null|
+|**2024-10-27**|**Angular observables of the four-fold $B \to K_{1}(1270,1400)(\to V P) \ell^{+}\ell^{-}$ decays in and beyond the Standard Model**|Faisal Munir Bhutta et.al.|[2410.20633v1](http://arxiv.org/abs/2410.20633v1)|null|
+|**2024-10-23**|**Measurements of $ψ{(2S)}$ and $χ_{c1}(3872)$ production within fully reconstructed jets**|LHCb collaboration et.al.|[2410.18018v1](http://arxiv.org/abs/2410.18018v1)|null|
