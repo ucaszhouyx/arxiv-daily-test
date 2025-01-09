@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2025-01-09 08:42:48 Asia/Shanghai
+ Automated deployment @ 2025-01-09 10:32:37 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -45,7 +45,7 @@
 |**2025-01-02**|**Studying the $B^{0} \to J/ψh_{1}$ decays with $h_{1}(1170)-h_{1}(1415)$ mixing in the perturbative QCD approach**|Qin Chang et.al.|[2501.01075v2](http://arxiv.org/abs/2501.01075v2)|null|
 |**2024-12-27**|**Bolstering up the existence of $P_s(2080)$**|Breno Agatão et.al.|[2412.19559v1](http://arxiv.org/abs/2412.19559v1)|null|
 |**2024-12-26**|**Leptophilic Axion-like Particles at Forward Detectors**|Xu-Hui Jiang et.al.|[2412.19195v1](http://arxiv.org/abs/2412.19195v1)|null|
-|**2024-12-18**|**Measurement of CP asymmetry in BsDsK decays**|LHCb collaboration et.al.|[2412.14074v1](http://arxiv.org/abs/2412.14074v1)|null|
+|**2024-12-18**|**Measurement of $CP$ asymmetry in $B_s^0 \to D_s^{\mp} K^{\pm}$ decays**|LHCb collaboration et.al.|[2412.14074v2](http://arxiv.org/abs/2412.14074v2)|null|
 |**2024-12-18**|**Measurement of $CP$ asymmetries in $Λ_b^0\to ph^{-}$ decays**|LHCb collaboration et.al.|[2412.13958v1](http://arxiv.org/abs/2412.13958v1)|null|
 |**2024-12-16**|**Test of lepton flavour universality with $B^+ \to K^+π^+π^-\ell^+\ell^-$ decays**|LHCb collaboration et.al.|[2412.11645v1](http://arxiv.org/abs/2412.11645v1)|null|
 |**2024-12-16**|**Charmful two-body $Ω_b$ decays in the light-front quark model**|Yan-Li Wang et.al.|[2412.11584v1](http://arxiv.org/abs/2412.11584v1)|null|
@@ -77,7 +77,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-12-27**|**Bolstering up the existence of $P_s(2080)$**|Breno Agatão et.al.|[2412.19559v1](http://arxiv.org/abs/2412.19559v1)|null|
-|**2024-12-18**|**Measurement of CP asymmetry in BsDsK decays**|LHCb collaboration et.al.|[2412.14074v1](http://arxiv.org/abs/2412.14074v1)|null|
+|**2024-12-18**|**Measurement of $CP$ asymmetry in $B_s^0 \to D_s^{\mp} K^{\pm}$ decays**|LHCb collaboration et.al.|[2412.14074v2](http://arxiv.org/abs/2412.14074v2)|null|
 |**2024-12-18**|**Measurement of $CP$ asymmetries in $Λ_b^0\to ph^{-}$ decays**|LHCb collaboration et.al.|[2412.13958v1](http://arxiv.org/abs/2412.13958v1)|null|
 |**2024-12-16**|**Test of lepton flavour universality with $B^+ \to K^+π^+π^-\ell^+\ell^-$ decays**|LHCb collaboration et.al.|[2412.11645v1](http://arxiv.org/abs/2412.11645v1)|null|
 |**2024-12-16**|**Charmful two-body $Ω_b$ decays in the light-front quark model**|Yan-Li Wang et.al.|[2412.11584v1](http://arxiv.org/abs/2412.11584v1)|null|
