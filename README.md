@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2025-01-24 10:04:11 Asia/Shanghai
+ Automated deployment @ 2025-01-25 08:40:48 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -8,6 +8,7 @@
 ### X(3872)
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-01-22**|**Tetraquarks in the Born-Oppenheimer approximation**|Davide Germani et.al.|[2501.13249v1](http://arxiv.org/abs/2501.13249v1)|null|
 |**2024-10-23**|**Measurements of $ψ{(2S)}$ and $χ_{c1}(3872)$ production within fully reconstructed jets**|LHCb collaboration et.al.|[2410.18018v1](http://arxiv.org/abs/2410.18018v1)|null|
 |**2024-09-20**|**Dispersive analysis of the isospin breaking in the $X(3872)~\to~J/ψ π^+π^-$ and $X(3872)~\to~J/ψπ^+π^0π^-$ decays**|Jorgivan Morais Dias et.al.|[2409.13245v2](http://arxiv.org/abs/2409.13245v2)|null|
 |**2024-09-10**|**Implication of a negative effective range on the $D\bar{D}^*$ interaction and the nature of $X(3872)$**|Yi-Bo Shen et.al.|[2409.06409v1](http://arxiv.org/abs/2409.06409v1)|null|
@@ -37,7 +38,6 @@
 |**2021-08-25**|**From the lineshape of the $X(3872)$ to its structure**|Angelo Esposito et.al.|[2108.11413v2](http://arxiv.org/abs/2108.11413v2)|null|
 |**2021-08-07**|**Forming Molecular States with Hadronic Rescattering**|Philip Ilten et.al.|[2108.03479v1](http://arxiv.org/abs/2108.03479v1)|null|
 |**2021-08-05**|**A survey of heavy-heavy hadronic molecules**|Xiang-Kun Dong et.al.|[2108.02673v3](http://arxiv.org/abs/2108.02673v3)|null|
-|**2021-07-29**|**$S$-wave contributions to the $B_{(s)}\rightarrow χ_{c1} (ππ,Kπ,KK)$ decays**|Meng-Kun Jia et.al.|[2107.13882v2](http://arxiv.org/abs/2107.13882v2)|null|
 
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
