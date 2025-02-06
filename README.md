@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2025-02-05 10:05:10 Asia/Shanghai
+ Automated deployment @ 2025-02-06 08:42:39 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-03**|**Study of the mass spectra of doubly heavy $Ξ_{QQ}$ and $Ω_{QQ}$ baryons**|Ji-Hai Pan et.al.|[2502.01088v1](http://arxiv.org/abs/2502.01088v1)|null|
 |**2025-01-28**|**Two-body charmed baryon nonleptonic weak decays with decuplet baryon involving SU(3) breaking effects**|Chao-Qiang Geng et.al.|[2501.17237v1](http://arxiv.org/abs/2501.17237v1)|null|
 |**2025-01-27**|**Two-body Hidden Charm Decays of $D$ Wave Charmonia**|Xiao-Yu Qi et.al.|[2501.16124v1](http://arxiv.org/abs/2501.16124v1)|null|
 |**2025-01-27**|**The charming case of $X(3872)$ and $χ_{c1}(2P)$**|Pietro Colangelo et.al.|[2501.15888v1](http://arxiv.org/abs/2501.15888v1)|null|
@@ -71,11 +72,12 @@
 |**2024-11-29**|**Observation of the open-charm tetraquark state $T_{cs 0}^{*}(2870)^0$ in the $B^- \rightarrow D^- D^0 K_\mathrm{S}^0$ decay**|LHCb collaboration et.al.|[2411.19781v2](http://arxiv.org/abs/2411.19781v2)|null|
 |**2024-11-27**|**Implications on CP violation of charmless three body decays of bottom baryon from the U-spin analysis**|Wei Wang et.al.|[2411.18400v1](http://arxiv.org/abs/2411.18400v1)|null|
 |**2024-11-27**|**CP violation observables in baryon decays**|Jian-Peng Wang et.al.|[2411.18323v1](http://arxiv.org/abs/2411.18323v1)|null|
-|**2024-11-27**|**Study of the exotic three-body $N D^* \bar{K}^*$ system**|Qing-Yu Zhai et.al.|[2411.18285v1](http://arxiv.org/abs/2411.18285v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-04**|**Signal shape studies and rate dependence of HFO-based gas mixtures in RPC detectors**|L. Quaglia et.al.|[2502.02374v1](http://arxiv.org/abs/2502.02374v1)|null|
+|**2025-02-03**|**Study of the mass spectra of doubly heavy $Ξ_{QQ}$ and $Ω_{QQ}$ baryons**|Ji-Hai Pan et.al.|[2502.01088v1](http://arxiv.org/abs/2502.01088v1)|null|
 |**2025-01-28**|**Two-body charmed baryon nonleptonic weak decays with decuplet baryon involving SU(3) breaking effects**|Chao-Qiang Geng et.al.|[2501.17237v1](http://arxiv.org/abs/2501.17237v1)|null|
 |**2025-01-25**|**Improved global determination of two-meson distribution amplitudes from multi-body $B$ decays**|Da-Cheng Yan et.al.|[2501.15150v1](http://arxiv.org/abs/2501.15150v1)|null|
 |**2025-01-24**|**Evidence for $B^-\rightarrow D^{**0}τ^-\overline{ν_τ}$ decays**|LHCb collaboration et.al.|[2501.14943v1](http://arxiv.org/abs/2501.14943v1)|null|
@@ -104,5 +106,3 @@
 |**2024-11-15**|**Bridging correlation and spectroscopy measurements to access the hadron interaction behind molecular states: the case of the $Ξ$(1620) and $Ξ$(1690) in the $K^- Λ$ system**|A. Feijoo et.al.|[2411.10245v1](http://arxiv.org/abs/2411.10245v1)|null|
 |**2024-11-15**|**Constraints on the photon polarisation in $b \to s γ$ transitions using $B_s^0 \rightarrow φe^+e^-$ decays**|LHCb collaboration et.al.|[2411.10219v2](http://arxiv.org/abs/2411.10219v2)|null|
 |**2024-11-14**|**Measurement of $φ(1020)$ meson production in fixed-target $\textit{p}$Ne collisions at $\sqrt{s_{NN}}$ = 68.5 GeV**|LHCb collaboration et.al.|[2411.09343v1](http://arxiv.org/abs/2411.09343v1)|null|
-|**2024-11-08**|**Measurement of the $ψ(2S)$ to $J/ψ$ cross-section ratio as a function of centrality in PbPb collisions at $\sqrt{s_{\text{NN}}}$ = 5.02 TeV**|LHCb collaboration et.al.|[2411.05669v1](http://arxiv.org/abs/2411.05669v1)|null|
-|**2024-11-05**|**Hunting New Animalcula with Rare K and B Decays**|Andrzej J. Buras et.al.|[2411.03440v2](http://arxiv.org/abs/2411.03440v2)|null|
