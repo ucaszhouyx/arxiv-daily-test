@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2025-02-18 10:05:26 Asia/Shanghai
+ Automated deployment @ 2025-02-19 08:42:47 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-17**|**Study of the $c\bar{c}s\bar{s}$ system in the chiral quark model**|Xiaoyun Chen et.al.|[2502.11818v1](http://arxiv.org/abs/2502.11818v1)|null|
 |**2025-02-14**|**Angular analysis of $B^0\rightarrow K^{*0}e^{+}e^{-}$ decays**|LHCb collaboration et.al.|[2502.10291v1](http://arxiv.org/abs/2502.10291v1)|null|
 |**2025-02-13**|**$B\to K\sf{+}invisible$, dark matter, and $CP$ violation in hyperon decays**|Xiao-Gang He et.al.|[2502.09603v1](http://arxiv.org/abs/2502.09603v1)|null|
 |**2025-02-08**|**Where is the next pentaquark state?**|Hao-Song Li et.al.|[2502.05495v1](http://arxiv.org/abs/2502.05495v1)|null|
@@ -71,11 +72,11 @@
 |**2024-12-16**|**Charmful two-body $Ω_b$ decays in the light-front quark model**|Yan-Li Wang et.al.|[2412.11584v1](http://arxiv.org/abs/2412.11584v1)|null|
 |**2024-12-12**|**Search for $D^0$ meson decays to $π^+ π^- e^+ e^-$ and $K^+ K^- e^+ e^-$ final states**|LHCb collaboration et.al.|[2412.09414v2](http://arxiv.org/abs/2412.09414v2)|null|
 |**2024-12-12**|**Non-$D\bar{D}$ Decays into Light Meson Pairs of the $D$-Wave Charmonium $ψ_3(3842)$**|Zi-Yue Bai et.al.|[2412.09408v2](http://arxiv.org/abs/2412.09408v2)|null|
-|**2024-12-09**|**Transition form factors of the $Λ_b \rightarrow Λ(1520)$ in QCD light-cone sum rules**|Ke-Sheng Huang et.al.|[2412.06515v1](http://arxiv.org/abs/2412.06515v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-02-17**|**Study of the $c\bar{c}s\bar{s}$ system in the chiral quark model**|Xiaoyun Chen et.al.|[2502.11818v1](http://arxiv.org/abs/2502.11818v1)|null|
 |**2025-02-14**|**Angular analysis of $B^0\rightarrow K^{*0}e^{+}e^{-}$ decays**|LHCb collaboration et.al.|[2502.10291v1](http://arxiv.org/abs/2502.10291v1)|null|
 |**2025-02-13**|**$B\to K\sf{+}invisible$, dark matter, and $CP$ violation in hyperon decays**|Xiao-Gang He et.al.|[2502.09603v1](http://arxiv.org/abs/2502.09603v1)|null|
 |**2025-02-06**|**Search for resonance-enhanced $CP$ and angular asymmetries in the $Λ^+_{c}\to pμ^+μ^-$ decay at LHCb**|LHCb collaboration et.al.|[2502.04013v1](http://arxiv.org/abs/2502.04013v1)|null|
@@ -105,4 +106,3 @@
 |**2024-11-27**|**CP violation observables in baryon decays**|Jian-Peng Wang et.al.|[2411.18323v1](http://arxiv.org/abs/2411.18323v1)|null|
 |**2024-11-23**|**Study of $\itΛ_{\it{b}}^\rm{0}$ and $\itΞ_{\it{b}}^\rm{0}$ decays to $\itΛ h^+h^{'-}$ and evidence for $CP$ violation in $\itΛ_{\it{b}}^\rm{0}\to\itΛ K^+K^-$ decays**|LHCb collaboration et.al.|[2411.15441v1](http://arxiv.org/abs/2411.15441v1)|null|
 |**2024-11-21**|**Analysis of hidden-charm pentaquarks as triangle singularities via deep learning**|Darwin Alexander O. Co et.al.|[2411.14044v2](http://arxiv.org/abs/2411.14044v2)|null|
-|**2024-11-19**|**First evidence for direct CP violation in beauty to charmonium decays**|LHCb collaboration et.al.|[2411.12178v2](http://arxiv.org/abs/2411.12178v2)|null|
