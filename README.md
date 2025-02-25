@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2025-02-25 08:43:48 Asia/Shanghai
+ Automated deployment @ 2025-02-25 10:09:31 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -59,7 +59,7 @@
 |**2025-01-22**|**Investigation of $Λ_c \to (Λ,n)\ell^+ ν_\ell $ Decays in Standard Model and Beyond**|Zhi-Hua Zhang et.al.|[2501.12871v1](http://arxiv.org/abs/2501.12871v1)|null|
 |**2025-01-22**|**Observation of the $Λ_b^0 \to J/ψΞ^- K^+$ and $Ξ_b^0 \to J/ψΞ^- π^+$ decays**|LHCb collaboration et.al.|[2501.12779v1](http://arxiv.org/abs/2501.12779v1)|null|
 |**2025-01-20**|**Search for charge-parity violation in semileptonically tagged $D^{0} \to K^{+} π^{-}$ decays**|LHCb collaboration et.al.|[2501.11635v1](http://arxiv.org/abs/2501.11635v1)|null|
-|**2025-01-19**|**Revisiting heavy-flavor conserving weak decays of charmed baryons within the nonrelativistic quark model**|Yu-Shuai Li et.al.|[2501.10982v1](http://arxiv.org/abs/2501.10982v1)|null|
+|**2025-01-19**|**Revisiting heavy-flavor conserving weak decays of charmed baryons within the nonrelativistic quark model**|Yu-Shuai Li et.al.|[2501.10982v2](http://arxiv.org/abs/2501.10982v2)|null|
 |**2025-01-17**|**Scalar fully-charm and bottom tetraquarks under extreme temperatures**|A. Aydın et.al.|[2501.10191v1](http://arxiv.org/abs/2501.10191v1)|null|
 |**2025-01-16**|**Taming Penguins: Towards High Precision Measurements in $φ_d$ and $φ_s$**|Kristof De Bruyn et.al.|[2501.09414v1](http://arxiv.org/abs/2501.09414v1)|null|
 |**2025-01-11**|**Study of light-meson resonances decaying to $K^0_{\rm S} K π$ in the $B \to (K^0_{\rm S} K π) K$ channels**|LHCb collaboration et.al.|[2501.06483v1](http://arxiv.org/abs/2501.06483v1)|null|
@@ -91,7 +91,7 @@
 |**2025-01-22**|**Observation of the $Λ_b^0 \to J/ψΞ^- K^+$ and $Ξ_b^0 \to J/ψΞ^- π^+$ decays**|LHCb collaboration et.al.|[2501.12779v1](http://arxiv.org/abs/2501.12779v1)|null|
 |**2025-01-22**|**Measurement of the multiplicity dependence of $\mitΥ$ production ratios in $pp$ collisions at $\sqrt{s}=13$ TeV**|LHCb collaboration et.al.|[2501.12611v2](http://arxiv.org/abs/2501.12611v2)|null|
 |**2025-01-20**|**Search for charge-parity violation in semileptonically tagged $D^{0} \to K^{+} π^{-}$ decays**|LHCb collaboration et.al.|[2501.11635v1](http://arxiv.org/abs/2501.11635v1)|null|
-|**2025-01-19**|**Revisiting heavy-flavor conserving weak decays of charmed baryons within the nonrelativistic quark model**|Yu-Shuai Li et.al.|[2501.10982v1](http://arxiv.org/abs/2501.10982v1)|null|
+|**2025-01-19**|**Revisiting heavy-flavor conserving weak decays of charmed baryons within the nonrelativistic quark model**|Yu-Shuai Li et.al.|[2501.10982v2](http://arxiv.org/abs/2501.10982v2)|null|
 |**2025-01-17**|**Scalar fully-charm and bottom tetraquarks under extreme temperatures**|A. Aydın et.al.|[2501.10191v1](http://arxiv.org/abs/2501.10191v1)|null|
 |**2025-01-16**|**Taming Penguins: Towards High Precision Measurements in $φ_d$ and $φ_s$**|Kristof De Bruyn et.al.|[2501.09414v1](http://arxiv.org/abs/2501.09414v1)|null|
 |**2025-01-11**|**Study of light-meson resonances decaying to $K^0_{\rm S} K π$ in the $B \to (K^0_{\rm S} K π) K$ channels**|LHCb collaboration et.al.|[2501.06483v1](http://arxiv.org/abs/2501.06483v1)|null|
