@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2025-03-05 10:11:43 Asia/Shanghai
+ Automated deployment @ 2025-03-06 08:44:43 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,9 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-04**|**Branching fraction measurement of the decay $B^+ \to ψ(2S) φ(1020) K^+$**|LHCb collaboration et.al.|[2503.02711v1](http://arxiv.org/abs/2503.02711v1)|null|
+|**2025-03-04**|**The Electron-Ion Collider as A Prospective Facility for Pentaquark Measurements**|In Woo Park et.al.|[2503.02676v1](http://arxiv.org/abs/2503.02676v1)|null|
+|**2025-03-01**|**The $B^-\to J/ψη^\prime K^-$ reaction and the $Y(4710)$ and $K_0^*(1430)$ contributions**|Wen-Tao Lyu et.al.|[2503.00437v1](http://arxiv.org/abs/2503.00437v1)|null|
 |**2025-02-27**|**Constraints on lepton flavor universal and non-universal New Physics in $b\, \to\, s\, \ell^+ \ell^-$ decays: a global SMEFT survey**|Md Isha Ali et.al.|[2502.20145v1](http://arxiv.org/abs/2502.20145v1)|null|
 |**2025-02-26**|**Observation of a new charmed baryon decaying to $Ξ_c^+ π^- π^+$**|LHCb collaboration et.al.|[2502.18987v1](http://arxiv.org/abs/2502.18987v1)|null|
 |**2025-02-25**|**The $D_{s1}(2460) \to D_s π^+ π^- $ decay from a $D_{s1}$ molecular perspective**|L. Roca et.al.|[2502.18401v1](http://arxiv.org/abs/2502.18401v1)|null|
@@ -69,13 +72,11 @@
 |**2025-01-11**|**Study of light-meson resonances decaying to $K^0_{\rm S} K π$ in the $B \to (K^0_{\rm S} K π) K$ channels**|LHCb collaboration et.al.|[2501.06483v1](http://arxiv.org/abs/2501.06483v1)|null|
 |**2025-01-10**|**The all-charm tetraquark and its contribution to two-photon processes**|Panagiotis Kalamidas et.al.|[2501.06034v1](http://arxiv.org/abs/2501.06034v1)|null|
 |**2025-01-02**|**Studying the $B^{0} \to J/ψh_{1}$ decays with $h_{1}(1170)-h_{1}(1415)$ mixing in the perturbative QCD approach**|Qin Chang et.al.|[2501.01075v2](http://arxiv.org/abs/2501.01075v2)|null|
-|**2024-12-27**|**Bolstering up the existence of $P_s(2080)$**|Breno Agatão et.al.|[2412.19559v1](http://arxiv.org/abs/2412.19559v1)|null|
-|**2024-12-26**|**Leptophilic Axion-like Particles at Forward Detectors**|Xu-Hui Jiang et.al.|[2412.19195v2](http://arxiv.org/abs/2412.19195v2)|null|
-|**2024-12-18**|**Measurement of $CP$ asymmetry in $B_s^0 \to D_s^{\mp} K^{\pm}$ decays**|LHCb collaboration et.al.|[2412.14074v2](http://arxiv.org/abs/2412.14074v2)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-04**|**Branching fraction measurement of the decay $B^+ \to ψ(2S) φ(1020) K^+$**|LHCb collaboration et.al.|[2503.02711v1](http://arxiv.org/abs/2503.02711v1)|null|
 |**2025-02-27**|**Constraints on lepton flavor universal and non-universal New Physics in $b\, \to\, s\, \ell^+ \ell^-$ decays: a global SMEFT survey**|Md Isha Ali et.al.|[2502.20145v1](http://arxiv.org/abs/2502.20145v1)|null|
 |**2025-02-26**|**Observation of a new charmed baryon decaying to $Ξ_c^+ π^- π^+$**|LHCb collaboration et.al.|[2502.18987v1](http://arxiv.org/abs/2502.18987v1)|null|
 |**2025-02-23**|**The strong coupling constants of doubly heavy baryons with heavy mesons**|Xiao-Hui Hu et.al.|[2502.16561v1](http://arxiv.org/abs/2502.16561v1)|null|
@@ -105,4 +106,3 @@
 |**2024-12-16**|**Charmful two-body $Ω_b$ decays in the light-front quark model**|Yan-Li Wang et.al.|[2412.11584v1](http://arxiv.org/abs/2412.11584v1)|null|
 |**2024-12-12**|**Search for $D^0$ meson decays to $π^+ π^- e^+ e^-$ and $K^+ K^- e^+ e^-$ final states**|LHCb collaboration et.al.|[2412.09414v2](http://arxiv.org/abs/2412.09414v2)|null|
 |**2024-12-03**|**Excited $Ω$ hyperon in charmful $Ω_b$ weak decays**|Kai-Lei Wang et.al.|[2412.02464v3](http://arxiv.org/abs/2412.02464v3)|null|
-|**2024-11-29**|**Observation of the open-charm tetraquark state $T_{cs 0}^{*}(2870)^0$ in the $B^- \rightarrow D^- D^0 K_\mathrm{S}^0$ decay**|LHCb collaboration et.al.|[2411.19781v2](http://arxiv.org/abs/2411.19781v2)|null|
