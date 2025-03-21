@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2025-03-20 10:13:02 Asia/Shanghai
+ Automated deployment @ 2025-03-21 08:45:38 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-18**|**Quantum contextuality of spin-1 massive particles**|M. Fabbrichesi et.al.|[2503.14587v1](http://arxiv.org/abs/2503.14587v1)|null|
 |**2025-03-16**|**Newly observed $κ$(2600) and the highly excited states of $K_0^{*}$ family**|Cheng-Qun Pang et.al.|[2503.12393v1](http://arxiv.org/abs/2503.12393v1)|null|
 |**2025-03-13**|**Exclusive photon-fusion production of even-spin resonances and exotic QED atoms in high-energy hadron collisions**|David d'Enterria et.al.|[2503.10952v1](http://arxiv.org/abs/2503.10952v1)|null|
 |**2025-03-11**|**Strong decays of $P_ψ^N(4440)^+$ and $P_ψ^N(4457)^+$ within the Bethe-Salpeter framework**|Qiang Li et.al.|[2503.08440v1](http://arxiv.org/abs/2503.08440v1)|null|
@@ -71,11 +72,11 @@
 |**2025-01-20**|**Search for charge-parity violation in semileptonically tagged $D^{0} \to K^{+} π^{-}$ decays**|LHCb collaboration et.al.|[2501.11635v1](http://arxiv.org/abs/2501.11635v1)|null|
 |**2025-01-19**|**Revisiting heavy-flavor conserving weak decays of charmed baryons within the nonrelativistic quark model**|Yu-Shuai Li et.al.|[2501.10982v2](http://arxiv.org/abs/2501.10982v2)|null|
 |**2025-01-17**|**Scalar fully-charm and bottom tetraquarks under extreme temperatures**|A. Aydın et.al.|[2501.10191v1](http://arxiv.org/abs/2501.10191v1)|null|
-|**2025-01-16**|**Taming Penguins: Towards High Precision Measurements in $φ_d$ and $φ_s$**|Kristof De Bruyn et.al.|[2501.09414v1](http://arxiv.org/abs/2501.09414v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-18**|**Quantum contextuality of spin-1 massive particles**|M. Fabbrichesi et.al.|[2503.14587v1](http://arxiv.org/abs/2503.14587v1)|null|
 |**2025-03-17**|**A Downstream and vertexing algorithm for Long Lived Particles (LLP) selection at the first High-level trigger (HLT1) of LHCb**|V. Kholoimov et.al.|[2503.13092v1](http://arxiv.org/abs/2503.13092v1)|null|
 |**2025-03-14**|**Analysis of bound and resonant states of doubly heavy tetraquarks with spin $J\leq 2$**|Manato Sakai et.al.|[2503.11134v1](http://arxiv.org/abs/2503.11134v1)|null|
 |**2025-03-11**|**Strong decays of $P_ψ^N(4440)^+$ and $P_ψ^N(4457)^+$ within the Bethe-Salpeter framework**|Qiang Li et.al.|[2503.08440v1](http://arxiv.org/abs/2503.08440v1)|null|
@@ -105,4 +106,3 @@
 |**2024-12-27**|**Bolstering up the existence of $P_s(2080)$**|Breno Agatão et.al.|[2412.19559v1](http://arxiv.org/abs/2412.19559v1)|null|
 |**2024-12-18**|**Measurement of $CP$ asymmetry in $B_s^0 \to D_s^{\mp} K^{\pm}$ decays**|LHCb collaboration et.al.|[2412.14074v2](http://arxiv.org/abs/2412.14074v2)|null|
 |**2024-12-18**|**Measurement of $CP$ asymmetries in $Λ_b^0\to ph^{-}$ decays**|LHCb collaboration et.al.|[2412.13958v1](http://arxiv.org/abs/2412.13958v1)|null|
-|**2024-12-16**|**Test of lepton flavour universality with $B^+ \to K^+π^+π^-\ell^+\ell^-$ decays**|LHCb collaboration et.al.|[2412.11645v1](http://arxiv.org/abs/2412.11645v1)|null|
