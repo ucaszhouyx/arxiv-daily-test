@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2025-03-26 10:15:20 Asia/Shanghai
+ Automated deployment @ 2025-03-27 08:45:31 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -50,6 +50,7 @@
 |**2025-03-11**|**Strong decays of $P_ψ^N(4440)^+$ and $P_ψ^N(4457)^+$ within the Bethe-Salpeter framework**|Qiang Li et.al.|[2503.08440v1](http://arxiv.org/abs/2503.08440v1)|null|
 |**2025-03-04**|**Branching fraction measurement of the decay $B^+ \to ψ(2S) φ(1020) K^+$**|LHCb collaboration et.al.|[2503.02711v1](http://arxiv.org/abs/2503.02711v1)|null|
 |**2025-03-04**|**The Electron-Ion Collider as A Prospective Facility for Pentaquark Measurements**|In Woo Park et.al.|[2503.02676v1](http://arxiv.org/abs/2503.02676v1)|null|
+|**2025-03-03**|**Di-decay signature of new physics particles at intensity frontier experiments**|Giovani Dalla Valle Garcia et.al.|[2503.01760v2](http://arxiv.org/abs/2503.01760v2)|null|
 |**2025-03-01**|**The $B^-\to J/ψη^\prime K^-$ reaction and the $Y(4710)$ and $K_0^*(1430)$ contributions**|Wen-Tao Lyu et.al.|[2503.00437v1](http://arxiv.org/abs/2503.00437v1)|null|
 |**2025-02-27**|**Constraints on lepton flavor universal and non-universal New Physics in $b\, \to\, s\, \ell^+ \ell^-$ decays: a global SMEFT survey**|Md Isha Ali et.al.|[2502.20145v1](http://arxiv.org/abs/2502.20145v1)|null|
 |**2025-02-26**|**Observation of a new charmed baryon decaying to $Ξ_c^+ π^- π^+$**|LHCb collaboration et.al.|[2502.18987v1](http://arxiv.org/abs/2502.18987v1)|null|
@@ -71,7 +72,6 @@
 |**2025-01-23**|**Looking for new strategies to probe low mass axion-like particles in ultraperipheral heavy-ion collisions at the LHC**|Pedro Nogarolli et.al.|[2501.14041v1](http://arxiv.org/abs/2501.14041v1)|null|
 |**2025-01-22**|**Investigation of $Λ_c \to (Λ,n)\ell^+ ν_\ell $ Decays in Standard Model and Beyond**|Zhi-Hua Zhang et.al.|[2501.12871v1](http://arxiv.org/abs/2501.12871v1)|null|
 |**2025-01-22**|**Observation of the $Λ_b^0 \to J/ψΞ^- K^+$ and $Ξ_b^0 \to J/ψΞ^- π^+$ decays**|LHCb collaboration et.al.|[2501.12779v1](http://arxiv.org/abs/2501.12779v1)|null|
-|**2025-01-20**|**Search for charge-parity violation in semileptonically tagged $D^{0} \to K^{+} π^{-}$ decays**|LHCb collaboration et.al.|[2501.11635v1](http://arxiv.org/abs/2501.11635v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
