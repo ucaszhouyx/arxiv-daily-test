@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2025-04-01 10:29:46 Asia/Shanghai
+ Automated deployment @ 2025-04-02 08:46:45 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-31**|**Large CP violation in $Λ^0_b \to pK^-π^+π^-$ and its U-spin partner decays**|Xiao-Gang He et.al.|[2503.24350v1](http://arxiv.org/abs/2503.24350v1)|null|
 |**2025-03-28**|**Precision Tests in $b\to s\ell^+\ell^-$ ($\ell=e,μ$) at FCC-ee**|Marzia Bordone et.al.|[2503.22635v1](http://arxiv.org/abs/2503.22635v1)|null|
 |**2025-03-28**|**Prompt inclusive production of $J/ψ$, $ψ'$ and $χ_{c}$ mesons at $\sqrt{s}$ $=$ $68.5$ $GeV$ energy within NRQCD $k_t$-factorization approach**|Anna Cisek et.al.|[2503.22336v1](http://arxiv.org/abs/2503.22336v1)|null|
 |**2025-03-25**|**Search for the $B^+_c\rightarrow χ_{c1}(3872)π^+$ decay**|LHCb collaboration et.al.|[2503.20039v1](http://arxiv.org/abs/2503.20039v1)|null|
@@ -71,11 +72,12 @@
 |**2025-01-27**|**Two-body Hidden Charm Decays of $D$ Wave Charmonia**|Xiao-Yu Qi et.al.|[2501.16124v1](http://arxiv.org/abs/2501.16124v1)|null|
 |**2025-01-27**|**The charming case of $X(3872)$ and $χ_{c1}(2P)$**|Pietro Colangelo et.al.|[2501.15888v1](http://arxiv.org/abs/2501.15888v1)|null|
 |**2025-01-25**|**Improved global determination of two-meson distribution amplitudes from multi-body $B$ decays**|Da-Cheng Yan et.al.|[2501.15150v1](http://arxiv.org/abs/2501.15150v1)|null|
-|**2025-01-24**|**Evidence for $B^-\rightarrow D^{**0}τ^-\overline{ν_τ}$ decays**|LHCb collaboration et.al.|[2501.14943v2](http://arxiv.org/abs/2501.14943v2)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-03-31**|**Large CP violation in $Λ^0_b \to pK^-π^+π^-$ and its U-spin partner decays**|Xiao-Gang He et.al.|[2503.24350v1](http://arxiv.org/abs/2503.24350v1)|null|
+|**2025-03-31**|**Projections for Key Measurements in Heavy Flavour Physics**|The ATLAS et.al.|[2503.24346v1](http://arxiv.org/abs/2503.24346v1)|null|
 |**2025-03-28**|**Precision Tests in $b\to s\ell^+\ell^-$ ($\ell=e,μ$) at FCC-ee**|Marzia Bordone et.al.|[2503.22635v1](http://arxiv.org/abs/2503.22635v1)|null|
 |**2025-03-27**|**HFLAV input to the 2026 update of the European Strategy for Particle Physics**|F. Archilli et.al.|[2503.21570v1](http://arxiv.org/abs/2503.21570v1)|null|
 |**2025-03-27**|**The impact of future $D$- and $B$-meson measurements with the SMOG2 program at LHCb on the determination of nuclear parton distribution functions**|Carlo Flore et.al.|[2503.21531v1](http://arxiv.org/abs/2503.21531v1)|null|
@@ -104,5 +106,3 @@
 |**2025-01-22**|**Observation of the $Λ_b^0 \to J/ψΞ^- K^+$ and $Ξ_b^0 \to J/ψΞ^- π^+$ decays**|LHCb collaboration et.al.|[2501.12779v1](http://arxiv.org/abs/2501.12779v1)|null|
 |**2025-01-22**|**Measurement of the multiplicity dependence of $\mitΥ$ production ratios in $pp$ collisions at $\sqrt{s}=13$ TeV**|LHCb collaboration et.al.|[2501.12611v2](http://arxiv.org/abs/2501.12611v2)|null|
 |**2025-01-20**|**Search for charge-parity violation in semileptonically tagged $D^{0} \to K^{+} π^{-}$ decays**|LHCb collaboration et.al.|[2501.11635v1](http://arxiv.org/abs/2501.11635v1)|null|
-|**2025-01-19**|**Revisiting heavy-flavor conserving weak decays of charmed baryons within the nonrelativistic quark model**|Yu-Shuai Li et.al.|[2501.10982v2](http://arxiv.org/abs/2501.10982v2)|null|
-|**2025-01-17**|**Scalar fully-charm and bottom tetraquarks under extreme temperatures**|A. Aydın et.al.|[2501.10191v1](http://arxiv.org/abs/2501.10191v1)|null|
