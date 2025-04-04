@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2025-04-03 10:16:12 Asia/Shanghai
+ Automated deployment @ 2025-04-04 08:45:53 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,9 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-02**|**Implications of recent LHCb data on CPV in b-baryon four body decays**|Qi Chen et.al.|[2504.01853v2](http://arxiv.org/abs/2504.01853v2)|null|
+|**2025-03-31**|**Branching fractions and CP asymmetries in charm meson decays**|Ulrich Nierste et.al.|[2504.00157v1](http://arxiv.org/abs/2504.00157v1)|null|
+|**2025-03-31**|**Discovery Prospects for a Minimal Dark Matter Model at Cosmic and Intensity Frontier Experiments**|Ahmed Alenezi et.al.|[2504.00077v1](http://arxiv.org/abs/2504.00077v1)|null|
 |**2025-03-31**|**Large CP violation in $Λ^0_b \to pK^-π^+π^-$ and its U-spin partner decays**|Xiao-Gang He et.al.|[2503.24350v1](http://arxiv.org/abs/2503.24350v1)|null|
 |**2025-03-28**|**Precision Tests in $b\to s\ell^+\ell^-$ ($\ell=e,μ$) at FCC-ee**|Marzia Bordone et.al.|[2503.22635v1](http://arxiv.org/abs/2503.22635v1)|null|
 |**2025-03-28**|**Prompt inclusive production of $J/ψ$, $ψ'$ and $χ_{c}$ mesons at $\sqrt{s}$ $=$ $68.5$ $GeV$ energy within NRQCD $k_t$-factorization approach**|Anna Cisek et.al.|[2503.22336v1](http://arxiv.org/abs/2503.22336v1)|null|
@@ -69,9 +72,6 @@
 |**2025-02-06**|**Search for resonance-enhanced $CP$ and angular asymmetries in the $Λ^+_{c}\to pμ^+μ^-$ decay at LHCb**|LHCb collaboration et.al.|[2502.04013v1](http://arxiv.org/abs/2502.04013v1)|null|
 |**2025-02-03**|**Study of the mass spectra of doubly heavy $Ξ_{QQ}$ and $Ω_{QQ}$ baryons**|Ji-Hai Pan et.al.|[2502.01088v1](http://arxiv.org/abs/2502.01088v1)|null|
 |**2025-01-28**|**Two-body charmed baryon nonleptonic weak decays with decuplet baryon involving SU(3) breaking effects**|Chao-Qiang Geng et.al.|[2501.17237v1](http://arxiv.org/abs/2501.17237v1)|null|
-|**2025-01-27**|**Two-body Hidden Charm Decays of $D$ Wave Charmonia**|Xiao-Yu Qi et.al.|[2501.16124v1](http://arxiv.org/abs/2501.16124v1)|null|
-|**2025-01-27**|**The charming case of $X(3872)$ and $χ_{c1}(2P)$**|Pietro Colangelo et.al.|[2501.15888v1](http://arxiv.org/abs/2501.15888v1)|null|
-|**2025-01-25**|**Improved global determination of two-meson distribution amplitudes from multi-body $B$ decays**|Da-Cheng Yan et.al.|[2501.15150v1](http://arxiv.org/abs/2501.15150v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
