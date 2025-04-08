@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2025-04-07 10:21:21 Asia/Shanghai
+ Automated deployment @ 2025-04-08 08:45:56 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-04**|**2026 ESPPU input from the ANUBIS Collaboration**|Oleg Brandt et.al.|[2504.03195v1](http://arxiv.org/abs/2504.03195v1)|null|
 |**2025-04-02**|**Implications of recent LHCb data on CPV in b-baryon four body decays**|Qi Chen et.al.|[2504.01853v2](http://arxiv.org/abs/2504.01853v2)|null|
 |**2025-03-31**|**Branching fractions and CP asymmetries in charm meson decays**|Ulrich Nierste et.al.|[2504.00157v1](http://arxiv.org/abs/2504.00157v1)|null|
 |**2025-03-31**|**Discovery Prospects for a Minimal Dark Matter Model at Cosmic and Intensity Frontier Experiments**|Ahmed Alenezi et.al.|[2504.00077v1](http://arxiv.org/abs/2504.00077v1)|null|
@@ -71,7 +72,6 @@
 |**2025-02-06**|**Precise determination of the properties of $X(3872)$ and of its isovector partner $W_{c1}$**|Teng Ji et.al.|[2502.04458v1](http://arxiv.org/abs/2502.04458v1)|null|
 |**2025-02-06**|**Search for resonance-enhanced $CP$ and angular asymmetries in the $Λ^+_{c}\to pμ^+μ^-$ decay at LHCb**|LHCb collaboration et.al.|[2502.04013v1](http://arxiv.org/abs/2502.04013v1)|null|
 |**2025-02-03**|**Study of the mass spectra of doubly heavy $Ξ_{QQ}$ and $Ω_{QQ}$ baryons**|Ji-Hai Pan et.al.|[2502.01088v1](http://arxiv.org/abs/2502.01088v1)|null|
-|**2025-01-28**|**Two-body charmed baryon nonleptonic weak decays with decuplet baryon involving SU(3) breaking effects**|Chao-Qiang Geng et.al.|[2501.17237v1](http://arxiv.org/abs/2501.17237v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
