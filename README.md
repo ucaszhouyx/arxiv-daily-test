@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2025-04-23 10:20:51 Asia/Shanghai
+ Automated deployment @ 2025-04-24 08:48:08 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -76,6 +76,7 @@
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-22**|**LHCspin: a Polarized Gas Target for LHC**|A. Accardi et.al.|[2504.16034v1](http://arxiv.org/abs/2504.16034v1)|null|
 |**2025-04-21**|**New horizon in particle physics: First observation of CP violation in baryon decays**|Fu-Sheng Yu et.al.|[2504.15008v1](http://arxiv.org/abs/2504.15008v1)|null|
 |**2025-04-18**|**An analysis on doubly bottom molecular tetraquarks composed of $H_{(s)}$ and $T_{(s)}$ doublets**|Jun-Chao Su et.al.|[2504.13431v3](http://arxiv.org/abs/2504.13431v3)|null|
 |**2025-04-16**|**Tests of quantum contextuality in particle physics**|M. Fabbrichesi et.al.|[2504.12382v1](http://arxiv.org/abs/2504.12382v1)|null|
@@ -105,4 +106,3 @@
 |**2025-02-14**|**Angular analysis of $B^0\rightarrow K^{*0}e^{+}e^{-}$ decays**|LHCb collaboration et.al.|[2502.10291v1](http://arxiv.org/abs/2502.10291v1)|null|
 |**2025-02-13**|**$B\to K\sf{+}invisible$, dark matter, and $CP$ violation in hyperon decays**|Xiao-Gang He et.al.|[2502.09603v1](http://arxiv.org/abs/2502.09603v1)|null|
 |**2025-02-06**|**Search for resonance-enhanced $CP$ and angular asymmetries in the $Λ^+_{c}\to pμ^+μ^-$ decay at LHCb**|LHCb collaboration et.al.|[2502.04013v1](http://arxiv.org/abs/2502.04013v1)|null|
-|**2025-02-04**|**Signal shape studies and rate dependence of HFO-based gas mixtures in RPC detectors**|L. Quaglia et.al.|[2502.02374v1](http://arxiv.org/abs/2502.02374v1)|null|
