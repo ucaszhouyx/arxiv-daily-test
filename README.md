@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2025-04-29 10:22:44 Asia/Shanghai
+ Automated deployment @ 2025-04-30 08:49:04 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-27**|**Full analysis of CP violation induced by the decay angular correlations in four-body cascade decays of heavy hadrons**|Zhen-Hua Zhang et.al.|[2504.19228v1](http://arxiv.org/abs/2504.19228v1)|null|
 |**2025-04-23**|**Semileptonic decays of doubly charmed (bottom) baryons to single heavy baryons**|M. Shekari Tousi et.al.|[2504.17030v1](http://arxiv.org/abs/2504.17030v1)|null|
 |**2025-04-21**|**New horizon in particle physics: First observation of CP violation in baryon decays**|Fu-Sheng Yu et.al.|[2504.15008v1](http://arxiv.org/abs/2504.15008v1)|null|
 |**2025-04-16**|**Tests of quantum contextuality in particle physics**|M. Fabbrichesi et.al.|[2504.12382v1](http://arxiv.org/abs/2504.12382v1)|null|
@@ -71,11 +72,11 @@
 |**2025-03-01**|**The $B^-\to J/ψη^\prime K^-$ reaction and the $Y(4710)$ and $K_0^*(1430)$ contributions**|Wen-Tao Lyu et.al.|[2503.00437v1](http://arxiv.org/abs/2503.00437v1)|null|
 |**2025-02-27**|**Constraints on lepton flavor universal and non-universal New Physics in $b\, \to\, s\, \ell^+ \ell^-$ decays: a global SMEFT survey**|Md Isha Ali et.al.|[2502.20145v1](http://arxiv.org/abs/2502.20145v1)|null|
 |**2025-02-26**|**Observation of a new charmed baryon decaying to $Ξ_c^+ π^- π^+$**|LHCb collaboration et.al.|[2502.18987v1](http://arxiv.org/abs/2502.18987v1)|null|
-|**2025-02-25**|**The $D_{s1}(2460) \to D_s π^+ π^- $ decay from a $D_{s1}$ molecular perspective**|L. Roca et.al.|[2502.18401v1](http://arxiv.org/abs/2502.18401v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-04-27**|**Full analysis of CP violation induced by the decay angular correlations in four-body cascade decays of heavy hadrons**|Zhen-Hua Zhang et.al.|[2504.19228v1](http://arxiv.org/abs/2504.19228v1)|null|
 |**2025-04-23**|**Semileptonic decays of doubly charmed (bottom) baryons to single heavy baryons**|M. Shekari Tousi et.al.|[2504.17030v1](http://arxiv.org/abs/2504.17030v1)|null|
 |**2025-04-22**|**LHCspin: a Polarized Gas Target for LHC**|A. Accardi et.al.|[2504.16034v1](http://arxiv.org/abs/2504.16034v1)|null|
 |**2025-04-21**|**New horizon in particle physics: First observation of CP violation in baryon decays**|Fu-Sheng Yu et.al.|[2504.15008v1](http://arxiv.org/abs/2504.15008v1)|null|
@@ -105,4 +106,3 @@
 |**2025-02-18**|**Large CP Asymmetries from Final-State Interactions in Charmful Baryonic Decays of $B^0 \to Ξ_c^+ \overlineΞ_c^-$ and $B_s^0 \to Λ_c^+ \overlineΛ_c^-$**|Chao-Qiang Geng et.al.|[2502.12770v1](http://arxiv.org/abs/2502.12770v1)|null|
 |**2025-02-17**|**Study of the $c\bar{c}s\bar{s}$ system in the chiral quark model**|Xiaoyun Chen et.al.|[2502.11818v1](http://arxiv.org/abs/2502.11818v1)|null|
 |**2025-02-14**|**Angular analysis of $B^0\rightarrow K^{*0}e^{+}e^{-}$ decays**|LHCb collaboration et.al.|[2502.10291v1](http://arxiv.org/abs/2502.10291v1)|null|
-|**2025-02-13**|**$B\to K\sf{+}invisible$, dark matter, and $CP$ violation in hyperon decays**|Xiao-Gang He et.al.|[2502.09603v1](http://arxiv.org/abs/2502.09603v1)|null|
