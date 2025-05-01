@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2025-04-30 10:21:51 Asia/Shanghai
+ Automated deployment @ 2025-05-01 08:54:45 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -89,7 +89,7 @@
 |**2025-04-07**|**Observation of the doubly-charmed-baryon decay ${\it Ξ}_{cc}^{++}\to{\it Ξ}_{c}^{0}π^{+}π^{+}$**|LHCb collaboration et.al.|[2504.05063v1](http://arxiv.org/abs/2504.05063v1)|null|
 |**2025-04-06**|**Study of Fully heavy Pentaquarks using extended Gursey-Radicati formalism**|Ankush Sharma et.al.|[2504.04546v1](http://arxiv.org/abs/2504.04546v1)|null|
 |**2025-03-31**|**Large CP violation in $Λ^0_b \to pK^-π^+π^-$ and its U-spin partner decays**|Xiao-Gang He et.al.|[2503.24350v2](http://arxiv.org/abs/2503.24350v2)|null|
-|**2025-03-31**|**Projections for Key Measurements in Heavy Flavour Physics**|The ATLAS et.al.|[2503.24346v1](http://arxiv.org/abs/2503.24346v1)|null|
+|**2025-03-31**|**Projections for Key Measurements in Heavy Flavour Physics**|The ATLAS et.al.|[2503.24346v2](http://arxiv.org/abs/2503.24346v2)|null|
 |**2025-03-28**|**Precision Tests in $b\to s\ell^+\ell^-$ ($\ell=e,μ$) at FCC-ee**|Marzia Bordone et.al.|[2503.22635v1](http://arxiv.org/abs/2503.22635v1)|null|
 |**2025-03-27**|**HFLAV input to the 2026 update of the European Strategy for Particle Physics**|F. Archilli et.al.|[2503.21570v1](http://arxiv.org/abs/2503.21570v1)|null|
 |**2025-03-27**|**The impact of future $D$- and $B$-meson measurements with the SMOG2 program at LHCb on the determination of nuclear parton distribution functions**|Carlo Flore et.al.|[2503.21531v1](http://arxiv.org/abs/2503.21531v1)|null|
