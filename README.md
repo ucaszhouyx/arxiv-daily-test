@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2025-05-05 08:52:57 Asia/Shanghai
+ Automated deployment @ 2025-05-05 10:27:37 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-02**|**Probing Kaons as Light-Strange Tetraquarks through Spectral and Decay Dynamics**|Chetan Lodha et.al.|[2505.01195v1](http://arxiv.org/abs/2505.01195v1)|null|
 |**2025-04-30**|**Evidence for the existence of a flavor-sextet charmed meson?**|Feng-Kun Guo et.al.|[2504.21442v1](http://arxiv.org/abs/2504.21442v1)|null|
 |**2025-04-30**|**Observation of the decay $B^0_{s}\to K^0 p \bar{p}$ and measurement of the $B^0_{(s)} \to K^0 p \bar{p}$ branching fractions**|LHCb collaboration et.al.|[2504.21269v1](http://arxiv.org/abs/2504.21269v1)|null|
 |**2025-04-27**|**Full analysis of CP violation induced by the decay angular correlations in four-body cascade decays of heavy hadrons**|Zhen-Hua Zhang et.al.|[2504.19228v1](http://arxiv.org/abs/2504.19228v1)|null|
@@ -71,7 +72,6 @@
 |**2025-03-04**|**Branching fraction measurement of the decay $B^+ \to ψ(2S) φ(1020) K^+$**|LHCb collaboration et.al.|[2503.02711v1](http://arxiv.org/abs/2503.02711v1)|null|
 |**2025-03-04**|**The Electron-Ion Collider as A Prospective Facility for Pentaquark Measurements**|In Woo Park et.al.|[2503.02676v1](http://arxiv.org/abs/2503.02676v1)|null|
 |**2025-03-03**|**Di-decay signature of new physics particles at intensity frontier experiments**|Giovani Dalla Valle Garcia et.al.|[2503.01760v3](http://arxiv.org/abs/2503.01760v3)|null|
-|**2025-03-01**|**The $B^-\to J/ψη^\prime K^-$ reaction and the $Y(4710)$ and $K_0^*(1430)$ contributions**|Wen-Tao Lyu et.al.|[2503.00437v1](http://arxiv.org/abs/2503.00437v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
