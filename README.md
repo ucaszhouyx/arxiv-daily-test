@@ -1,43 +1,9 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2025-05-13 08:50:39 Asia/Shanghai
+ Automated deployment @ 2025-05-13 10:26:40 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
 ## LHCb
-
-### rare decay
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-05-09**|**How to tame penguins: Advancing to high-precision measurements of $φ_d$ and $φ_s$**|Kristof De Bruyn et.al.|[2505.06102v1](http://arxiv.org/abs/2505.06102v1)|null|
-|**2025-05-08**|**Unraveling New Physics Effects in $b \rightarrow s \ell_1 \ell_2$ Transitions with a Model-Independent Perspective**|Aishwarya Bhatta et.al.|[2505.05125v1](http://arxiv.org/abs/2505.05125v1)|null|
-|**2025-05-06**|**Measurement of the branching fraction ratio $R_K$ at large dilepton invariant mass**|LHCb collaboration et.al.|[2505.03483v1](http://arxiv.org/abs/2505.03483v1)|null|
-|**2025-05-02**|**Probing Kaons as Light-Strange Tetraquarks through Spectral and Decay Dynamics**|Chetan Lodha et.al.|[2505.01195v1](http://arxiv.org/abs/2505.01195v1)|null|
-|**2025-04-30**|**Evidence for the existence of a flavor-sextet charmed meson?**|Feng-Kun Guo et.al.|[2504.21442v1](http://arxiv.org/abs/2504.21442v1)|null|
-|**2025-04-30**|**Observation of the decay $B^0_{s}\to K^0 p \bar{p}$ and measurement of the $B^0_{(s)} \to K^0 p \bar{p}$ branching fractions**|LHCb collaboration et.al.|[2504.21269v1](http://arxiv.org/abs/2504.21269v1)|null|
-|**2025-04-27**|**Full analysis of CP violation induced by the decay angular correlations in four-body cascade decays of heavy hadrons**|Zhen-Hua Zhang et.al.|[2504.19228v1](http://arxiv.org/abs/2504.19228v1)|null|
-|**2025-04-23**|**Semileptonic decays of doubly charmed (bottom) baryons to single heavy baryons**|M. Shekari Tousi et.al.|[2504.17030v1](http://arxiv.org/abs/2504.17030v1)|null|
-|**2025-04-21**|**New horizon in particle physics: First observation of CP violation in baryon decays**|Fu-Sheng Yu et.al.|[2504.15008v1](http://arxiv.org/abs/2504.15008v1)|null|
-|**2025-04-16**|**Tests of quantum contextuality in particle physics**|M. Fabbrichesi et.al.|[2504.12382v1](http://arxiv.org/abs/2504.12382v1)|null|
-|**2025-04-10**|**Exploratory calculation of the rare hyperon decay $Σ^+ \to p \ell^+ \ell^-$ from lattice QCD**|Felix Erben et.al.|[2504.07727v1](http://arxiv.org/abs/2504.07727v1)|null|
-|**2025-04-09**|**A Robust Determination of Antinuclei Production from Dark Matter via Weakly Decaying Beauty Hadrons**|Mattia Di Mauro et.al.|[2504.07172v1](http://arxiv.org/abs/2504.07172v1)|null|
-|**2025-04-08**|**Angular analysis of the decay $B_{s}^{0}\toφe^+e^-$**|LHCb collaboration et.al.|[2504.06346v1](http://arxiv.org/abs/2504.06346v1)|null|
-|**2025-04-08**|**Observation of the very rare $Σ^+ \to p μ^+ μ^-$ decay**|LHCb collaboration et.al.|[2504.06096v1](http://arxiv.org/abs/2504.06096v1)|null|
-|**2025-04-07**|**Observation of the doubly-charmed-baryon decay ${\it Ξ}_{cc}^{++}\to{\it Ξ}_{c}^{0}π^{+}π^{+}$**|LHCb collaboration et.al.|[2504.05063v1](http://arxiv.org/abs/2504.05063v1)|null|
-|**2025-04-06**|**Study of Fully heavy Pentaquarks using extended Gursey-Radicati formalism**|Ankush Sharma et.al.|[2504.04546v1](http://arxiv.org/abs/2504.04546v1)|null|
-|**2025-04-04**|**2026 ESPPU input from the ANUBIS Collaboration**|Oleg Brandt et.al.|[2504.03195v1](http://arxiv.org/abs/2504.03195v1)|null|
-|**2025-04-02**|**Implications of recent LHCb data on CPV in b-baryon four body decays**|Qi Chen et.al.|[2504.01853v2](http://arxiv.org/abs/2504.01853v2)|null|
-|**2025-03-31**|**Branching fractions and CP asymmetries in charm meson decays**|Ulrich Nierste et.al.|[2504.00157v1](http://arxiv.org/abs/2504.00157v1)|null|
-|**2025-03-31**|**Discovery Prospects for a Minimal Dark Matter Model at Cosmic and Intensity Frontier Experiments**|Ahmed Alenezi et.al.|[2504.00077v1](http://arxiv.org/abs/2504.00077v1)|null|
-|**2025-03-31**|**Large CP violation in $Λ^0_b \to pK^-π^+π^-$ and its U-spin partner decays**|Xiao-Gang He et.al.|[2503.24350v2](http://arxiv.org/abs/2503.24350v2)|null|
-|**2025-03-28**|**Precision Tests in $b\to s\ell^+\ell^-$ ($\ell=e,μ$) at FCC-ee**|Marzia Bordone et.al.|[2503.22635v1](http://arxiv.org/abs/2503.22635v1)|null|
-|**2025-03-28**|**Prompt inclusive production of $J/ψ$, $ψ'$ and $χ_{c}$ mesons at $\sqrt{s}$ $=$ $68.5$ $GeV$ energy within NRQCD $k_t$-factorization approach**|Anna Cisek et.al.|[2503.22336v1](http://arxiv.org/abs/2503.22336v1)|null|
-|**2025-03-25**|**Search for the $B^+_c\rightarrow χ_{c1}(3872)π^+$ decay**|LHCb collaboration et.al.|[2503.20039v1](http://arxiv.org/abs/2503.20039v1)|null|
-|**2025-03-24**|**Analysis of three-body hadronic $D$-meson decays**|Xu-Da Zhou et.al.|[2503.18593v1](http://arxiv.org/abs/2503.18593v1)|null|
-|**2025-03-21**|**Observation of charge-parity symmetry breaking in baryon decays**|LHCb collaboration et.al.|[2503.16954v1](http://arxiv.org/abs/2503.16954v1)|null|
-|**2025-03-18**|**Quantum contextuality of spin-1 massive particles**|M. Fabbrichesi et.al.|[2503.14587v1](http://arxiv.org/abs/2503.14587v1)|null|
-|**2025-03-16**|**Newly observed $κ$(2600) and the highly excited states of $K_0^{*}$ family**|Cheng-Qun Pang et.al.|[2503.12393v1](http://arxiv.org/abs/2503.12393v1)|null|
-|**2025-03-13**|**Exclusive photon-fusion production of even-spin resonances and exotic QED atoms in high-energy hadron collisions**|David d'Enterria et.al.|[2503.10952v1](http://arxiv.org/abs/2503.10952v1)|null|
-|**2025-03-11**|**Strong decays of $P_ψ^N(4440)^+$ and $P_ψ^N(4457)^+$ within the Bethe-Salpeter framework**|Qiang Li et.al.|[2503.08440v1](http://arxiv.org/abs/2503.08440v1)|null|
 
 ### X(3872)
 |Publish Date|Title|Authors|PDF|Code|
@@ -73,9 +39,44 @@
 |**2021-09-16**|**The production of doubly charmed exotic hadrons in heavy ion collisions**|Yuanyuan Hu et.al.|[2109.07733v1](http://arxiv.org/abs/2109.07733v1)|null|
 |**2021-09-15**|**Measurement of $χ_{c1}(3872)$ production in proton-proton collisions at $\sqrt{s}=8$ and $13$ TeV**|LHCb collaboration et.al.|[2109.07360v2](http://arxiv.org/abs/2109.07360v2)|null|
 
+### rare decay
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-05-10**|**Flavor-Dependent Dynamical Spin-Orbit Coupling in Light-Front Holographic QCD: A New Approach to Baryon Spectroscopy**|Fidele J. Twagirayezu et.al.|[2505.06722v1](http://arxiv.org/abs/2505.06722v1)|null|
+|**2025-05-09**|**How to tame penguins: Advancing to high-precision measurements of $φ_d$ and $φ_s$**|Kristof De Bruyn et.al.|[2505.06102v1](http://arxiv.org/abs/2505.06102v1)|null|
+|**2025-05-08**|**Unraveling New Physics Effects in $b \rightarrow s \ell_1 \ell_2$ Transitions with a Model-Independent Perspective**|Aishwarya Bhatta et.al.|[2505.05125v1](http://arxiv.org/abs/2505.05125v1)|null|
+|**2025-05-06**|**Measurement of the branching fraction ratio $R_K$ at large dilepton invariant mass**|LHCb collaboration et.al.|[2505.03483v1](http://arxiv.org/abs/2505.03483v1)|null|
+|**2025-05-02**|**Probing Kaons as Light-Strange Tetraquarks through Spectral and Decay Dynamics**|Chetan Lodha et.al.|[2505.01195v1](http://arxiv.org/abs/2505.01195v1)|null|
+|**2025-04-30**|**Evidence for the existence of a flavor-sextet charmed meson?**|Feng-Kun Guo et.al.|[2504.21442v1](http://arxiv.org/abs/2504.21442v1)|null|
+|**2025-04-30**|**Observation of the decay $B^0_{s}\to K^0 p \bar{p}$ and measurement of the $B^0_{(s)} \to K^0 p \bar{p}$ branching fractions**|LHCb collaboration et.al.|[2504.21269v1](http://arxiv.org/abs/2504.21269v1)|null|
+|**2025-04-27**|**Full analysis of CP violation induced by the decay angular correlations in four-body cascade decays of heavy hadrons**|Zhen-Hua Zhang et.al.|[2504.19228v1](http://arxiv.org/abs/2504.19228v1)|null|
+|**2025-04-23**|**Semileptonic decays of doubly charmed (bottom) baryons to single heavy baryons**|M. Shekari Tousi et.al.|[2504.17030v1](http://arxiv.org/abs/2504.17030v1)|null|
+|**2025-04-21**|**New horizon in particle physics: First observation of CP violation in baryon decays**|Fu-Sheng Yu et.al.|[2504.15008v1](http://arxiv.org/abs/2504.15008v1)|null|
+|**2025-04-16**|**Tests of quantum contextuality in particle physics**|M. Fabbrichesi et.al.|[2504.12382v1](http://arxiv.org/abs/2504.12382v1)|null|
+|**2025-04-10**|**Exploratory calculation of the rare hyperon decay $Σ^+ \to p \ell^+ \ell^-$ from lattice QCD**|Felix Erben et.al.|[2504.07727v1](http://arxiv.org/abs/2504.07727v1)|null|
+|**2025-04-09**|**A Robust Determination of Antinuclei Production from Dark Matter via Weakly Decaying Beauty Hadrons**|Mattia Di Mauro et.al.|[2504.07172v1](http://arxiv.org/abs/2504.07172v1)|null|
+|**2025-04-08**|**Angular analysis of the decay $B_{s}^{0}\toφe^+e^-$**|LHCb collaboration et.al.|[2504.06346v1](http://arxiv.org/abs/2504.06346v1)|null|
+|**2025-04-08**|**Observation of the very rare $Σ^+ \to p μ^+ μ^-$ decay**|LHCb collaboration et.al.|[2504.06096v1](http://arxiv.org/abs/2504.06096v1)|null|
+|**2025-04-07**|**Observation of the doubly-charmed-baryon decay ${\it Ξ}_{cc}^{++}\to{\it Ξ}_{c}^{0}π^{+}π^{+}$**|LHCb collaboration et.al.|[2504.05063v1](http://arxiv.org/abs/2504.05063v1)|null|
+|**2025-04-06**|**Study of Fully heavy Pentaquarks using extended Gursey-Radicati formalism**|Ankush Sharma et.al.|[2504.04546v1](http://arxiv.org/abs/2504.04546v1)|null|
+|**2025-04-04**|**2026 ESPPU input from the ANUBIS Collaboration**|Oleg Brandt et.al.|[2504.03195v1](http://arxiv.org/abs/2504.03195v1)|null|
+|**2025-04-02**|**Implications of recent LHCb data on CPV in b-baryon four body decays**|Qi Chen et.al.|[2504.01853v2](http://arxiv.org/abs/2504.01853v2)|null|
+|**2025-03-31**|**Branching fractions and CP asymmetries in charm meson decays**|Ulrich Nierste et.al.|[2504.00157v1](http://arxiv.org/abs/2504.00157v1)|null|
+|**2025-03-31**|**Discovery Prospects for a Minimal Dark Matter Model at Cosmic and Intensity Frontier Experiments**|Ahmed Alenezi et.al.|[2504.00077v1](http://arxiv.org/abs/2504.00077v1)|null|
+|**2025-03-31**|**Large CP violation in $Λ^0_b \to pK^-π^+π^-$ and its U-spin partner decays**|Xiao-Gang He et.al.|[2503.24350v2](http://arxiv.org/abs/2503.24350v2)|null|
+|**2025-03-28**|**Precision Tests in $b\to s\ell^+\ell^-$ ($\ell=e,μ$) at FCC-ee**|Marzia Bordone et.al.|[2503.22635v1](http://arxiv.org/abs/2503.22635v1)|null|
+|**2025-03-28**|**Prompt inclusive production of $J/ψ$, $ψ'$ and $χ_{c}$ mesons at $\sqrt{s}$ $=$ $68.5$ $GeV$ energy within NRQCD $k_t$-factorization approach**|Anna Cisek et.al.|[2503.22336v1](http://arxiv.org/abs/2503.22336v1)|null|
+|**2025-03-25**|**Search for the $B^+_c\rightarrow χ_{c1}(3872)π^+$ decay**|LHCb collaboration et.al.|[2503.20039v1](http://arxiv.org/abs/2503.20039v1)|null|
+|**2025-03-24**|**Analysis of three-body hadronic $D$-meson decays**|Xu-Da Zhou et.al.|[2503.18593v1](http://arxiv.org/abs/2503.18593v1)|null|
+|**2025-03-21**|**Observation of charge-parity symmetry breaking in baryon decays**|LHCb collaboration et.al.|[2503.16954v1](http://arxiv.org/abs/2503.16954v1)|null|
+|**2025-03-18**|**Quantum contextuality of spin-1 massive particles**|M. Fabbrichesi et.al.|[2503.14587v1](http://arxiv.org/abs/2503.14587v1)|null|
+|**2025-03-16**|**Newly observed $κ$(2600) and the highly excited states of $K_0^{*}$ family**|Cheng-Qun Pang et.al.|[2503.12393v1](http://arxiv.org/abs/2503.12393v1)|null|
+|**2025-03-13**|**Exclusive photon-fusion production of even-spin resonances and exotic QED atoms in high-energy hadron collisions**|David d'Enterria et.al.|[2503.10952v1](http://arxiv.org/abs/2503.10952v1)|null|
+
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-10**|**Flavor-Dependent Dynamical Spin-Orbit Coupling in Light-Front Holographic QCD: A New Approach to Baryon Spectroscopy**|Fidele J. Twagirayezu et.al.|[2505.06722v1](http://arxiv.org/abs/2505.06722v1)|null|
 |**2025-05-08**|**Unraveling New Physics Effects in $b \rightarrow s \ell_1 \ell_2$ Transitions with a Model-Independent Perspective**|Aishwarya Bhatta et.al.|[2505.05125v1](http://arxiv.org/abs/2505.05125v1)|null|
 |**2025-05-06**|**Double-bottom centrifugal-barrier molecules dancing with four quarks**|Zhi-Peng Wang et.al.|[2505.03647v1](http://arxiv.org/abs/2505.03647v1)|null|
 |**2025-05-06**|**Measurement of the branching fraction ratio $R_K$ at large dilepton invariant mass**|LHCb collaboration et.al.|[2505.03483v1](http://arxiv.org/abs/2505.03483v1)|null|
@@ -105,4 +106,3 @@
 |**2025-03-17**|**A Downstream and vertexing algorithm for Long Lived Particles (LLP) selection at the first High-level trigger (HLT1) of LHCb**|V. Kholoimov et.al.|[2503.13092v1](http://arxiv.org/abs/2503.13092v1)|null|
 |**2025-03-14**|**Analysis of bound and resonant states of doubly heavy tetraquarks with spin $J\leq 2$**|Manato Sakai et.al.|[2503.11134v1](http://arxiv.org/abs/2503.11134v1)|null|
 |**2025-03-11**|**Strong decays of $P_ψ^N(4440)^+$ and $P_ψ^N(4457)^+$ within the Bethe-Salpeter framework**|Qiang Li et.al.|[2503.08440v1](http://arxiv.org/abs/2503.08440v1)|null|
-|**2025-03-04**|**Branching fraction measurement of the decay $B^+ \to ψ(2S) φ(1020) K^+$**|LHCb collaboration et.al.|[2503.02711v1](http://arxiv.org/abs/2503.02711v1)|null|
