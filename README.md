@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2025-05-20 08:52:07 Asia/Shanghai
+ Automated deployment @ 2025-05-20 10:27:21 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,7 @@
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-17**|**First measurement of $b$-jet mass with and without grooming**|LHCb collaboration et.al.|[2505.11955v1](http://arxiv.org/abs/2505.11955v1)|null|
 |**2025-05-16**|**Heavy-ion and fixed-target physics at LHCb**|Daniele Marangotto et.al.|[2505.11074v1](http://arxiv.org/abs/2505.11074v1)|null|
 |**2025-05-15**|**Phenomenological study of semitauonic decays of $B$ and $B_s$ mesons to charm states**|Sonali Patnaik et.al.|[2505.10491v1](http://arxiv.org/abs/2505.10491v1)|null|
 |**2025-05-14**|**Rapidity and multiplicity dependence of charged-particle flow in $p$Pb collisions at $\sqrt{s_{NN}} = 8.16$ TeV**|R. Aaij et.al.|[2505.09273v1](http://arxiv.org/abs/2505.09273v1)|null|
@@ -71,11 +72,11 @@
 |**2025-03-27**|**The impact of future $D$- and $B$-meson measurements with the SMOG2 program at LHCb on the determination of nuclear parton distribution functions**|Carlo Flore et.al.|[2503.21531v1](http://arxiv.org/abs/2503.21531v1)|null|
 |**2025-03-25**|**Search for the $B^+_c\rightarrow χ_{c1}(3872)π^+$ decay**|LHCb collaboration et.al.|[2503.20039v1](http://arxiv.org/abs/2503.20039v1)|null|
 |**2025-03-21**|**Observation of charge-parity symmetry breaking in baryon decays**|LHCb collaboration et.al.|[2503.16954v1](http://arxiv.org/abs/2503.16954v1)|null|
-|**2025-03-18**|**Quantum contextuality of spin-1 massive particles**|M. Fabbrichesi et.al.|[2503.14587v1](http://arxiv.org/abs/2503.14587v1)|null|
 
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-19**|**Exploring the spectroscopic features of double-strangeness tetraquark states**|Xuejie Liu et.al.|[2505.12828v1](http://arxiv.org/abs/2505.12828v1)|null|
 |**2025-05-15**|**Phenomenological study of semitauonic decays of $B$ and $B_s$ mesons to charm states**|Sonali Patnaik et.al.|[2505.10491v1](http://arxiv.org/abs/2505.10491v1)|null|
 |**2025-05-14**|**Heavy-Ion and Fixed-Target Physics at LHCb**|Krista Smith et.al.|[2505.09137v1](http://arxiv.org/abs/2505.09137v1)|null|
 |**2025-05-13**|**A study on the properties of hidden-charm pentaquarks with double strangeness**|Xuejie Liu et.al.|[2505.08207v1](http://arxiv.org/abs/2505.08207v1)|null|
@@ -105,4 +106,3 @@
 |**2025-03-28**|**Prompt inclusive production of $J/ψ$, $ψ'$ and $χ_{c}$ mesons at $\sqrt{s}$ $=$ $68.5$ $GeV$ energy within NRQCD $k_t$-factorization approach**|Anna Cisek et.al.|[2503.22336v1](http://arxiv.org/abs/2503.22336v1)|null|
 |**2025-03-25**|**Search for the $B^+_c\rightarrow χ_{c1}(3872)π^+$ decay**|LHCb collaboration et.al.|[2503.20039v1](http://arxiv.org/abs/2503.20039v1)|null|
 |**2025-03-24**|**Analysis of three-body hadronic $D$-meson decays**|Xu-Da Zhou et.al.|[2503.18593v1](http://arxiv.org/abs/2503.18593v1)|null|
-|**2025-03-21**|**Observation of charge-parity symmetry breaking in baryon decays**|LHCb collaboration et.al.|[2503.16954v1](http://arxiv.org/abs/2503.16954v1)|null|
