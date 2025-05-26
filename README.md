@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2025-05-25 10:44:48 Asia/Shanghai
+ Automated deployment @ 2025-05-26 08:52:42 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -8,7 +8,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-21**|**TriggerCalib: a turnkey package for estimating LHCb trigger efficiencies**|Johannes Albrecht et.al.|[2505.15951v1](http://arxiv.org/abs/2505.15951v1)|null|
+|**2025-05-21**|**TriggerCalib: a turnkey package for estimating LHCb trigger efficiencies**|Johannes Albrecht et.al.|[2505.15951v2](http://arxiv.org/abs/2505.15951v2)|null|
 |**2025-05-21**|**Measurement of the Z-boson mass**|LHCb collaboration et.al.|[2505.15582v1](http://arxiv.org/abs/2505.15582v1)|null|
 |**2025-05-19**|**Exploring the spectroscopic features of double-strangeness tetraquark states**|Xuejie Liu et.al.|[2505.12828v1](http://arxiv.org/abs/2505.12828v1)|null|
 |**2025-05-15**|**Phenomenological study of semitauonic decays of $B$ and $B_s$ mesons to charm states**|Sonali Patnaik et.al.|[2505.10491v1](http://arxiv.org/abs/2505.10491v1)|null|
