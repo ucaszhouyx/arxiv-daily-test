@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2025-05-29 08:51:25 Asia/Shanghai
+ Automated deployment @ 2025-05-29 10:27:27 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-28**|**Exploring Charm Bound States: Mass Spectra and Decay Dynamics of D Mesons and $Cq\bar{q}\bar{q}$ Tetraquarks**|Chetan lodha et.al.|[2505.22393v1](http://arxiv.org/abs/2505.22393v1)|null|
 |**2025-05-27**|**$D\to P \ell^+\ell^-$ decays assisted by QCD light-cone sum rules**|Anshika Bansal et.al.|[2505.21369v1](http://arxiv.org/abs/2505.21369v1)|null|
 |**2025-05-27**|**Charmed $Λ_c^+$ baryon decays into light scalar mesons in the topological $SU(3)_f$ framework**|Y. L. Wang et.al.|[2505.21311v1](http://arxiv.org/abs/2505.21311v1)|null|
 |**2025-05-27**|**Study of $B_c \to χ_{cJ}\ (P, V)$ decays in the improved perturbative QCD formalism**|Xin Liu et.al.|[2505.20605v1](http://arxiv.org/abs/2505.20605v1)|null|
@@ -71,7 +72,6 @@
 |**2025-04-06**|**Study of Fully heavy Pentaquarks using extended Gursey-Radicati formalism**|Ankush Sharma et.al.|[2504.04546v1](http://arxiv.org/abs/2504.04546v1)|null|
 |**2025-04-04**|**2026 ESPPU input from the ANUBIS Collaboration**|Oleg Brandt et.al.|[2504.03195v1](http://arxiv.org/abs/2504.03195v1)|null|
 |**2025-04-02**|**Implications of recent LHCb data on CPV in b-baryon four body decays**|Qi Chen et.al.|[2504.01853v2](http://arxiv.org/abs/2504.01853v2)|null|
-|**2025-03-31**|**Branching fractions and CP asymmetries in charm meson decays**|Ulrich Nierste et.al.|[2504.00157v1](http://arxiv.org/abs/2504.00157v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
