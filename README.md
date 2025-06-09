@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2025-06-08 10:50:16 Asia/Shanghai
+ Automated deployment @ 2025-06-09 08:54:55 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -24,7 +24,7 @@
 |**2025-05-06**|**Measurement of the branching fraction ratio $R_K$ at large dilepton invariant mass**|LHCb collaboration et.al.|[2505.03483v1](http://arxiv.org/abs/2505.03483v1)|null|
 |**2025-04-30**|**Lattice QCD Study of Doubly Heavy Bottom Tetraquarks**|Bhabani Sankar Tripathy et.al.|[2505.00078v1](http://arxiv.org/abs/2505.00078v1)|null|
 |**2025-04-30**|**Evidence for the existence of a flavor-sextet charmed meson?**|Feng-Kun Guo et.al.|[2504.21442v1](http://arxiv.org/abs/2504.21442v1)|null|
-|**2025-04-30**|**Observation of the decay $B^0_{s}\to K^0 p \bar{p}$ and measurement of the $B^0_{(s)} \to K^0 p \bar{p}$ branching fractions**|LHCb collaboration et.al.|[2504.21269v1](http://arxiv.org/abs/2504.21269v1)|null|
+|**2025-04-30**|**Observation of the decay $B^0_{s}\to K^0 p \bar{p}$ and measurement of the $B^0_{(s)} \to K^0 p \bar{p}$ branching fractions**|LHCb collaboration et.al.|[2504.21269v2](http://arxiv.org/abs/2504.21269v2)|null|
 |**2025-04-27**|**Full analysis of CP violation induced by the decay angular correlations in four-body cascade decays of heavy hadrons**|Zhen-Hua Zhang et.al.|[2504.19228v1](http://arxiv.org/abs/2504.19228v1)|null|
 |**2025-04-23**|**Semileptonic decays of doubly charmed (bottom) baryons to single heavy baryons**|M. Shekari Tousi et.al.|[2504.17030v1](http://arxiv.org/abs/2504.17030v1)|null|
 |**2025-04-22**|**LHCspin: a Polarized Gas Target for LHC**|A. Accardi et.al.|[2504.16034v1](http://arxiv.org/abs/2504.16034v1)|null|
@@ -59,7 +59,7 @@
 |**2025-05-06**|**Measurement of the branching fraction ratio $R_K$ at large dilepton invariant mass**|LHCb collaboration et.al.|[2505.03483v1](http://arxiv.org/abs/2505.03483v1)|null|
 |**2025-05-02**|**Probing Kaons as Light-Strange Tetraquarks through Spectral and Decay Dynamics**|Chetan Lodha et.al.|[2505.01195v1](http://arxiv.org/abs/2505.01195v1)|null|
 |**2025-04-30**|**Evidence for the existence of a flavor-sextet charmed meson?**|Feng-Kun Guo et.al.|[2504.21442v1](http://arxiv.org/abs/2504.21442v1)|null|
-|**2025-04-30**|**Observation of the decay $B^0_{s}\to K^0 p \bar{p}$ and measurement of the $B^0_{(s)} \to K^0 p \bar{p}$ branching fractions**|LHCb collaboration et.al.|[2504.21269v1](http://arxiv.org/abs/2504.21269v1)|null|
+|**2025-04-30**|**Observation of the decay $B^0_{s}\to K^0 p \bar{p}$ and measurement of the $B^0_{(s)} \to K^0 p \bar{p}$ branching fractions**|LHCb collaboration et.al.|[2504.21269v2](http://arxiv.org/abs/2504.21269v2)|null|
 |**2025-04-27**|**Full analysis of CP violation induced by the decay angular correlations in four-body cascade decays of heavy hadrons**|Zhen-Hua Zhang et.al.|[2504.19228v1](http://arxiv.org/abs/2504.19228v1)|null|
 |**2025-04-23**|**Semileptonic decays of doubly charmed (bottom) baryons to single heavy baryons**|M. Shekari Tousi et.al.|[2504.17030v1](http://arxiv.org/abs/2504.17030v1)|null|
 |**2025-04-21**|**New horizon in particle physics: First observation of CP violation in baryon decays**|Fu-Sheng Yu et.al.|[2504.15008v1](http://arxiv.org/abs/2504.15008v1)|null|
