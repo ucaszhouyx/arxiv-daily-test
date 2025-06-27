@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2025-06-26 10:31:44 Asia/Shanghai
+ Automated deployment @ 2025-06-27 08:52:59 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -8,6 +8,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-06-25**|**Investigation of $T_{cs0}^{*}(2870)^{0}$ in $pp$ collisions at $\sqrt{s}$ = 7 TeV with the PACIAE model**|Qiang Wang et.al.|[2506.20145v1](http://arxiv.org/abs/2506.20145v1)|null|
 |**2025-06-24**|**B0 -> K*0 tau+ tau- Decay: Using Machine Learning to Separate Signal from Background**|Ziyao Xiong et.al.|[2506.19501v1](http://arxiv.org/abs/2506.19501v1)|null|
 |**2025-06-18**|**Search for the lepton-flavour-violating decays $B^0 \to K^{*0} τ^\pm e^\mp$**|LHCb collaboration et.al.|[2506.15347v1](http://arxiv.org/abs/2506.15347v1)|null|
 |**2025-06-17**|**Analysis of three-body charmed $B$ meson decays $B \to {D}(V^* \to){V P}$**|Jing Ou-Yang et.al.|[2506.14675v1](http://arxiv.org/abs/2506.14675v1)|null|
@@ -37,7 +38,6 @@
 |**2025-04-21**|**New horizon in particle physics: First observation of CP violation in baryon decays**|Fu-Sheng Yu et.al.|[2504.15008v1](http://arxiv.org/abs/2504.15008v1)|null|
 |**2025-04-16**|**Tests of quantum contextuality in particle physics**|M. Fabbrichesi et.al.|[2504.12382v1](http://arxiv.org/abs/2504.12382v1)|null|
 |**2025-04-10**|**Exploratory calculation of the rare hyperon decay $Σ^+ \to p \ell^+ \ell^-$ from lattice QCD**|Felix Erben et.al.|[2504.07727v1](http://arxiv.org/abs/2504.07727v1)|null|
-|**2025-04-09**|**A Robust Determination of Antinuclei Production from Dark Matter via Weakly Decaying Beauty Hadrons**|Mattia Di Mauro et.al.|[2504.07172v1](http://arxiv.org/abs/2504.07172v1)|null|
 
 ### X(3872)
 |Publish Date|Title|Authors|PDF|Code|
