@@ -1,43 +1,43 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2025-07-02 08:53:06 Asia/Shanghai
+ Automated deployment @ 2025-07-02 10:31:36 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
 ## LHCb
 
-### rare decay
+### b baryon
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-06-27**|**Updated measurement of $CP$ violation and polarisation in $B^0_s \rightarrow J/ψ\overline{K}{}^{*}\kern-1pt(892)^{0}$ decays**|LHCb collaboration et.al.|[2506.22090v1](http://arxiv.org/abs/2506.22090v1)|null|
-|**2025-06-27**|**The nature of the $P_c$ states from compositeness criteria**|Yu-Fei Wang et.al.|[2506.21858v1](http://arxiv.org/abs/2506.21858v1)|null|
 |**2025-06-26**|**Lessons from LHCb and Belle II measurements of $B\to J/ψπ$ and $B\to J/ψK$ decays**|Zoltan Ligeti et.al.|[2506.21675v1](http://arxiv.org/abs/2506.21675v1)|null|
-|**2025-06-25**|**Investigation of $T_{cs0}^{*}(2870)^{0}$ in $pp$ collisions at $\sqrt{s}$ = 7 TeV with the PACIAE model**|Qiang Wang et.al.|[2506.20145v1](http://arxiv.org/abs/2506.20145v1)|null|
-|**2025-06-24**|**B0 -> K*0 tau+ tau- Decay: Using Machine Learning to Separate Signal from Background**|Ziyao Xiong et.al.|[2506.19501v1](http://arxiv.org/abs/2506.19501v1)|null|
 |**2025-06-18**|**Search for the lepton-flavour-violating decays $B^0 \to K^{*0} τ^\pm e^\mp$**|LHCb collaboration et.al.|[2506.15347v1](http://arxiv.org/abs/2506.15347v1)|null|
 |**2025-06-17**|**Analysis of three-body charmed $B$ meson decays $B \to {D}(V^* \to){V P}$**|Jing Ou-Yang et.al.|[2506.14675v1](http://arxiv.org/abs/2506.14675v1)|null|
 |**2025-06-16**|**Measurement of the $Ω_c^0$ and $Ξ_c^0$ baryon lifetimes using hadronic $b$-baryon decays**|LHCb collaboration et.al.|[2506.13334v1](http://arxiv.org/abs/2506.13334v1)|null|
-|**2025-06-10**|**An interpretation of the fully-charmed scalar state $X(6200)$ as a molecular di-meson**|Ö. E. Demircan et.al.|[2506.08589v1](http://arxiv.org/abs/2506.08589v1)|null|
-|**2025-06-07**|**$Z_{cs}^+$ production in the $B^+$ decays process**|Zhuo Yu et.al.|[2506.06702v1](http://arxiv.org/abs/2506.06702v1)|null|
-|**2025-05-28**|**Exploring Charm Bound States: Mass Spectra and Decay Dynamics of D Mesons and $Cq\bar{q}\bar{q}$ Tetraquarks**|Chetan lodha et.al.|[2505.22393v1](http://arxiv.org/abs/2505.22393v1)|null|
-|**2025-05-27**|**$D\to P \ell^+\ell^-$ decays assisted by QCD light-cone sum rules**|Anshika Bansal et.al.|[2505.21369v1](http://arxiv.org/abs/2505.21369v1)|null|
+|**2025-06-12**|**Baryon and Meson Excited States**|L. David Roper et.al.|[2506.10646v1](http://arxiv.org/abs/2506.10646v1)|null|
+|**2025-06-10**|**Measurement of $ψ(2S)$ to $J/ψ$ cross-section ratio as function of multiplicity in $p$Pb collisions at$\sqrt{s_{NN}} = 8.16$ TeV**|LHCb collaboration et.al.|[2506.08624v2](http://arxiv.org/abs/2506.08624v2)|null|
+|**2025-06-06**|**Coherent photoproduction of $ρ^0, ω$ and excited vector mesons in ultraperipheral PbPb collisions**|LHCb collaboration et.al.|[2506.06250v1](http://arxiv.org/abs/2506.06250v1)|null|
+|**2025-06-05**|**Effects of closely spaced thresholds on line shapes with near-threshold enhancement**|Exan John D. F. Carpio et.al.|[2506.04630v1](http://arxiv.org/abs/2506.04630v1)|null|
+|**2025-06-03**|**Three-pion Bose-Einstein correlations measured in proton-proton collisions**|LHCb collaboration et.al.|[2506.03072v2](http://arxiv.org/abs/2506.03072v2)|null|
+|**2025-05-29**|**Measurement of the Lund plane for light- and beauty-quark jets**|LHCb collaboration et.al.|[2505.23530v1](http://arxiv.org/abs/2505.23530v1)|null|
 |**2025-05-27**|**Charmed $Λ_c^+$ baryon decays into light scalar mesons in the topological $SU(3)_f$ framework**|Y. L. Wang et.al.|[2505.21311v1](http://arxiv.org/abs/2505.21311v1)|null|
-|**2025-05-27**|**Study of $B_c \to χ_{cJ}\ (P, V)$ decays in the improved perturbative QCD formalism**|Xin Liu et.al.|[2505.20605v1](http://arxiv.org/abs/2505.20605v1)|null|
 |**2025-05-26**|**The nonleptonic decays $Ξ_{cc}^{++}\toΞ_{c}^{(\prime)+}π^{+}$ within the nonrelativistic quark model**|Yu-Shuai Li et.al.|[2505.19758v1](http://arxiv.org/abs/2505.19758v1)|null|
-|**2025-05-21**|**TriggerCalib: a turnkey package for estimating LHCb trigger efficiencies**|Johannes Albrecht et.al.|[2505.15951v3](http://arxiv.org/abs/2505.15951v3)|null|
 |**2025-05-21**|**Measurement of the Z-boson mass**|LHCb collaboration et.al.|[2505.15582v1](http://arxiv.org/abs/2505.15582v1)|null|
-|**2025-05-19**|**Exploring the spectroscopic features of double-strangeness tetraquark states**|Xuejie Liu et.al.|[2505.12828v1](http://arxiv.org/abs/2505.12828v1)|null|
+|**2025-05-20**|**Measurements of charmed meson and antimeson production asymmetries at $\sqrt{s} =13.6$ TeV**|LHCb collaboration et.al.|[2505.14494v1](http://arxiv.org/abs/2505.14494v1)|null|
+|**2025-05-17**|**First measurement of $b$-jet mass with and without grooming**|LHCb collaboration et.al.|[2505.11955v1](http://arxiv.org/abs/2505.11955v1)|null|
+|**2025-05-16**|**Heavy-ion and fixed-target physics at LHCb**|Daniele Marangotto et.al.|[2505.11074v1](http://arxiv.org/abs/2505.11074v1)|null|
 |**2025-05-15**|**Phenomenological study of semitauonic decays of $B$ and $B_s$ mesons to charm states**|Sonali Patnaik et.al.|[2505.10491v1](http://arxiv.org/abs/2505.10491v1)|null|
-|**2025-05-14**|**Heavy-Ion and Fixed-Target Physics at LHCb**|Krista Smith et.al.|[2505.09137v1](http://arxiv.org/abs/2505.09137v1)|null|
-|**2025-05-13**|**A study on the properties of hidden-charm pentaquarks with double strangeness**|Xuejie Liu et.al.|[2505.08207v1](http://arxiv.org/abs/2505.08207v1)|null|
+|**2025-05-14**|**Rapidity and multiplicity dependence of charged-particle flow in $p$Pb collisions at $\sqrt{s_{NN}} = 8.16$ TeV**|R. Aaij et.al.|[2505.09273v1](http://arxiv.org/abs/2505.09273v1)|null|
 |**2025-05-10**|**Flavor-Dependent Dynamical Spin-Orbit Coupling in Light-Front Holographic QCD: A New Approach to Baryon Spectroscopy**|Fidele J. Twagirayezu et.al.|[2505.06722v1](http://arxiv.org/abs/2505.06722v1)|null|
-|**2025-05-09**|**How to tame penguins: Advancing to high-precision measurements of $φ_d$ and $φ_s$**|Kristof De Bruyn et.al.|[2505.06102v1](http://arxiv.org/abs/2505.06102v1)|null|
 |**2025-05-08**|**Unraveling New Physics Effects in $b \rightarrow s \ell_1 \ell_2$ Transitions with a Model-Independent Perspective**|Aishwarya Bhatta et.al.|[2505.05125v1](http://arxiv.org/abs/2505.05125v1)|null|
+|**2025-05-06**|**Double-bottom centrifugal-barrier molecules dancing with four quarks**|Zhi-Peng Wang et.al.|[2505.03647v1](http://arxiv.org/abs/2505.03647v1)|null|
 |**2025-05-06**|**Measurement of the branching fraction ratio $R_K$ at large dilepton invariant mass**|LHCb collaboration et.al.|[2505.03483v2](http://arxiv.org/abs/2505.03483v2)|null|
-|**2025-05-02**|**Probing Kaons as Light-Strange Tetraquarks through Spectral and Decay Dynamics**|Chetan Lodha et.al.|[2505.01195v1](http://arxiv.org/abs/2505.01195v1)|null|
+|**2025-04-30**|**Lattice QCD Study of Doubly Heavy Bottom Tetraquarks**|Bhabani Sankar Tripathy et.al.|[2505.00078v1](http://arxiv.org/abs/2505.00078v1)|null|
 |**2025-04-30**|**Evidence for the existence of a flavor-sextet charmed meson?**|Feng-Kun Guo et.al.|[2504.21442v1](http://arxiv.org/abs/2504.21442v1)|null|
 |**2025-04-30**|**Observation of the decay $B^0_{s}\to K^0 p \bar{p}$ and measurement of the $B^0_{(s)} \to K^0 p \bar{p}$ branching fractions**|LHCb collaboration et.al.|[2504.21269v2](http://arxiv.org/abs/2504.21269v2)|null|
 |**2025-04-27**|**Full analysis of CP violation induced by the decay angular correlations in four-body cascade decays of heavy hadrons**|Zhen-Hua Zhang et.al.|[2504.19228v1](http://arxiv.org/abs/2504.19228v1)|null|
 |**2025-04-23**|**Semileptonic decays of doubly charmed (bottom) baryons to single heavy baryons**|M. Shekari Tousi et.al.|[2504.17030v1](http://arxiv.org/abs/2504.17030v1)|null|
+|**2025-04-22**|**LHCspin: a Polarized Gas Target for LHC**|A. Accardi et.al.|[2504.16034v1](http://arxiv.org/abs/2504.16034v1)|null|
+|**2025-04-21**|**New horizon in particle physics: First observation of CP violation in baryon decays**|Fu-Sheng Yu et.al.|[2504.15008v1](http://arxiv.org/abs/2504.15008v1)|null|
 
 ### X(3872)
 |Publish Date|Title|Authors|PDF|Code|
@@ -73,36 +73,36 @@
 |**2021-09-16**|**The production of doubly charmed exotic hadrons in heavy ion collisions**|Yuanyuan Hu et.al.|[2109.07733v1](http://arxiv.org/abs/2109.07733v1)|null|
 |**2021-09-15**|**Measurement of $χ_{c1}(3872)$ production in proton-proton collisions at $\sqrt{s}=8$ and $13$ TeV**|LHCb collaboration et.al.|[2109.07360v2](http://arxiv.org/abs/2109.07360v2)|null|
 
-### b baryon
+### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-06-27**|**Updated measurement of $CP$ violation and polarisation in $B^0_s \rightarrow J/ψ\overline{K}{}^{*}\kern-1pt(892)^{0}$ decays**|LHCb collaboration et.al.|[2506.22090v1](http://arxiv.org/abs/2506.22090v1)|null|
+|**2025-06-27**|**The nature of the $P_c$ states from compositeness criteria**|Yu-Fei Wang et.al.|[2506.21858v1](http://arxiv.org/abs/2506.21858v1)|null|
 |**2025-06-26**|**Lessons from LHCb and Belle II measurements of $B\to J/ψπ$ and $B\to J/ψK$ decays**|Zoltan Ligeti et.al.|[2506.21675v1](http://arxiv.org/abs/2506.21675v1)|null|
+|**2025-06-25**|**Investigation of $T_{cs0}^{*}(2870)^{0}$ in $pp$ collisions at $\sqrt{s}$ = 7 TeV with the PACIAE model**|Qiang Wang et.al.|[2506.20145v1](http://arxiv.org/abs/2506.20145v1)|null|
+|**2025-06-24**|**B0 -> K*0 tau+ tau- Decay: Using Machine Learning to Separate Signal from Background**|Ziyao Xiong et.al.|[2506.19501v1](http://arxiv.org/abs/2506.19501v1)|null|
 |**2025-06-18**|**Search for the lepton-flavour-violating decays $B^0 \to K^{*0} τ^\pm e^\mp$**|LHCb collaboration et.al.|[2506.15347v1](http://arxiv.org/abs/2506.15347v1)|null|
 |**2025-06-17**|**Analysis of three-body charmed $B$ meson decays $B \to {D}(V^* \to){V P}$**|Jing Ou-Yang et.al.|[2506.14675v1](http://arxiv.org/abs/2506.14675v1)|null|
 |**2025-06-16**|**Measurement of the $Ω_c^0$ and $Ξ_c^0$ baryon lifetimes using hadronic $b$-baryon decays**|LHCb collaboration et.al.|[2506.13334v1](http://arxiv.org/abs/2506.13334v1)|null|
-|**2025-06-12**|**Baryon and Meson Excited States**|L. David Roper et.al.|[2506.10646v1](http://arxiv.org/abs/2506.10646v1)|null|
-|**2025-06-10**|**Measurement of $ψ(2S)$ to $J/ψ$ cross-section ratio as function of multiplicity in $p$Pb collisions at$\sqrt{s_{NN}} = 8.16$ TeV**|LHCb collaboration et.al.|[2506.08624v2](http://arxiv.org/abs/2506.08624v2)|null|
-|**2025-06-06**|**Coherent photoproduction of $ρ^0, ω$ and excited vector mesons in ultraperipheral PbPb collisions**|LHCb collaboration et.al.|[2506.06250v1](http://arxiv.org/abs/2506.06250v1)|null|
-|**2025-06-05**|**Effects of closely spaced thresholds on line shapes with near-threshold enhancement**|Exan John D. F. Carpio et.al.|[2506.04630v1](http://arxiv.org/abs/2506.04630v1)|null|
-|**2025-06-03**|**Three-pion Bose-Einstein correlations measured in proton-proton collisions**|LHCb collaboration et.al.|[2506.03072v2](http://arxiv.org/abs/2506.03072v2)|null|
-|**2025-05-29**|**Measurement of the Lund plane for light- and beauty-quark jets**|LHCb collaboration et.al.|[2505.23530v1](http://arxiv.org/abs/2505.23530v1)|null|
+|**2025-06-10**|**An interpretation of the fully-charmed scalar state $X(6200)$ as a molecular di-meson**|Ö. E. Demircan et.al.|[2506.08589v1](http://arxiv.org/abs/2506.08589v1)|null|
+|**2025-06-07**|**$Z_{cs}^+$ production in the $B^+$ decays process**|Zhuo Yu et.al.|[2506.06702v1](http://arxiv.org/abs/2506.06702v1)|null|
+|**2025-05-28**|**Exploring Charm Bound States: Mass Spectra and Decay Dynamics of D Mesons and $Cq\bar{q}\bar{q}$ Tetraquarks**|Chetan lodha et.al.|[2505.22393v1](http://arxiv.org/abs/2505.22393v1)|null|
+|**2025-05-27**|**$D\to P \ell^+\ell^-$ decays assisted by QCD light-cone sum rules**|Anshika Bansal et.al.|[2505.21369v1](http://arxiv.org/abs/2505.21369v1)|null|
 |**2025-05-27**|**Charmed $Λ_c^+$ baryon decays into light scalar mesons in the topological $SU(3)_f$ framework**|Y. L. Wang et.al.|[2505.21311v1](http://arxiv.org/abs/2505.21311v1)|null|
+|**2025-05-27**|**Study of $B_c \to χ_{cJ}\ (P, V)$ decays in the improved perturbative QCD formalism**|Xin Liu et.al.|[2505.20605v1](http://arxiv.org/abs/2505.20605v1)|null|
 |**2025-05-26**|**The nonleptonic decays $Ξ_{cc}^{++}\toΞ_{c}^{(\prime)+}π^{+}$ within the nonrelativistic quark model**|Yu-Shuai Li et.al.|[2505.19758v1](http://arxiv.org/abs/2505.19758v1)|null|
+|**2025-05-21**|**TriggerCalib: a turnkey package for estimating LHCb trigger efficiencies**|Johannes Albrecht et.al.|[2505.15951v3](http://arxiv.org/abs/2505.15951v3)|null|
 |**2025-05-21**|**Measurement of the Z-boson mass**|LHCb collaboration et.al.|[2505.15582v1](http://arxiv.org/abs/2505.15582v1)|null|
-|**2025-05-20**|**Measurements of charmed meson and antimeson production asymmetries at $\sqrt{s} =13.6$ TeV**|LHCb collaboration et.al.|[2505.14494v1](http://arxiv.org/abs/2505.14494v1)|null|
-|**2025-05-17**|**First measurement of $b$-jet mass with and without grooming**|LHCb collaboration et.al.|[2505.11955v1](http://arxiv.org/abs/2505.11955v1)|null|
-|**2025-05-16**|**Heavy-ion and fixed-target physics at LHCb**|Daniele Marangotto et.al.|[2505.11074v1](http://arxiv.org/abs/2505.11074v1)|null|
+|**2025-05-19**|**Exploring the spectroscopic features of double-strangeness tetraquark states**|Xuejie Liu et.al.|[2505.12828v1](http://arxiv.org/abs/2505.12828v1)|null|
 |**2025-05-15**|**Phenomenological study of semitauonic decays of $B$ and $B_s$ mesons to charm states**|Sonali Patnaik et.al.|[2505.10491v1](http://arxiv.org/abs/2505.10491v1)|null|
-|**2025-05-14**|**Rapidity and multiplicity dependence of charged-particle flow in $p$Pb collisions at $\sqrt{s_{NN}} = 8.16$ TeV**|R. Aaij et.al.|[2505.09273v1](http://arxiv.org/abs/2505.09273v1)|null|
+|**2025-05-14**|**Heavy-Ion and Fixed-Target Physics at LHCb**|Krista Smith et.al.|[2505.09137v1](http://arxiv.org/abs/2505.09137v1)|null|
+|**2025-05-13**|**A study on the properties of hidden-charm pentaquarks with double strangeness**|Xuejie Liu et.al.|[2505.08207v1](http://arxiv.org/abs/2505.08207v1)|null|
 |**2025-05-10**|**Flavor-Dependent Dynamical Spin-Orbit Coupling in Light-Front Holographic QCD: A New Approach to Baryon Spectroscopy**|Fidele J. Twagirayezu et.al.|[2505.06722v1](http://arxiv.org/abs/2505.06722v1)|null|
+|**2025-05-09**|**How to tame penguins: Advancing to high-precision measurements of $φ_d$ and $φ_s$**|Kristof De Bruyn et.al.|[2505.06102v1](http://arxiv.org/abs/2505.06102v1)|null|
 |**2025-05-08**|**Unraveling New Physics Effects in $b \rightarrow s \ell_1 \ell_2$ Transitions with a Model-Independent Perspective**|Aishwarya Bhatta et.al.|[2505.05125v1](http://arxiv.org/abs/2505.05125v1)|null|
-|**2025-05-06**|**Double-bottom centrifugal-barrier molecules dancing with four quarks**|Zhi-Peng Wang et.al.|[2505.03647v1](http://arxiv.org/abs/2505.03647v1)|null|
 |**2025-05-06**|**Measurement of the branching fraction ratio $R_K$ at large dilepton invariant mass**|LHCb collaboration et.al.|[2505.03483v2](http://arxiv.org/abs/2505.03483v2)|null|
-|**2025-04-30**|**Lattice QCD Study of Doubly Heavy Bottom Tetraquarks**|Bhabani Sankar Tripathy et.al.|[2505.00078v1](http://arxiv.org/abs/2505.00078v1)|null|
+|**2025-05-02**|**Probing Kaons as Light-Strange Tetraquarks through Spectral and Decay Dynamics**|Chetan Lodha et.al.|[2505.01195v1](http://arxiv.org/abs/2505.01195v1)|null|
 |**2025-04-30**|**Evidence for the existence of a flavor-sextet charmed meson?**|Feng-Kun Guo et.al.|[2504.21442v1](http://arxiv.org/abs/2504.21442v1)|null|
 |**2025-04-30**|**Observation of the decay $B^0_{s}\to K^0 p \bar{p}$ and measurement of the $B^0_{(s)} \to K^0 p \bar{p}$ branching fractions**|LHCb collaboration et.al.|[2504.21269v2](http://arxiv.org/abs/2504.21269v2)|null|
 |**2025-04-27**|**Full analysis of CP violation induced by the decay angular correlations in four-body cascade decays of heavy hadrons**|Zhen-Hua Zhang et.al.|[2504.19228v1](http://arxiv.org/abs/2504.19228v1)|null|
 |**2025-04-23**|**Semileptonic decays of doubly charmed (bottom) baryons to single heavy baryons**|M. Shekari Tousi et.al.|[2504.17030v1](http://arxiv.org/abs/2504.17030v1)|null|
-|**2025-04-22**|**LHCspin: a Polarized Gas Target for LHC**|A. Accardi et.al.|[2504.16034v1](http://arxiv.org/abs/2504.16034v1)|null|
-|**2025-04-21**|**New horizon in particle physics: First observation of CP violation in baryon decays**|Fu-Sheng Yu et.al.|[2504.15008v1](http://arxiv.org/abs/2504.15008v1)|null|
