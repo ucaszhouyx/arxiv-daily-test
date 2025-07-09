@@ -1,5 +1,5 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2025-07-08 10:41:55 Asia/Shanghai
+ Automated deployment @ 2025-07-09 08:54:02 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
 
@@ -42,6 +42,7 @@
 ### rare decay
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-07-07**|**Replacing detector simulation with heterogeneous GNNs in flavour physics analyses**|Guillermo Hijano et.al.|[2507.05069v1](http://arxiv.org/abs/2507.05069v1)|null|
 |**2025-06-27**|**Updated measurement of $CP$ violation and polarisation in $B^0_s \rightarrow J/ψ\overline{K}{}^{*}\kern-1pt(892)^{0}$ decays**|LHCb collaboration et.al.|[2506.22090v1](http://arxiv.org/abs/2506.22090v1)|null|
 |**2025-06-27**|**The nature of the $P_c$ states from compositeness criteria**|Yu-Fei Wang et.al.|[2506.21858v2](http://arxiv.org/abs/2506.21858v2)|null|
 |**2025-06-26**|**Lessons from LHCb and Belle II measurements of $B\to J/ψπ$ and $B\to J/ψK$ decays**|Zoltan Ligeti et.al.|[2506.21675v1](http://arxiv.org/abs/2506.21675v1)|null|
@@ -71,7 +72,6 @@
 |**2025-04-30**|**Evidence for the existence of a flavor-sextet charmed meson?**|Feng-Kun Guo et.al.|[2504.21442v1](http://arxiv.org/abs/2504.21442v1)|null|
 |**2025-04-30**|**Observation of the decay $B^0_{s}\to K^0 p \bar{p}$ and measurement of the $B^0_{(s)} \to K^0 p \bar{p}$ branching fractions**|LHCb collaboration et.al.|[2504.21269v2](http://arxiv.org/abs/2504.21269v2)|null|
 |**2025-04-27**|**Full analysis of CP violation induced by the decay angular correlations in four-body cascade decays of heavy hadrons**|Zhen-Hua Zhang et.al.|[2504.19228v1](http://arxiv.org/abs/2504.19228v1)|null|
-|**2025-04-23**|**Semileptonic decays of doubly charmed (bottom) baryons to single heavy baryons**|M. Shekari Tousi et.al.|[2504.17030v1](http://arxiv.org/abs/2504.17030v1)|null|
 
 ### b baryon
 |Publish Date|Title|Authors|PDF|Code|
