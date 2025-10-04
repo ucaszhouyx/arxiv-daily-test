@@ -1,4 +1,4 @@
 # arxiv-weekly for hep-ex 
- Automated deployment @ 2025-10-04 08:43:15 Asia/Shanghai
+ Automated deployment @ 2025-10-04 10:06:10 Asia/Shanghai
 > (copied from arxiv-daily template) Weekly update on the Hep-exp arxiv paper 
 > You can also view historical data through the [storage](https://github.com/ucaszhouyx/arxiv-daily-test/tree/main/database/storage).
